@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJs/TypeScript安裝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJs/TypeScript安裝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJs/TypeScript安裝.md"
+                "file": "NodeJs/Untitled.md"
               }
             }
           },
@@ -157,8 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8139038a4e24a3d",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "NodeJs/TypeScript安裝.md",
+    "NodeJs/Untitled.md",
     "Python/Data analysis.md",
     "Python/ML.md",
     "PenTest/Subdomain Enumeration.md",
@@ -180,7 +180,6 @@
     "Database/What is ACID.md",
     "Hexo/Hexo + githubpage 架站.md",
     "Python/Python Web crawler.md",
-    "NodeJs/TypeScript安裝.md",
     "NodeJs/typescript-experss-starter.md",
     "NodeJs/TypeScript+express快速骨架產生器.md",
     "Hexo/hexo標籤，分類.md",
@@ -190,7 +189,6 @@
     "NodeJs/Nodejs底層原理.md",
     "NodeJs/Nodejs中的Event loop.md",
     "git/在遠端新增git分支.md",
-    "git/git stash檔案暫存.md",
     "Docker",
     "Hexo",
     "Database",
