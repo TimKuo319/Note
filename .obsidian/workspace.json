@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJs/async、 await使用.md",
+                "file": "Python/Data analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJs/async、 await使用.md",
+                "file": "Python/Data analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJs/async、 await使用.md",
+                "file": "Python/Data analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJs/async、 await使用.md"
+                "file": "Python/Data analysis.md"
               }
             }
           },
@@ -159,6 +159,14 @@
   },
   "active": "f8139038a4e24a3d",
   "lastOpenFiles": [
+    "Python/ML.md",
+    "PenTest/Subdomain Enumeration.md",
+    "PenTest/Walking An Application.md",
+    "PenTest/IDOR and File Inclusion.md",
+    "PenTest/Authencation Bypass.md",
+    "PenTest/Content Discovery.md",
+    "PenTest",
+    "NodeJs/async、 await使用.md",
     "NodeJs/Json Web Token(JWT).md",
     "Obsidian 連結使用方式.md",
     "Pasted image 20231111221905.png",
@@ -180,16 +188,10 @@
     "NodeJs/NodeJS版本管理.md",
     "NodeJs/Nodejs底層原理.md",
     "NodeJs/Nodejs中的Event loop.md",
-    "NodeJs/async、 await使用.md",
     "git/在遠端新增git分支.md",
     "git/git stash檔案暫存.md",
     "git/git cherry-pick.md",
-    "git/gitignore_setup.md",
-    "GCP/GCP防火牆設定.md",
-    "GCP/GCP設定SSH.md",
-    "Lunarvim/Lunarvim install.md",
     "Docker",
-    "git/git_checkout檔案修復.md",
     "Hexo",
     "Database",
     "GCP",
