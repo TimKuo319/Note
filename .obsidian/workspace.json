@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Data analysis.md",
+                "file": "NodeJs/TypeScript安裝.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Data analysis.md",
+                "file": "NodeJs/TypeScript安裝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Data analysis.md",
+                "file": "NodeJs/TypeScript安裝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Data analysis.md"
+                "file": "NodeJs/TypeScript安裝.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "f8139038a4e24a3d",
   "lastOpenFiles": [
+    "Python/Data analysis.md",
     "Python/ML.md",
     "PenTest/Subdomain Enumeration.md",
     "PenTest/Walking An Application.md",
@@ -190,7 +191,6 @@
     "NodeJs/Nodejs中的Event loop.md",
     "git/在遠端新增git分支.md",
     "git/git stash檔案暫存.md",
-    "git/git cherry-pick.md",
     "Docker",
     "Hexo",
     "Database",
