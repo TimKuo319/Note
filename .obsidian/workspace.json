@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05abd743910b5d2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Mysql  pool (Undone).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJs/TypeScript安裝.md",
+                "file": "Database/Mysql  pool (Undone).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJs/TypeScript安裝.md",
+                "file": "Database/Mysql  pool (Undone).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJs/TypeScript安裝.md"
+                "file": "Database/Mysql  pool (Undone).md"
               }
             }
           },
@@ -157,9 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "05abd743910b5d2d",
   "lastOpenFiles": [
     "NodeJs/TypeScript安裝.md",
+    "Database/Mysql  pool (Undone).md",
     "NodeJs/Untitled.md",
     "Python/Data analysis.md",
     "Python/ML.md",
@@ -190,7 +204,6 @@
     "NodeJs/NodeJS版本管理.md",
     "NodeJs/Nodejs底層原理.md",
     "NodeJs/Nodejs中的Event loop.md",
-    "git/在遠端新增git分支.md",
     "Docker",
     "Hexo",
     "Database",
