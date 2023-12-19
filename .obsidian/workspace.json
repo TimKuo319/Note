@@ -8,43 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8139038a4e24a3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NodeJs/TypeScript安裝.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05abd743910b5d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NodeJs/TypeScript安裝.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e355d4ae5bf3e84d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJs/Nest.js初學筆記.md",
+                "file": "OS/Chapter6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "2bcee538d03ff232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bfc8ed4d620e376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SWE/Chapter5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJs/Nest.js初學筆記.md",
+                "file": "SWE/Chapter5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJs/Nest.js初學筆記.md",
+                "file": "SWE/Chapter5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJs/Nest.js初學筆記.md"
+                "file": "SWE/Chapter5.md"
               }
             }
           },
@@ -165,7 +158,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,44 +176,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e355d4ae5bf3e84d",
+  "active": "1bfc8ed4d620e376",
   "lastOpenFiles": [
-    "NodeJs/TypeScript安裝.md",
+    "SWE/Chapter3.md",
+    "SWE/Chapter2.md",
+    "SWE/Chapter1.md",
+    "SWE/Chapter17.md",
+    "SWE/Chapter7.md",
+    "SWE/Chapter6.md",
+    "SWE/Chapter5.md",
+    "image/DSDM_lifecycle.png",
+    "git/git stash檔案暫存.md",
+    "OS/Chapter6.md",
+    "image/stashlist_snapshot.png",
+    "OS/Chapter2.md",
+    "OS/Chapter7.md",
+    "OS/Chapter5.md",
+    "OS/Chapter4.md",
+    "image/Pasted image 20231111221905.png",
+    "image/Pasted image 20231111221921.png",
+    "git/git檔案還原.md",
+    "git/gitignore_setup.md",
+    "Obsidian 連結使用方式.md",
+    "git/git cherry-pick.md",
+    "git/在遠端新增git分支.md",
+    "image/type_of_process.png",
+    "NodeJS/Nest.js初學筆記.md",
+    "NodeJS/TypeScript安裝.md",
     "Database/Mysql  pool (Undone).md",
     "Database/What is ACID.md",
     "Database/MongoDB安裝.md",
-    "NodeJs/Nest.js初學筆記.md",
     "Python/Data analysis.md",
     "Python/ML.md",
     "PenTest/Subdomain Enumeration.md",
-    "PenTest/Walking An Application.md",
-    "PenTest/IDOR and File Inclusion.md",
-    "PenTest/Authencation Bypass.md",
-    "PenTest/Content Discovery.md",
     "PenTest",
-    "NodeJs/async、 await使用.md",
-    "NodeJs/Json Web Token(JWT).md",
-    "Obsidian 連結使用方式.md",
-    "Pasted image 20231111221905.png",
-    "2023-11-30.md",
-    "Pasted image 20231111221948.png",
-    "Pasted image 20231111221921.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Hexo/Hexo + githubpage 架站.md",
-    "Python/Python Web crawler.md",
-    "NodeJs/typescript-experss-starter.md",
-    "NodeJs/TypeScript+express快速骨架產生器.md",
-    "Hexo/hexo標籤，分類.md",
-    "git/git檔案還原.md",
-    "NodeJs/app.set()與app.use().md",
-    "NodeJs/NodeJS版本管理.md",
-    "NodeJs/Nodejs底層原理.md",
     "Docker",
     "Hexo",
     "Database",
     "GCP",
-    "NodeJs",
+    "NodeJS",
     "Lunarvim",
     "git",
     "Python"

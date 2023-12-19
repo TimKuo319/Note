@@ -14,7 +14,8 @@ git stash list
 
 畫面如下。
 
-![[Pasted image 20231111221948.png]]
+![stashlist_snapshot](../image/stashlist_snapshot.png)
+
 
 當我們切回到先前開發的分支，要進行存檔的回復時，可以藉由查看stash list中的內容。並搭配`stash pop`來將存檔從list中取出，並回復至先前的狀態。
 
