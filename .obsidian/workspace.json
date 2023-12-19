@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Chapter6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2bcee538d03ff232",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1bfc8ed4d620e376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SWE/Chapter5.md",
+                "file": "SWE/Chapter17.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Chapter5.md",
+                "file": "SWE/Chapter17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Chapter5.md",
+                "file": "SWE/Chapter17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Chapter5.md"
+                "file": "SWE/Chapter17.md"
               }
             }
           },
@@ -176,18 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bfc8ed4d620e376",
+  "active": "e355d4ae5bf3e84d",
   "lastOpenFiles": [
+    "SWE/Chapter7.md",
+    "SWE/Chapter6.md",
+    "SWE/Chapter5.md",
+    "OS/Chapter6.md",
     "SWE/Chapter3.md",
     "SWE/Chapter2.md",
     "SWE/Chapter1.md",
     "SWE/Chapter17.md",
-    "SWE/Chapter7.md",
-    "SWE/Chapter6.md",
-    "SWE/Chapter5.md",
     "image/DSDM_lifecycle.png",
     "git/git stash檔案暫存.md",
-    "OS/Chapter6.md",
     "image/stashlist_snapshot.png",
     "OS/Chapter2.md",
     "OS/Chapter7.md",

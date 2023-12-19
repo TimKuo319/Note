@@ -61,7 +61,7 @@ alias : []
 		+ Fucntional model iteration (建立多種原型版本，並收集使用者反饋再做改進)
 		+ Design and build iteration ()
 		+ Implementation
-	![Pasted image 20230307164642.png](../image/20230307164642.png)
+	![DSDM_lifecycle](../image/DSDM_lifecycle.png)
 + `Scrum`
 	+ Development work is partitioned into `packets`
 	+ `Testing and documentation is ongoing` as product is constructed
