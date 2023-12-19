@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE/Chapter17.md",
+                "file": "Database/MongoDB安裝.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Chapter17.md",
+                "file": "Database/MongoDB安裝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Chapter17.md",
+                "file": "Database/MongoDB安裝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Chapter17.md"
+                "file": "Database/MongoDB安裝.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "e355d4ae5bf3e84d",
   "lastOpenFiles": [
+    "SWE/Chapter17.md",
     "SWE/Chapter7.md",
     "SWE/Chapter6.md",
     "SWE/Chapter5.md",
@@ -167,7 +168,6 @@
     "SWE/Chapter3.md",
     "SWE/Chapter2.md",
     "SWE/Chapter1.md",
-    "SWE/Chapter17.md",
     "image/DSDM_lifecycle.png",
     "git/git stash檔案暫存.md",
     "image/stashlist_snapshot.png",
