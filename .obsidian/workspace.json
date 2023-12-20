@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MongoDB安裝.md",
+                "file": "NodeJS/Nodejs底層原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MongoDB安裝.md",
+                "file": "NodeJS/Nodejs底層原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MongoDB安裝.md",
+                "file": "NodeJS/Nodejs底層原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MongoDB安裝.md"
+                "file": "NodeJS/Nodejs底層原理.md"
               }
             }
           },
@@ -160,6 +160,15 @@
   },
   "active": "e355d4ae5bf3e84d",
   "lastOpenFiles": [
+    "NodeJS/NodeJS版本管理.md",
+    "NodeJS/typescript-experss-starter.md",
+    "NodeJS/TypeScript安裝.md",
+    "NodeJS/Nodejs底層原理.md",
+    "NodeJS/Json Web Token(JWT).md",
+    "NodeJS/async、 await使用.md",
+    "NodeJS/app.set()與app.use().md",
+    "NodeJS/Nest.js初學筆記.md",
+    "Database/MongoDB安裝.md",
     "SWE/Chapter17.md",
     "SWE/Chapter7.md",
     "SWE/Chapter6.md",
@@ -181,16 +190,7 @@
     "git/gitignore_setup.md",
     "Obsidian 連結使用方式.md",
     "git/git cherry-pick.md",
-    "git/在遠端新增git分支.md",
     "image/type_of_process.png",
-    "NodeJS/Nest.js初學筆記.md",
-    "NodeJS/TypeScript安裝.md",
-    "Database/Mysql  pool (Undone).md",
-    "Database/What is ACID.md",
-    "Database/MongoDB安裝.md",
-    "Python/Data analysis.md",
-    "Python/ML.md",
-    "PenTest/Subdomain Enumeration.md",
     "PenTest",
     "Untitled.canvas",
     "Untitled 1.canvas",
