@@ -1,0 +1,3 @@
+
+建立collection schema
+以model作為
