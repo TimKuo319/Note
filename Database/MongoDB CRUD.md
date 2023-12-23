@@ -10,5 +10,8 @@ date: 2023-12-22 Fri 00:12
 
 
 undone
+
+資料庫設計
+collection關聯
 objectid
 "資料中的__v參數"
