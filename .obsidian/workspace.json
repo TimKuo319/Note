@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCP/GCP設定SSH.md",
+                "file": "Database/MongoDB CRUD.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GCP/GCP設定SSH.md",
+                "file": "Database/MongoDB CRUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GCP/GCP設定SSH.md",
+                "file": "Database/MongoDB CRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GCP/GCP設定SSH.md"
+                "file": "Database/MongoDB CRUD.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "e355d4ae5bf3e84d",
   "lastOpenFiles": [
+    "GCP/GCP設定SSH.md",
     "GCP/GCP防火牆設定.md",
     "git/git檔案還原.md",
     "Database/MongoDB CRUD.md",
@@ -187,7 +188,6 @@
     "image/stashlist_snapshot.png",
     "OS/Chapter2.md",
     "OS/Chapter7.md",
-    "OS/Chapter5.md",
     "image/Pasted image 20231111221905.png",
     "image/Pasted image 20231111221921.png",
     "image/type_of_process.png",
