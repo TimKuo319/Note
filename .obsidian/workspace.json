@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git head.md",
+                "file": "Database/MongoDB Conection and CRUD.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git head.md",
+                "file": "Database/MongoDB Conection and CRUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git head.md",
+                "file": "Database/MongoDB Conection and CRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git head.md"
+                "file": "Database/MongoDB Conection and CRUD.md"
               }
             }
           },
@@ -173,20 +173,19 @@
   },
   "active": "5b753ef981a1d9d7",
   "lastOpenFiles": [
+    "Database/MongoDB安裝.md",
+    "Database/MongoDB Conection and CRUD.md",
+    "git/git head.md",
     "git/gitignore_setup.md",
-    "git/git head.md",
     "2023-12-26.md",
-    "git/git head.md",
     "git/git檔案還原.md",
     "git/git stash檔案暫存.md",
     "git/git cherry-pick.md",
     "git/在遠端新增git分支.md",
-    "Database/MongoDB CRUD.md",
     "GCP/GCP設定SSH.md",
     "GCP/GCP防火牆設定.md",
     "Database/Mysql  pool (Undone).md",
     "Database/What is ACID.md",
-    "Database/MongoDB安裝.md",
     "NodeJS/Nodejs底層原理.md",
     "NodeJS/NodeJS版本管理.md",
     "NodeJS/typescript-experss-starter.md",
