@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b753ef981a1d9d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/git head.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/gitignore_setup.md",
+                "file": "git/git head.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/gitignore_setup.md",
+                "file": "git/git head.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/gitignore_setup.md"
+                "file": "git/git head.md"
               }
             }
           },
@@ -158,8 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e355d4ae5bf3e84d",
+  "active": "5b753ef981a1d9d7",
   "lastOpenFiles": [
+    "git/gitignore_setup.md",
+    "git/git head.md",
+    "2023-12-26.md",
+    "git/git head.md",
     "git/git檔案還原.md",
     "git/git stash檔案暫存.md",
     "git/git cherry-pick.md",
@@ -182,10 +199,6 @@
     "SWE/Chapter7.md",
     "SWE/Chapter6.md",
     "SWE/Chapter5.md",
-    "OS/Chapter6.md",
-    "SWE/Chapter3.md",
-    "SWE/Chapter2.md",
-    "SWE/Chapter1.md",
     "image/DSDM_lifecycle.png",
     "image/stashlist_snapshot.png",
     "image/Pasted image 20231111221905.png",
