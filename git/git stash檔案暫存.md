@@ -29,3 +29,8 @@ git stash pop <index>
 git stash apply <index>
 ```
 利用`apply`當然也可以完成回復狀態的效果，不過這樣的作法並不會將存檔從stash list中清除，若單單只用`apply`，長時間下來可能會造成stash list雜亂，而利用`pop`則可以在將存檔從stash list移除的同時，回復存檔的狀態。如何在兩個方式之間取捨就看使用者的方式。
+
+若是想要在暫存的工作階段中留下訊息確保未來查看stash list時可以快速找到想要的階段，可以使用以下格是
+```shell
+git stash save <your message>
+```

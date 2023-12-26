@@ -121,7 +121,7 @@ const data = new DataModel({
 
 再來利用save() function將資料存進資料庫中。
 ```js
-const newData = await data.save();
+await data.save();
 ```
 
 這邊程式碼看起來很簡短，跟利用mysql在新增資料的方式有點不一樣。主要是因為我們在建立schema的時候已經指定了collection名稱，而且現在調用mongoose時，也會去自動尋找當前連線的資料庫，所以只要用save()這個function就能夠完成資料的更動。
@@ -140,10 +140,17 @@ const result = dataModel.find({'key1: value1'});
 Update的方式是透過將現有的資料結果撈取出來，修改後再利用save()來更新結果
 ```js
 const result = await dataModel.findById('document id');
-result.key1 = ""
+result.key1 = "update value";
+
+await result.save()
 ```
 
-undone
+### Remove
+
+像是Read是利用find function，Remove也有對應的remove function。
+```js
+await dataModel.remove('filter condition')
+```
 
 資料庫設計
 collection關聯
