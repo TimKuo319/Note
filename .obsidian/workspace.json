@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MongoDB CRUD.md",
+                "file": "git/gitignore_setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MongoDB CRUD.md",
+                "file": "git/gitignore_setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MongoDB CRUD.md",
+                "file": "git/gitignore_setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MongoDB CRUD.md"
+                "file": "git/gitignore_setup.md"
               }
             }
           },
@@ -160,10 +160,13 @@
   },
   "active": "e355d4ae5bf3e84d",
   "lastOpenFiles": [
+    "git/git檔案還原.md",
+    "git/git stash檔案暫存.md",
+    "git/git cherry-pick.md",
+    "git/在遠端新增git分支.md",
+    "Database/MongoDB CRUD.md",
     "GCP/GCP設定SSH.md",
     "GCP/GCP防火牆設定.md",
-    "git/git檔案還原.md",
-    "Database/MongoDB CRUD.md",
     "Database/Mysql  pool (Undone).md",
     "Database/What is ACID.md",
     "Database/MongoDB安裝.md",
@@ -184,10 +187,7 @@
     "SWE/Chapter2.md",
     "SWE/Chapter1.md",
     "image/DSDM_lifecycle.png",
-    "git/git stash檔案暫存.md",
     "image/stashlist_snapshot.png",
-    "OS/Chapter2.md",
-    "OS/Chapter7.md",
     "image/Pasted image 20231111221905.png",
     "image/Pasted image 20231111221921.png",
     "image/type_of_process.png",
