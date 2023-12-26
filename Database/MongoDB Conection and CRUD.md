@@ -3,6 +3,8 @@ date: 2023-12-22 Fri 00:12
 ---
 ---
 
+## Connection setup
+
 利用js搭配nodejs作為伺服器端時，可以利用mongoose這個套件來建立與mongoDB的連線。
 
 ```js
@@ -41,8 +43,9 @@ connection.once('open', () => {
 
 ```
 
+連線成功後，接著就可以開始建立想要的資料格式
+## Create data Schema
 
-接著就可以開始建立想要的資料格式
 ```js
 const dataSchema = new mongoose.Schema({
 
@@ -93,11 +96,52 @@ const schema = new mongoose.Schema({
 })
 ```
 
-如此一來，生成的名字就會依照collection
+如此一來，生成的名字就會依照collection property指定的名字。
 
-在新增資料時就新增一個該類型的model
-利用save() function將資料存進資料庫中對應的collection名稱
+接著我們就可以利用model包含的函式來進行CRUD。
 
+## CRUD
+
+```js
+const DataModel = mongoose.model('data', dataSchema)
+```
+假設我們透過上述方式建立了一個datamodel
+
+### Create
+
+新建立一個dataModel，傳入要新增的資料。
+```js
+const data = new DataModel({
+	key1: value1,
+	key2: value2,
+	...
+	...
+})
+```
+
+再來利用save() function將資料存進資料庫中。
+```js
+const newData = await data.save();
+```
+
+這邊程式碼看起來很簡短，跟利用mysql在新增資料的方式有點不一樣。主要是因為我們在建立schema的時候已經指定了collection名稱，而且現在調用mongoose時，也會去自動尋找當前連線的資料庫，所以只要用save()這個function就能夠完成資料的更動。
+
+### Read
+
+Read的方式就更容易了，不用新建立model，利用find function就可以完成。
+```js
+const result = dataModel.find({'key1: value1'});
+```
+
+上述的例子中find裡面參數指的是要過濾的參數，可以透過指定特定的資料屬性來讓find指回傳特定資料，若是沒有傳遞參數則會回傳該collection的所有documents。
+
+### Update
+
+Update的方式是透過將現有的資料結果撈取出來，修改後再利用save()來更新結果
+```js
+const result = await dataModel.findById('document id');
+result.key1 = ""
+```
 
 undone
 
