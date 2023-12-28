@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f5765a2c7d82a8b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +159,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -171,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b753ef981a1d9d7",
+  "active": "4f5765a2c7d82a8b",
   "lastOpenFiles": [
     "Database/MongoDB Conection and CRUD.md",
     "Database/MongoDB安裝.md",
