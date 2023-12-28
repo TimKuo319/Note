@@ -35,9 +35,11 @@
             "id": "4f5765a2c7d82a8b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "NodeJS/NestJS/Nest.js初學筆記.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git stash檔案暫存.md",
+                "file": "NodeJS/NestJS/Nest.js初學筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git stash檔案暫存.md",
+                "file": "NodeJS/NestJS/Nest.js初學筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git stash檔案暫存.md"
+                "file": "NodeJS/NestJS/Nest.js初學筆記.md"
               }
             }
           },
@@ -183,8 +185,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f5765a2c7d82a8b",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "NodeJS/async、 await使用.md",
+    "NodeJS/TypeScript安裝.md",
+    "Untitled 1",
+    "NodeJS/NestJS",
+    "NodeJS/NodeJS版本管理.md",
+    "NodeJS/typescript-experss-starter.md",
+    "NodeJS/Nodejs底層原理.md",
+    "NodeJS/ExpressJS/app.set()與app.use().md",
+    "NodeJS/ExpressJS",
     "Database/MongoDB Conection and CRUD.md",
     "Database/MongoDB安裝.md",
     "git/git head.md",
@@ -198,14 +209,8 @@
     "GCP/GCP防火牆設定.md",
     "Database/Mysql  pool (Undone).md",
     "Database/What is ACID.md",
-    "NodeJS/Nodejs底層原理.md",
-    "NodeJS/NodeJS版本管理.md",
-    "NodeJS/typescript-experss-starter.md",
-    "NodeJS/TypeScript安裝.md",
     "NodeJS/Json Web Token(JWT).md",
-    "NodeJS/async、 await使用.md",
-    "NodeJS/app.set()與app.use().md",
-    "NodeJS/Nest.js初學筆記.md",
+    "NodeJS/NestJS/Nest.js初學筆記.md",
     "SWE/Chapter17.md",
     "SWE/Chapter7.md",
     "SWE/Chapter6.md",
@@ -223,8 +228,6 @@
     "Database",
     "GCP",
     "NodeJS",
-    "Lunarvim",
-    "git",
-    "Python"
+    "Lunarvim"
   ]
 }
