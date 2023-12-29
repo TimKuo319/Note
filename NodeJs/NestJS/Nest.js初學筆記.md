@@ -38,6 +38,7 @@ export class CatsController {
 ```ts
 import { Controller, Get } from '@nestjs/common';
 import { Request } from 'express';
+
 @Controller('cats')
 export class CatsController {
   @Get()
@@ -49,8 +50,9 @@ export class CatsController {
 
 ## Provider
 
-
-
+dependency injection
+scope
+inversion of control
 
 
 
@@ -65,4 +67,5 @@ Decorator使用
 Utility object
 
 app.module可以怎麼寫
-send data using built in library
+
+inversion of control 
