@@ -50,9 +50,15 @@ export class CatsController {
 
 ## Provider
 
+service、repositorys、factories，helpers等等這些都可以是ㄨ
+
 dependency injection
 scope
 inversion of control
+
+Injection
+	constructor(preferred)
+	property
 
 
 
