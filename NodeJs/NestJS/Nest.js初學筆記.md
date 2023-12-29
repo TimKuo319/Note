@@ -4,14 +4,13 @@ date: 2023-12-11 Mon 23:11
 ---
 
 ## Platfrom
+Nest本身提供了兩種HTTP platform做為基底，分別是`express`以及`fastify`，預設情況下會以`express`為主。
 
 ## Controller
 
+Controller在application中的用途主要是用來處理請求，Routing等等。Controller在官方文檔中篇幅滿長的，如果有學
 
-## Service
-
-
-## Two different options nest manipulating responses
+### Two different options nest manipulating responses
 
 ```typescript
 import { Controller, Get } from '@nestjs/common';
@@ -30,6 +29,9 @@ export class CatsController {
 
 
 ### Library-specific
+
+
+## Provider
 
 Query Param of uri
 
