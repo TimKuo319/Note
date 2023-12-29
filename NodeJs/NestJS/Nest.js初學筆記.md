@@ -61,12 +61,41 @@ service、repositorys、factories，helpers等等這些都可以視為provider�
 ### Ways to do injection
 
 #### Constructor-based injection
-```
+```typescript
+import { Controller, Get, Post, Body } from '@nestjs/common';
+import { CreateCatDto } from './dto/create-cat.dto';
+import { CatsService } from './cats.service';
+import { Cat } from './interfaces/cat.interface';
 
+@Controller('cats')
+export class CatsController {
+  constructor(private catsService: CatsService) {}
+
+  @Post()
+  async create(@Body() createCatDto: CreateCatDto) {
+    this.catsService.create(createCatDto);
+  }
+
+  @Get()
+  async findAll(): Promise<Cat[]> {
+    return this.catsService.findAll();
+  }
+}
 ```
+從上述程式碼中可以看到建構子中的`private catsService: CatsService`，這個部分就是在做`Dependency Injection`，也因為是透過constructor來進行injection所以被稱作`constructor-based injection`
 
 #### Property-based injection
+```typescript
+import { Injectable, Inject } from '@nestjs/common';
 
+@Injectable()
+export class HttpService<T> {
+  @Inject('HTTP_OPTIONS')
+  private readonly httpClient: T;
+}
+```
+
+關於`Property-based injection`，官方文檔內容提到的使用時機是當上層class也依賴於一個或多個其他provider的時候，如果藉由super()的方式一路進行呼叫則會非常繁瑣，在Nest中就可以使用`Inject()`decorator來這麼ㄗㄨㄛ
 
 Query Param of uri
 
