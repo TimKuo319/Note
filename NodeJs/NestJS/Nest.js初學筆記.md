@@ -95,7 +95,9 @@ export class HttpService<T> {
 }
 ```
 
-關於`Property-based injection`，官方文檔內容提到的使用時機是當上層class也依賴於一個或多個其他provider的時候，如果藉由super()的方式一路進行呼叫則會非常繁瑣，在Nest中就可以使用`Inject()`decorator來這麼ㄗㄨㄛ
+關於`Property-based injection`，官方文檔內容提到的使用時機是當上層class也依賴於一個或多個其他provider的時候，如果藉由super()的方式一路進行呼叫則會非常繁瑣，在Nest中就可以使用`Inject()`decorator來解決這個問題。但目前因為還沒有實際利用到這種方式，可能等待日後遇上時才會比較了解。
+
+以上兩種方式都是可行的，但官方建議在沒有特殊情況的狀況下都使用`constructor-based injection`的方式來進行。
 
 Query Param of uri
 
