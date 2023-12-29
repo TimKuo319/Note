@@ -34,7 +34,7 @@ export class CatsController {
 以下是官方文件:
 >We can use the library-specific (e.g., Express) [response object](https://expressjs.com/en/api.html#res), which can be injected using the `@Res()` decorator in the method handler signature (e.g., `findAll(@Res() response)`). With this approach, you have the ability to use the native response handling methods exposed by that object. For example, with Express, you can construct responses using code like `response.status(200).send()`.
 
-`Library-specific`的做法就會比較自由一點，可以在response時做更多自定義的處理。而在Nest中觸發`Library-specific`的方式就是直接去呼叫native處理請求的物件。像是以下程式碼，透過@Req decorator來引用express的request object
+`Library-specific`的做法就會比較自由一點，可以在response時做更多自定義的處理。而在Nest中觸發`Library-specific`的方式就是直接去呼叫native處理請求的物件。像是以下程式碼，透過`@Req decorator`來引用express的request object
 ```ts
 import { Controller, Get } from '@nestjs/common';
 import { Request } from 'express';
@@ -58,14 +58,14 @@ service、repositorys、factories，helpers等等這些都可以視為provider�
 2. [Angular - Understanding dependency injection](https://angular.io/guide/dependency-injection)
 
 
+### Ways to do injection
 
-scope
-inversion of control
+#### Constructor-based injection
+```
 
-Injection
-	constructor(preferred)
-	property
+```
 
+#### Property-based injection
 
 
 Query Param of uri

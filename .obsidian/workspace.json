@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12a07277d4b97ba3",
+        "id": "8bb34269f6aea6e3",
         "type": "tabs",
         "children": [
           {
-            "id": "e355d4ae5bf3e84d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/gitignore_setup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b753ef981a1d9d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/git stash檔案暫存.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f5765a2c7d82a8b",
+            "id": "d7d8cd740b77f244",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f5765a2c7d82a8b",
+  "active": "d7d8cd740b77f244",
   "lastOpenFiles": [
-    "NodeJS/TypeScript安裝.md",
+    "git/gitignore_setup.md",
+    "git/git stash檔案暫存.md",
+    "2023-12-29.md",
+    "Untitled.canvas",
     "NodeJS/NestJS/Nest.js初學筆記.md",
+    "NodeJS/TypeScript安裝.md",
     "NodeJS/async、 await使用.md",
     "Untitled 1",
     "NodeJS/NestJS",
@@ -200,10 +179,8 @@
     "Database/MongoDB Conection and CRUD.md",
     "Database/MongoDB安裝.md",
     "git/git head.md",
-    "git/gitignore_setup.md",
     "2023-12-26.md",
     "git/git檔案還原.md",
-    "git/git stash檔案暫存.md",
     "git/git cherry-pick.md",
     "git/在遠端新增git分支.md",
     "GCP/GCP設定SSH.md",
@@ -214,14 +191,12 @@
     "SWE/Chapter17.md",
     "SWE/Chapter7.md",
     "SWE/Chapter6.md",
-    "SWE/Chapter5.md",
     "image/DSDM_lifecycle.png",
     "image/stashlist_snapshot.png",
     "image/Pasted image 20231111221905.png",
     "image/Pasted image 20231111221921.png",
     "image/type_of_process.png",
     "PenTest",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Docker",
     "Hexo",
