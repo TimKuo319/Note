@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/NestJS/NestJS初學筆記.md",
+                "file": "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/NestJS/NestJS初學筆記.md",
+                "file": "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/NestJS/NestJS初學筆記.md",
+                "file": "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/NestJS/NestJS初學筆記.md"
+                "file": "NodeJS/NestJS/NestJS Controller、Provider、Module.md"
               }
             }
           },
@@ -166,7 +166,7 @@
     "git/git stash檔案暫存.md",
     "2023-12-29.md",
     "Untitled.canvas",
-    "NodeJS/NestJS/NestJS初學筆記.md",
+    "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
     "NodeJS/TypeScript安裝.md",
     "NodeJS/async、 await使用.md",
     "Untitled 1",

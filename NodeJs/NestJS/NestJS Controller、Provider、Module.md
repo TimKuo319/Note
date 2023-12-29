@@ -112,7 +112,7 @@ export class HttpService<T> {
 	+ 用來導出provider，也因此這個部分的provider會是這個module provider的subset，目的就是為了讓其他模組能夠使用這個模組的provider
 
 
-# Module re-exporting
+### Module re-exporting
 ```typescript
 @Module({
   imports: [CommonModule],
@@ -121,22 +121,8 @@ export class HttpService<T> {
 export class CoreModule {}
 ```
 
-當一個模組引入外部模組時，可以再將這個外部模組給導出，以上面的例子來說，當有其他人要import CoreModule的時候，
+當一個模組引入外部模組時，可以再將這個外部模組給導出，以上面的例子來說，當有其他人要import CoreModule的時候，他們也能夠使用到CommonModule的內容。
+### Dynamic module
 
+在overview中提到較少，未來有實際使用到或再更深入了解時再做筆記。
 
-dynamic module
-
-
-Query Param of uri
-
-DTO(Data transfer object)(Recommend declare using class instead of type, why)
-	class-validator
-	class-transformer
-
-
-Decorator使用
-Utility object
-
-app.module可以怎麼寫
-
-inversion of control 
