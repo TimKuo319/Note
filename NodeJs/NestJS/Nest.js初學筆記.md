@@ -99,6 +99,15 @@ export class HttpService<T> {
 
 以上兩種方式都是可行的，但官方建議在沒有特殊情況的狀況下都使用`constructor-based injection`的方式來進行。
 
+## Modules
+
+### Providers
+### Controllers
+### Imports
+### Exports
+
+re-exports
+
 Query Param of uri
 
 DTO(Data transfer object)(Recommend declare using class instead of type, why)
