@@ -101,15 +101,29 @@ export class HttpService<T> {
 
 ## Modules
 
-像是前面提到的`Provider`、`Controller`等等，在Nest中都有透過decorator來標示，而`Module`當然也不例外，他也一樣有`@Module`decoratr，這個
+像是前面提到的`Provider`、`Controller`等等，在Nest中都有透過decorator來標示，而`Module`當然也不例外，他也一樣有`@Module`decorator，而這個decorator通常會包含以下屬性:
++ Providers
+	+ 前面提到的，基本上會是跟這個module有相關的service , helper ,factory等等
++ Controllers
+	+ 前面提到過的，Controller是用來處理請求、回應、路由等等，而這部分就是放與module有相關的controller
++ Imports
+	+ 用來引入其他模組，通常是為了利用那些模組中的provider
++ Exports
+	+ 用來導出provider，也因此這個部分的provider會是這個module provider的subset，目的就是為了讓其他模組能夠使用這個模組的provider
 
-Providers
-Controllers
-Imports
-Exports
+
+# Module re-exporting
+```typescript
+@Module({
+  imports: [CommonModule],
+  exports: [CommonModule],
+})
+export class CoreModule {}
+```
+
+當一個模組引入外部模組時，可以再將這個外部模組給導出，以上面的例子來說，當有其他人要import CoreModule的時候，
 
 
-re-exports
 dynamic module
 
 
