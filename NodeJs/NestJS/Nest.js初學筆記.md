@@ -53,6 +53,10 @@ export class CatsController {
 service、repositorys、factories，helpers等等這些都可以視為provider，可以想像成是許多不同類型的服務用來供controller使用，將這些各自切開以提升程式碼的獨立性、簡潔性。而這其中有很重要的一點，*Provider可以作為dependency被注入!*
 
 ### Dependency Injection(DI)
+參考 :
+1. [淺入淺出 Dependency Injection. DI 有什麼好？如何實作 DI？DI 到底是什麼？ | by Wenchin | Wenchin Rolls Around | Medium](https://medium.com/wenchin-rolls-around/%E6%B7%BA%E5%85%A5%E6%B7%BA%E5%87%BA-dependency-injection-ea672ba033ca)
+2. [Angular - Understanding dependency injection](https://angular.io/guide/dependency-injection)
+
 
 
 scope
