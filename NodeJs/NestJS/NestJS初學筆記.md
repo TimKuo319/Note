@@ -101,12 +101,17 @@ export class HttpService<T> {
 
 ## Modules
 
-### Providers
-### Controllers
-### Imports
-### Exports
+像是前面提到的`Provider`、`Controller`等等，在Nest中都有透過decorator來標示，而`Module`當然也不例外，他也一樣有`@Module`decoratr，這個
+
+Providers
+Controllers
+Imports
+Exports
+
 
 re-exports
+dynamic module
+
 
 Query Param of uri
 
