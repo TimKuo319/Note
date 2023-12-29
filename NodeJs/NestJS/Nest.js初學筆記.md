@@ -50,9 +50,11 @@ export class CatsController {
 
 ## Provider
 
-service、repositorys、factories，helpers等等這些都可以是ㄨ
+service、repositorys、factories，helpers等等這些都可以視為provider，可以想像成是許多不同類型的服務用來供controller使用，將這些各自切開以提升程式碼的獨立性、簡潔性。而這其中有很重要的一點，*Provider可以作為dependency被注入!*
 
-dependency injection
+### Dependency Injection(DI)
+
+
 scope
 inversion of control
 
