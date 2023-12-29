@@ -33,9 +33,11 @@ export class CatsController {
 
 Query Param of uri
 
-DTO
+DTO(Data transfer object)(Recommend declare using class instead of type, why)
 	class-validator
 	class-transformer
+
+
 Decorator使用
 Utility object
 
