@@ -8,6 +8,13 @@ update: 2023-12-30 Sat  14:04
 
 1. 安裝Nodejs(version >= 16)
 2. 安裝Nest
+```shell
+npm install @nest/cli
+```
+3. 建立專案
+```shell
+nest new project-name
+```
 
 ## Platfrom
 Nest本身提供了兩種HTTP platform做為基底，分別是`express`以及`fastify`，預設情況下會以`express`為主。
