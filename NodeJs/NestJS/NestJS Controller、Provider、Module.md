@@ -1,5 +1,6 @@
 ---
 date: 2023-12-11 Mon 23:11
+update: 2023-12-30 Sat  14:04
 ---
 ---
 
@@ -124,5 +125,5 @@ export class CoreModule {}
 當一個模組引入外部模組時，可以再將這個外部模組給導出，以上面的例子來說，當有其他人要import CoreModule的時候，他們也能夠使用到CommonModule的內容。
 ### Dynamic module
 
-在overview中提到較少，未來有實際使用到或再更深入了解時再做筆記。
+在官方文檔overview中提到較少，未來有實際使用到或再更深入了解時再做筆記。
 

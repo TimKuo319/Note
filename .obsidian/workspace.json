@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17d08afd006c2010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NodeJS/NestJS/NestJS Middleware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
+                "file": "NodeJS/NestJS/NestJS Middleware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
+                "file": "NodeJS/NestJS/NestJS Middleware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Controller、Provider、Module.md"
+                "file": "NodeJS/NestJS/NestJS Middleware.md"
               }
             }
           },
@@ -160,13 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7d8cd740b77f244",
+  "active": "17d08afd006c2010",
   "lastOpenFiles": [
+    "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
+    "NodeJS/NestJS/NestJS Middleware.md",
     "git/gitignore_setup.md",
     "git/git stash檔案暫存.md",
     "2023-12-29.md",
     "Untitled.canvas",
-    "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
     "NodeJS/TypeScript安裝.md",
     "NodeJS/async、 await使用.md",
     "Untitled 1",
