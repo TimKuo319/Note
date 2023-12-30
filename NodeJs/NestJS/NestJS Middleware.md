@@ -60,6 +60,15 @@ consumer
 
 ## Global middleware
 
+要在整個application中使用middleware的話，可以利用像express的`app.use()`方式來應用middleware到全域中。
+
+```typescript
+const app = await NestFactory.create(AppModule);
+app.use(logger);
+await app.listen(3000);
+```
+
+像上述的用法，對於global middleware來說，他是沒有法取得DI Container。因此也可以像前面一樣在`AppModule`下去利用`forRoutes('*')`來應用到所有route。
 
 
 其他更詳細的用法可以參考官方文檔
