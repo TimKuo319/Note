@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Middleware.md",
+                "file": "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Middleware.md",
+                "file": "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Middleware.md",
+                "file": "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Middleware.md"
+                "file": "NodeJS/NestJS/NestJS Controller、Provider、Module.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "17d08afd006c2010",
   "lastOpenFiles": [
-    "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
     "NodeJS/NestJS/NestJS Middleware.md",
+    "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
     "git/gitignore_setup.md",
     "git/git stash檔案暫存.md",
     "2023-12-29.md",

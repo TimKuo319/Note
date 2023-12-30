@@ -16,4 +16,7 @@ date: 2023-12-30 Sat 14:04
 
 >There is no place for middleware in the `@Module()` decorator. Instead, we set them up using the `configure()` method of the module class. Modules that include middleware have to implement the `NestModule` interface. Let's set up the `LoggerMiddleware` at the `AppModule` level.
 
-從這段話裡面就可以發現，在`@Module()`裝飾器中並不像前面的controller、provider一樣，有提供註冊的方式。要將middleware應用到module中的話，需要讓module class去implement `NestModule`這個interface，並透過`configure`來
+從這段話裡面就可以發現，在`@Module()`裝飾器中並不像前面的controller、provider一樣，有提供註冊的方式。要將middleware應用到module中的話，需要讓module class去implement `NestModule`這個interface，並透過`configure`來將middleware給應用在module中。
+
+所以為什麼只能引用同模組的provider?
+>因為middleware如果是在module中應用，他所能應用到的controller或provider範圍僅限於在`@Module()`裝飾器中有註冊的，也因此範圍就是在同一個模組內。當然如果這個middleware的應用範圍是整個application的話，就能夠去引入任意的provider做DI了。

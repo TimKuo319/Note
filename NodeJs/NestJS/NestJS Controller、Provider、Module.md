@@ -4,6 +4,11 @@ update: 2023-12-30 Sat  14:04
 ---
 ---
 
+## Installation
+
+1. 安裝Nodejs(version >= 16)
+2. 安裝Nest
+
 ## Platfrom
 Nest本身提供了兩種HTTP platform做為基底，分別是`express`以及`fastify`，預設情況下會以`express`為主。
 
