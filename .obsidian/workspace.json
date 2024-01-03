@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/SOLID principle.md",
+                "file": "NodeJS/NestJS/NestJS Middleware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/SOLID principle.md",
+                "file": "NodeJS/NestJS/NestJS Middleware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/SOLID principle.md"
+                "file": "NodeJS/NestJS/NestJS Middleware.md"
               }
             }
           },
