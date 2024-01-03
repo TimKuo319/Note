@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c76d87c01b12776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NodeJS/NestJS/NestJS Exception filters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -100,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Middleware.md",
+                "file": "NodeJS/NestJS/NestJS Exception filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Middleware.md",
+                "file": "NodeJS/NestJS/NestJS Exception filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Middleware.md"
+                "file": "NodeJS/NestJS/NestJS Exception filters.md"
               }
             }
           },
@@ -174,16 +185,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "7c76d87c01b12776",
   "lastOpenFiles": [
     "NodeJS/NestJS/NestJS Middleware.md",
+    "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
+    "NodeJS/NestJS/NestJS Exception filters.md",
     "SWE/SOLID principle.md",
     "SWE/軟體工程課",
     "2023-12-29.md",
     "Untitled.canvas",
     "GCP/GCP設定SSH.md",
     "GCP/GCP防火牆設定.md",
-    "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
     "git/gitignore_setup.md",
     "git/git stash檔案暫存.md",
     "NodeJS/TypeScript安裝.md",
@@ -206,7 +218,6 @@
     "Database/What is ACID.md",
     "NodeJS/Json Web Token(JWT).md",
     "SWE/軟體工程課/Chapter17.md",
-    "SWE/軟體工程課/Chapter7.md",
     "image/DSDM_lifecycle.png",
     "image/stashlist_snapshot.png",
     "image/Pasted image 20231111221905.png",
