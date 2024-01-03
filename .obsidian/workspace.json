@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64015d08d22d3a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SWE/SOLID principle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Middleware.md",
+                "file": "SWE/SOLID principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Middleware.md",
+                "file": "SWE/SOLID principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Middleware.md"
+                "file": "SWE/SOLID principle.md"
               }
             }
           },
@@ -160,16 +174,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7d8cd740b77f244",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "NodeJS/NestJS/NestJS Middleware.md",
+    "SWE/SOLID principle.md",
+    "SWE/軟體工程課",
+    "2023-12-29.md",
+    "Untitled.canvas",
     "GCP/GCP設定SSH.md",
     "GCP/GCP防火牆設定.md",
-    "NodeJS/NestJS/NestJS Middleware.md",
     "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
     "git/gitignore_setup.md",
     "git/git stash檔案暫存.md",
-    "2023-12-29.md",
-    "Untitled.canvas",
     "NodeJS/TypeScript安裝.md",
     "NodeJS/async、 await使用.md",
     "Untitled 1",
@@ -189,9 +205,8 @@
     "Database/Mysql  pool (Undone).md",
     "Database/What is ACID.md",
     "NodeJS/Json Web Token(JWT).md",
-    "SWE/Chapter17.md",
-    "SWE/Chapter7.md",
-    "SWE/Chapter6.md",
+    "SWE/軟體工程課/Chapter17.md",
+    "SWE/軟體工程課/Chapter7.md",
     "image/DSDM_lifecycle.png",
     "image/stashlist_snapshot.png",
     "image/Pasted image 20231111221905.png",
@@ -203,7 +218,6 @@
     "Hexo",
     "Database",
     "GCP",
-    "NodeJS",
-    "Lunarvim"
+    "NodeJS"
   ]
 }

@@ -13,7 +13,7 @@ alias : []
 
 其中包含四種元素
 + Scenario-based models
-	+ [[SWE/Chapter5|Chapter5]] 中提到的 `Interception` and `Elicitation` 
+	+ [[SWE/軟體工程課/Chapter5|Chapter5]] 中提到的 `Interception` and `Elicitation` 
 	+ Requirements gathering meetings
 	+ QFD
 	+ Requirement engineering mechanisms

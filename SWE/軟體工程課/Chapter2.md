@@ -9,7 +9,7 @@ alias : []
 + Iterative flow
 + Evolutionary flow
 + Parallel flow
-![type_of_process.png](../image/type_of_process.png)
+![type_of_process.png](type_of_process.png)
 ### Waterfall model 
 ### The V model
 
