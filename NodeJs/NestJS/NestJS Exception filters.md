@@ -31,7 +31,51 @@ async findAll(){
 
 ### Custom exceptions
 
+在Nest中，我們可能會有需要自己建立客製化的exception來處理，這時候可以透過繼承`HttpException`來讓前面提到的`global exception filter`去接收我們客製的exception，讓Nest來幫我們處理response的部分。
+
+```typescript
+export class ForbiddenException extends HttpException {
+  constructor() {
+    super('Forbidden', HttpStatus.FORBIDDEN);
+  }
+}
+```
+
+### Built-in HTTP exceptions
+
+Nest中還有許多繼承`HttpException`的子類別，可以從官方文檔中看到。而這些exception也都可以藉由`options`這個parameter提供`error cause`以及`error description`。程式碼如下
+
+```typescript
+throw new BadRequestException('Something bad happened', { cause: new Error(), description: 'Some error description' })
+```
 ### Exception filters
+
+前面提到，`global exception filter`會去處理`HttpException`以及他的子類別。像前面的exception一樣，exception filter當然也可以自己客製。官方範例如下
+
+```typescript
+import { ExceptionFilter, Catch, ArgumentsHost, HttpException } from '@nestjs/common';
+import { Request, Response } from 'express';
+
+@Catch(HttpException)
+export class HttpExceptionFilter implements ExceptionFilter {
+  catch(exception: HttpException, host: ArgumentsHost) {
+    const ctx = host.switchToHttp();
+    const response = ctx.getResponse<Response>();
+    const request = ctx.getRequest<Request>();
+    const status = exception.getStatus();
+
+    response
+      .status(status)
+      .json({
+        statusCode: status,
+        timestamp: new Date().toISOString(),
+        path: request.url,
+      });
+  }
+}
+```
+
+`@Catch()`decorator內填入要catch的exception類型。而所有的exception filter都需要implement `ExceptionFilter`這個interface
 
 ### Binding filters
 
