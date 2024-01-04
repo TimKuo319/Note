@@ -113,7 +113,40 @@ bootstrap();
 
 利用`app.userGlobalFilters`來全域使用filter。
 
-而這裡也跟mi一樣，因為是在module外去使用這個filter
+而這裡也跟一樣middleware一樣，因為是在module外去使用這個filter，所以這個方式是沒辦法讓其他module透過DI的方式注入filter。如果想要讓這個filter可以透過DI的方式注入的話，需要使用另外一種方式。
+```typescript
+import { Module } from '@nestjs/common';
+import { APP_FILTER } from '@nestjs/core';
+
+@Module({
+  providers: [
+    {
+      provide: APP_FILTER,
+      useClass: HttpExceptionFilter,
+    },
+  ],
+})
+export class AppModule {}
+
+```
+
+透過在`app module`中以`provider`的形式讓Nest自己去初始化這個filter，讓他融入到app中。
+
+### Inheritance
+
+有時候我們只是想要繼承`global exception filter`並加上一些功能來符合我們的需求。這時候可以讓我們定義的filter去繼承`BaseExceptionFilter`這個class，並且呼叫繼承下來的catch method，官方程式碼如下。
+
+```typescript
+import { Catch, ArgumentsHost } from '@nestjs/common';
+import { BaseExceptionFilter } from '@nestjs/core';
+
+@Catch()
+export class AllExceptionsFilter extends BaseExceptionFilter {
+  catch(exception: unknown, host: ArgumentsHost) {
+    super.catch(exception, host);
+  }
+}
+```
 ## Reference
 
 [Exception filters | NestJS - A progressive Node.js framework](https://docs.nestjs.com/exception-filters)
