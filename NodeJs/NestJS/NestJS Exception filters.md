@@ -33,6 +33,11 @@ async findAll(){
 
 ### Exception filters
 
+### Binding filters
+
+>Prefer applying filters by using classes instead of instances when possible. It reduces **memory usage** since Nest can easily reuse instances of the same class across your entire module.
+
+scope
 ## Reference
 
 [Exception filters | NestJS - A progressive Node.js framework](https://docs.nestjs.com/exception-filters)
