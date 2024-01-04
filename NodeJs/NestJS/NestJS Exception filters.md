@@ -29,7 +29,9 @@ async findAll(){
 
 詳細的參數說明可以參考官方文檔
 
+### Custom exceptions
 
+### Exception filters
 
 ## Reference
 
