@@ -75,13 +75,45 @@ export class HttpExceptionFilter implements ExceptionFilter {
 }
 ```
 
-`@Catch()`decorator內填入要catch的exception類型。而所有的exception filter都需要implement `ExceptionFilter`這個interface
+`@Catch()`decorator內填入exception的類型，他告知Nest這個filter想要catch的exception。而所有的exception filter都需要implement `ExceptionFilter`這個interface，若是有多個exception要catch的話就以`comma-seperated list`的形式傳進decorator中。
 
 ### Binding filters
 
+要套用exception filter的方式也很簡單，可以在我們寫好的http method前面透過`@UseFilters`來達成。
+
+```typescript
+@Post()
+@UseFilters(new HttpExceptionFilter())
+async create(@Body() createCatDto: CreateCatDto) {
+  throw new ForbiddenException();
+}
+```
+
 >Prefer applying filters by using classes instead of instances when possible. It reduces **memory usage** since Nest can easily reuse instances of the same class across your entire module.
 
-scope
+上述的做法利用在`@UseFilters` 中直接new一個`HttpExceptionFilter`的instance，但官方建議直接傳入class就好。原因是因為，直接傳入class的話，在Nest下會透過DI的方式注入這個filter，如此一來，整個application在其他地方注入`HttpExceptionFilter`的時候，就能會使用同一個instance，可以減少記憶體上的使用。
+
+上面程式碼做法的filter只限於該method的範圍，是method-scope的。要應用到controller scope可以像以下這樣
+```typescript
+@UseFilters(new HttpExceptionFilter())
+export class CatsController {}
+```
+其實就是在controller前加上`@UseFilters`
+
+至於global scope的應用跟前面middleware的方式有點像。
+
+```typescript
+async function bootstrap() {
+  const app = await NestFactory.create(AppModule);
+  app.useGlobalFilters(new HttpExceptionFilter());
+  await app.listen(3000);
+}
+bootstrap();
+```
+
+利用`app.userGlobalFilters`來全域使用filter。
+
+而這裡也跟mi一樣，因為是在module外去使用這個filter
 ## Reference
 
 [Exception filters | NestJS - A progressive Node.js framework](https://docs.nestjs.com/exception-filters)
