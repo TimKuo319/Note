@@ -67,8 +67,11 @@ export class ValidationPipe implements PipeTransform {
 
 + value 
 	+ 被傳入pipe的值
-+ metadata
-	+ type
+
++ metadata的型態為`ArgumentMetadata`，其中又包含三個屬性。
+	+ type         -> 表示是`@Body()`、`@Query()`、`@Param()`或custom的parameter
+	+ metatype -> 提供argument的metatype, ex `String`, 如果沒有定義的話就會被視為`undefined`
+	+ data         -> string pased to the decorator, ex `@Body('test')`，data就會是test字串。
 
 ### Schema based validation
 
