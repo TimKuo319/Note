@@ -33,4 +33,11 @@ metadata
 	 metatype
 		data
 
-### Schema based 
+### Schema based validation
+
+### Object schema validation
+
+### Binding validation pipes
+
+### Class validator
+

@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8bb34269f6aea6e3",
+        "id": "7a09767948c3b050",
         "type": "tabs",
         "children": [
           {
-            "id": "d7d8cd740b77f244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NodeJS/NestJS/NestJS Middleware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64015d08d22d3a80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NodeJS/NestJS/NestJS Exception filters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89526a8ac2f47619",
+            "id": "9fe73f38b3a15e16",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7c76d87c01b12776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NodeJS/NestJS/NestJS Middleware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,11 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89526a8ac2f47619",
+  "active": "9fe73f38b3a15e16",
   "lastOpenFiles": [
+    "NodeJS/NestJS/NestJS Middleware.md",
     "NodeJS/NestJS/NestJS Exception filters.md",
     "NodeJS/NestJS/NestJS Pipes.md",
-    "NodeJS/NestJS/NestJS Middleware.md",
     "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
     "Obsidian 連結使用方式.md",
     "SWE/SOLID principle.md",
