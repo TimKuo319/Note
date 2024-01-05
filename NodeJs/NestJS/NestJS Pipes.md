@@ -72,12 +72,50 @@ export class ValidationPipe implements PipeTransform {
 	+ type         -> 表示是`@Body()`、`@Query()`、`@Param()`或custom的parameter
 	+ metatype -> 提供argument的metatype, ex `String`, 如果沒有定義的話就會被視為`undefined`
 	+ data         -> string pased to the decorator, ex `@Body('test')`，data就會是test字串。
-
-### Schema based validation
-
 ### Object schema validation
 
-### Binding validation pipes
+可以利用`Zod` library來進行schema驗證。另外一種驗證schema的方式則是利用後面會提到的class validator。Binding zod pipe的方式如以下程式碼
 
+```typescript
+@Post()
+@UsePipes(new ZodValidationPipe(createCatSchema))
+async create(@Body() createCatDto: CreateCatDto) {
+  this.catsService.create(createCatDto);
+}
+```
+
+藉由傳入透過`zod`創建的schema到`ZodValidationPipe`，再加上`@UsePipes`來讓`create()`能夠使用到這個Pipe
 ### Class validator
 
+在利用這個方式之前，要先安裝`class-validator`以及`class-transformer`。
+```sh
+npm i --save class-validator class-transformer
+```
+
+這個做法的好處在於，我們可以在原先定義的object上透過加上一些decorator就能達成驗證的效果，而不需要再額外創造另外一個validation class來負責驗證。
+
+```typescript
+import { IsString, IsInt } from 'class-validator';
+
+export class CreateCatDto {
+  @IsString()
+  name: string;
+
+  @IsInt()
+  age: number;
+
+  @IsString()
+  breed: string;
+}
+```
+
+接著就是binding ValidationPipe()，來讓他幫我們檢查內容是否有誤。
+
+```typescript
+@Post()
+async create(
+  @Body(new ValidationPipe()) createCatDto: CreateCatDto,
+) {
+  this.catsService.create(createCatDto);
+}
+```
