@@ -184,3 +184,10 @@ async findAll(
   return this.catsService.findAll({ activeOnly, page });
 }
 ```
+
+## Summary
+
+1. pipe的主要功能是在做transform跟validation
+2. 要自己建立pipe的話需要去實作`PipeTransform`interface
+3. object的validation可以透過`class-validator`及`class-transformation`來達成
+4. 在沒有特別需求的狀況下，傳入decorator的pipe傳入class就好，留給Nest去初始化以及DI，如果是有其他需要進行調整或針對特定method使用的pipe再以instance的方式傳入。
