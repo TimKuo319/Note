@@ -20,3 +20,15 @@ validation
 
 ### Binding pipes
 
+class
+instance with parameter
+ParseUUIDPipe version
+
+### Custom pipes
+
+transfrom method
+value 
+metadata
+	type
+	 metatype
+		data
