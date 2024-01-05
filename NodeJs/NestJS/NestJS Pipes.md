@@ -119,3 +119,68 @@ async create(
   this.catsService.create(createCatDto);
 }
 ```
+
+### Global scoped pipes
+
+要將pipes應用到全域的話，可以使用`userGlobalPipes`。
+```typescript
+async function bootstrap() {
+  const app = await NestFactory.create(AppModule);
+  app.useGlobalPipes(new ValidationPipe());
+  await app.listen(3000);
+}
+bootstrap();
+```
+
+或註冊到模組下
+```typescript
+import { Module } from '@nestjs/common';
+import { APP_PIPE } from '@nestjs/core';
+
+@Module({
+  providers: [
+    {
+      provide: APP_PIPE,
+      useClass: ValidationPipe,
+    },
+  ],
+})
+export class AppModule {}
+```
+
+### Transformation
+
+因為我們從network中接收到請求內容時，收到的會是一個JSON物件，但在被request handler使用時，這些內容可能會被轉換成`number`、`boolean`，`string`等等，而這個時候就可以透過`parse*`這些內建的pipe來做轉換。像是以下的例子，透過`ParseIntPipe`來將我們從請求中接收到的id轉換為int的型態。
+
+```typescript
+@Get(':id')
+async findOne(@Param('id', new ParseIntPipe()) id) {
+  return this.catsService.findOne(id);
+}
+```
+
+
+依照官方文檔，另外一個很有用的case是向以下這樣。
+
+```typescript
+@Get(':id')
+findOne(@Param('id', UserByIdPipe) userEntity: UserEntity) {
+  return userEntity;
+}
+```
+
+在接收param的時候，在搭配上自定義的`UserByIdPipe`，讓這個pipe去資料庫中撈取這個id的使用者資料，再將他回傳到request handler內作為參數使用。
+
+### Providing defaults
+
+前面提到的`Parse*`類的pipe對於`null`或`undefined`的值是會直接拋出exception的，為了預防他們直接拋出例外，我們可以讓parameter在被 特定pipe(`ParseIntPipe`、`ParseBooleanPipe`)轉換以前，加入`DefaultValuePipe`，來讓預防空值的情況發生。
+
+```typescript
+@Get()
+async findAll(
+  @Query('activeOnly', new DefaultValuePipe(false), ParseBoolPipe) activeOnly: boolean,
+  @Query('page', new DefaultValuePipe(0), ParseIntPipe) page: number,
+) {
+  return this.catsService.findAll({ activeOnly, page });
+}
+```
