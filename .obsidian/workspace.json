@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCP/GCP防火牆設定.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d61cf7c9cb73a64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SWE/軟體工程課/Chapter2.md",
+                "file": "GCP/GCP MariaDB架設.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GCP/GCP防火牆設定.md",
+                "file": "GCP/GCP MariaDB架設.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GCP/GCP防火牆設定.md",
+                "file": "GCP/GCP MariaDB架設.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GCP/GCP防火牆設定.md"
+                "file": "GCP/GCP MariaDB架設.md"
               }
             }
           },
@@ -172,14 +160,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "9fe73f38b3a15e16",
   "lastOpenFiles": [
+    "image/GCP_firewall_rule2.png",
+    "image/GCP_firewall_rule1.png",
     "SWE/軟體工程課/Chapter2.md",
-    "OS/Chapter1.md",
     "GCP/GCP MariaDB架設.md",
+    "GCP/GCP防火牆設定.md",
+    "OS/Chapter1.md",
     "image/GCP_firewall.png",
     "GCP/GCP設定SSH.md",
-    "GCP/GCP防火牆設定.md",
     "NodeJS/TypeScript安裝.md",
     "NodeJS/NodeJS版本管理.md",
     "NodeJS/NestJS/NestJS Pipes.md",
@@ -205,7 +195,6 @@
     "git/git head.md",
     "2023-12-26.md",
     "git/git檔案還原.md",
-    "git/git cherry-pick.md",
     "image/DSDM_lifecycle.png",
     "image/stashlist_snapshot.png",
     "image/Pasted image 20231111221905.png",
