@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/NodeJS版本管理.md",
+                "file": "GCP/GCP設定SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/NodeJS版本管理.md",
+                "file": "GCP/GCP設定SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/NodeJS版本管理.md",
+                "file": "GCP/GCP設定SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/NodeJS版本管理.md"
+                "file": "GCP/GCP設定SSH.md"
               }
             }
           },
@@ -162,6 +162,9 @@
   },
   "active": "9fe73f38b3a15e16",
   "lastOpenFiles": [
+    "GCP/GCP防火牆設定.md",
+    "NodeJS/TypeScript安裝.md",
+    "NodeJS/NodeJS版本管理.md",
     "NodeJS/NestJS/NestJS Pipes.md",
     "NodeJS/NestJS/NestJS Middleware.md",
     "NodeJS/NestJS/NestJS Exception filters.md",
@@ -172,14 +175,11 @@
     "2023-12-29.md",
     "Untitled.canvas",
     "GCP/GCP設定SSH.md",
-    "GCP/GCP防火牆設定.md",
     "git/gitignore_setup.md",
     "git/git stash檔案暫存.md",
-    "NodeJS/TypeScript安裝.md",
     "NodeJS/async、 await使用.md",
     "Untitled 1",
     "NodeJS/NestJS",
-    "NodeJS/NodeJS版本管理.md",
     "NodeJS/typescript-experss-starter.md",
     "NodeJS/Nodejs底層原理.md",
     "NodeJS/ExpressJS/app.set()與app.use().md",
