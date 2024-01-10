@@ -50,3 +50,11 @@ export class RolesGuard implements CanActivate {
 
 ## Setting roles per handler
 
+以官方的作法是先自己建立一個名為`Role`的decorator，將該method所對應的使用者權限，ex:`admin`，放在這個decorator中作為method的metadata，再讓guard去取得這個權限並判斷權限是否適合。
+
+另外，透過guard去拋出的exception都會被Nest的exception layer處理，預設會是回傳`ForbiddenException`，若是這個時候要自己拋出其他例外的話就必須自己throw。
+```typescript
+throw new UnauthorizedException();
+```
+
+參考:[Guards | NestJS - A progressive Node.js framework](https://docs.nestjs.com/guards)
