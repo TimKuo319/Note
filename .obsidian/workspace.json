@@ -173,11 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "f0a07755a8b74677",
   "lastOpenFiles": [
+    "NodeJS/NestJS/NestJS Exception filters.md",
+    "NodeJS/NestJS/NestJS gurad.md",
     "NodeJS/NestJS/NestJS Pipes.md",
     "GCP/GCP MariaDB架設.md",
-    "NodeJS/NestJS/NestJS gurad.md",
     "image/GCP_firewall_rule2.png",
     "image/GCP_firewall_rule1.png",
     "SWE/軟體工程課/Chapter2.md",
@@ -188,7 +189,6 @@
     "NodeJS/TypeScript安裝.md",
     "NodeJS/NodeJS版本管理.md",
     "NodeJS/NestJS/NestJS Middleware.md",
-    "NodeJS/NestJS/NestJS Exception filters.md",
     "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
     "Obsidian 連結使用方式.md",
     "SWE/SOLID principle.md",
