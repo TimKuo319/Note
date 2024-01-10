@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0a07755a8b74677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NodeJS/NestJS/NestJS gurad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Pipes.md",
+                "file": "NodeJS/NestJS/NestJS gurad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Pipes.md",
+                "file": "NodeJS/NestJS/NestJS gurad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Pipes.md"
+                "file": "NodeJS/NestJS/NestJS gurad.md"
               }
             }
           },
@@ -160,9 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d15c79090fce2c67",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "NodeJS/NestJS/NestJS Pipes.md",
     "GCP/GCP MariaDB架設.md",
+    "NodeJS/NestJS/NestJS gurad.md",
     "image/GCP_firewall_rule2.png",
     "image/GCP_firewall_rule1.png",
     "SWE/軟體工程課/Chapter2.md",
@@ -172,7 +187,6 @@
     "GCP/GCP設定SSH.md",
     "NodeJS/TypeScript安裝.md",
     "NodeJS/NodeJS版本管理.md",
-    "NodeJS/NestJS/NestJS Pipes.md",
     "NodeJS/NestJS/NestJS Middleware.md",
     "NodeJS/NestJS/NestJS Exception filters.md",
     "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
