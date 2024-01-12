@@ -14,6 +14,42 @@ callhandler參數中有一個`handle()`method是用來呼叫router handler的，
 
 ### Response mapping
 
+利用interceptor也能夠拿來做request mapping，將requeset handler回傳的資料map到特定到其他資料格式上。以下是官方例子
+```typescript
+import { Injectable, NestInterceptor, ExecutionContext, CallHandler } from '@nestjs/common';
+import { Observable } from 'rxjs';
+import { map } from 'rxjs/operators';
+
+export interface Response<T> {
+  data: T;
+}
+
+@Injectable()
+export class TransformInterceptor<T> implements NestInterceptor<T, Response<T>> {
+  intercept(context: ExecutionContext, next: CallHandler): Observable<Response<T>> {
+    return next.handle().pipe(map(data => ({ data })));
+  }
+}
+```
+
 ### Stream overriding
 
-return of
+這邊官方文件的做法是簡單展示一個cache interceptor，這個interceptor會直接回傳一個空陣列，而非跑進去request handler。用來示範一個簡單的cache。
+
+```typescript
+import { Injectable, NestInterceptor, ExecutionContext, CallHandler } from '@nestjs/common';
+import { Observable, of } from 'rxjs';
+
+@Injectable()
+export class CacheInterceptor implements NestInterceptor {
+  intercept(context: ExecutionContext, next: CallHandler): Observable<any> {
+    const isCached = true;
+    if (isCached) {
+      return of([]);
+    }
+    return next.handle();
+  }
+}
+```
+
+*註*
