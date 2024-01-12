@@ -10,11 +10,7 @@ date: 2024-01-12 Fri 13:20
 
 callhandler參數中有一個`handle()`method是用來呼叫router handler的，如果某個request在被傳遞到request handler的過程中遇到一個沒有call handle的interceptor，那麼這個請求是不會被handler成功執行的。
 
-也就是說interceptor是可以將整個request/response流程風
-
-Observerable
-
-### Binding
+也就是說interceptor是可以將整個request/response流程封裝(?)起來的。可以在request處理的前/後實作其他功能邏輯。在請求被處理前實作其他邏輯的方式是在呼叫`handle()`前進行處理，至於請求被處理完的話，則是透過`Rxjs`內的`observable`來進行處理
 
 ### Response mapping
 
