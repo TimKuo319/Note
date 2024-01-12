@@ -9,3 +9,10 @@ date: 2024-01-12 Fri 13:20
 
 Pointcut
 Observerable
+
+### Binding
+
+### Response mapping
+
+### Stream overriding
+
