@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Exception filters.md",
+                "file": "JS/NestJS/NestJS Exception filters.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/NestJS/NestJS gurad.md",
+                "file": "JS/NestJS/NestJS gurad.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Interceptors.md",
+                "file": "JS/NestJS/NestJS Interceptors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c470558293482c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/RxJS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Interceptors.md",
+                "file": "JS/RxJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Interceptors.md",
+                "file": "JS/RxJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/NestJS/NestJS Interceptors.md"
+                "file": "JS/RxJS.md"
               }
             }
           },
@@ -185,14 +197,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74e84add35615f77",
+  "active": "4c470558293482c4",
   "lastOpenFiles": [
-    "NodeJS/NestJS/NestJS gurad.md",
-    "NodeJS/NestJS/NestJS Pipes.md",
-    "NodeJS/NestJS/NestJS Middleware.md",
-    "NodeJS/NestJS/NestJS Interceptors.md",
-    "NodeJS/NestJS/NestJS Exception filters.md",
-    "NodeJS/NestJS/NestJS Controller、Provider、Module.md",
+    "JS/NestJS/NestJS Interceptors.md",
+    "JS/RxJS.md",
+    "JS/Nodejs",
+    "JS/NestJS/NestJS gurad.md",
+    "JS/NestJS/NestJS Pipes.md",
+    "JS/NestJS/NestJS Middleware.md",
+    "JS/NestJS/NestJS Exception filters.md",
+    "JS/NestJS/NestJS Controller、Provider、Module.md",
     "GCP/GCP MariaDB架設.md",
     "image/GCP_firewall_rule2.png",
     "image/GCP_firewall_rule1.png",
@@ -201,8 +215,8 @@
     "OS/Chapter1.md",
     "image/GCP_firewall.png",
     "GCP/GCP設定SSH.md",
-    "NodeJS/TypeScript安裝.md",
-    "NodeJS/NodeJS版本管理.md",
+    "JS/TypeScript安裝.md",
+    "JS/Nodejs/NodeJS版本管理.md",
     "Obsidian 連結使用方式.md",
     "SWE/SOLID principle.md",
     "SWE/軟體工程課",
@@ -210,17 +224,16 @@
     "Untitled.canvas",
     "git/gitignore_setup.md",
     "git/git stash檔案暫存.md",
-    "NodeJS/async、 await使用.md",
+    "JS/async、 await使用.md",
     "Untitled 1",
-    "NodeJS/NestJS",
+    "JS/NestJS",
     "NodeJS/typescript-experss-starter.md",
-    "NodeJS/Nodejs底層原理.md",
-    "NodeJS/ExpressJS/app.set()與app.use().md",
-    "NodeJS/ExpressJS",
+    "JS/Nodejs/Nodejs底層原理.md",
+    "JS/ExpressJS/app.set()與app.use().md",
+    "JS/ExpressJS",
     "Database/MongoDB Conection and CRUD.md",
     "Database/MongoDB安裝.md",
     "git/git head.md",
-    "2023-12-26.md",
     "image/DSDM_lifecycle.png",
     "image/stashlist_snapshot.png",
     "image/Pasted image 20231111221905.png",
@@ -231,7 +244,6 @@
     "Docker",
     "Hexo",
     "Database",
-    "GCP",
-    "NodeJS"
+    "GCP"
   ]
 }
