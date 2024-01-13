@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "59aac50cf285a239",
+        "id": "7ede55ef2d1c020f",
         "type": "tabs",
         "children": [
           {
-            "id": "9f5d79ee66a34dd1",
+            "id": "85dfdbffbd5a5407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Database/ORM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac4b9c9dbe75c9ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/MongoDB Conection and CRUD.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,12 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f5d79ee66a34dd1",
+  "active": "85dfdbffbd5a5407",
   "lastOpenFiles": [
-    "[MongoDB Conection and CRUD.md",
+    "Database/MongoDB Conection and CRUD.md",
     "Database/ORM.md",
     "Database/MongoDB安裝.md",
-    "Database/MongoDB Conection and CRUD.md",
+    "Database/Mysql  pool (Undone).md",
+    "[MongoDB Conection and CRUD.md",
     "Obsidian 連結使用方式.md",
     "JS/NestJS/NestJS Exception filters.md",
     "JS/NestJS/NestJS gurad.md",
@@ -193,7 +207,6 @@
     "SWE/軟體工程課",
     "2023-12-29.md",
     "Untitled.canvas",
-    "git/gitignore_setup.md",
     "Untitled 1",
     "JS/NestJS",
     "JS/ExpressJS",
