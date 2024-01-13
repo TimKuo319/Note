@@ -1,5 +1,7 @@
 ---
 date: 2023-12-22 Fri 00:12
+aliases:
+  - MongoCRUD
 ---
 ---
 

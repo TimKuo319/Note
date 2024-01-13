@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce538a33afd804e9",
+        "id": "59aac50cf285a239",
         "type": "tabs",
         "children": [
           {
-            "id": "d15c79090fce2c67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/NestJS/NestJS Exception filters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0a07755a8b74677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/NestJS/NestJS gurad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74e84add35615f77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/NestJS/NestJS Interceptors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c470558293482c4",
+            "id": "9f5d79ee66a34dd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -180,13 +142,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c470558293482c4",
+  "active": "9f5d79ee66a34dd1",
   "lastOpenFiles": [
-    "Untitled.md",
+    "[MongoDB Conection and CRUD.md",
     "Database/ORM.md",
+    "Database/MongoDB安裝.md",
+    "Database/MongoDB Conection and CRUD.md",
+    "Obsidian 連結使用方式.md",
+    "JS/NestJS/NestJS Exception filters.md",
+    "JS/NestJS/NestJS gurad.md",
+    "Untitled.md",
     "JS/NestJS/NestJS Controller、Provider、Module.md",
     "JS/ReactJS/Basic.md",
     "image/react_share_data.png",
@@ -213,8 +179,6 @@
     "JS/RxJS.md",
     "JS/NestJS/NestJS Interceptors.md",
     "JS/Nodejs",
-    "JS/NestJS/NestJS gurad.md",
-    "JS/NestJS/NestJS Exception filters.md",
     "GCP/GCP MariaDB架設.md",
     "image/GCP_firewall_rule2.png",
     "image/GCP_firewall_rule1.png",
@@ -225,17 +189,13 @@
     "GCP/GCP設定SSH.md",
     "JS/TypeScript安裝.md",
     "JS/Nodejs/NodeJS版本管理.md",
-    "Obsidian 連結使用方式.md",
     "SWE/SOLID principle.md",
     "SWE/軟體工程課",
     "2023-12-29.md",
     "Untitled.canvas",
     "git/gitignore_setup.md",
-    "git/git stash檔案暫存.md",
-    "JS/async、 await使用.md",
     "Untitled 1",
     "JS/NestJS",
-    "NodeJS/typescript-experss-starter.md",
     "JS/ExpressJS",
     "image/DSDM_lifecycle.png",
     "image/stashlist_snapshot.png",
