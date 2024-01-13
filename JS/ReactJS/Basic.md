@@ -83,4 +83,5 @@ function MyButton({ count, onClick }) {
 }
 ```
 
-上述的方式中，將state儲存在`MyApp`中，並將state給予兩個獨立的`MyButton` component, 將`count`以及`onclick`留給
+上述的方式中，將state儲存在`MyApp`中，並將state給予兩個獨立的`MyButton` component, 將`count`以及`onclick`傳入component做使用。而這些被傳入的資訊被稱作`prop`，也是為何上面MyButton會長成`{count, onClick}`的原因，因為`count`以及`onclick`放在`Mybutton`component tag內作為他的屬性，而我們要從`prop`內取出`count`以及`onclick`兩個參數，所以就利用`{}`來進行解構。讓程式碼更加簡潔。不然其實也可以將參數內容改成`(prop)`，然後在component內透過`prop.count`以及`prop.onClick`來取得，但這樣就會減少程式碼的可閱讀性。
+
