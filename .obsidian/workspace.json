@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/NestJS/Decorator.md",
+                "file": "JS/ReactJS/Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/NestJS/Decorator.md",
+                "file": "JS/ReactJS/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/NestJS/Decorator.md",
+                "file": "JS/ReactJS/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/NestJS/Decorator.md"
+                "file": "JS/ReactJS/Basic.md"
               }
             }
           },
@@ -199,8 +199,11 @@
   },
   "active": "4c470558293482c4",
   "lastOpenFiles": [
-    "JS/NestJS/NestJS Middleware.md",
     "JS/NestJS/Decorator.md",
+    "JS/ReactJS/Basic.md",
+    "JS/ReactJS.md",
+    "JS/ReactJS",
+    "JS/NestJS/NestJS Middleware.md",
     "JS/NestJS/NestJS Pipes.md",
     "JS/RxJS.md",
     "JS/NestJS/NestJS Interceptors.md",
@@ -232,8 +235,6 @@
     "JS/Nodejs/Nodejs底層原理.md",
     "JS/ExpressJS/app.set()與app.use().md",
     "JS/ExpressJS",
-    "Database/MongoDB Conection and CRUD.md",
-    "Database/MongoDB安裝.md",
     "image/DSDM_lifecycle.png",
     "image/stashlist_snapshot.png",
     "image/Pasted image 20231111221905.png",
@@ -243,7 +244,6 @@
     "Untitled 1.canvas",
     "Docker",
     "Hexo",
-    "Database",
-    "GCP"
+    "Database"
   ]
 }
