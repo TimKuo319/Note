@@ -34,7 +34,17 @@ return (
 
 ## useState
 
-	name convention{something , setSomething}
+當有時候需要component去記得一些狀態的時候可以使用`useState()`，用法如下
+```js
+function MyButton() {  
+
+const [count, setCount] = useState(0);  
+
+// ...
+```
+
+前面的count是當前state，setCount則是一個可以去設定state的function，一般來說，命名傳統會是`[something , setsomething]`。
+
 hooks
 	custom hooks
 	restrict
