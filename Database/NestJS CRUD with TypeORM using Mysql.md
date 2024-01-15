@@ -76,11 +76,14 @@ export class AppModule {}
 
 這裡主要的重點是import進來的兩個module，`TypeOrmModule`以及`ConfigModule`。就像在express中一樣，我們會透過將變數放在`.env`檔，再透過`procsee.env`去讀取這些環境變數。在Nest中，我們可以透過`ConfigModule`來完成。
 
-`ConfigModule.forRoot`
+`ConfigModule.forRoot()`這個部分是在註冊`ConfigService`，預設會去讀根目錄的`.env`檔案。`forRoot()`method是一個常見的動態註冊方式。
 
-typeorm
-	forRoot 
-	forFeature
+在了解forRoot是用在動態註冊後，`TypeOrmModule`做的事情也是差不多的，因為我們接下來是動態的去拿去環境變數(透過`ConfigModule`)，並不是直接寫死在程式碼內，而這些讀取會需要時間，是非同步的，所以利用`TypeOrmModule`提供的`forRootAsync`，來註冊連線相關資訊。
+
+這裡用到的是動態註冊模組的用法，`imports`引入需要用到的module，`injects`注入需要的`provider`，接著透過`useFactory這個property`動態載入需要的變數並回傳，接著就是透過`configService`裡的`get()`method去取得`.env`內對應的變數名稱。如此一來，就能夠完成與資料庫的連線。
+
+
+
+
+forFeature
 auto-load entity
-configuration
-	@nestjs/config
