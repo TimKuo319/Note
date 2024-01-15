@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4eae5db7910b88d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NestJS CRUD with TypeORM using Mysql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ac4b9c9dbe75c9ef",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MongoDB Conection and CRUD.md",
+                "file": "Database/NestJS CRUD with TypeORM using Mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MongoDB Conection and CRUD.md",
+                "file": "Database/NestJS CRUD with TypeORM using Mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MongoDB Conection and CRUD.md"
+                "file": "Database/NestJS CRUD with TypeORM using Mysql.md"
               }
             }
           },
@@ -171,17 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85dfdbffbd5a5407",
+  "active": "4eae5db7910b88d6",
   "lastOpenFiles": [
-    "Database/ORM.md",
     "Database/MongoDB Conection and CRUD.md",
+    "Database/NestJS CRUD with TypeORM using Mysql.md",
+    "Database/ORM.md",
     "Database/MongoDB安裝.md",
     "Database/Mysql  pool (Undone).md",
     "[MongoDB Conection and CRUD.md",
     "Obsidian 連結使用方式.md",
     "JS/NestJS/NestJS Exception filters.md",
     "JS/NestJS/NestJS gurad.md",
-    "Untitled.md",
     "JS/NestJS/NestJS Controller、Provider、Module.md",
     "JS/ReactJS/Basic.md",
     "image/react_share_data.png",
