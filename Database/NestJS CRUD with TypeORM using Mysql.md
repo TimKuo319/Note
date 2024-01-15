@@ -6,3 +6,4 @@ typeorm
 	forFeature
 auto-load entity
 configuration
+	@nestjs/config
