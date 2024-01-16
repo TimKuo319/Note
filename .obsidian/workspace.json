@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85dfdbffbd5a5407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/MongoDB Conection and CRUD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4eae5db7910b88d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/NestJS Connection with MySQL using TypeORM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac4b9c9dbe75c9ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/MongoDB Conection and CRUD.md",
+                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/NestJS Connection with MySQL using TypeORM.md",
+                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/NestJS Connection with MySQL using TypeORM.md",
+                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/NestJS Connection with MySQL using TypeORM.md"
+                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md"
               }
             }
           },
@@ -186,13 +161,14 @@
   },
   "active": "4eae5db7910b88d6",
   "lastOpenFiles": [
+    "JS/NestJS/TypeORM forFeature and autoLoadEntities.md",
+    "Database/MongoDB Conection and CRUD.md",
+    "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
     "Database/ORM.md",
     "Database/What is ACID.md",
     "JS/NestJS/NestJS Controller、Provider、Module.md",
     "JS/NestJS/Decorator.md",
     "Python/__name__ = _main_在python中的意思.md",
-    "Database/NestJS Connection with MySQL using TypeORM.md",
-    "Database/MongoDB Conection and CRUD.md",
     "Database/MongoDB安裝.md",
     "Database/Mysql  pool (Undone).md",
     "[MongoDB Conection and CRUD.md",
@@ -217,7 +193,6 @@
     "image/GCP_firewall.png",
     "GCP/GCP設定SSH.md",
     "JS/TypeScript安裝.md",
-    "JS/Nodejs/NodeJS版本管理.md",
     "SWE/軟體工程課",
     "Untitled.canvas",
     "Untitled 1",

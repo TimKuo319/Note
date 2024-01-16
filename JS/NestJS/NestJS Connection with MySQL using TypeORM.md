@@ -98,5 +98,7 @@ DB_NAME= "your_DB_NAME"
 `entities`是指在這次連線中要一同載入的entity，如果我們有需要操作到的entity都必須加入到這個部分中。
 `synchronize`指的是在建立連線的過程中要不要自動`重新建立`schema, 這在開發過程中相當的有用，可以方便我們開發或儲錯，但`絕對不能`放到正是環境中，因為要是因為意外更動到程式碼，再加上這個屬性，可能會重建schema造成資料被覆蓋。
 
-forFeature
-auto-load entity
+## Summary
+
++ 透過`TypeOrmModule`以及`ConfigModule`建立連線
++ 透過`forRoot()`進行動態註冊
