@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7ede55ef2d1c020f",
+        "id": "2167ae199447c18c",
         "type": "tabs",
         "children": [
           {
-            "id": "4eae5db7910b88d6",
+            "id": "851eee18da3b2d92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#NestJS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -159,21 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4eae5db7910b88d6",
+  "active": "851eee18da3b2d92",
   "lastOpenFiles": [
+    "Todo.md",
+    "新增 文字文件.txt",
+    "JS/NestJS/NestJS Exception filters.md",
+    "JS/NestJS/NestJS Controller、Provider、Module.md",
+    "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
+    "JS/NestJS/Decorator.md",
     "JS/NestJS/TypeORM forFeature and autoLoadEntities.md",
     "Database/MongoDB Conection and CRUD.md",
-    "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
     "Database/ORM.md",
     "Database/What is ACID.md",
-    "JS/NestJS/NestJS Controller、Provider、Module.md",
-    "JS/NestJS/Decorator.md",
     "Python/__name__ = _main_在python中的意思.md",
     "Database/MongoDB安裝.md",
     "Database/Mysql  pool (Undone).md",
     "[MongoDB Conection and CRUD.md",
     "Obsidian 連結使用方式.md",
-    "JS/NestJS/NestJS Exception filters.md",
     "JS/NestJS/NestJS gurad.md",
     "JS/ReactJS/Basic.md",
     "image/react_share_data.png",
@@ -191,8 +193,6 @@
     "GCP/GCP防火牆設定.md",
     "OS/Chapter1.md",
     "image/GCP_firewall.png",
-    "GCP/GCP設定SSH.md",
-    "JS/TypeScript安裝.md",
     "SWE/軟體工程課",
     "Untitled.canvas",
     "Untitled 1",
@@ -206,7 +206,6 @@
     "PenTest",
     "Untitled 1.canvas",
     "Docker",
-    "Hexo",
-    "Database"
+    "Hexo"
   ]
 }
