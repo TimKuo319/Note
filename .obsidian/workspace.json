@@ -160,8 +160,9 @@
   },
   "active": "82e18d896b69fd44",
   "lastOpenFiles": [
-    "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
+    "JS/NestJS/TypeORM forFeature and autoLoadEntities.md",
     "Todo.md",
+    "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
     "Database/Mysql  pool.md",
     "Database/ORM.md",
     "JS/NestJS/NestJS Controller、Provider、Module.md",
@@ -170,7 +171,6 @@
     "JS/NestJS/NestJS Exception filters.md",
     "新增 文字文件.txt",
     "JS/NestJS/Decorator.md",
-    "JS/NestJS/TypeORM forFeature and autoLoadEntities.md",
     "Database/MongoDB Conection and CRUD.md",
     "Database/What is ACID.md",
     "Python/__name__ = _main_在python中的意思.md",
