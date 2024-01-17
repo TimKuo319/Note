@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
+                "file": "JS/NestJS/NestJS gurad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
+                "file": "JS/NestJS/NestJS gurad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
+                "file": "JS/NestJS/NestJS gurad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md"
+                "file": "JS/NestJS/NestJS gurad.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "82e18d896b69fd44",
   "lastOpenFiles": [
+    "JS/NestJS/NestJS Exception filters.md",
     "JS/NestJS/NestJS Controller、Provider、Module.md",
+    "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
     "Todo.md",
     "JS/NestJS/TypeORM forFeature and autoLoadEntities.md",
-    "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
     "Database/Mysql  pool.md",
     "Database/ORM.md",
     "JS/NestJS/NestJS gurad.md",
     "2024-01-17.md",
-    "JS/NestJS/NestJS Exception filters.md",
     "新增 文字文件.txt",
     "JS/NestJS/Decorator.md",
     "Database/MongoDB Conection and CRUD.md",
