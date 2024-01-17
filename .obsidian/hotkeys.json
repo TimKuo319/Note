@@ -1,1 +1,11 @@
-{}
+{
+  "workspace:new-tab": [],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}
