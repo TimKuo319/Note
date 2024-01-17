@@ -2,6 +2,7 @@
 
 - [ ] Jest note 🔽
 
+jest.fn() jest.spyOn
 
 ref:[Unit Testing NestJS Applications with Jest: A Beginner’s Guide | by Weerayut Teja | Medium](https://medium.com/@wteja/unit-testing-nestjs-applications-with-jest-a-beginners-guide-a78dfa78541e)
 
