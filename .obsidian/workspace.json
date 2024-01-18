@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Jest.md",
+                "file": "JS/Writing test with NestJS using jest.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Jest.md",
+                "file": "JS/Writing test with NestJS using jest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Jest.md",
+                "file": "JS/Writing test with NestJS using jest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Jest.md"
+                "file": "JS/Writing test with NestJS using jest.md"
               }
             }
           },
@@ -162,7 +162,7 @@
   "active": "82e18d896b69fd44",
   "lastOpenFiles": [
     "Todo.md",
-    "JS/Jest.md",
+    "JS/Writing test with NestJS using jest.md",
     "JS/RxJS.md",
     "JS/NestJS/NestJS gurad.md",
     "JS/NestJS/NestJS Exception filters.md",
