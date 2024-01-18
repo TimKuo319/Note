@@ -5,7 +5,7 @@ date: 2024-01-08 Thu
 
 ---
 
-- [ ] Jest note 🔽
+- [ ] after_each、spyOn 🔽
 
 這是第一次寫自動化測試，且因為Nest APP在建立的時候就會先安裝好測試所需的相關套件以及做了最基礎的jest設定，所以目前對於jest的配置都還不是很熟悉，這篇筆記主要在記錄測試程式碼的撰寫上。
 
@@ -113,6 +113,10 @@ export const mockTodoRepo = {
 
 這五個function是我們在後面測試會用到的repo method，這裡就透過`jest.fn()`來模擬五個空函數。他們的實作及回傳值就留到後面測試做處理。
 
+提供完provider後，就可以利用`testModule.get`去取得對應的instance(*static*)供後續做使用。
+
+afterEach
+spyOn
 
  
 ref:
