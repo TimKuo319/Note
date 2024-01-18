@@ -9,10 +9,59 @@ date: 2024-01-08 Thu
 
 這是第一次寫自動化測試，且因為Nest APP在建立的時候就會先安裝好測試所需的相關套件以及做了最基礎的jest設定，所以目前對於jest的配置都還不是很熟悉，這篇筆記主要在記錄測試程式碼的撰寫上。
 
+## Before Test
+
+```ts
+describe('TodoService', () => {
+
+  let service: TodoService;
+
+  let todoRepo: Repository<todoEntity>;
+
+  beforeEach(async () => {
+
+    const module: TestingModule = await Test.createTestingModule({
+
+      providers: [
+
+        TodoService,
+
+        {
+
+          provide: getRepositoryToken(todoEntity),
+
+          useValue: mockTodoRepo
+
+        }
+
+      ],  
+
+    }).compile();
+
+  
+
+    service = module.get<TodoService>(TodoService);
+
+    todoRepo = module.get<Repository<todoEntity>>(getRepositoryToken(todoEntity));
+
+  });
+
+  
+
+  afterEach(async () => {
+
+    jest.clearAllMocks()
+
+  })
+
+	...
+	
+```
 
 
+在上面的程式碼中，`describe`用來將測試給group在一起，能夠讓程式碼更有組織性，`describe`的第一個參數是一段字串，可以用這段文字來說明test group面對的測試對象。而由於這個是`todoservice`的測試，所以上面程式碼中，字串參數放的位置就寫了`TodoService`。
 
-
+緊接在後的是`beforeEach`，這部分的程式碼就是在每一個testcase被執行前都會進行的行為。在這個部分我們透過Nest內建的Test來建立測試模組。這個測試模組的用意在於他會去磨
 
 jest.fn() jest.spyOn
  
