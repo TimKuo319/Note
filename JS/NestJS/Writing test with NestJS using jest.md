@@ -5,10 +5,16 @@ date: 2024-01-08 Thu
 
 ---
 
-- [ ] after_each、spyOn 🔽
 
 這是第一次寫自動化測試，且因為Nest APP在建立的時候就會先安裝好測試所需的相關套件以及做了最基礎的jest設定，所以目前對於jest的配置都還不是很熟悉，這篇筆記主要在記錄測試程式碼的撰寫上。
 
+# Outline
++ [Before Test](##Before Test)
++ [After Test](##After Test)
++ [jest.clearAllMocks](##jest.clearAllMocks)
++ [jest.spyOn](##jest.spyOn)
++ [summary](##summary)
++ [Reference](##Reference)
 ## Before Test
 
 ```ts
@@ -117,6 +123,8 @@ export const mockTodoRepo = {
 
 既然有`beforeEach`，那當然也有`afterEach`，而就如字面上的意思一樣，`afterEach`會在每一個testCase結束後執行。
 
+## After Test
+
 ```ts
 afterEach(async () => {
 
@@ -127,6 +135,7 @@ afterEach(async () => {
 
 這裡的`clearAllMocks`會去移除掉mock call以及mock instance的相關屬性，就可以確保我們在每一個testcase裡的mock都是獨立的。
 
+## jest.clearAllMocks
 ```ts
 
 describe('createTodo', () => {
@@ -210,10 +219,18 @@ describe('createTodo', () => {
 
 就以這兩個區塊來說，他們都用到了`toHaveBeenCalledTimes`去確認`todoRepo.save`被呼叫的次數。若是沒有在透過`clearAllMocks`來去清楚mock的狀態，在下方的testcase就會出現問題。
 
-最後則是在過程中混淆我許久的`spyOn`，`spyOn`主要用來重現`DOC(Dependent-on Componenet)`邏輯，也就是會直接去呼叫被spy的function，當然也可以透過`mock..`相關的函數來模擬回傳值。而在我們的程式碼中，因為並不想要與資料庫實際進行連線，先透過`jest.fn`來模擬相關函數為空函數，等到特定testcase需要的時候，我們再利用`jest.spyOn`去修改相ㄍㄨㄢ
+## jest.spyOn
+最後則是在過程中混淆我許久的`spyOn`，`spyOn`主要用來重現`DOC(Dependent-on Componenet)`邏輯，也就是會直接去呼叫被spy的function，當然也可以透過`mock..`相關的函數來模擬回傳值。而在我們的程式碼中，因為並不想要與資料庫實際進行連線，先透過`jest.fn`來模擬相關函數為空函數，等到特定testcase需要的時候，我們再利用`jest.spyOn`去mock需要的邏輯或回傳值，來達到讓測試更獨立的效果。
 
- 
-ref:
+## Summary
+
++ 基本jest語法像是describe、it、beforeEach、afterEach所代表的意思
++ Nest的custome provider
++ 透過jest.fn去模擬typeORM repo
++ jest.spyOn的使用
+
+## Reference
+
 [Unit Testing NestJS Applications with Jest: A Beginner’s Guide | by Weerayut Teja | Medium](https://medium.com/@wteja/unit-testing-nestjs-applications-with-jest-a-beginners-guide-a78dfa78541e)
 
 [單元測試之 mock/stub/spy/fake ? 傻傻搞不清楚 | by CraftsmanHenry | Medium](https://medium.com/@henry-chou/%E5%96%AE%E5%85%83%E6%B8%AC%E8%A9%A6%E4%B9%8B-mock-stub-spy-fake-%E5%82%BB%E5%82%BB%E6%90%9E%E4%B8%8D%E6%B8%85%E6%A5%9A-ba3dc4e86d86)
