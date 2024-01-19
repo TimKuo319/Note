@@ -115,8 +115,102 @@ export const mockTodoRepo = {
 
 提供完provider後，就可以利用`testModule.get`去取得對應的instance(*static*)供後續做使用。
 
-afterEach
-spyOn
+既然有`beforeEach`，那當然也有`afterEach`，而就如字面上的意思一樣，`afterEach`會在每一個testCase結束後執行。
+
+```ts
+afterEach(async () => {
+
+    jest.clearAllMocks()
+
+  })
+```
+
+這裡的`clearAllMocks`會去移除掉mock call以及mock instance的相關屬性，就可以確保我們在每一個testcase裡的mock都是獨立的。
+
+```ts
+
+describe('createTodo', () => {
+
+    it('it should create new todo', async () => {
+
+      const mockTodoEntity = new todoEntity();
+
+      mockTodoEntity.id = 10;
+
+      mockTodoEntity.task = mockTodoDTO.task;
+
+      mockTodoEntity.deadline = mockTodoDTO.deadline;
+
+      mockTodoEntity.completed = mockTodoDTO.completed;
+
+  
+
+      jest.spyOn(todoRepo, 'create').mockReturnValueOnce(mockTodoDTO as todoEntity)
+
+      jest.spyOn(todoRepo, 'save').mockResolvedValueOnce(mockTodoEntity);
+
+      const result = await service.createTodo(mockTodoDTO);
+
+  
+
+      expect(result).toBeInstanceOf(todoEntity);
+
+      expect(result).toBe(mockTodoEntity);
+
+      expect(todoRepo.create).toHaveBeenCalledTimes(1);
+	  //確認save被呼叫一次
+      expect(todoRepo.save).toHaveBeenCalledTimes(1);
+
+  
+
+    })
+
+  })
+
+  
+
+  describe('updateTodo', () => {
+
+  
+
+    it('should return a update todo', async() => {
+
+      jest.spyOn(todoRepo, 'findOneBy').mockResolvedValueOnce(mockTodoDTO as todoEntity);
+
+      const updateTodo = await service.updateTodo(1, mockTodoDTO);
+
+  
+
+      expect(todoRepo.findOneBy).toHaveBeenCalledWith({ id: 1 });
+
+      expect(todoRepo.save).toHaveBeenCalledTimes(1);
+	//確認save被呼叫一次，但如果沒有利用clearAllMocks清除狀態，這裡的save會跨過testcase。所以呼叫次數會變成2次
+      expect(todoRepo.save).toHaveBeenCalledWith(mockTodoDTO);
+
+    })
+
+  
+
+    it('should throw an error if todo not found', async() => {
+
+      jest.spyOn(todoRepo, 'findOneBy').mockResolvedValueOnce(undefined);
+
+  
+
+      await expect(service.updateTodo(10, mockTodoDTO)).rejects.toThrow(HttpException);
+
+      expect(todoRepo.findOneBy).toHaveBeenCalledWith({ id: 10 });
+
+      expect(todoRepo.findOneBy).toHaveBeenCalledTimes(1);
+
+    })
+
+  })
+```
+
+就以這兩個區塊來說，他們都用到了`toHaveBeenCalledTimes`去確認`todoRepo.save`被呼叫的次數。若是沒有在透過`clearAllMocks`來去清楚mock的狀態，在下方的testcase就會出現問題。
+
+最後則是在過程中混淆我許久的`spyOn`，`spyOn`主要用來重現`DOC(Dependent-on Componenet)`邏輯，也就是會直接去呼叫被spy的function，當然也可以透過`mock..`相關的函數來模擬回傳值。而在我們的程式碼中，因為並不想要與資料庫實際進行連線，先透過`jest.fn`來模擬相關函數為空函數，等到特定testcase需要的時候，我們再利用`jest.spyOn`去修改相ㄍㄨㄢ
 
  
 ref:
