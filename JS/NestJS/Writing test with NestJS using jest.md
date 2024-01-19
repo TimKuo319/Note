@@ -1,7 +1,7 @@
 ---
 date: 2024-01-08 Thu
 ---
-#Test #Jest
+#NestJS #Test #Jest
 
 ---
 
@@ -9,8 +9,8 @@ date: 2024-01-08 Thu
 這是第一次寫自動化測試，且因為Nest APP在建立的時候就會先安裝好測試所需的相關套件以及做了最基礎的jest設定，所以目前對於jest的配置都還不是很熟悉，這篇筆記主要在記錄測試程式碼的撰寫上。
 
 # Outline
-+ [Before Test](##Before Test)
-+ [After Test](##After Test)
++ [Before Test](<##Before Test>)
++ [After Test](<##After Test>)
 + [jest.clearAllMocks](##jest.clearAllMocks)
 + [jest.spyOn](##jest.spyOn)
 + [summary](##summary)

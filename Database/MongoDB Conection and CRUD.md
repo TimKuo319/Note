@@ -5,6 +5,13 @@ aliases:
 ---
 ---
 
++ [Connection setup](<##Connection setup>)
++ [Create Schmea](<##Create data Schema>)
++ [CRUD](##CRUD)
+	+ [Create](###Create)
+	+ [Read](##Read)
+	+ [Update](##Update)
+	+ [Delete](<###Delete>)
 ## Connection setup
 
 利用js搭配nodejs作為伺服器端時，可以利用mongoose這個套件來建立與mongoDB的連線。
@@ -147,7 +154,7 @@ result.key1 = "update value";
 await result.save()
 ```
 
-### Remove
+### Delete
 
 像是Read是利用find function，Remove也有對應的remove function。
 ```js
@@ -158,3 +165,5 @@ await dataModel.remove('filter condition')
 collection關聯
 objectid
 "資料中的__v參數"
+
+
