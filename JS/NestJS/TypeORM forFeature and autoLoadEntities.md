@@ -1,2 +1,0 @@
-
-- [ ] TypeORM forFeature and antoLoadEntity 🔽

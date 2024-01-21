@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "NestJS",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.42967809143425306,
+  "scale": 0.6554983534946949,
   "close": true
 }

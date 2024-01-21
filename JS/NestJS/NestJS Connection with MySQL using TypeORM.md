@@ -1,5 +1,5 @@
 ---
-date: 2024-01-15 15:35
+date: 2024-01-15 Fri 15:35
 ---
 #NestJS #DBConfiguration 
 

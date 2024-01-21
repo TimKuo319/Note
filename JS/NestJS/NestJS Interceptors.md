@@ -53,3 +53,4 @@ export class CacheInterceptor implements NestInterceptor {
 ```
 
 *註: response mapping的方式對於使用library-specific response的方式並不支援(using the @Res() decorator)*
+

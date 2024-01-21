@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d0d6e8148b39919a",
+        "id": "f8ab23e470faabf2",
         "type": "tabs",
         "children": [
           {
-            "id": "004cf5ae11cd511b",
+            "id": "c5d4ba4c7f42f4c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/NestJS/Writing test with NestJS using jest.md",
+                "file": "JS/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "181921769cbb462e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/NestJS/Writing test with NestJS using jest.md",
+                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/NestJS/Writing test with NestJS using jest.md",
+                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/NestJS/Writing test with NestJS using jest.md"
+                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md"
               }
             }
           },
@@ -142,7 +155,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,22 +173,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "004cf5ae11cd511b",
+  "active": "181921769cbb462e",
   "lastOpenFiles": [
+    "JS/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
+    "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
+    "JS/NestJS/NestJS Pipes.md",
+    "JS/NestJS/NestJS Middleware.md",
+    "JS/NestJS/NestJS Interceptors.md",
+    "JS/NestJS/NestJS gurad.md",
+    "JS/NestJS/NestJS Exception filters.md",
+    "JS/NestJS/NestJS Controller、Provider、Module.md",
+    "JS/Nodejs/Nodejs底層原理.md",
+    "JS/Nodejs/Nodejs中的Event loop.md",
     "Todo.md",
-    "JS/NestJS/TypeORM forFeature and autoLoadEntities.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "JS/ExpressJS/app.set()與app.use().md",
+    "JS/RxJS.md",
+    "JS/ReactJS/Basic.md",
+    "JS/Json Web Token(JWT).md",
+    "JS/TypeScript安裝.md",
+    "JS/NestJS/Writing test with NestJS using jest.md",
     "Database/MongoDB Conection and CRUD.md",
     "Database/MongoDB安裝.md",
     "Delete.md",
-    "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
-    "JS/NestJS/NestJS Controller、Provider、Module.md",
-    "JS/NestJS/NestJS Exception filters.md",
-    "JS/NestJS/NestJS gurad.md",
-    "JS/NestJS/NestJS Interceptors.md",
-    "JS/NestJS/NestJS Middleware.md",
-    "JS/NestJS/NestJS Pipes.md",
-    "JS/NestJS/Writing test with NestJS using jest.md",
-    "JS/RxJS.md",
     "Database/Mysql  pool.md",
     "Database/ORM.md",
     "2024-01-17.md",
@@ -182,20 +204,13 @@
     "JS/NestJS/Decorator.md",
     "Database/What is ACID.md",
     "Python/__name__ = _main_在python中的意思.md",
-    "[MongoDB Conection and CRUD.md",
-    "Obsidian 連結使用方式.md",
-    "JS/ReactJS/Basic.md",
     "image/react_share_data.png",
-    "JS/ReactJS.md",
     "JS/ReactJS",
     "JS/Nodejs",
-    "GCP/GCP MariaDB架設.md",
     "image/GCP_firewall_rule2.png",
     "image/GCP_firewall_rule1.png",
-    "SWE/軟體工程課/Chapter2.md",
     "image/GCP_firewall.png",
     "SWE/軟體工程課",
-    "Untitled.canvas",
     "Untitled 1",
     "JS/NestJS",
     "JS/ExpressJS",
@@ -205,7 +220,6 @@
     "image/Pasted image 20231111221921.png",
     "image/type_of_process.png",
     "PenTest",
-    "Untitled 1.canvas",
     "Docker",
     "Hexo"
   ]
