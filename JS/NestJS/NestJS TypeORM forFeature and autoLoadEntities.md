@@ -8,7 +8,10 @@ date: 2024-01-21 Mon 16:14
 # Outline
 
 + [Repository](##Repository)
-+ [Using forFeature](<##Using for Feature>)
++ [Using forFeature](<## Using forFeature>)
++ [Reference](##Reference)
++ [autoLoadEntities](##autoLoadEntities)
++ [Summary](##Summary)
 + [Reference](##Reference)
 
 在[NestJS Connection with MySQL using TypeORM](<./NestJS Connection with MySQL using TypeORM.md>)這篇筆記裡面提到了在Nest中利用`TypeORM`與`MySQL`資料庫進行連線。當時是在`app module`中去動態配置環境變數，讓`TypeORM`能夠去連上資料庫。但其實我們要透過`TypeORM`去進行資料庫操作的話，還需要提供資料的table格式給`TypeORM`讓他去尋找資料庫中對應的table或是建立一個全新的table，而我們會稱他叫做`Repository`。
@@ -80,6 +83,37 @@ export class TodoService {
 
 這裡注入時記得需要加上`@InjectRepository`decorator來注入repository，才能夠成功引入。
 
+## autoLoadEntities
+
+同樣是在[NestJS Connection with MySQL using TypeORM](<./NestJS Connection with MySQL using TypeORM.md>)這篇筆記裡面，我們提到過，在透過`TypeORM`連線資料庫的時候，需要在`entity`的屬性內加入需要`在這次連線中會使用到的entity`，來讓我們能夠正常的去使用repository，但如果隨著entity的數量變多，那就會造成那一列變得相當冗長。對此，可以透過`autoLoadEntities`這個屬性。
+
+```ts
+ useFactory: (configservice: ConfigService) => ({
+
+      type: 'mariadb',
+
+      host: configservice.get('DB_HOST'),
+
+      port: configservice.get('DB_PORT'),
+
+      username: configservice.get('DB_USER'),
+
+      password: configservice.get('DB_PASSWORD'),
+
+      database: configservice.get('DB_NAME'),
+
+      autoLoadEntities: true;
+```
+
+藉由將這個屬性設為true，`TypeORM`會去幫我們找透過`forFearture()`註冊的entity，並自動把他們加入到連線中，如此一來，就可以省去人工輸入許多entity。
+
+## Summary
+
++ 透過`forFeature()`import repository
++ 利用`@InejctRepository()`引入constructor中來建立repository的instance
++ 用`autoLoadEntities`載入透過`forFeature()`註冊的repository
+
 ## Reference
 
 [What is Entity? | TypeORM](https://typeorm.io/entities#column-types)
+https://docs.nestjs.com/techniques/database#auto-load-entities

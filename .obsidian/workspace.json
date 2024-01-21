@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "9fda42b13e40234e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa17d60df8dc262f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -180,8 +162,10 @@
   },
   "active": "7ba561cc6fa92149",
   "lastOpenFiles": [
-    "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
+    "Todo.md",
     "JS/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
+    "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
+    "Database/MongoDB Conection and CRUD.md",
     "JS/NestJS/NestJS Pipes.md",
     "JS/NestJS/NestJS Middleware.md",
     "JS/NestJS/NestJS Interceptors.md",
@@ -190,7 +174,6 @@
     "JS/NestJS/NestJS Controller、Provider、Module.md",
     "JS/Nodejs/Nodejs底層原理.md",
     "JS/Nodejs/Nodejs中的Event loop.md",
-    "Todo.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "JS/ExpressJS/app.set()與app.use().md",
@@ -199,7 +182,6 @@
     "JS/Json Web Token(JWT).md",
     "JS/TypeScript安裝.md",
     "JS/NestJS/Writing test with NestJS using jest.md",
-    "Database/MongoDB Conection and CRUD.md",
     "Database/MongoDB安裝.md",
     "Delete.md",
     "Database/Mysql  pool.md",
