@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
+                "file": "JS/NestJS/NestJS Pipes.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
+                "file": "JS/NestJS/NestJS Pipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
+                "file": "JS/NestJS/NestJS Pipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md"
+                "file": "JS/NestJS/NestJS Pipes.md"
               }
             }
           },
@@ -162,8 +162,8 @@
   },
   "active": "7ba561cc6fa92149",
   "lastOpenFiles": [
-    "Todo.md",
     "JS/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
+    "Todo.md",
     "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
     "Database/MongoDB Conection and CRUD.md",
     "JS/NestJS/NestJS Pipes.md",
