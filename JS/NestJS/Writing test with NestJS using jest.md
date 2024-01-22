@@ -13,7 +13,7 @@ date: 2024-01-08 Thu
 + [After Test](<##After Test>)
 + [jest.clearAllMocks](##jest.clearAllMocks)
 + [jest.spyOn](##jest.spyOn)
-+ [summary](##summary)
++ [Summary](##summary)
 + [Reference](##Reference)
 ## Before Test
 
