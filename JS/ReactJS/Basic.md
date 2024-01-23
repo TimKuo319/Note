@@ -3,6 +3,11 @@ date: 2024-01-13 Sat 12:19
 ---
 ---
 
+# Outline
++ [Component](##Component)
++ [useState](##useState)
++ [Hooks](##Hooks)
++ [Sharing data between component](## Sharing data between component)
 ## Component
 
 在React中，component是一種UI元件，範圍小至一個button，大至一個page都可以是component。而component就是一種回傳markup的js function。
