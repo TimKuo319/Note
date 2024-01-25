@@ -1,13 +1,14 @@
 {
 	"nodes":[
-		{"id":"a8f7008532b0b249","type":"text","text":"Dockerfile","x":-1060,"y":-520,"width":250,"height":60},
-		{"id":"416bb5e86c133460","type":"text","text":"Image","x":-1060,"y":-360,"width":250,"height":60},
-		{"id":"3f609cafe9d31300","type":"text","text":"Container\n","x":-1060,"y":-200,"width":250,"height":60},
 		{"id":"d3f01566a346f7cf","type":"text","text":"Badge","x":55,"y":180,"width":250,"height":60},
 		{"id":"2fdc0c6565cc0ce5","type":"text","text":"DOCKER OFFICIAL IMAGE\n\n官方推出的映像檔","x":-130,"y":369,"width":250,"height":111,"color":"4"},
-		{"id":"edadc2d6d93f3feb","type":"text","text":" VERIFIED PUBLISHER\n\n經過授權的史ㄩㄥ","x":180,"y":369,"width":250,"height":111,"color":"#0c41df"},
+		{"id":"edadc2d6d93f3feb","type":"text","text":" VERIFIED PUBLISHER\n\n經過授權的映像檔，表示來源相對可靠的映像檔","x":180,"y":369,"width":250,"height":111,"color":"#0c41df"},
 		{"id":"bc43b532dead2cd5","type":"text","text":"Docker Hub","x":55,"y":40,"width":250,"height":60},
-		{"id":"60f5f58c59280b9a","type":"text","text":"## Docker的快取機制\n\n![docker_image](docker_image_layer.png)\n\n## Image layer\n\ndocker image是透過一層一層的image layer建立起來的，而且每一個image layer都有屬於自己的ID，藉由這個獨特的ID就可以讓Docker去辨識image layer。\n\n像上面圖案是分成兩個不同的image，然而這兩個image的底層都有用到PHP這個image，這時這兩個image就會`共享`PHP image，來1`增加build的速度`、`減少儲存image的容量`。","x":-475,"y":-582,"width":530,"height":505}
+		{"id":"a8f7008532b0b249","type":"text","text":"Dockerfile","x":-1320,"y":-538,"width":250,"height":60},
+		{"id":"416bb5e86c133460","type":"text","text":"Image","x":-1320,"y":-378,"width":250,"height":60},
+		{"id":"3f609cafe9d31300","type":"text","text":"Container\n","x":-1320,"y":-218,"width":250,"height":50},
+		{"id":"60f5f58c59280b9a","type":"text","text":"## Docker的快取機制\n\n![docker_image](docker_image_layer.png)\n\n## Image layer\n\ndocker image是透過一層一層的image layer建立起來的，而且每一個image layer都有屬於自己的ID，藉由這個獨特的ID就可以讓Docker去辨識image layer。\n\n像上面圖案是分成兩個不同的image，然而這兩個image的底層都有用到PHP這個image，這時這兩個image就會`共享`PHP image，來1`增加build的速度`、`減少儲存image的容量`。","x":-735,"y":-600,"width":530,"height":504},
+		{"id":"6c88b0c84beca93c","type":"text","text":"\n","x":50,"y":-156,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"22875b848a3ceb6b","fromNode":"d3f01566a346f7cf","fromSide":"bottom","toNode":"2fdc0c6565cc0ce5","toSide":"top"},
@@ -15,4 +16,7 @@
 		{"id":"8da42e11f4fced7c","fromNode":"bc43b532dead2cd5","fromSide":"bottom","toNode":"d3f01566a346f7cf","toSide":"top"},
 		{"id":"fbf445b3d30e8648","fromNode":"a8f7008532b0b249","fromSide":"bottom","toNode":"416bb5e86c133460","toSide":"top"},
 		{"id":"8fdc17d8cf96f7d3","fromNode":"416bb5e86c133460","fromSide":"top","toNode":"3f609cafe9d31300","toSide":"top"},
-		{"id":"2b4ed1947e0bf454","fromNode":"416bb5e86c133460","fromSide":"right","toNode":"60f5f58c59280b9a","toSid
+		{"id":"2b4ed1947e0bf454","fromNode":"416bb5e86c133460","fromSide":"right","toNode":"60f5f58c59280b9a","toSide":"left"},
+		{"id":"1590498108a3fe0a","fromNode":"bc43b532dead2cd5","fromSide":"top","toNode":"6c88b0c84beca93c","toSide":"bottom"}
+	]
+}

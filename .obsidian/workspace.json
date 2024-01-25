@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2a769528334fec0b",
+        "id": "a2bd9a940523b668",
         "type": "tabs",
         "children": [
           {
-            "id": "1c7d6d4ce703ec41",
+            "id": "cf7c22ce61b3548e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Docker/docker_canva.canvas",
                 "viewState": {
-                  "x": -212.5,
-                  "y": 10.772988367564817,
-                  "zoom": -0.4201777295845465
+                  "x": -445,
+                  "y": -60,
+                  "zoom": -0.21291092640795745
                 }
               }
             }
@@ -163,12 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c7d6d4ce703ec41",
+  "active": "cf7c22ce61b3548e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Docker/docker_canva.canvas",
     "image/docker_image_layer.png",
     "image/Pasted image 20231111221921.png",
     "image/PFF.png",
-    "Docker/docker_canva.canvas",
     "JS/ReactJS/note.md",
     "JS/exports、module.exports、export、export default.md",
     "JS/ExpressJS/app.set()與app.use().md",
@@ -195,7 +196,6 @@
     "JS/TypeScript安裝.md",
     "Database/MongoDB安裝.md",
     "Delete.md",
-    "Database/Mysql  pool.md",
     "新增 文字文件.txt",
     "image/react_share_data.png",
     "JS/ReactJS",
@@ -210,7 +210,6 @@
     "image/DSDM_lifecycle.png",
     "image/stashlist_snapshot.png",
     "image/Pasted image 20231111221905.png",
-    "image/type_of_process.png",
     "PenTest",
     "Docker",
     "Hexo"
