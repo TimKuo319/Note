@@ -5,6 +5,7 @@ date: 2024-01-25 Thu
 
 + [exports、module.exports](<##exports、module.exports>)
 + [export、export default](<##export、export default>)
++ [Reference](##Reference)
 ## exports、module.exports
 
 `exports`以及`module.exports`是`CommonJS語法`，他是reference到`module.exports`，所以透過`exports`，我們就能直接將variable、function、class導出做使用。而`module.exports`則是直接顯式的去導出。差別如下
@@ -33,7 +34,36 @@ module.exports = { fn , a}
 
 ## export、export default
 
+`export`及`export default`是`ES6`語法，兩者都可用來導出變數、class、function等等，差別在與導入的時候。
 
+```js
+//export.js
+export conat a = '100';
+
+export const dogSay = fuction(){
+	//..
+}
+
+export const CatSay = fuction(){
+	//..
+}
+
+cosnt m = 100;
+export default m;
+```
+
+```js
+//index.js
+import m from './export.js'
+import { dogSay, CatSay } from './export.js'
+
+console.log(m);
+dogSay();
+CatSay();
+
+```
+
+上面可以看到，利用`export`的方式，想要取得對應的function就必須要利用{}解構來指定名稱取得，而以`export default`的話則不需要，甚至上面的m其實也能夠改成其他名字，在log出來的時候也一樣能夠得到值為100。
 
 ## Reference
 
