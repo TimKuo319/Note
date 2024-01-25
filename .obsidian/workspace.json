@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c5ff58fb07ec676",
+        "id": "2a769528334fec0b",
         "type": "tabs",
         "children": [
           {
-            "id": "7ba561cc6fa92149",
+            "id": "1c7d6d4ce703ec41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "JS/ReactJS/note.md",
-                "mode": "source",
-                "source": false
+                "file": "Docker/docker_canva.canvas",
+                "viewState": {
+                  "x": -212.5,
+                  "y": 10.772988367564817,
+                  "zoom": -0.4201777295845465
+                }
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/ReactJS/note.md",
+                "file": "Docker/docker_canva.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/ReactJS/note.md",
+                "file": "Docker/docker_canva.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/ReactJS/note.md"
+                "file": "Docker/docker_canva.canvas"
               }
             }
           },
@@ -160,8 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ba561cc6fa92149",
+  "active": "1c7d6d4ce703ec41",
   "lastOpenFiles": [
+    "image/docker_image_layer.png",
+    "image/Pasted image 20231111221921.png",
+    "image/PFF.png",
     "Docker/docker_canva.canvas",
     "JS/ReactJS/note.md",
     "JS/exports、module.exports、export、export default.md",
@@ -204,7 +210,6 @@
     "image/DSDM_lifecycle.png",
     "image/stashlist_snapshot.png",
     "image/Pasted image 20231111221905.png",
-    "image/Pasted image 20231111221921.png",
     "image/type_of_process.png",
     "PenTest",
     "Docker",
