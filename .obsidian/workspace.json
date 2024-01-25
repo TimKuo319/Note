@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/ExpressJS/app.set()與app.use().md",
+                "file": "JS/exports、module.exports、export、export default.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/ExpressJS/app.set()與app.use().md",
+                "file": "JS/exports、module.exports、export、export default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/ExpressJS/app.set()與app.use().md",
+                "file": "JS/exports、module.exports、export、export default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/ExpressJS/app.set()與app.use().md"
+                "file": "JS/exports、module.exports、export、export default.md"
               }
             }
           },
@@ -162,11 +162,12 @@
   },
   "active": "7ba561cc6fa92149",
   "lastOpenFiles": [
+    "JS/ExpressJS/app.set()與app.use().md",
+    "JS/exports、module.exports、export、export default.md",
     "Todo.md",
     "JS/ReactJS/Basic.md",
     "Obsidian 連結使用方式.md",
     "JS/NestJS/Untitled.canvas",
-    "JS/Untitled.md",
     "JS/NestJS/Writing test with NestJS using jest.md",
     "JS/NestJS/Decorator.md",
     "JS/NestJS/NestJS gurad.md",
@@ -181,7 +182,6 @@
     "JS/Nodejs/Nodejs底層原理.md",
     "JS/Nodejs/Nodejs中的Event loop.md",
     "Untitled 1.canvas",
-    "JS/ExpressJS/app.set()與app.use().md",
     "JS/RxJS.md",
     "JS/Json Web Token(JWT).md",
     "JS/TypeScript安裝.md",
