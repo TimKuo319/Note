@@ -11,14 +11,11 @@
             "id": "7ba561cc6fa92149",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Docker/docker_canva.canvas",
-                "viewState": {
-                  "x": -212.5,
-                  "y": 84.5,
-                  "zoom": 0
-                }
+                "file": "JS/ReactJS/note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/docker_canva.canvas",
+                "file": "JS/ReactJS/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/docker_canva.canvas",
+                "file": "JS/ReactJS/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/docker_canva.canvas"
+                "file": "JS/ReactJS/note.md"
               }
             }
           },
@@ -166,6 +163,7 @@
   "active": "7ba561cc6fa92149",
   "lastOpenFiles": [
     "Docker/docker_canva.canvas",
+    "JS/ReactJS/note.md",
     "JS/exports、module.exports、export、export default.md",
     "JS/ExpressJS/app.set()與app.use().md",
     "Todo.md",
@@ -192,7 +190,6 @@
     "Database/MongoDB安裝.md",
     "Delete.md",
     "Database/Mysql  pool.md",
-    "Database/ORM.md",
     "新增 文字文件.txt",
     "image/react_share_data.png",
     "JS/ReactJS",
