@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a8f7008532b0b249","x":-555,"y":-240,"width":250,"height":60,"type":"text","text":"Dockerfile"},
+		{"id":"3f609cafe9d31300","x":-555,"y":160,"width":250,"height":60,"type":"text","text":"Container\n"},
+		{"id":"bc43b532dead2cd5","x":-120,"y":20,"width":250,"height":60,"type":"text","text":"Docker Hub"},
+		{"id":"d3f01566a346f7cf","type":"text","text":"Badge","x":-120,"y":160,"width":250,"height":60},
+		{"id":"416bb5e86c133460","x":-680,"y":-40,"width":250,"height":60,"type":"text","text":"Image"},
+		{"id":"2fdc0c6565cc0ce5","x":-305,"y":349,"width":250,"height":60,"color":"4","type":"text","text":"DOCKER OFFICIAL IMAGE"},
+		{"id":"edadc2d6d93f3feb","x":5,"y":349,"width":250,"height":60,"type":"text","text":" VERIFIED PUBLISHER"}
+	],
+	"edges":[
+		{"id":"22875b848a3ceb6b","fromNode":"d3f01566a346f7cf","fromSide":"bottom","toNode":"2fdc0c6565cc0ce5","toSide":"top"},
+		{"id":"3973486284af1149","fromNode":"d3f01566a346f7cf","fromSide":"bottom","toNode":"edadc2d6d93f3feb","toSide":"top"}
+	]
+}
