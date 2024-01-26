@@ -7,7 +7,8 @@
 		{"id":"b1814489210a3830","type":"text","text":"React-hook-form","x":360,"y":-116,"width":250,"height":60},
 		{"id":"7e2da39584ade131","type":"text","text":"useState","x":-310,"y":-116,"width":250,"height":60},
 		{"id":"79026c009871bcb8","x":160,"y":-720,"width":250,"height":60,"type":"text","text":"# React"},
-		{"id":"dc3732f5887f5dff","type":"text","text":"## React Form","x":-310,"y":-500,"width":250,"height":60}
+		{"id":"dc3732f5887f5dff","type":"text","text":"## React Form","x":-310,"y":-500,"width":250,"height":60},
+		{"id":"fcae9b36e60569bb","type":"text","text":"\n```tsx\nimport {useForm} from 'React-hook-form'\n\nlet {register, handleSubmit} = useForm{}\n\nconst handlerFunc = (data) =>{\n\t// what you want to do with data\n}\n\nreturn(\n\t<form onSubmit={handleSubmit(handlerFunc)}> \n\t\t<div>\n\t\t\t<label htmlFor=\"name\">\n\t\t\t<input \n\t\t\t\tid=\"name\" \n\t\t\t\ttype=\"text\"\n\t\t\t\t{...register('name')}\n\t\t\t>\n\t\t</div>\n\t\t<div>\n\t\t\t<label htmlFor=\"age\">\n\t\t\t<input onChange={\n\t\t\t\tid=\"age\" \n\t\t\t\ttype=\"text\"\n\t\t\t\t{...register('age')}\n\t\t\t>\n\t\t</div>\n\t</form>\n)\n\n```\n\n透過`useForm()`中的`register`來幫助我們在input element註冊屬性，讓我們不用像前面一樣需要自己額外再多打`value`、`onChange`等等屬性，但目前原理還不是相當理解，需要日後再進一步做查詢。","x":223,"y":60,"width":775,"height":540,"color":"2"}
 	],
 	"edges":[
 		{"id":"7d7e369d3ca3331f","fromNode":"66f68f0934bc5b14","fromSide":"bottom","toNode":"c41994753b444b62","toSide":"top"},
@@ -16,6 +17,7 @@
 		{"id":"921cdc313eca27ee","fromNode":"c41994753b444b62","fromSide":"bottom","toNode":"c403929e6a7d98fd","toSide":"top"},
 		{"id":"0e48d6ec951d51e5","fromNode":"7e2da39584ade131","fromSide":"bottom","toNode":"a7df5506966ad083","toSide":"top"},
 		{"id":"f61aa2b235312603","fromNode":"dc3732f5887f5dff","fromSide":"bottom","toNode":"66f68f0934bc5b14","toSide":"top"},
-		{"id":"9747e55856a82aa5","fromNode":"79026c009871bcb8","fromSide":"left","toNode":"dc3732f5887f5dff","toSide":"top"}
+		{"id":"9747e55856a82aa5","fromNode":"79026c009871bcb8","fromSide":"left","toNode":"dc3732f5887f5dff","toSide":"top"},
+		{"id":"9cdeb469a9c9447c","fromNode":"b1814489210a3830","fromSide":"bottom","toNode":"fcae9b36e60569bb","toSide":"top"}
 	]
 }
