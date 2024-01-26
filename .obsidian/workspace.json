@@ -6,7 +6,7 @@
       {
         "id": "a2bd9a940523b668",
         "type": "tabs",
-        "dimension": 30.389221556886227,
+        "dimension": 33.98203592814371,
         "children": [
           {
             "id": "cf7c22ce61b3548e",
@@ -25,7 +25,7 @@
       {
         "id": "c37775dad35ac91c",
         "type": "tabs",
-        "dimension": 69.61077844311377,
+        "dimension": 66.01796407185628,
         "children": [
           {
             "id": "25169fee36540d21",
@@ -35,8 +35,8 @@
               "state": {
                 "file": "JS/ReactJS/React.canvas",
                 "viewState": {
-                  "x": -236.79998779296875,
-                  "y": -40.25,
+                  "x": -391.99993896484375,
+                  "y": 150.64990234375,
                   "zoom": 0
                 }
               }
