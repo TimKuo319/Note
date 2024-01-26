@@ -1,17 +1,21 @@
 {
 	"nodes":[
-		{"id":"b1814489210a3830","x":20,"y":-116,"width":250,"height":60,"type":"text","text":"React-hook-form"},
-		{"id":"66f68f0934bc5b14","x":-310,"y":-320,"width":250,"height":60,"type":"text","text":"React中Form的處理方式"},
-		{"id":"7e2da39584ade131","x":-360,"y":-116,"width":250,"height":60,"type":"text","text":"useState"},
-		{"id":"c41994753b444b62","x":-865,"y":-116,"width":250,"height":60,"type":"text","text":"useRef"},
-		{"id":"c403929e6a7d98fd","x":-1120,"y":60,"width":480,"height":446,"type":"text","text":"利用useRef參考HTMLInputElement\n\n```tsx\n\nlet nameRef = useRef<HTMLInputElement>(null);\n\nconst handleSubmit = (event: FormEvent) => {\n\tif(nameRef.current !== null)\n\t\tconsole.log(nameRef.current.value);\n}\n\nreturn(\n\t<form onSubmit={handleSubmit}> \n\t\t<label htmlFor=\"name\">\n\t\t<input ref{nameRef} id=\"name\" type=\"text\">\n\t</form>\n)\n```\n\n透過在input element中加入ref，來連結ref"},
-		{"id":"a7df5506966ad083","x":-615,"y":60,"width":775,"height":480,"type":"text","text":"\n```tsx\nlet [person, setPerson] = useState({\n\tname: '',\n\tage: 0\n})\n\nreturn(\n\t<form onSubmit={handleSubmit}> \n\t\t<div>\n\t\t\t<label htmlFor=\"name\">\n\t\t\t<input onChange={(event) => setPerson(...person, name: e.target.value) \n\t\t\t\tid=\"name\" \n\t\t\t\ttype=\"text\"\n\t\t\t\tvalue={person.name}\n\t\t\t>\n\t\t</div>\n\t\t<div>\n\t\t\t<label htmlFor=\"age\">\n\t\t\t<input onChange={(event) => setPerson(...person, age: parsInt(e.target.value)) \n\t\t\t\tid=\"age\" \n\t\t\t\ttype=\"text\"\n\t\t\t\tvalue={person.age}\n\t\t\t>\n\t\t</div>\n\t</form>\n)\n\n```\n\n像上面的例子中，透過useState來設定person的狀態，並且透過`onChange`來監聽input field的變化，而`value`的屬性則是用來確保input的狀態統一，因為原先沒有設定初始值的話，`e.target.value`會自己有一個狀態，而我們自己的state也是一個狀態，可能會造成`狀態不一致`，透過將`value`初始化為useState的`person`，這樣就可以同步狀態。"}
+		{"id":"66f68f0934bc5b14","type":"text","text":"取得Form data以及更新Form的方式","x":-310,"y":-320,"width":250,"height":60},
+		{"id":"c41994753b444b62","type":"text","text":"useRef","x":-865,"y":-116,"width":250,"height":60},
+		{"id":"c403929e6a7d98fd","type":"text","text":"利用useRef參考HTMLInputElement\n\n```tsx\n\nlet nameRef = useRef<HTMLInputElement>(null);\n\nconst handleSubmit = (event: FormEvent) => {\n\tif(nameRef.current !== null)\n\t\tconsole.log(nameRef.current.value);\n}\n\nreturn(\n\t<form onSubmit={handleSubmit}> \n\t\t<label htmlFor=\"name\">\n\t\t<input ref{nameRef} id=\"name\" type=\"text\">\n\t</form>\n)\n```\n\n透過在input element中加入ref，來連結ref","x":-1260,"y":60,"width":480,"height":446},
+		{"id":"a7df5506966ad083","type":"text","text":"\n```tsx\nlet [person, setPerson] = useState({\n\tname: '',\n\tage: 0\n})\n\nreturn(\n\t<form onSubmit={handleSubmit}> \n\t\t<div>\n\t\t\t<label htmlFor=\"name\">\n\t\t\t<input onChange={(event) => setPerson(...person, name: e.target.value) \n\t\t\t\tid=\"name\" \n\t\t\t\ttype=\"text\"\n\t\t\t\tvalue={person.name}\n\t\t\t>\n\t\t</div>\n\t\t<div>\n\t\t\t<label htmlFor=\"age\">\n\t\t\t<input onChange={(event) => setPerson(...person, age: parsInt(e.target.value)) \n\t\t\t\tid=\"age\" \n\t\t\t\ttype=\"text\"\n\t\t\t\tvalue={person.age}\n\t\t\t>\n\t\t</div>\n\t</form>\n)\n\n```\n\n像上面的例子中，透過useState來設定person的狀態，並且透過`onChange`來監聽input field的變化，而`value`的屬性則是用來確保input的狀態統一，因為原先沒有設定初始值的話，`e.target.value`會自己有一個狀態，而我們自己的state也是一個狀態，可能會造成`狀態不一致`，透過將`value`初始化為useState的`person`，這樣就可以同步狀態。","x":-660,"y":60,"width":775,"height":480},
+		{"id":"b1814489210a3830","type":"text","text":"React-hook-form","x":360,"y":-116,"width":250,"height":60},
+		{"id":"7e2da39584ade131","type":"text","text":"useState","x":-310,"y":-116,"width":250,"height":60},
+		{"id":"79026c009871bcb8","x":160,"y":-720,"width":250,"height":60,"type":"text","text":"# React"},
+		{"id":"dc3732f5887f5dff","type":"text","text":"## React Form","x":-310,"y":-500,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7d7e369d3ca3331f","fromNode":"66f68f0934bc5b14","fromSide":"bottom","toNode":"c41994753b444b62","toSide":"top"},
 		{"id":"854da2fea82c1d5c","fromNode":"66f68f0934bc5b14","fromSide":"bottom","toNode":"7e2da39584ade131","toSide":"top"},
 		{"id":"0263b2a50b9257a8","fromNode":"66f68f0934bc5b14","fromSide":"bottom","toNode":"b1814489210a3830","toSide":"top"},
 		{"id":"921cdc313eca27ee","fromNode":"c41994753b444b62","fromSide":"bottom","toNode":"c403929e6a7d98fd","toSide":"top"},
-		{"id":"0e48d6ec951d51e5","fromNode":"7e2da39584ade131","fromSide":"bottom","toNode":"a7df5506966ad083","toSide":"top"}
+		{"id":"0e48d6ec951d51e5","fromNode":"7e2da39584ade131","fromSide":"bottom","toNode":"a7df5506966ad083","toSide":"top"},
+		{"id":"f61aa2b235312603","fromNode":"dc3732f5887f5dff","fromSide":"bottom","toNode":"66f68f0934bc5b14","toSide":"top"},
+		{"id":"9747e55856a82aa5","fromNode":"79026c009871bcb8","fromSide":"left","toNode":"dc3732f5887f5dff","toSide":"top"}
 	]
 }

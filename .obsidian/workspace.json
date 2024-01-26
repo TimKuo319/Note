@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "a2bd9a940523b668",
-        "type": "tabs",
-        "dimension": 33.98203592814371,
-        "children": [
-          {
-            "id": "cf7c22ce61b3548e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/ReactJS/note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c37775dad35ac91c",
         "type": "tabs",
-        "dimension": 66.01796407185628,
         "children": [
           {
             "id": "25169fee36540d21",
@@ -35,9 +15,9 @@
               "state": {
                 "file": "JS/ReactJS/React.canvas",
                 "viewState": {
-                  "x": -391.99993896484375,
-                  "y": 305.8250353910165,
-                  "zoom": -0.4166666666666667
+                  "x": 285,
+                  "y": 163.90185590288667,
+                  "zoom": -0.8333333333333334
                 }
               }
             }
@@ -93,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -187,8 +166,9 @@
   "active": "25169fee36540d21",
   "lastOpenFiles": [
     "JS/ReactJS/note.md",
-    "JS/ReactJS/Basic.md",
+    "JS/NestJS/Writing test with NestJS using jest.md",
     "JS/ReactJS/React.canvas",
+    "JS/ReactJS/Basic.md",
     "JS/ReactJS/Untitled.md",
     "Docker/docker_canva.canvas",
     "Hexo/Hexo + githubpage 架站.md",
@@ -201,7 +181,6 @@
     "Todo.md",
     "Obsidian 連結使用方式.md",
     "JS/NestJS/Untitled.canvas",
-    "JS/NestJS/Writing test with NestJS using jest.md",
     "JS/NestJS/Decorator.md",
     "JS/NestJS/NestJS gurad.md",
     "JS/NestJS/NestJS Exception filters.md",
