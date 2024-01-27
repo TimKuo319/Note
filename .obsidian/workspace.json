@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "194e05fe78f0a3b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/ReactJS/Zod and hookresolvers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9193e483abc5a328",
             "type": "leaf",
             "state": {
@@ -27,8 +15,8 @@
               "state": {
                 "file": "JS/ReactJS/React.canvas",
                 "viewState": {
-                  "x": 37,
-                  "y": -106,
+                  "x": -386.07960815320047,
+                  "y": -154.82105249013807,
                   "zoom": -1.3261808190288111
                 }
               }
@@ -101,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/ReactJS/Zod and hookresolvers.md",
+                "file": "JS/ReactJS/React.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/ReactJS/Zod and hookresolvers.md",
+                "file": "JS/ReactJS/React.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/ReactJS/Zod and hookresolvers.md"
+                "file": "JS/ReactJS/React.canvas"
               }
             }
           },
@@ -175,10 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "194e05fe78f0a3b5",
+  "active": "9193e483abc5a328",
   "lastOpenFiles": [
-    "JS/ReactJS/React.canvas",
     "JS/ReactJS/Zod and hookresolvers.md",
+    "JS/ReactJS/React.canvas",
     "JS/TypeScript安裝.md",
     "Untitled.md",
     "JS/ReactJS/Basic.md",
