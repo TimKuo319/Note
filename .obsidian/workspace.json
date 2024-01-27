@@ -11,14 +11,11 @@
             "id": "25169fee36540d21",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "JS/ReactJS/React.canvas",
-                "viewState": {
-                  "x": 932.2102055070652,
-                  "y": -697.2506864005759,
-                  "zoom": -1.6666666666666667
-                }
+                "file": "JS/ReactJS/Basic.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/ReactJS/React.canvas",
+                "file": "JS/ReactJS/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/ReactJS/React.canvas",
+                "file": "JS/ReactJS/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/ReactJS/React.canvas"
+                "file": "JS/ReactJS/Basic.md"
               }
             }
           },
@@ -165,9 +162,9 @@
   },
   "active": "25169fee36540d21",
   "lastOpenFiles": [
+    "JS/ReactJS/React.canvas",
     "JS/ReactJS/note.md",
     "JS/NestJS/Writing test with NestJS using jest.md",
-    "JS/ReactJS/React.canvas",
     "JS/ReactJS/Basic.md",
     "JS/ReactJS/Untitled.md",
     "Docker/docker_canva.canvas",
