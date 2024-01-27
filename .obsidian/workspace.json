@@ -11,14 +11,11 @@
             "id": "194e05fe78f0a3b5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "JS/ReactJS/React.canvas",
-                "viewState": {
-                  "x": -115,
-                  "y": 93.75,
-                  "zoom": 0
-                }
+                "file": "JS/ReactJS/Zod and hookresolvers.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/ReactJS/React.canvas",
+                "file": "JS/ReactJS/Zod and hookresolvers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/ReactJS/React.canvas",
+                "file": "JS/ReactJS/Zod and hookresolvers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/ReactJS/React.canvas"
+                "file": "JS/ReactJS/Zod and hookresolvers.md"
               }
             }
           },
@@ -165,13 +162,13 @@
   },
   "active": "194e05fe78f0a3b5",
   "lastOpenFiles": [
+    "JS/ReactJS/React.canvas",
+    "JS/ReactJS/Zod and hookresolvers.md",
     "JS/TypeScript安裝.md",
     "Untitled.md",
-    "JS/ReactJS/React.canvas",
     "JS/ReactJS/Basic.md",
     "JS/ReactJS/note.md",
     "JS/NestJS/Writing test with NestJS using jest.md",
-    "JS/ReactJS/Untitled.md",
     "Docker/docker_canva.canvas",
     "Hexo/Hexo + githubpage 架站.md",
     "image/docker_image_layer.png",

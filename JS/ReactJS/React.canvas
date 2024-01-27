@@ -10,11 +10,10 @@
 		{"id":"66f68f0934bc5b14","type":"text","text":"### 取得Form data的方式","x":-600,"y":-200,"width":290,"height":60},
 		{"id":"c41994753b444b62","type":"text","text":"#### useRef","x":-1040,"y":-440,"width":250,"height":60},
 		{"id":"c403929e6a7d98fd","type":"text","text":"利用useRef參考HTMLInputElement\n\n```tsx\n\nlet nameRef = useRef<HTMLInputElement>(null);\n\nconst handleSubmit = (event: FormEvent) => {\n\tif(nameRef.current !== null)\n\t\tconsole.log(nameRef.current.value);\n}\n\nreturn(\n\t<form onSubmit={handleSubmit}> \n\t\t<label htmlFor=\"name\">\n\t\t<input ref{nameRef} id=\"name\" type=\"text\">\n\t</form>\n)\n```\n\n透過在input element中加入ref，來連結ref","x":-1838,"y":-916,"width":480,"height":446},
-		{"id":"e5c50c2825f87d3a","x":-560,"y":10,"width":250,"height":60,"type":"text","text":"### Validation"},
-		{"id":"3bcdf478b7aacf02","x":-850,"y":184,"width":250,"height":60,"type":"text","text":"#### Joi"},
-		{"id":"d6957fed587d855f","x":-560,"y":176,"width":250,"height":60,"type":"text","text":"#### Yup"},
-		{"id":"9f3bec267d10a1de","x":-240,"y":176,"width":250,"height":68,"type":"text","text":"#### Zod\n[Zod | Documentation](https://zod.dev/)"},
-		{"id":"ffacea12b96e50fd","x":-580,"y":400,"width":250,"height":60,"type":"text","text":""}
+		{"id":"e5c50c2825f87d3a","type":"text","text":"### Validation","x":-560,"y":10,"width":250,"height":60},
+		{"id":"3bcdf478b7aacf02","type":"text","text":"#### Joi","x":-850,"y":184,"width":250,"height":60},
+		{"id":"d6957fed587d855f","type":"text","text":"#### Yup","x":-560,"y":176,"width":250,"height":60},
+		{"id":"9f3bec267d10a1de","type":"text","text":"#### Zod\n[Zod | Documentation](https://zod.dev/)","x":-240,"y":176,"width":250,"height":84}
 	],
 	"edges":[
 		{"id":"7d7e369d3ca3331f","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"c41994753b444b62","toSide":"right"},
@@ -28,7 +27,6 @@
 		{"id":"dc81bcde61410f1a","fromNode":"dc3732f5887f5dff","fromSide":"bottom","toNode":"e5c50c2825f87d3a","toSide":"right"},
 		{"id":"0c22bc7d67344a6b","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"9f3bec267d10a1de","toSide":"top"},
 		{"id":"52e242bb13d84ff4","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"3bcdf478b7aacf02","toSide":"top"},
-		{"id":"c317df3d3b55ebaf","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"d6957fed587d855f","toSide":"top"},
-		{"id":"98082b2ca3175a64","fromNode":"9f3bec267d10a1de","fromSide":"bottom","toNode":"ffacea12b96e50fd","toSide":"top"}
+		{"id":"c317df3d3b55ebaf","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"d6957fed587d855f","toSide":"top"}
 	]
 }
