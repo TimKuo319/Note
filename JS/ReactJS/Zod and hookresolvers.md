@@ -11,6 +11,11 @@ import { useForm } from 'react-hook-form'
 
 //...
 
+interface FormType{
+	age: number;
+}
+
+let {register, handleSubmit, formState:{ errors }} = useForm<FormType>({);
 return (
 	<form>
 		<label>Age</label>
@@ -39,7 +44,7 @@ const schema = z.object({
 
 type FormType = z.infer<typeof schema>
 
-let {register, handleSubmit, formState:{ errors }} = useForm<FormType>({resovler:zodResolver{schema}});
+let {register, handleSubmit, formState:{ errors }} = useForm<FormType>({resovler:zodResolver(schema)});
 
 return (
 	<form>
@@ -50,4 +55,7 @@ return (
 )
 ```
 
-hookresovler的用途是用解析zod的schema，並追蹤我們form的狀態。從上面的程式碼可以看到我們先透過`z.object`，利用object的方式來建立驗證規則。利用zod的另外一個好處就是我們可以直接透過`z.infer`去推測我們form的type 不用像過去依樣
+hookresovler的用途是用解析zod的schema，並追蹤我們form的狀態。從上面的程式碼可以看到我們先透過`z.object`，利用object的方式來建立驗證規則。利用zod的另外一個好處就是我們可以直接透過`z.infer`去推測我們form的type 不用像之前需要再自己額外撰寫form的interface。最後再將這個schema透過`zodResolver()`傳入到form中即可完成。
+
+整個表單裡面的內容差別是最多的，從第一段程式碼我們可以看到，`register`後面還需要加上屬性去進行驗證，但透過zod先定義好之後，`我們就不用在這個部分再手動新增驗證規則`。還有錯誤訊息的部分，當表單沒有通過驗證的時候，原先第一段程式碼也需要打兩行，依照不同的error type去輸出不同的錯誤訊息，可是這裡我們只需要確定error來源的對象，後面就可以動態的去輸出錯誤訊息，zod會幫我們輸出對應的錯誤訊息。相較第一段程式碼比起來差別就想當的大。
+

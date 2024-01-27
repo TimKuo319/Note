@@ -13,20 +13,22 @@
 		{"id":"e5c50c2825f87d3a","type":"text","text":"### Validation","x":-560,"y":10,"width":250,"height":60},
 		{"id":"3bcdf478b7aacf02","type":"text","text":"#### Joi","x":-850,"y":184,"width":250,"height":60},
 		{"id":"d6957fed587d855f","type":"text","text":"#### Yup","x":-560,"y":176,"width":250,"height":60},
-		{"id":"9f3bec267d10a1de","type":"text","text":"#### Zod\n[Zod | Documentation](https://zod.dev/)","x":-240,"y":176,"width":250,"height":84}
+		{"id":"9f3bec267d10a1de","type":"text","text":"#### Zod\n[Zod | Documentation](https://zod.dev/)","x":-240,"y":176,"width":250,"height":84},
+		{"id":"316c7446fcf61f9b","x":-850,"y":331,"width":1287,"height":697,"type":"file","file":"JS/ReactJS/Zod and hookresolvers.md"}
 	],
 	"edges":[
-		{"id":"7d7e369d3ca3331f","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"c41994753b444b62","toSide":"right"},
-		{"id":"854da2fea82c1d5c","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"7e2da39584ade131","toSide":"right"},
-		{"id":"0263b2a50b9257a8","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"b1814489210a3830","toSide":"right"},
-		{"id":"0e48d6ec951d51e5","fromNode":"7e2da39584ade131","fromSide":"left","toNode":"a7df5506966ad083","toSide":"right"},
-		{"id":"f61aa2b235312603","fromNode":"dc3732f5887f5dff","fromSide":"left","toNode":"66f68f0934bc5b14","toSide":"top"},
-		{"id":"9747e55856a82aa5","fromNode":"79026c009871bcb8","fromSide":"left","toNode":"dc3732f5887f5dff","toSide":"top"},
-		{"id":"9cdeb469a9c9447c","fromNode":"b1814489210a3830","fromSide":"left","toNode":"fcae9b36e60569bb","toSide":"right"},
-		{"id":"6082866496d28da5","fromNode":"c41994753b444b62","fromSide":"top","toNode":"c403929e6a7d98fd","toSide":"right"},
-		{"id":"dc81bcde61410f1a","fromNode":"dc3732f5887f5dff","fromSide":"bottom","toNode":"e5c50c2825f87d3a","toSide":"right"},
-		{"id":"0c22bc7d67344a6b","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"9f3bec267d10a1de","toSide":"top"},
-		{"id":"52e242bb13d84ff4","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"3bcdf478b7aacf02","toSide":"top"},
-		{"id":"c317df3d3b55ebaf","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"d6957fed587d855f","toSide":"top"}
+		{"id":"7d7e369d3ca3331f","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"c41994753b444b62","toSide":"right","color":"4"},
+		{"id":"854da2fea82c1d5c","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"7e2da39584ade131","toSide":"right","color":"4"},
+		{"id":"0263b2a50b9257a8","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"b1814489210a3830","toSide":"right","color":"4"},
+		{"id":"0e48d6ec951d51e5","fromNode":"7e2da39584ade131","fromSide":"left","toNode":"a7df5506966ad083","toSide":"right","color":"4"},
+		{"id":"f61aa2b235312603","fromNode":"dc3732f5887f5dff","fromSide":"left","toNode":"66f68f0934bc5b14","toSide":"top","color":"4"},
+		{"id":"9747e55856a82aa5","fromNode":"79026c009871bcb8","fromSide":"left","toNode":"dc3732f5887f5dff","toSide":"top","color":"4"},
+		{"id":"9cdeb469a9c9447c","fromNode":"b1814489210a3830","fromSide":"left","toNode":"fcae9b36e60569bb","toSide":"right","color":"4"},
+		{"id":"6082866496d28da5","fromNode":"c41994753b444b62","fromSide":"top","toNode":"c403929e6a7d98fd","toSide":"right","color":"4"},
+		{"id":"dc81bcde61410f1a","fromNode":"dc3732f5887f5dff","fromSide":"bottom","toNode":"e5c50c2825f87d3a","toSide":"right","color":"4"},
+		{"id":"0c22bc7d67344a6b","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"9f3bec267d10a1de","toSide":"top","color":"4"},
+		{"id":"52e242bb13d84ff4","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"3bcdf478b7aacf02","toSide":"top","color":"4"},
+		{"id":"c317df3d3b55ebaf","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"d6957fed587d855f","toSide":"top","color":"4"},
+		{"id":"08867b13cca15033","fromNode":"9f3bec267d10a1de","fromSide":"bottom","toNode":"316c7446fcf61f9b","toSide":"top","color":"4"}
 	]
 }
