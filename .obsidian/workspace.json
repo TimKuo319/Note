@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c37775dad35ac91c",
+        "id": "a5edbce3c1626252",
         "type": "tabs",
         "children": [
           {
-            "id": "25169fee36540d21",
+            "id": "194e05fe78f0a3b5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "JS/ReactJS/React.canvas",
                 "viewState": {
-                  "x": 944.1072470167067,
-                  "y": -337.6507749380717,
-                  "zoom": -0.5024175436029426
+                  "x": 290,
+                  "y": -165,
+                  "zoom": -0.9419527146321282
                 }
               }
             }
@@ -163,16 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25169fee36540d21",
+  "active": "194e05fe78f0a3b5",
   "lastOpenFiles": [
-    "JS/ReactJS/Basic.md",
+    "JS/TypeScript安裝.md",
+    "Untitled.md",
     "JS/ReactJS/React.canvas",
+    "JS/ReactJS/Basic.md",
     "JS/ReactJS/note.md",
     "JS/NestJS/Writing test with NestJS using jest.md",
     "JS/ReactJS/Untitled.md",
     "Docker/docker_canva.canvas",
     "Hexo/Hexo + githubpage 架站.md",
-    "Untitled.md",
     "image/docker_image_layer.png",
     "image/Pasted image 20231111221921.png",
     "image/PFF.png",
@@ -196,7 +197,6 @@
     "Untitled 1.canvas",
     "JS/RxJS.md",
     "JS/Json Web Token(JWT).md",
-    "JS/TypeScript安裝.md",
     "新增 文字文件.txt",
     "image/react_share_data.png",
     "JS/ReactJS",
