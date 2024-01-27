@@ -11,11 +11,14 @@
             "id": "25169fee36540d21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "JS/ReactJS/Basic.md",
-                "mode": "source",
-                "source": false
+                "file": "JS/ReactJS/React.canvas",
+                "viewState": {
+                  "x": 944.1072470167067,
+                  "y": -337.6507749380717,
+                  "zoom": -0.5024175436029426
+                }
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/ReactJS/Basic.md",
+                "file": "JS/ReactJS/React.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/ReactJS/Basic.md",
+                "file": "JS/ReactJS/React.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/ReactJS/Basic.md"
+                "file": "JS/ReactJS/React.canvas"
               }
             }
           },
@@ -162,10 +165,10 @@
   },
   "active": "25169fee36540d21",
   "lastOpenFiles": [
+    "JS/ReactJS/Basic.md",
     "JS/ReactJS/React.canvas",
     "JS/ReactJS/note.md",
     "JS/NestJS/Writing test with NestJS using jest.md",
-    "JS/ReactJS/Basic.md",
     "JS/ReactJS/Untitled.md",
     "Docker/docker_canva.canvas",
     "Hexo/Hexo + githubpage 架站.md",
