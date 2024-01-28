@@ -15,7 +15,12 @@
 		{"id":"316c7446fcf61f9b","type":"file","file":"JS/ReactJS/Zod and hookresolvers.md","x":-915,"y":400,"width":1287,"height":697},
 		{"id":"e11f6ca0f5d2b5ca","type":"text","text":"## Dynamic render\n\n在react中，會利用JSX來作為component的回傳值。當我們要顯示像是list或table等等物件時，可以透過array method來將這些元素回傳，達到動態回傳的效果。\n\n```tsx\n return (\n\n        <>\n\n            <table className=\"table table-bordered\">\n                <thead>\n                <tr>\n\n                    <th scope=\"col\">Description</th>\n\n                    <th scope=\"col\">Amount</th>\n\n                    <th scope=\"col\">Quantity</th>\n\n                    <th scope=\"col\"></th>\n                </tr>\n                </thead>\n\n                <tbody>\n                    {items.map((item) => (<tr key={item.id}>\n                        <td>{item.description}</td>\n                        <td>{item.amount}</td>\n                        <td>{item.category}</td>\n                        <td>\n                            <button className=\"btn btn-danger\" onClick={() => onDelete(item.id)}>Delete</button>\n\n                        </td>\n                    </tr>))}\n                </tbody>              \n\n                <tfoot>\n\n                    <tr>\n\n                        <td>Total</td>\n\n                        <td>{items.reduce((total, item) => total + item.amount, 0)}</td>\n\n                        <td></td>\n\n                        <td></td>\n\n                    </tr>\n\n                </tfoot>\n\n            </table>\n\n        </>\n\n    )\n```","x":-2840,"y":-805,"width":700,"height":850},
 		{"id":"66f68f0934bc5b14","type":"text","text":"### 取得Form data的方式","x":-600,"y":-200,"width":290,"height":60},
-		{"id":"7b656a691979eea8","x":600,"y":-500,"width":250,"height":60,"type":"text","text":"## Use Effect"}
+		{"id":"7b656a691979eea8","type":"text","text":"## Use Effect","x":687,"y":-470,"width":250,"height":60},
+		{"id":"4392215f300c5616","type":"file","file":"JS/ReactJS/useEffect.md","x":160,"y":-306,"width":674,"height":632},
+		{"id":"f8515114acd937cd","x":-60,"y":-1129,"width":250,"height":60,"type":"text","text":"### Fetch "},
+		{"id":"68713fa727ee58c1","type":"text","text":"## 連線取得資料","x":160,"y":-900,"width":250,"height":37},
+		{"id":"05d0293e2cd0b5f7","x":380,"y":-1129,"width":250,"height":60,"type":"text","text":"## Axios"},
+		{"id":"fcdf63d9f4c0b2b3","x":380,"y":-1540,"width":560,"height":360,"type":"text","text":"get後方的type指的是回傳值預期的形式。\n\n```tsx\naxios.get<User[]>('https://jsonplaceholder.typicode.com/posts',{signal: controller.signal})\n\n       .then((res) => {\n         setUsers(res.data)\n         setLoading(false)\n\n       })\n\n       .catch((err) => {\n\n         setError(err.message)\n         setLoading(false)\n\n       })\n```"}
 	],
 	"edges":[
 		{"id":"7d7e369d3ca3331f","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"c41994753b444b62","toSide":"right","color":"4"},
@@ -31,6 +36,11 @@
 		{"id":"52e242bb13d84ff4","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"3bcdf478b7aacf02","toSide":"top","color":"4"},
 		{"id":"c317df3d3b55ebaf","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"d6957fed587d855f","toSide":"top","color":"4"},
 		{"id":"08867b13cca15033","fromNode":"9f3bec267d10a1de","fromSide":"bottom","toNode":"316c7446fcf61f9b","toSide":"top","color":"4"},
-		{"id":"a9ef56b3c7d347f9","fromNode":"79026c009871bcb8","fromSide":"bottom","toNode":"7b656a691979eea8","toSide":"top"}
+		{"id":"a9ef56b3c7d347f9","fromNode":"79026c009871bcb8","fromSide":"bottom","toNode":"7b656a691979eea8","toSide":"top","color":"6"},
+		{"id":"4c744308ec20de86","fromNode":"7b656a691979eea8","fromSide":"bottom","toNode":"4392215f300c5616","toSide":"top","color":"6"},
+		{"id":"8f868c010186b1c3","fromNode":"79026c009871bcb8","fromSide":"top","toNode":"68713fa727ee58c1","toSide":"bottom"},
+		{"id":"317eabd293b9ba75","fromNode":"68713fa727ee58c1","fromSide":"top","toNode":"f8515114acd937cd","toSide":"bottom"},
+		{"id":"818fd9d963f6dceb","fromNode":"68713fa727ee58c1","fromSide":"top","toNode":"05d0293e2cd0b5f7","toSide":"bottom"},
+		{"id":"a80d450c9f850ea2","fromNode":"05d0293e2cd0b5f7","fromSide":"top","toNode":"fcdf63d9f4c0b2b3","toSide":"bottom"}
 	]
 }
