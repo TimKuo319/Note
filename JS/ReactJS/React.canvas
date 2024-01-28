@@ -14,7 +14,8 @@
 		{"id":"9f3bec267d10a1de","type":"text","text":"#### Zod\n[Zod | Documentation](https://zod.dev/)","x":-240,"y":176,"width":250,"height":84},
 		{"id":"316c7446fcf61f9b","type":"file","file":"JS/ReactJS/Zod and hookresolvers.md","x":-915,"y":400,"width":1287,"height":697},
 		{"id":"e11f6ca0f5d2b5ca","type":"text","text":"## Dynamic render\n\n在react中，會利用JSX來作為component的回傳值。當我們要顯示像是list或table等等物件時，可以透過array method來將這些元素回傳，達到動態回傳的效果。\n\n```tsx\n return (\n\n        <>\n\n            <table className=\"table table-bordered\">\n                <thead>\n                <tr>\n\n                    <th scope=\"col\">Description</th>\n\n                    <th scope=\"col\">Amount</th>\n\n                    <th scope=\"col\">Quantity</th>\n\n                    <th scope=\"col\"></th>\n                </tr>\n                </thead>\n\n                <tbody>\n                    {items.map((item) => (<tr key={item.id}>\n                        <td>{item.description}</td>\n                        <td>{item.amount}</td>\n                        <td>{item.category}</td>\n                        <td>\n                            <button className=\"btn btn-danger\" onClick={() => onDelete(item.id)}>Delete</button>\n\n                        </td>\n                    </tr>))}\n                </tbody>              \n\n                <tfoot>\n\n                    <tr>\n\n                        <td>Total</td>\n\n                        <td>{items.reduce((total, item) => total + item.amount, 0)}</td>\n\n                        <td></td>\n\n                        <td></td>\n\n                    </tr>\n\n                </tfoot>\n\n            </table>\n\n        </>\n\n    )\n```","x":-2840,"y":-805,"width":700,"height":850},
-		{"id":"66f68f0934bc5b14","type":"text","text":"### 取得Form data的方式","x":-600,"y":-200,"width":290,"height":60}
+		{"id":"66f68f0934bc5b14","type":"text","text":"### 取得Form data的方式","x":-600,"y":-200,"width":290,"height":60},
+		{"id":"7b656a691979eea8","x":431,"y":-517,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"7d7e369d3ca3331f","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"c41994753b444b62","toSide":"right","color":"4"},
@@ -29,6 +30,7 @@
 		{"id":"0c22bc7d67344a6b","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"9f3bec267d10a1de","toSide":"top","color":"4"},
 		{"id":"52e242bb13d84ff4","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"3bcdf478b7aacf02","toSide":"top","color":"4"},
 		{"id":"c317df3d3b55ebaf","fromNode":"e5c50c2825f87d3a","fromSide":"bottom","toNode":"d6957fed587d855f","toSide":"top","color":"4"},
-		{"id":"08867b13cca15033","fromNode":"9f3bec267d10a1de","fromSide":"bottom","toNode":"316c7446fcf61f9b","toSide":"top","color":"4"}
+		{"id":"08867b13cca15033","fromNode":"9f3bec267d10a1de","fromSide":"bottom","toNode":"316c7446fcf61f9b","toSide":"top","color":"4"},
+		{"id":"a9ef56b3c7d347f9","fromNode":"79026c009871bcb8","fromSide":"bottom","toNode":"7b656a691979eea8","toSide":"top"}
 	]
 }
