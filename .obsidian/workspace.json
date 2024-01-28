@@ -15,8 +15,8 @@
               "state": {
                 "file": "JS/ReactJS/React.canvas",
                 "viewState": {
-                  "x": 247.22478390912661,
-                  "y": -566.3615547755794,
+                  "x": 98.07730394725547,
+                  "y": -34.55065563837934,
                   "zoom": -1.3240397921096851
                 }
               }
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
