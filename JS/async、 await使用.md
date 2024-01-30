@@ -30,4 +30,4 @@ async function getUser() {
 }
 ```
 
-await方法在被調用的時候，會block住整個async function，以上面的例子來說，當`fetch`在被執行的處於`pending`狀態的時候，並不會往下去執行`user = response.json`的敘述，而是會等待`fetch`變為`reso`
+await方法在被調用的時候，會block住整個async function，以上面的例子來說，當`fetch`在被執行的處於`pending`狀態的時候，並不會往下去執行`user = response.json`的敘述，而是會等待promise變為`resolved`或`rejected`的狀態才會往下執行。

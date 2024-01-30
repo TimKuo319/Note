@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a5edbce3c1626252",
+        "id": "ece9eef79c29bb4d",
         "type": "tabs",
         "children": [
           {
-            "id": "9193e483abc5a328",
+            "id": "3bc7a36591831d84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "JS/async、 await使用.md",
-                "mode": "source",
-                "source": false
+                "file": "JS/ReactJS/React.canvas",
+                "viewState": {
+                  "x": 1592.2852276090448,
+                  "y": -1220.7684085604735,
+                  "zoom": -0.8424055022618291
+                }
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/async、 await使用.md",
+                "file": "JS/ReactJS/React.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/async、 await使用.md",
+                "file": "JS/ReactJS/React.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/async、 await使用.md"
+                "file": "JS/ReactJS/React.canvas"
               }
             }
           },
@@ -160,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9193e483abc5a328",
+  "active": "3bc7a36591831d84",
   "lastOpenFiles": [
+    "JS/async、 await使用.md",
     "JS/exports、module.exports、export、export default.md",
     "JS/ReactJS/React.canvas",
     "JS/ReactJS/Zod and hookresolvers.md",
