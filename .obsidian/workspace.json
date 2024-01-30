@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/exports、module.exports、export、export default.md",
+                "file": "JS/async、 await使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/exports、module.exports、export、export default.md",
+                "file": "JS/async、 await使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/exports、module.exports、export、export default.md",
+                "file": "JS/async、 await使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/exports、module.exports、export、export default.md"
+                "file": "JS/async、 await使用.md"
               }
             }
           },
@@ -162,6 +162,7 @@
   },
   "active": "9193e483abc5a328",
   "lastOpenFiles": [
+    "JS/exports、module.exports、export、export default.md",
     "JS/ReactJS/React.canvas",
     "JS/ReactJS/Zod and hookresolvers.md",
     "JS/ReactJS/useEffect.md",
@@ -175,7 +176,6 @@
     "image/docker_image_layer.png",
     "image/Pasted image 20231111221921.png",
     "image/PFF.png",
-    "JS/exports、module.exports、export、export default.md",
     "JS/ExpressJS/app.set()與app.use().md",
     "Todo.md",
     "Obsidian 連結使用方式.md",
