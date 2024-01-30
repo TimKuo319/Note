@@ -11,14 +11,11 @@
             "id": "3bc7a36591831d84",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "JS/ReactJS/React.canvas",
-                "viewState": {
-                  "x": 1304.1265974538683,
-                  "y": -693.608715595843,
-                  "zoom": -1.2590721689284958
-                }
+                "file": "JS/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/ReactJS/React.canvas",
+                "file": "JS/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/ReactJS/React.canvas",
+                "file": "JS/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/ReactJS/React.canvas"
+                "file": "JS/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md"
               }
             }
           },
@@ -165,9 +162,9 @@
   },
   "active": "3bc7a36591831d84",
   "lastOpenFiles": [
+    "JS/ReactJS/React.canvas",
     "JS/async、 await使用.md",
     "JS/exports、module.exports、export、export default.md",
-    "JS/ReactJS/React.canvas",
     "JS/ReactJS/Zod and hookresolvers.md",
     "JS/ReactJS/useEffect.md",
     "JS/TypeScript安裝.md",
@@ -197,7 +194,6 @@
     "JS/Nodejs/Nodejs底層原理.md",
     "JS/Nodejs/Nodejs中的Event loop.md",
     "Untitled 1.canvas",
-    "JS/RxJS.md",
     "新增 文字文件.txt",
     "image/react_share_data.png",
     "JS/ReactJS",
