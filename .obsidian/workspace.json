@@ -11,14 +11,11 @@
             "id": "9193e483abc5a328",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "JS/ReactJS/React.canvas",
-                "viewState": {
-                  "x": 98.07730394725547,
-                  "y": -34.55065563837934,
-                  "zoom": -1.3240397921096851
-                }
+                "file": "JS/exports、module.exports、export、export default.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -73,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -90,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/ReactJS/React.canvas",
+                "file": "JS/exports、module.exports、export、export default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/ReactJS/React.canvas",
+                "file": "JS/exports、module.exports、export、export default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/ReactJS/React.canvas"
+                "file": "JS/exports、module.exports、export、export default.md"
               }
             }
           },
@@ -166,9 +162,9 @@
   },
   "active": "9193e483abc5a328",
   "lastOpenFiles": [
+    "JS/ReactJS/React.canvas",
     "JS/ReactJS/Zod and hookresolvers.md",
     "JS/ReactJS/useEffect.md",
-    "JS/ReactJS/React.canvas",
     "JS/TypeScript安裝.md",
     "Untitled.md",
     "JS/ReactJS/Basic.md",

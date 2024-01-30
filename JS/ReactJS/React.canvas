@@ -17,12 +17,14 @@
 		{"id":"66f68f0934bc5b14","type":"text","text":"### 取得Form data的方式","x":-600,"y":-200,"width":290,"height":60},
 		{"id":"7b656a691979eea8","type":"text","text":"## useEffect","x":687,"y":-470,"width":250,"height":60},
 		{"id":"4392215f300c5616","type":"file","file":"JS/ReactJS/useEffect.md","x":160,"y":-306,"width":674,"height":632},
-		{"id":"f8515114acd937cd","x":-60,"y":-1129,"width":250,"height":60,"type":"text","text":"### Fetch "},
 		{"id":"68713fa727ee58c1","type":"text","text":"## 連線取得資料","x":160,"y":-900,"width":250,"height":37},
-		{"id":"05d0293e2cd0b5f7","x":380,"y":-1129,"width":250,"height":60,"type":"text","text":"## Axios"},
-		{"id":"fcdf63d9f4c0b2b3","x":380,"y":-1540,"width":560,"height":360,"type":"text","text":"get後方的type指的是回傳值預期的形式，可以搭配`AbortController`來退出連線。[]\n\n```tsx\naxios.get<User[]>('https://jsonplaceholder.typicode.com/posts',{signal: controller.signal})\n\n       .then((res) => {\n         setUsers(res.data)\n         setLoading(false)\n\n       })\n\n       .catch((err) => {\n\n         setError(err.message)\n         setLoading(false)\n\n       })\n```"},
-		{"id":"d29cc37b6d24788d","x":-576,"y":-940,"width":250,"height":60,"type":"text","text":"## Strict mode"},
-		{"id":"390fd91ae6ada438","x":-576,"y":-1163,"width":250,"height":69,"type":"text","text":"https://medium.com/learn-or-die/react-strict-mode-%E6%9C%89%E5%A4%9A-strict-731a72f9534b"}
+		{"id":"d29cc37b6d24788d","type":"text","text":"## Strict mode","x":-576,"y":-940,"width":250,"height":60},
+		{"id":"390fd91ae6ada438","type":"text","text":"https://medium.com/learn-or-die/react-strict-mode-%E6%9C%89%E5%A4%9A-strict-731a72f9534b","x":-960,"y":-950,"width":250,"height":69},
+		{"id":"f8515114acd937cd","type":"text","text":"### Fetch ","x":-280,"y":-1129,"width":250,"height":60},
+		{"id":"05d0293e2cd0b5f7","type":"text","text":"## Axios","x":130,"y":-1129,"width":250,"height":60},
+		{"id":"0754b9bebe313025","x":130,"y":-1300,"width":250,"height":60,"type":"text","text":"### CRUD"},
+		{"id":"fcdf63d9f4c0b2b3","type":"text","text":"get後方的type指的是回傳值預期的形式，可以搭配`AbortController`來退出連線。[]\n\n```tsx\naxios.get<User[]>('https://jsonplaceholder.typicode.com/posts',{signal: controller.signal})\n\n       .then((res) => {\n         setUsers(res.data)\n         setLoading(false)\n\n       })\n\n       .catch((err) => {\n\n         setError(err.message)\n         setLoading(false)\n\n       })\n```","x":5,"y":-1880,"width":560,"height":360},
+		{"id":"5ab5ff13248d2793","x":500,"y":-1240,"width":250,"height":60,"type":"text","text":"### Create"}
 	],
 	"edges":[
 		{"id":"7d7e369d3ca3331f","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"c41994753b444b62","toSide":"right","color":"4"},
@@ -43,8 +45,10 @@
 		{"id":"8f868c010186b1c3","fromNode":"79026c009871bcb8","fromSide":"top","toNode":"68713fa727ee58c1","toSide":"bottom","color":"2"},
 		{"id":"317eabd293b9ba75","fromNode":"68713fa727ee58c1","fromSide":"top","toNode":"f8515114acd937cd","toSide":"bottom","color":"2"},
 		{"id":"818fd9d963f6dceb","fromNode":"68713fa727ee58c1","fromSide":"top","toNode":"05d0293e2cd0b5f7","toSide":"bottom","color":"2"},
-		{"id":"a80d450c9f850ea2","fromNode":"05d0293e2cd0b5f7","fromSide":"top","toNode":"fcdf63d9f4c0b2b3","toSide":"bottom"},
 		{"id":"14b5b5b736ac41fc","fromNode":"79026c009871bcb8","fromSide":"top","toNode":"d29cc37b6d24788d","toSide":"bottom"},
-		{"id":"be10802064fac0d2","fromNode":"d29cc37b6d24788d","fromSide":"top","toNode":"390fd91ae6ada438","toSide":"bottom"}
+		{"id":"be10802064fac0d2","fromNode":"d29cc37b6d24788d","fromSide":"left","toNode":"390fd91ae6ada438","toSide":"right"},
+		{"id":"e683bc16fe2709a5","fromNode":"05d0293e2cd0b5f7","fromSide":"top","toNode":"0754b9bebe313025","toSide":"bottom"},
+		{"id":"87c8d806011cc219","fromNode":"0754b9bebe313025","fromSide":"top","toNode":"fcdf63d9f4c0b2b3","toSide":"bottom"},
+		{"id":"cedd0d3343038c2d","fromNode":"05d0293e2cd0b5f7","fromSide":"right","toNode":"5ab5ff13248d2793","toSide":"left"}
 	]
 }
