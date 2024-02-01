@@ -5,7 +5,6 @@
 		{"id":"7e2da39584ade131","type":"text","text":"#### useState","x":-1040,"y":-200,"width":250,"height":60},
 		{"id":"a7df5506966ad083","type":"text","text":"\n```tsx\nlet [person, setPerson] = useState({\n\tname: '',\n\tage: 0\n})\n\nreturn(\n\t<form onSubmit={handleSubmit}> \n\t\t<div>\n\t\t\t<label htmlFor=\"name\">\n\t\t\t<input onChange={(event) => setPerson(...person, name: e.target.value) \n\t\t\t\tid=\"name\" \n\t\t\t\ttype=\"text\"\n\t\t\t\tvalue={person.name}\n\t\t\t>\n\t\t</div>\n\t\t<div>\n\t\t\t<label htmlFor=\"age\">\n\t\t\t<input onChange={(event) => setPerson(...person, age: parsInt(e.target.value)) \n\t\t\t\tid=\"age\" \n\t\t\t\ttype=\"text\"\n\t\t\t\tvalue={person.age}\n\t\t\t>\n\t\t</div>\n\t</form>\n)\n\n```\n\n像上面的例子中，透過useState來設定person的狀態，並且透過`onChange`來監聽input field的變化，而`value`的屬性則是用來確保input的狀態統一，因為原先沒有設定初始值的話，`e.target.value`會自己有一個狀態，而我們自己的state也是一個狀態，可能會造成`狀態不一致`，透過將`value`初始化為useState的`person`，這樣就可以同步狀態。","x":-1986,"y":-410,"width":775,"height":480},
 		{"id":"fcae9b36e60569bb","type":"text","text":"\n```tsx\nimport {useForm} from 'React-hook-form'\n\nlet {register, handleSubmit} = useForm{}\n\nconst handlerFunc = (data) =>{\n\t// what you want to do with data\n}\n\nreturn(\n\t<form onSubmit={handleSubmit(handlerFunc)}> \n\t\t<div>\n\t\t\t<label htmlFor=\"name\">\n\t\t\t<input \n\t\t\t\tid=\"name\" \n\t\t\t\ttype=\"text\"\n\t\t\t\t{...register('name')}\n\t\t\t>\n\t\t</div>\n\t\t<div>\n\t\t\t<label htmlFor=\"age\">\n\t\t\t<input onChange={\n\t\t\t\tid=\"age\" \n\t\t\t\ttype=\"text\"\n\t\t\t\t{...register('age')}\n\t\t\t>\n\t\t</div>\n\t</form>\n)\n\n```\n\n透過`useForm()`中的`register`來幫助我們在input element註冊屬性，讓我們不用像前面一樣需要自己額外再多打`value`、`onChange`等等屬性，但目前原理還不是相當理解，需要日後再進一步做查詢。","x":-1986,"y":120,"width":775,"height":560,"color":"6"},
-		{"id":"b1814489210a3830","type":"text","text":"#### React-hook-form","x":-1040,"y":40,"width":250,"height":60},
 		{"id":"c41994753b444b62","type":"text","text":"#### useRef","x":-1040,"y":-440,"width":250,"height":60},
 		{"id":"c403929e6a7d98fd","type":"text","text":"利用useRef參考HTMLInputElement\n\n```tsx\n\nlet nameRef = useRef<HTMLInputElement>(null);\n\nconst handleSubmit = (event: FormEvent) => {\n\tif(nameRef.current !== null)\n\t\tconsole.log(nameRef.current.value);\n}\n\nreturn(\n\t<form onSubmit={handleSubmit}> \n\t\t<label htmlFor=\"name\">\n\t\t<input ref{nameRef} id=\"name\" type=\"text\">\n\t</form>\n)\n```\n\n透過在input element中加入ref，來連結ref","x":-1838,"y":-916,"width":480,"height":446},
 		{"id":"e5c50c2825f87d3a","type":"text","text":"### Validation","x":-560,"y":10,"width":250,"height":60},
@@ -24,13 +23,15 @@
 		{"id":"0754b9bebe313025","type":"text","text":"### CRUD","x":130,"y":-1300,"width":250,"height":60},
 		{"id":"fcdf63d9f4c0b2b3","type":"text","text":"get後方的type指的是回傳值預期的形式，可以搭配`AbortController`來退出連線。[]\n\n```tsx\naxios.get<User[]>('https://jsonplaceholder.typicode.com/posts',{signal: controller.signal})\n\n       .then((res) => {\n         setUsers(res.data)\n         setLoading(false)\n\n       })\n\n       .catch((err) => {\n\n         setError(err.message)\n         setLoading(false)\n\n       })\n```","x":5,"y":-1880,"width":560,"height":360},
 		{"id":"5ab5ff13248d2793","type":"text","text":"### Create","x":500,"y":-1240,"width":250,"height":60},
-		{"id":"507e80dd4442b073","x":687,"y":-1617,"width":586,"height":317,"type":"text","text":"可以利用`axios.create`來建立一個`axios instance` ，以下面的例子來說，可以在之後調用function的時候加上endpoint就好，而不用再打上一大串的網址。\n```ts\n//api-client.ts\nimport axios , { CanceledError, AxiosError } from 'axios'\n\nexport default axios.create({\n    baseURL: 'https://jsonplaceholder.typicode.com'\n})\n\n\nexport { CanceledError, AxiosError};\n```\n\n```ts\nimport apiClient from \"./api-client\"\n\nclass UserService{\n\n    getAllUser() {\n        const controller = new AbortController();\n        const res = apiClient.get('/posts',{signal: controller.signal\n        });\n        return { res, cancel: () => controller.abort() };\n    }\n}\n\n  \n\nexport default new UserService()\n```"},
-		{"id":"4392215f300c5616","type":"file","file":"JS/ReactJS/useEffect.md","x":73,"y":-306,"width":674,"height":632}
+		{"id":"507e80dd4442b073","type":"text","text":"可以利用`axios.create`來建立一個`axios instance` ，以下面的例子來說，可以在之後調用function的時候加上endpoint就好，而不用再打上一大串的網址，而屬性當然不只`baseURL`，還有`params`、`headers`等等，都可以在`create`中進行指定，以便在每一次發出request的時候都戴上這些資訊。\n```ts\n//api-client.ts\nimport axios , { CanceledError, AxiosError } from 'axios'\n\nexport default axios.create({\n    baseURL: 'https://jsonplaceholder.typicode.com'\n})\n\n\nexport { CanceledError, AxiosError};\n```\n\n```ts\nimport apiClient from \"./api-client\"\n\nclass UserService{\n\n    getAllUser() {\n        const controller = new AbortController();\n        const res = apiClient.get('/posts',{signal: controller.signal\n        });\n        return { res, cancel: () => controller.abort() };\n    }\n}\n\n  \n\nexport default new UserService()\n```","x":687,"y":-1617,"width":586,"height":317},
+		{"id":"4392215f300c5616","type":"file","file":"JS/ReactJS/useEffect.md","x":73,"y":-306,"width":674,"height":632},
+		{"id":"b1814489210a3830","type":"text","text":"#### React-hook-form","x":-1100,"y":296,"width":250,"height":60},
+		{"id":"b59a125db3ff13db","x":-1133,"y":-43,"width":250,"height":60,"type":"text","text":"#### useState使用\nhttps://zhuanlan.zhihu.com/p/358934875"}
 	],
 	"edges":[
 		{"id":"7d7e369d3ca3331f","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"c41994753b444b62","toSide":"right","color":"4"},
 		{"id":"854da2fea82c1d5c","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"7e2da39584ade131","toSide":"right","color":"4"},
-		{"id":"0263b2a50b9257a8","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"b1814489210a3830","toSide":"right","color":"4"},
+		{"id":"0263b2a50b9257a8","fromNode":"66f68f0934bc5b14","fromSide":"left","toNode":"b1814489210a3830","toSide":"top","color":"4"},
 		{"id":"0e48d6ec951d51e5","fromNode":"7e2da39584ade131","fromSide":"left","toNode":"a7df5506966ad083","toSide":"right","color":"4"},
 		{"id":"f61aa2b235312603","fromNode":"dc3732f5887f5dff","fromSide":"left","toNode":"66f68f0934bc5b14","toSide":"top","color":"4"},
 		{"id":"9747e55856a82aa5","fromNode":"79026c009871bcb8","fromSide":"left","toNode":"dc3732f5887f5dff","toSide":"top","color":"4"},
@@ -51,6 +52,7 @@
 		{"id":"e683bc16fe2709a5","fromNode":"05d0293e2cd0b5f7","fromSide":"top","toNode":"0754b9bebe313025","toSide":"bottom","color":"2"},
 		{"id":"87c8d806011cc219","fromNode":"0754b9bebe313025","fromSide":"top","toNode":"fcdf63d9f4c0b2b3","toSide":"bottom","color":"2"},
 		{"id":"cedd0d3343038c2d","fromNode":"05d0293e2cd0b5f7","fromSide":"right","toNode":"5ab5ff13248d2793","toSide":"left","color":"2"},
-		{"id":"a583b65a85ed187b","fromNode":"5ab5ff13248d2793","fromSide":"top","toNode":"507e80dd4442b073","toSide":"left","color":"2"}
+		{"id":"a583b65a85ed187b","fromNode":"5ab5ff13248d2793","fromSide":"top","toNode":"507e80dd4442b073","toSide":"left","color":"2"},
+		{"id":"91c83706febb1d20","fromNode":"7e2da39584ade131","fromSide":"bottom","toNode":"b59a125db3ff13db","toSide":"top"}
 	]
 }

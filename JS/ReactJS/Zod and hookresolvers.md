@@ -44,13 +44,14 @@ const schema = z.object({
 
 type FormType = z.infer<typeof schema>
 
-let {register, handleSubmit, formState:{ errors }} = useForm<FormType>({resovler:zodResolver(schema)});
+let {register, handleSubmit, formState:{ errors, isValid } = useForm<FormType>({resovler:zodResolver(schema)});
 
 return (
 	<form>
 		<label>Age</label>
 		<input {...register('age',{ required:true, minLength: 3})}/>
 		{erros.name === 'age'  && <p>{erros.name.message}</p>}
+		<button isValid={isValid} type="submit" className="..."></button>
 	</form>
 )
 ```
@@ -59,3 +60,4 @@ hookresovler的用途是用解析zod的schema，並追蹤我們form的狀態。�
 
 整個表單裡面的內容差別是最多的，從第一段程式碼我們可以看到，`register`後面還需要加上屬性去進行驗證，但透過zod先定義好之後，`我們就不用在這個部分再手動新增驗證規則`。還有錯誤訊息的部分，當表單沒有通過驗證的時候，原先第一段程式碼也需要打兩行，依照不同的error type去輸出不同的錯誤訊息，可是這裡我們只需要確定error來源的對象，後面就可以動態的去輸出錯誤訊息，zod會幫我們輸出對應的錯誤訊息。相較第一段程式碼比起來差別就想當的大。
 
+在最後button的部分，還可以透過`isValid`屬性來搭配`useForm'的`的`formState`中提供的`isValid`來進行表單輸入格式的驗證，只有當`isValid`屬性為true，按鈕才會處在一個可以按下的狀態
