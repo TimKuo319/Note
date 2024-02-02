@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"4e660496c367e5f9","type":"text","text":"# CSS","x":-125,"y":-50,"width":250,"height":60},
+		{"id":"605aa0884729b183","type":"text","text":"## Margin","x":220,"y":142,"width":250,"height":60},
+		{"id":"7514e39c60344d00","type":"text","text":"## Border","x":-425,"y":172,"width":250,"height":60},
+		{"id":"273435c8aa3f222d","type":"text","text":"## Padding","x":-125,"y":172,"width":250,"height":60},
+		{"id":"54f6d7479e3b1f5d","type":"text","text":"## box-sizing\n\n>>**box-sizing** 的出現是用來調整區塊的內距與邊框計算方式，與 **border** 以及 **padding** 的設定有關","x":-425,"y":320,"width":250,"height":60},
+		{"id":"c4feba24f12cb5dc","type":"file","file":"Web/CSS/Margin vs Padding.md","x":40,"y":320,"width":400,"height":400},
+		{"id":"820c4c58c4be08a0","type":"text","text":"### content-box\n設定的寬度`僅為content寬度`，padding以及border的寬度會`額外加上去`。","x":-580,"y":535,"width":250,"height":60},
+		{"id":"6287298881f55f7a","type":"text","text":"### border-box\n設定的寬度已經包含`content寬度`、`padding寬度`、`border寬度`","x":-280,"y":535,"width":250,"height":60},
+		{"id":"948c799084fd052d","type":"text","text":"## Fr","x":236,"y":-200,"width":250,"height":60},
+		{"id":"54c1f790bfeb2aa4","type":"file","file":"fr_usage.png","x":620,"y":-340,"width":345,"height":400}
+	],
+	"edges":[
+		{"id":"64497146a150cf0f","fromNode":"4e660496c367e5f9","fromSide":"bottom","toNode":"273435c8aa3f222d","toSide":"top","color":"2"},
+		{"id":"28a323c7d773c2da","fromNode":"4e660496c367e5f9","fromSide":"bottom","toNode":"605aa0884729b183","toSide":"top","color":"2"},
+		{"id":"6215b91902eb8ea6","fromNode":"273435c8aa3f222d","fromSide":"bottom","toNode":"c4feba24f12cb5dc","toSide":"top","color":"2"},
+		{"id":"04f99c9b9757ba69","fromNode":"605aa0884729b183","fromSide":"bottom","toNode":"c4feba24f12cb5dc","toSide":"top","color":"2"},
+		{"id":"9a2831ea9d854d67","fromNode":"4e660496c367e5f9","fromSide":"bottom","toNode":"7514e39c60344d00","toSide":"top","color":"2"},
+		{"id":"c3f4668de7168c2d","fromNode":"7514e39c60344d00","fromSide":"bottom","toNode":"54f6d7479e3b1f5d","toSide":"top","color":"2"},
+		{"id":"4c1ed6c5acae5511","fromNode":"273435c8aa3f222d","fromSide":"bottom","toNode":"54f6d7479e3b1f5d","toSide":"top","color":"2"},
+		{"id":"214f7c688e441085","fromNode":"54f6d7479e3b1f5d","fromSide":"bottom","toNode":"820c4c58c4be08a0","toSide":"top","color":"2"},
+		{"id":"51ae286c0ad97c0c","fromNode":"54f6d7479e3b1f5d","fromSide":"bottom","toNode":"6287298881f55f7a","toSide":"top","color":"2"},
+		{"id":"75a8fe16e57ae725","fromNode":"4e660496c367e5f9","fromSide":"right","toNode":"948c799084fd052d","toSide":"left"},
+		{"id":"1b05deed88dd082f","fromNode":"948c799084fd052d","fromSide":"right","toNode":"54c1f790bfeb2aa4","toSide":"left"}
+	]
+}

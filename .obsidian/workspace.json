@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "47469d51492dff1d",
+        "id": "0d27b2406ee6d0f1",
         "type": "tabs",
         "children": [
           {
-            "id": "ba717215d000f5c4",
+            "id": "5512f56a0a606a00",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Web/CSS/Untitled.canvas",
+                "file": "Web/CSS/CSS.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 348.75,
-                  "zoom": 0
+                  "x": 516.9418964465096,
+                  "y": -116.05467178624474,
+                  "zoom": -0.9437624564027263
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/CSS/Untitled.canvas",
+                "file": "fr_usage.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/CSS/Untitled.canvas",
+                "file": "fr_usage.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/CSS/Untitled.canvas"
+                "file": "fr_usage.png"
               }
             }
           },
@@ -163,10 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba717215d000f5c4",
+  "active": "5512f56a0a606a00",
   "lastOpenFiles": [
+    "fr_usage.png",
+    "Web/CSS/CSS.canvas",
     "Web/CSS/Margin vs Padding.md",
-    "Web/CSS/Untitled.canvas",
     "image/margn_padding.png",
     "Database/ORM.md",
     "Docker/docker_canva.canvas",
@@ -213,7 +214,6 @@
     "Web/NestJS",
     "Web/ExpressJS",
     "image/DSDM_lifecycle.png",
-    "image/stashlist_snapshot.png",
     "PenTest"
   ]
 }
