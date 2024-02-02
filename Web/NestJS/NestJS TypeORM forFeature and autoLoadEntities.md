@@ -14,7 +14,7 @@ date: 2024-01-21 Mon 16:14
 + [Summary](##Summary)
 + [Reference](##Reference)
 
-在[NestJS Connection with MySQL using TypeORM](<./NestJS Connection with MySQL using TypeORM.md>)這篇筆記裡面提到了在Nest中利用`TypeORM`與`MySQL`資料庫進行連線。當時是在`app module`中去動態配置環境變數，讓`TypeORM`能夠去連上資料庫。但其實我們要透過`TypeORM`去進行資料庫操作的話，還需要提供資料的table格式給`TypeORM`讓他去尋找資料庫中對應的table或是建立一個全新的table，而我們會稱他叫做`Repository`。
+在[NestJS Connection with MySQL using TypeORM](NestJS%20Connection%20with%20MySQL%20using%20TypeORM.md Connection with MySQL using TypeORM.md>)這篇筆記裡面提到了在Nest中利用`TypeORM`與`MySQL`資料庫進行連線。當時是在`app module`中去動態配置環境變數，讓`TypeORM`能夠去連上資料庫。但其實我們要透過`TypeORM`去進行資料庫操作的話，還需要提供資料的table格式給`TypeORM`讓他去尋找資料庫中對應的table或是建立一個全新的table，而我們會稱他叫做`Repository`。
 
 ## Repository
 
@@ -85,7 +85,7 @@ export class TodoService {
 
 ## autoLoadEntities
 
-同樣是在[NestJS Connection with MySQL using TypeORM](<./NestJS Connection with MySQL using TypeORM.md>)這篇筆記裡面，我們提到過，在透過`TypeORM`連線資料庫的時候，需要在`entity`的屬性內加入需要`在這次連線中會使用到的entity`，來讓我們能夠正常的去使用repository，但如果隨著entity的數量變多，那就會造成那一列變得相當冗長。對此，可以透過`autoLoadEntities`這個屬性。
+同樣是在[NestJS Connection with MySQL using TypeORM](NestJS%20Connection%20with%20MySQL%20using%20TypeORM.md Connection with MySQL using TypeORM.md>)這篇筆記裡面，我們提到過，在透過`TypeORM`連線資料庫的時候，需要在`entity`的屬性內加入需要`在這次連線中會使用到的entity`，來讓我們能夠正常的去使用repository，但如果隨著entity的數量變多，那就會造成那一列變得相當冗長。對此，可以透過`autoLoadEntities`這個屬性。
 
 ```ts
  useFactory: (configservice: ConfigService) => ({

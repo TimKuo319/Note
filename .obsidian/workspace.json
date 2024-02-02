@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ece9eef79c29bb4d",
+        "id": "47469d51492dff1d",
         "type": "tabs",
         "children": [
           {
-            "id": "81790d3c7980eea0",
+            "id": "ba717215d000f5c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/ReactJS/Zod and hookresolvers with react-hook-form.md",
+                "file": "Web/CSS/Margin vs Padding.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/ReactJS/Zod and hookresolvers with react-hook-form.md",
+                "file": "Web/CSS/Margin vs Padding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/ReactJS/Zod and hookresolvers with react-hook-form.md",
+                "file": "Web/CSS/Margin vs Padding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/ReactJS/Zod and hookresolvers with react-hook-form.md"
+                "file": "Web/CSS/Margin vs Padding.md"
               }
             }
           },
@@ -160,56 +160,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81790d3c7980eea0",
+  "active": "ba717215d000f5c4",
   "lastOpenFiles": [
-    "JS/ReactJS/React.canvas",
-    "JS/ReactJS/Zod and hookresolvers with react-hook-form.md",
-    "JS/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
-    "JS/async、 await使用.md",
-    "JS/exports、module.exports、export、export default.md",
-    "JS/ReactJS/useEffect.md",
-    "JS/TypeScript安裝.md",
-    "Untitled.md",
-    "JS/ReactJS/Basic.md",
-    "JS/ReactJS/note.md",
-    "JS/NestJS/Writing test with NestJS using jest.md",
+    "image/margn_padding.png",
+    "Web/CSS/Margin vs Padding.md",
+    "Database/ORM.md",
     "Docker/docker_canva.canvas",
+    "Web/ReactJS/React.canvas",
+    "Web/CSS",
+    "Web/Untitled.md",
+    "Untitled.md",
+    "Untitled",
+    "Web/ReactJS/Zod and hookresolvers with react-hook-form.md",
+    "Web/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
+    "Web/async、 await使用.md",
+    "Web/exports、module.exports、export、export default.md",
+    "Web/ReactJS/useEffect.md",
+    "Web/TypeScript安裝.md",
+    "Web/ReactJS/Basic.md",
+    "Web/ReactJS/note.md",
+    "Web/NestJS/Writing test with NestJS using jest.md",
     "Hexo/Hexo + githubpage 架站.md",
     "image/docker_image_layer.png",
     "image/Pasted image 20231111221921.png",
     "image/PFF.png",
-    "JS/ExpressJS/app.set()與app.use().md",
+    "Web/ExpressJS/app.set()與app.use().md",
     "Todo.md",
     "Obsidian 連結使用方式.md",
     "JS/NestJS/Untitled.canvas",
-    "JS/NestJS/Decorator.md",
-    "JS/NestJS/NestJS gurad.md",
-    "JS/NestJS/NestJS Exception filters.md",
-    "JS/NestJS/NestJS Controller、Provider、Module.md",
-    "JS/NestJS/NestJS Connection with MySQL using TypeORM.md",
-    "JS/NestJS/NestJS Pipes.md",
+    "Web/NestJS/Decorator.md",
+    "Web/NestJS/NestJS gurad.md",
+    "Web/NestJS/NestJS Exception filters.md",
+    "Web/NestJS/NestJS Controller、Provider、Module.md",
+    "Web/NestJS/NestJS Connection with MySQL using TypeORM.md",
+    "Web/NestJS/NestJS Pipes.md",
     "Database/MongoDB Conection and CRUD.md",
-    "JS/NestJS/NestJS Middleware.md",
-    "JS/NestJS/NestJS Interceptors.md",
-    "JS/Nodejs/Nodejs底層原理.md",
-    "JS/Nodejs/Nodejs中的Event loop.md",
+    "Web/NestJS/NestJS Middleware.md",
     "Untitled 1.canvas",
     "新增 文字文件.txt",
     "image/react_share_data.png",
-    "JS/ReactJS",
-    "JS/Nodejs",
+    "Web/ReactJS",
+    "Web/Nodejs",
     "image/GCP_firewall_rule2.png",
     "image/GCP_firewall_rule1.png",
     "image/GCP_firewall.png",
     "SWE/軟體工程課",
     "Untitled 1",
-    "JS/NestJS",
-    "JS/ExpressJS",
+    "Web/NestJS",
+    "Web/ExpressJS",
     "image/DSDM_lifecycle.png",
     "image/stashlist_snapshot.png",
-    "image/Pasted image 20231111221905.png",
-    "PenTest",
-    "Docker",
-    "Hexo"
+    "PenTest"
   ]
 }
