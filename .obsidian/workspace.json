@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fr_usage.png",
+                "file": "Web/CSS/CSS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fr_usage.png",
+                "file": "Web/CSS/CSS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fr_usage.png"
+                "file": "Web/CSS/CSS.canvas"
               }
             }
           },
