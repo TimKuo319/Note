@@ -9,7 +9,8 @@
 		{"id":"820c4c58c4be08a0","type":"text","text":"### content-box\n設定的寬度`僅為content寬度`，padding以及border的寬度會`額外加上去`。","x":-580,"y":535,"width":250,"height":60},
 		{"id":"6287298881f55f7a","type":"text","text":"### border-box\n設定的寬度已經包含`content寬度`、`padding寬度`、`border寬度`","x":-280,"y":535,"width":250,"height":60},
 		{"id":"948c799084fd052d","type":"text","text":"## Fr","x":236,"y":-200,"width":250,"height":60},
-		{"id":"54c1f790bfeb2aa4","type":"file","file":"fr_usage.png","x":620,"y":-340,"width":345,"height":400}
+		{"id":"54c1f790bfeb2aa4","type":"file","file":"fr_usage.png","x":620,"y":-340,"width":345,"height":400},
+		{"id":"441cda75cd98c745","x":-780,"y":-291,"width":250,"height":351,"type":"text","text":"##"}
 	],
 	"edges":[
 		{"id":"64497146a150cf0f","fromNode":"4e660496c367e5f9","fromSide":"bottom","toNode":"273435c8aa3f222d","toSide":"top","color":"2"},
