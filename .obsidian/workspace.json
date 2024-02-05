@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE/Prettier.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Prettier.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Prettier.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Prettier.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -160,16 +160,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9ffd2177cb55d56",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
-    "Pasted image 20240205120229.png",
-    "image/vscode_setting.png",
     "SWE/Prettier.md",
+    "image/format_on.png",
+    "image/vscode_setting.png",
     "SWE/SOLID principle.md",
     "Web/CSS/CSS.canvas",
     "Web/ReactJS/React.canvas",
     "Docker/docker_canva.canvas",
-    "fr_usage.png",
+    "image/fr_usage.png",
     "Web/CSS/Margin vs Padding.md",
     "image/margn_padding.png",
     "Database/ORM.md",
@@ -207,7 +207,6 @@
     "Web/Nodejs",
     "image/GCP_firewall_rule2.png",
     "image/GCP_firewall_rule1.png",
-    "image/GCP_firewall.png",
     "SWE/軟體工程課",
     "Untitled 1",
     "Web/NestJS",
