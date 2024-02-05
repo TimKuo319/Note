@@ -11,14 +11,11 @@
             "id": "c9ffd2177cb55d56",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Web/CSS/CSS.canvas",
-                "viewState": {
-                  "x": 22.320905821265228,
-                  "y": 7.70585365853654,
-                  "zoom": -0.18594387880768815
-                }
+                "file": "SWE/Prettier.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/CSS/CSS.canvas",
+                "file": "SWE/Prettier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/CSS/CSS.canvas",
+                "file": "SWE/Prettier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/CSS/CSS.canvas"
+                "file": "SWE/Prettier.md"
               }
             }
           },
@@ -165,8 +162,12 @@
   },
   "active": "c9ffd2177cb55d56",
   "lastOpenFiles": [
-    "Web/ReactJS/React.canvas",
+    "Pasted image 20240205120229.png",
+    "image/vscode_setting.png",
+    "SWE/Prettier.md",
+    "SWE/SOLID principle.md",
     "Web/CSS/CSS.canvas",
+    "Web/ReactJS/React.canvas",
     "Docker/docker_canva.canvas",
     "fr_usage.png",
     "Web/CSS/Margin vs Padding.md",
@@ -199,8 +200,6 @@
     "Web/NestJS/NestJS Controller、Provider、Module.md",
     "Web/NestJS/NestJS Connection with MySQL using TypeORM.md",
     "Web/NestJS/NestJS Pipes.md",
-    "Database/MongoDB Conection and CRUD.md",
-    "Web/NestJS/NestJS Middleware.md",
     "Untitled 1.canvas",
     "新增 文字文件.txt",
     "image/react_share_data.png",
@@ -213,7 +212,6 @@
     "Untitled 1",
     "Web/NestJS",
     "Web/ExpressJS",
-    "image/DSDM_lifecycle.png",
     "PenTest"
   ]
 }
