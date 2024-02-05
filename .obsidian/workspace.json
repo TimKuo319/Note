@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "SWE/Prettier.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "SWE/Prettier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "SWE/Prettier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "SWE/Prettier.md"
               }
             }
           },
@@ -160,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "c9ffd2177cb55d56",
   "lastOpenFiles": [
+    "Todo.md",
     "SWE/Prettier.md",
     "image/format_on.png",
     "image/vscode_setting.png",
@@ -191,7 +192,6 @@
     "image/Pasted image 20231111221921.png",
     "image/PFF.png",
     "Web/ExpressJS/app.set()與app.use().md",
-    "Todo.md",
     "Obsidian 連結使用方式.md",
     "JS/NestJS/Untitled.canvas",
     "Web/NestJS/Decorator.md",

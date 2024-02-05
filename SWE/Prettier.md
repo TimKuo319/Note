@@ -20,6 +20,7 @@ prettier套件本身就包含了一些預設的格式，透過開啟`format on S
 	"useTabs": false
 }
 ```
+當設定完成後，prettier就會依照這個文件下去進行程式碼的格式化。
 
 *官方文件: [Configuration File · Prettier](https://prettier.io/docs/en/configuration)*
 
