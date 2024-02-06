@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8d0ec5de7c58f380",
+        "id": "a46bf47023393be0",
         "type": "tabs",
         "children": [
           {
-            "id": "c9ffd2177cb55d56",
+            "id": "ce28a4aa045777ae",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Docker/docker_canva.canvas",
                 "viewState": {
-                  "x": 204.5074208107602,
-                  "y": -1172.5462705727334,
-                  "zoom": -0.8333333333333334
+                  "x": -392.5099825366996,
+                  "y": -1421.238223834506,
+                  "zoom": -0.4166666666666667
                 }
               }
             }
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -164,8 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9ffd2177cb55d56",
+  "active": "ce28a4aa045777ae",
   "lastOpenFiles": [
+    "image/docker_copy_write.png",
+    "Docker/docker_canva.canvas",
     "SWE/Session vs JWT.md",
     "Web/NestJS/NestJS Controller、Provider、Module.md",
     "Web/NestJS/Decorator.md",
@@ -179,7 +180,6 @@
     "image/vscode_setting.png",
     "SWE/SOLID principle.md",
     "Web/ReactJS/React.canvas",
-    "Docker/docker_canva.canvas",
     "image/fr_usage.png",
     "Web/CSS/Margin vs Padding.md",
     "image/margn_padding.png",
@@ -205,14 +205,12 @@
     "Obsidian 連結使用方式.md",
     "JS/NestJS/Untitled.canvas",
     "Web/NestJS/NestJS gurad.md",
-    "Web/NestJS/NestJS Exception filters.md",
     "Untitled 1.canvas",
     "新增 文字文件.txt",
     "image/react_share_data.png",
     "Web/ReactJS",
     "Web/Nodejs",
     "image/GCP_firewall_rule2.png",
-    "image/GCP_firewall_rule1.png",
     "SWE/軟體工程課",
     "Untitled 1",
     "Web/NestJS",
