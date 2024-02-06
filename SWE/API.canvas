@@ -1,14 +1,21 @@
 {
 	"nodes":[
-		{"id":"8502d0797960de30","x":-690,"y":105,"width":250,"height":60,"type":"text","text":""},
-		{"id":"2e037254343b6edc","x":-737,"y":-45,"width":250,"height":60,"type":"text","text":""},
-		{"id":"d45f8a4d12665a71","x":-487,"y":240,"width":250,"height":60,"type":"text","text":""},
-		{"id":"75ac97abe23aa8be","x":-190,"y":-105,"width":250,"height":60,"type":"text","text":"## RESTful API"},
-		{"id":"5d4ff74f2d7db575","x":140,"y":-165,"width":250,"height":60,"type":"text","text":"# API"},
-		{"id":"c64b0929607ebbe5","x":-440,"y":15,"width":250,"height":60,"type":"text","text":"### 組成要素"}
+		{"id":"d45f8a4d12665a71","x":-740,"y":80,"width":250,"height":140,"type":"text","text":"#### Content Types\n內容的表現形式，也就是API傳遞的內容格式，像是xml、json等等"},
+		{"id":"8502d0797960de30","x":-740,"y":-75,"width":250,"height":135,"type":"text","text":"#### Verbs\n對資源要做的動作，像是透過GET、POST、PATCH、DELETE等等"},
+		{"id":"75ac97abe23aa8be","x":-20,"y":-165,"width":250,"height":60,"type":"text","text":"## RESTful API"},
+		{"id":"5d4ff74f2d7db575","x":340,"y":-320,"width":250,"height":60,"type":"text","text":"# API"},
+		{"id":"b384ed083c99bc56","x":-740,"y":-560,"width":250,"height":280,"type":"text","text":"1. 有唯一的URL表示資源位置 -> 統一的API接口。\n2. 無狀態(Stateless) -> \n"},
+		{"id":"2e037254343b6edc","x":-740,"y":-240,"width":250,"height":150,"type":"text","text":"#### Nouns\n定義資源位置的URL，每個資源在網路上都有為一的位置"},
+		{"id":"c64b0929607ebbe5","x":-360,"y":-37,"width":250,"height":60,"type":"text","text":"### 組成要素"},
+		{"id":"e4e28acd750f9dfa","x":-360,"y":-450,"width":250,"height":60,"type":"text","text":"### Pros and Cons"}
 	],
 	"edges":[
 		{"id":"5ebf2d27904ff4a4","fromNode":"75ac97abe23aa8be","fromSide":"left","toNode":"c64b0929607ebbe5","toSide":"right"},
-		{"id":"1700ea50f0b43133","fromNode":"5d4ff74f2d7db575","fromSide":"left","toNode":"75ac97abe23aa8be","toSide":"right"}
+		{"id":"1700ea50f0b43133","fromNode":"5d4ff74f2d7db575","fromSide":"left","toNode":"75ac97abe23aa8be","toSide":"right"},
+		{"id":"57e08867fb09f080","fromNode":"c64b0929607ebbe5","fromSide":"top","toNode":"2e037254343b6edc","toSide":"right"},
+		{"id":"58218dfc35916d15","fromNode":"c64b0929607ebbe5","fromSide":"left","toNode":"8502d0797960de30","toSide":"right"},
+		{"id":"169558bb4484b42e","fromNode":"c64b0929607ebbe5","fromSide":"bottom","toNode":"d45f8a4d12665a71","toSide":"right"},
+		{"id":"d6fce0f015093a6d","fromNode":"75ac97abe23aa8be","fromSide":"top","toNode":"e4e28acd750f9dfa","toSide":"right"},
+		{"id":"7300334ed7829e8b","fromNode":"e4e28acd750f9dfa","fromSide":"left","toNode":"b384ed083c99bc56","toSide":"right"}
 	]
 }

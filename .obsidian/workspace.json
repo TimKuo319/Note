@@ -15,8 +15,8 @@
               "state": {
                 "file": "SWE/API.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -315.1999816894531,
+                  "y": -191.7503776550293,
                   "zoom": 0
                 }
               }
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
