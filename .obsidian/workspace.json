@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE/Authentication.md",
+                "file": "SWE/Session vs JWT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "214903c14c663b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/NestJS/NestJS Controller、Provider、Module.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Authentication.md",
+                "file": "SWE/Session vs JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Authentication.md",
+                "file": "SWE/Session vs JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Authentication.md"
+                "file": "SWE/Session vs JWT.md"
               }
             }
           },
@@ -162,9 +174,11 @@
   },
   "active": "c9ffd2177cb55d56",
   "lastOpenFiles": [
+    "Web/NestJS/NestJS Controller、Provider、Module.md",
+    "Web/NestJS/Decorator.md",
+    "SWE/Session vs JWT.md",
     "Web/CSS/CSS.canvas",
     "Web/NestJS/NestJS Connection with MySQL using TypeORM.md",
-    "SWE/Authentication.md",
     "SWE/API.canvas",
     "SWE/Linter - ESLint.md",
     "SWE/Prettier.md",
@@ -198,7 +212,6 @@
     "Web/ExpressJS/app.set()與app.use().md",
     "Obsidian 連結使用方式.md",
     "JS/NestJS/Untitled.canvas",
-    "Web/NestJS/Decorator.md",
     "Web/NestJS/NestJS gurad.md",
     "Web/NestJS/NestJS Exception filters.md",
     "Untitled 1.canvas",
