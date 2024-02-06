@@ -4,10 +4,11 @@
 		{"id":"8502d0797960de30","x":-740,"y":-75,"width":250,"height":135,"type":"text","text":"#### Verbs\n對資源要做的動作，像是透過GET、POST、PATCH、DELETE等等"},
 		{"id":"75ac97abe23aa8be","x":-20,"y":-165,"width":250,"height":60,"type":"text","text":"## RESTful API"},
 		{"id":"5d4ff74f2d7db575","x":340,"y":-320,"width":250,"height":60,"type":"text","text":"# API"},
-		{"id":"b384ed083c99bc56","x":-740,"y":-560,"width":250,"height":280,"type":"text","text":"1. 有唯一的URL表示資源位置 -> 統一的API接口。\n2. 無狀態(Stateless) -> \n"},
+		{"id":"b384ed083c99bc56","x":-740,"y":-560,"width":250,"height":280,"type":"text","text":"1. 有唯一的URL表示資源位置 -> 統一的API接口。\n2. 無狀態(Stateless) -> 每一個請求都視為與之前任何請求無關的事務。\n3. Cachable \n4. 分層系統架構\n"},
 		{"id":"2e037254343b6edc","x":-740,"y":-240,"width":250,"height":150,"type":"text","text":"#### Nouns\n定義資源位置的URL，每個資源在網路上都有為一的位置"},
 		{"id":"c64b0929607ebbe5","x":-360,"y":-37,"width":250,"height":60,"type":"text","text":"### 組成要素"},
-		{"id":"e4e28acd750f9dfa","x":-360,"y":-450,"width":250,"height":60,"type":"text","text":"### Pros and Cons"}
+		{"id":"e4e28acd750f9dfa","x":-360,"y":-450,"width":250,"height":60,"type":"text","text":"### Pros and Cons"},
+		{"id":"fd2cf6473f377429","x":-440,"y":200,"width":330,"height":380,"type":"text","text":"### Reference\n[Fundamentals of REST API - DEV Community](https://dev.to/cassiocappellari/fundamentals-of-rest-api-2nag)\n\n[API 是什麼? RESTful API 又是什麼?. API ? RESTful API ? HTTP ? | by itsems | itsems_frontend | Medium](https://medium.com/itsems-frontend/api-%E6%98%AF%E4%BB%80%E9%BA%BC-restful-api-%E5%8F%88%E6%98%AF%E4%BB%80%E9%BA%BC-a001a85ab638)\n\n[簡單理解REST設計風格與RESTful API - HackMD](https://hackmd.io/@monkenWu/Sk9Q5VoV4/https%3A%2F%2Fhackmd.io%2F%40gen6UjQISdy0QDN62cYPYQ%2FHJh9zOE7V?type=book)\n\n[什麼是 RESTful API？– RESTful API 介紹 – AWS (amazon.com)](https://aws.amazon.com/tw/what-is/restful-api/)\n\n[REST API: what it is, how it works, advantages and disadvantages (thepowermba.com)](https://www.thepowermba.com/en/blog/rest-api-what-it-is)"}
 	],
 	"edges":[
 		{"id":"5ebf2d27904ff4a4","fromNode":"75ac97abe23aa8be","fromSide":"left","toNode":"c64b0929607ebbe5","toSide":"right"},
@@ -16,6 +17,7 @@
 		{"id":"58218dfc35916d15","fromNode":"c64b0929607ebbe5","fromSide":"left","toNode":"8502d0797960de30","toSide":"right"},
 		{"id":"169558bb4484b42e","fromNode":"c64b0929607ebbe5","fromSide":"bottom","toNode":"d45f8a4d12665a71","toSide":"right"},
 		{"id":"d6fce0f015093a6d","fromNode":"75ac97abe23aa8be","fromSide":"top","toNode":"e4e28acd750f9dfa","toSide":"right"},
-		{"id":"7300334ed7829e8b","fromNode":"e4e28acd750f9dfa","fromSide":"left","toNode":"b384ed083c99bc56","toSide":"right"}
+		{"id":"7300334ed7829e8b","fromNode":"e4e28acd750f9dfa","fromSide":"left","toNode":"b384ed083c99bc56","toSide":"right"},
+		{"id":"c7bd88ede9fa16e6","fromNode":"fd2cf6473f377429","fromSide":"right","toNode":"75ac97abe23aa8be","toSide":"bottom"}
 	]
 }
