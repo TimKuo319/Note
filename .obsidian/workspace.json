@@ -11,14 +11,11 @@
             "id": "c9ffd2177cb55d56",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "SWE/API.canvas",
-                "viewState": {
-                  "x": -315.1999816894531,
-                  "y": 273.2496223449707,
-                  "zoom": 0
-                }
+                "file": "SWE/Authentication.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/API.canvas",
+                "file": "SWE/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/API.canvas",
+                "file": "SWE/Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/API.canvas"
+                "file": "SWE/Authentication.md"
               }
             }
           },
@@ -165,14 +162,16 @@
   },
   "active": "c9ffd2177cb55d56",
   "lastOpenFiles": [
-    "SWE/Linter - ESLint.md",
+    "Web/CSS/CSS.canvas",
+    "Web/NestJS/NestJS Connection with MySQL using TypeORM.md",
+    "SWE/Authentication.md",
     "SWE/API.canvas",
+    "SWE/Linter - ESLint.md",
     "SWE/Prettier.md",
     "Todo.md",
     "image/format_on.png",
     "image/vscode_setting.png",
     "SWE/SOLID principle.md",
-    "Web/CSS/CSS.canvas",
     "Web/ReactJS/React.canvas",
     "Docker/docker_canva.canvas",
     "image/fr_usage.png",
@@ -202,8 +201,6 @@
     "Web/NestJS/Decorator.md",
     "Web/NestJS/NestJS gurad.md",
     "Web/NestJS/NestJS Exception filters.md",
-    "Web/NestJS/NestJS Controller、Provider、Module.md",
-    "Web/NestJS/NestJS Connection with MySQL using TypeORM.md",
     "Untitled 1.canvas",
     "新增 文字文件.txt",
     "image/react_share_data.png",
