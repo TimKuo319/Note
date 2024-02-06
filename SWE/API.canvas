@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"8502d0797960de30","x":-690,"y":105,"width":250,"height":60,"type":"text","text":""},
+		{"id":"2e037254343b6edc","x":-737,"y":-45,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d45f8a4d12665a71","x":-487,"y":240,"width":250,"height":60,"type":"text","text":""},
+		{"id":"75ac97abe23aa8be","x":-190,"y":-105,"width":250,"height":60,"type":"text","text":"## RESTful API"},
+		{"id":"5d4ff74f2d7db575","x":140,"y":-165,"width":250,"height":60,"type":"text","text":"# API"},
+		{"id":"c64b0929607ebbe5","x":-440,"y":15,"width":250,"height":60,"type":"text","text":"### 組成要素"}
+	],
+	"edges":[
+		{"id":"5ebf2d27904ff4a4","fromNode":"75ac97abe23aa8be","fromSide":"left","toNode":"c64b0929607ebbe5","toSide":"right"},
+		{"id":"1700ea50f0b43133","fromNode":"5d4ff74f2d7db575","fromSide":"left","toNode":"75ac97abe23aa8be","toSide":"right"}
+	]
+}
