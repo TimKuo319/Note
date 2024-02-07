@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/exports、module.exports、export、export default.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/exports、module.exports、export、export default.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/exports、module.exports、export、export default.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/exports、module.exports、export、export default.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -162,8 +162,13 @@
   },
   "active": "ce28a4aa045777ae",
   "lastOpenFiles": [
-    "Cache/redis.canvas",
+    "Web/TypeScript安裝.md",
+    "Web/CSS/CSS.canvas",
+    "Web/CSS/Margin vs Padding.md",
     "Web/ExpressJS/app.set()與app.use().md",
+    "Web/exports、module.exports、export、export default.md",
+    "Web/Json Web Token(JWT).md",
+    "Cache/redis.canvas",
     "Web/ReactJS/React.canvas",
     "Container/docker.canvas",
     "Cache",
@@ -171,7 +176,6 @@
     "SWE/Session vs JWT.md",
     "Web/NestJS/NestJS Controller、Provider、Module.md",
     "Web/NestJS/Decorator.md",
-    "Web/CSS/CSS.canvas",
     "Web/NestJS/NestJS Connection with MySQL using TypeORM.md",
     "SWE/API.canvas",
     "SWE/Linter - ESLint.md",
@@ -181,7 +185,6 @@
     "image/vscode_setting.png",
     "SWE/SOLID principle.md",
     "image/fr_usage.png",
-    "Web/CSS/Margin vs Padding.md",
     "image/margn_padding.png",
     "Database/ORM.md",
     "Web/CSS",
@@ -190,9 +193,7 @@
     "Web/ReactJS/Zod and hookresolvers with react-hook-form.md",
     "Web/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
     "Web/async、 await使用.md",
-    "Web/exports、module.exports、export、export default.md",
     "Web/ReactJS/useEffect.md",
-    "Web/TypeScript安裝.md",
     "Web/ReactJS/Basic.md",
     "Web/ReactJS/note.md",
     "Web/NestJS/Writing test with NestJS using jest.md",
@@ -202,7 +203,6 @@
     "image/PFF.png",
     "Obsidian 連結使用方式.md",
     "JS/NestJS/Untitled.canvas",
-    "Web/NestJS/NestJS gurad.md",
     "Untitled 1.canvas",
     "新增 文字文件.txt",
     "image/react_share_data.png",
