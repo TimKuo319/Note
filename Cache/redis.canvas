@@ -1,13 +1,17 @@
 {
 	"nodes":[
-		{"id":"ce4308c86640db65","x":-340,"y":0,"width":290,"height":60,"type":"text","text":"## Data structure store"},
 		{"id":"19a4cd284debd370","x":-20,"y":-140,"width":160,"height":60,"type":"text","text":"# Redis"},
-		{"id":"3dacf16dd7ebc2d8","x":220,"y":0,"width":250,"height":60,"type":"text","text":"## Vector databse"},
-		{"id":"383c830aeb92f49a","x":-87,"y":-300,"width":295,"height":60,"type":"text","text":"## Document database"}
+		{"id":"383c830aeb92f49a","x":-87,"y":-300,"width":295,"height":60,"type":"text","text":"## Document database"},
+		{"id":"3dacf16dd7ebc2d8","x":240,"y":100,"width":250,"height":60,"type":"text","text":"## Vector databse"},
+		{"id":"8327f2d6b7cc388a","x":-480,"y":-270,"width":290,"height":250,"type":"text","text":"### Keyspace\n在redis中，每個物件都有屬於自己的key，可以透過Scan指令去尋找特定的item。\n\n[Redis as an in-memory data structure store quick start guide | Redis](https://redis.io/docs/get-started/data-store/)\n\n[Keyspace | Redis](https://redis.io/docs/manual/keyspace/)"},
+		{"id":"ce4308c86640db65","x":-377,"y":160,"width":290,"height":60,"type":"text","text":"## Data structure store"},
+		{"id":"3a690be1ed05528a","x":-820,"y":160,"width":310,"height":240,"type":"text","text":"### Store and retrieve \n\n*set* \n*get*\n*hSet*"}
 	],
 	"edges":[
 		{"id":"132783c2e3ab5e65","fromNode":"19a4cd284debd370","fromSide":"bottom","toNode":"ce4308c86640db65","toSide":"top"},
 		{"id":"ab55ad6c31b36964","fromNode":"19a4cd284debd370","fromSide":"bottom","toNode":"3dacf16dd7ebc2d8","toSide":"top"},
-		{"id":"72baf170a8efce60","fromNode":"19a4cd284debd370","fromSide":"top","toNode":"383c830aeb92f49a","toSide":"bottom"}
+		{"id":"72baf170a8efce60","fromNode":"19a4cd284debd370","fromSide":"top","toNode":"383c830aeb92f49a","toSide":"bottom"},
+		{"id":"232d46139f445566","fromNode":"19a4cd284debd370","fromSide":"left","toNode":"8327f2d6b7cc388a","toSide":"right"},
+		{"id":"dc3e24ae35655cef","fromNode":"ce4308c86640db65","fromSide":"left","toNode":"3a690be1ed05528a","toSide":"right"}
 	]
 }
