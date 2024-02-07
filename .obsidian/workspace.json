@@ -11,11 +11,14 @@
             "id": "ce28a4aa045777ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "source": false
+                "file": "Cache/redis.canvas",
+                "viewState": {
+                  "x": -255,
+                  "y": 628.8849372384939,
+                  "zoom": -0.45580523623134817
+                }
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Cache/redis.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Cache/redis.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Cache/redis.canvas"
               }
             }
           },
@@ -162,6 +165,7 @@
   },
   "active": "ce28a4aa045777ae",
   "lastOpenFiles": [
+    "Todo.md",
     "Web/TypeScript安裝.md",
     "Web/CSS/CSS.canvas",
     "Web/CSS/Margin vs Padding.md",
@@ -180,7 +184,6 @@
     "SWE/API.canvas",
     "SWE/Linter - ESLint.md",
     "SWE/Prettier.md",
-    "Todo.md",
     "image/format_on.png",
     "image/vscode_setting.png",
     "SWE/SOLID principle.md",
