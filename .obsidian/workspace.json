@@ -11,14 +11,11 @@
             "id": "ce28a4aa045777ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Cache/redis.canvas",
-                "viewState": {
-                  "x": -372.30319155134765,
-                  "y": 85.89262451516129,
-                  "zoom": -0.2700597173066368
-                }
+                "file": "Web/ExpressJS/app.set()與app.use().md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache/redis.canvas",
+                "file": "Web/ExpressJS/app.set()與app.use().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache/redis.canvas",
+                "file": "Web/ExpressJS/app.set()與app.use().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/redis.canvas"
+                "file": "Web/ExpressJS/app.set()與app.use().md"
               }
             }
           },
@@ -165,8 +162,8 @@
   },
   "active": "ce28a4aa045777ae",
   "lastOpenFiles": [
-    "Web/ReactJS/React.canvas",
     "Cache/redis.canvas",
+    "Web/ReactJS/React.canvas",
     "Container/docker.canvas",
     "Cache",
     "image/docker_copy_write.png",
