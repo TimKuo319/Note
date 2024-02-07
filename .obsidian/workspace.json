@@ -11,14 +11,11 @@
             "id": "ce28a4aa045777ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Cache/redis.canvas",
-                "viewState": {
-                  "x": -255,
-                  "y": 628.8849372384939,
-                  "zoom": -0.45580523623134817
-                }
+                "file": "Web/exports、module.exports、export、export default.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache/redis.canvas",
+                "file": "Web/exports、module.exports、export、export default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache/redis.canvas",
+                "file": "Web/exports、module.exports、export、export default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/redis.canvas"
+                "file": "Web/exports、module.exports、export、export default.md"
               }
             }
           },
@@ -165,6 +162,7 @@
   },
   "active": "ce28a4aa045777ae",
   "lastOpenFiles": [
+    "Cache/redis.canvas",
     "Todo.md",
     "Web/TypeScript安裝.md",
     "Web/CSS/CSS.canvas",
@@ -172,7 +170,6 @@
     "Web/ExpressJS/app.set()與app.use().md",
     "Web/exports、module.exports、export、export default.md",
     "Web/Json Web Token(JWT).md",
-    "Cache/redis.canvas",
     "Web/ReactJS/React.canvas",
     "Container/docker.canvas",
     "Cache",
