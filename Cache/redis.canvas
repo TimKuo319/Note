@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ce4308c86640db65","x":-340,"y":0,"width":290,"height":60,"type":"text","text":"## Data structure store"},
+		{"id":"19a4cd284debd370","x":-20,"y":-140,"width":160,"height":60,"type":"text","text":"# Redis"},
+		{"id":"3dacf16dd7ebc2d8","x":220,"y":0,"width":250,"height":60,"type":"text","text":"## Vector databse"},
+		{"id":"383c830aeb92f49a","x":-87,"y":-300,"width":295,"height":60,"type":"text","text":"## Document database"}
+	],
+	"edges":[
+		{"id":"132783c2e3ab5e65","fromNode":"19a4cd284debd370","fromSide":"bottom","toNode":"ce4308c86640db65","toSide":"top"},
+		{"id":"ab55ad6c31b36964","fromNode":"19a4cd284debd370","fromSide":"bottom","toNode":"3dacf16dd7ebc2d8","toSide":"top"},
+		{"id":"72baf170a8efce60","fromNode":"19a4cd284debd370","fromSide":"top","toNode":"383c830aeb92f49a","toSide":"bottom"}
+	]
+}

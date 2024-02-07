@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Docker/docker_canva.canvas",
+                "file": "Cache/redis.canvas",
                 "viewState": {
-                  "x": -665.8852091123704,
-                  "y": -1064.9694952717796,
-                  "zoom": -0.4166666666666667
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/docker_canva.canvas",
+                "file": "Cache/redis.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/docker_canva.canvas",
+                "file": "Cache/redis.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/docker_canva.canvas"
+                "file": "Cache/redis.canvas"
               }
             }
           },
@@ -165,8 +166,10 @@
   },
   "active": "ce28a4aa045777ae",
   "lastOpenFiles": [
+    "Container/docker.canvas",
+    "Cache/redis.canvas",
+    "Cache",
     "image/docker_copy_write.png",
-    "Docker/docker_canva.canvas",
     "SWE/Session vs JWT.md",
     "Web/NestJS/NestJS Controller、Provider、Module.md",
     "Web/NestJS/Decorator.md",
@@ -187,7 +190,6 @@
     "Web/CSS",
     "Web/Untitled.md",
     "Untitled.md",
-    "Untitled",
     "Web/ReactJS/Zod and hookresolvers with react-hook-form.md",
     "Web/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
     "Web/async、 await使用.md",
