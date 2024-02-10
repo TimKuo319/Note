@@ -11,8 +11,15 @@
             "id": "c034c137f87d7f48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Container/docker.canvas",
+                "viewState": {
+                  "x": -1130,
+                  "y": -1258,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -82,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Container/docker.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Container/docker.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Container/docker.canvas"
+              }
             }
           },
           {
