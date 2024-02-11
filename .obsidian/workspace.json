@@ -15,9 +15,9 @@
               "state": {
                 "file": "Container/docker.canvas",
                 "viewState": {
-                  "x": -1130,
-                  "y": -1606.75,
-                  "zoom": 0
+                  "x": 107.22913051209042,
+                  "y": -1670.9813832630002,
+                  "zoom": -0.4166666666666666
                 }
               }
             }
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -163,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "c034c137f87d7f48",
   "lastOpenFiles": [
     "Container/docker.canvas",
     "Container/Untitled.md",
