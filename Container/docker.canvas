@@ -17,7 +17,7 @@
 		{"id":"67242824fc5d3fad","type":"text","text":"#### 常用參數\n\n+ *list*\n+ *disconnect [netwrork] [contaienr]* :  斷開容器與虛擬網路的連接","x":-1340,"y":-1920,"width":420,"height":200},
 		{"id":"c14902f8a4a7e789","x":-365,"y":-2020,"width":255,"height":120,"type":"text","text":"### 映像檔名稱\n\n*repo網域 /映像檔名稱 : tag*"},
 		{"id":"18514601a7358fed","type":"text","text":"### 常用參數\n\n*tag* :  Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE","x":70,"y":-2200,"width":300,"height":180},
-		{"id":"7ca3e7cfe5dd15a3","x":105,"y":-1089,"width":250,"height":60,"type":"text","text":"## Docker file"}
+		{"id":"7ca3e7cfe5dd15a3","x":200,"y":-1088,"width":250,"height":60,"type":"text","text":"## Docker file"}
 	],
 	"edges":[
 		{"id":"22875b848a3ceb6b","fromNode":"d3f01566a346f7cf","fromSide":"bottom","toNode":"2fdc0c6565cc0ce5","toSide":"top"},
