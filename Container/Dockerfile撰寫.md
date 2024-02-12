@@ -98,7 +98,9 @@ COPY --from=tester /example.txt /example.txt # 最終階段CMD [ "cat", "/exampl
 
 多階段建置，multi-stage build，目的在於縮小最終image的大小，提升image的效能以及縮短build過程的時間。
 
-依照上面的dockerfile的範例，可以將image分為多個stage進行bulid，將每一個*FROM*視為一個階段，以第一個階段來說，會在example.txt中寫入Builder這個字，而到第二個階段時，透過`--from=builder`來取得上一個階段的結果，將上一個階段的example.txt命名為example.txt，最後再將
+依照上面的dockerfile的範例，可以將image分為多個stage進行bulid，將每一個*FROM*視為一個階段，以第一個階段來說，會在example.txt中寫入Builder這個字，而到第二個階段時，透過`--from=builder`來取得上一個階段的結果，將上一個階段的example.txt內容複製一份到example.txt，最後再繼續傳遞到第三階段，最後第三階段的結果才會是生成的image結果。
+
+我們可以透過這樣的特性，在建置階段的時候安裝所需的套件，但並不將它傳遞到最後做使用，像是tsc、ts-node等等，可以大大減少最終image的大小。
 
 
 
