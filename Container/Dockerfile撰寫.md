@@ -13,6 +13,7 @@ date: 2024-02-12 Tue 15:28
 	+ [EXPOSE](###EXPOSE)
 	+ [CMD](###CMD)
 + [撰寫順序](##撰寫順序)
++ [多階段建置](##多階段建置)
 + [Reference](##Reference)
 ## Format 
 
@@ -80,8 +81,30 @@ CMD ["bundle", "exec", "ruby", "whoami.rb", "-p", "3000", "-o", "0.0.0.0"]
 + RUN  -> 可能會需要為容器安裝新的package
 + COPY -> 因為當程式碼變動後，bulid時計算出來的sha id會不同，所以變動頻率通常最大
 
+
+## 多階段建置
+
+```dockerfile
+FROM alpine:3.16.2 AS builder # 建置階段  
+RUN echo 'Builder' > /example.txt # 建置階段  
+  
+FROM alpine:3.16.2 AS tester # 測試階段  
+COPY --from=builder /example.txt /example.txt # 測試階段  
+RUN echo 'Tester' >> /example.txt # 測試階段  
+  
+FROM alpine:3.16.2 # 最終階段  
+COPY --from=tester /example.txt /example.txt # 最終階段CMD [ "cat", "/example.txt" ] # 最終階段
+```
+
+多階段建置，multi-stage build，目的在於縮小最終image的大小，提升image的效能以及縮短build過程的時間。
+
+依照上面的dockerfile的範例，可以將image分為多個stage進行bulid，將每一個*FROM*視為一個階段，以第一個階段來說，會在example.txt中寫入Builder這個字，而到第二個階段時，透過`--from=builder`來取得上一個階段的結果，將上一個階段的example.txt命名為example.txt，最後再將
+
+
+
 ## Reference
 
 [4.9 Dockerfile 內容解析 | 不可不知的 Docker 開發部署實戰筆記 | Robert Chang](https://docker.robertchang.me/images/explain-dockerfile)
 [4.10 建置映像檔 | 不可不知的 Docker 開發部署實戰筆記 | Robert Chang](https://docker.robertchang.me/images/building)
 [4.11 重新整理 Dockerfile 的執行順序 | 不可不知的 Docker 開發部署實戰筆記 | Robert Chang](https://docker.robertchang.me/images/reorder-dockerfile)
+[4.12 多階段建置映像檔 | 不可不知的 Docker 開發部署實戰筆記 | Robert Chang](https://docker.robertchang.me/images/multiple-building)
