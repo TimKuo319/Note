@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0b2f0405490859fa",
+        "id": "2ea9560bc9eee734",
         "type": "tabs",
         "children": [
           {
-            "id": "c034c137f87d7f48",
+            "id": "681ac8727b3f0958",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Container/docker.canvas",
                 "viewState": {
-                  "x": 220,
-                  "y": -2170,
-                  "zoom": 0
+                  "x": 65,
+                  "y": -1248.6057317073169,
+                  "zoom": -1.0808073904006126
                 }
               }
             }
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -164,11 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c034c137f87d7f48",
+  "active": "681ac8727b3f0958",
   "lastOpenFiles": [
     "Container/Dockerfile撰寫.md",
-    "Untitled.md",
     "Container/docker.canvas",
+    "Untitled.md",
     "Web/ReactJS/React.canvas",
     "Web/ReactJS/Basic.md",
     "Web/ReactJS/useEffect.md",
@@ -203,7 +202,6 @@
     "Web/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
     "Web/async、 await使用.md",
     "Web/NestJS/Writing test with NestJS using jest.md",
-    "Hexo/Hexo + githubpage 架站.md",
     "image/docker_image_layer.png",
     "image/Pasted image 20231111221921.png",
     "image/PFF.png",
