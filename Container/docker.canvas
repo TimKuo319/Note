@@ -17,7 +17,8 @@
 		{"id":"2fdc0c6565cc0ce5","type":"text","text":"#### DOCKER OFFICIAL IMAGE\n\n官方推出的映像檔","x":-855,"y":-849,"width":305,"height":111,"color":"4"},
 		{"id":"edadc2d6d93f3feb","type":"text","text":"####  VERIFIED PUBLISHER\n\n經過授權的映像檔，表示來源相對可靠的映像檔","x":-490,"y":-849,"width":315,"height":111,"color":"#0c41df"},
 		{"id":"bc43b532dead2cd5","type":"text","text":"## Docker Hub","x":-615,"y":-1178,"width":250,"height":60},
-		{"id":"7ca3e7cfe5dd15a3","type":"text","text":"## Docker file","x":140,"y":-1168,"width":250,"height":50}
+		{"id":"7ca3e7cfe5dd15a3","type":"text","text":"## Docker file","x":140,"y":-1168,"width":250,"height":50},
+		{"id":"e84aa96c9a2d3456","x":-60,"y":-967,"width":400,"height":458,"type":"file","file":"Container/Dockerfile撰寫.md"}
 	],
 	"edges":[
 		{"id":"22875b848a3ceb6b","fromNode":"d3f01566a346f7cf","fromSide":"bottom","toNode":"2fdc0c6565cc0ce5","toSide":"top","color":"2"},
@@ -36,6 +37,7 @@
 		{"id":"2adb62e6afbaeb3f","fromNode":"12f9c48f9be4c271","fromSide":"right","toNode":"8dcc41d79617d128","toSide":"left","color":"5"},
 		{"id":"79422c998944bd21","fromNode":"12f9c48f9be4c271","fromSide":"right","toNode":"60f5f58c59280b9a","toSide":"left","color":"5"},
 		{"id":"55a45677bceabce8","fromNode":"12f9c48f9be4c271","fromSide":"top","toNode":"c14902f8a4a7e789","toSide":"bottom","color":"5"},
-		{"id":"9b195f7ac0073be6","fromNode":"b61f388568be8dcc","fromSide":"bottom","toNode":"7ca3e7cfe5dd15a3","toSide":"top"}
+		{"id":"9b195f7ac0073be6","fromNode":"b61f388568be8dcc","fromSide":"bottom","toNode":"7ca3e7cfe5dd15a3","toSide":"top","color":"6"},
+		{"id":"81f007e1df26a200","fromNode":"7ca3e7cfe5dd15a3","fromSide":"bottom","toNode":"e84aa96c9a2d3456","toSide":"top","color":"6"}
 	]
 }

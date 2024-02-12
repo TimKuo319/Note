@@ -11,11 +11,14 @@
             "id": "c034c137f87d7f48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Container/Dockerfile撰寫.md",
-                "mode": "source",
-                "source": false
+                "file": "Container/docker.canvas",
+                "viewState": {
+                  "x": 156.4794224934278,
+                  "y": -826.694784427804,
+                  "zoom": -0.5608597299378097
+                }
               }
             }
           }
@@ -70,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -162,8 +166,8 @@
   },
   "active": "c034c137f87d7f48",
   "lastOpenFiles": [
-    "Untitled.md",
     "Container/Dockerfile撰寫.md",
+    "Untitled.md",
     "Container/docker.canvas",
     "Web/ReactJS/React.canvas",
     "Web/ReactJS/Basic.md",

@@ -8,8 +8,12 @@ date: 2024-02-12 Tue 15:28
 	+ [From](###From)
 	+ [ENV](###ENV) 
 	+ [RUN](###RUN)
-
-
+	+ [WORKDIR](###WORKDIR)
+	+ [COPY](###COPY)
+	+ [EXPOSE](###EXPOSE)
+	+ [CMD](###CMD)
++ [撰寫順序](##撰寫順序)
++ [Reference](##Reference)
 ## Format 
 
 ```dockerfile
@@ -36,7 +40,7 @@ EXPOSE 3000
 CMD ["bundle", "exec", "ruby", "whoami.rb", "-p", "3000", "-o", "0.0.0.0"]
 ```
 
-### From 
+### FROM
 
 用來指定image的基底，如果是依照nodejs撰寫的就指定nodejs的映像檔等等。
 
@@ -64,6 +68,17 @@ CMD ["bundle", "exec", "ruby", "whoami.rb", "-p", "3000", "-o", "0.0.0.0"]
 
 容器的啟動指令。當Image成為容器的時候第一個執行的指令。
 
+## 撰寫順序
+
+若是docker file中的 docker image layer 上層重新建置，則儘管後面的image layer不變，docker依舊會重新bulid出新的image layer，而==不會觸發cache機制==，所以我們應該要將越不會變動的指令放在上方。
+
+順序大致如下
++ FROM
++ ENV -> option(看變動程度決定位置)
++ EXPOSE
++ WORKDIR
++ RUN  -> 可能會需要為容器安裝新的package
++ COPY -> 因為當程式碼變動後，bulid時計算出來的sha id會不同，所以變動頻率通常最大
 
 ## Reference
 
