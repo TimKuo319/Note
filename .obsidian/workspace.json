@@ -21,6 +21,18 @@
                 }
               }
             }
+          },
+          {
+            "id": "7ba389f183eb2574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Container/Dockerfile撰寫.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -73,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
