@@ -27,7 +27,7 @@
 		{"id":"e1b51614150d1574","x":95,"y":-918,"width":300,"height":360,"type":"text","text":"### Concept\n+ Immutable\n\t+ Image應該是不可變的，透過相同的image啟動的話，每一次應該都要得到相同結果\n+ Ephemeral\n\t+ 容器是短暫存在的實體，其中的資料應該是無狀態的。且可以快速的啟動、新增、刪除等等。"},
 		{"id":"8f77187fba7e5e0c","x":-55,"y":-1132,"width":250,"height":60,"type":"text","text":"## Volume"},
 		{"id":"258e5f9062ad03cd","x":460,"y":-1132,"width":250,"height":60,"type":"text","text":"## Bind Mount"},
-		{"id":"f5f790f3b3e4ad66","x":460,"y":-918,"width":250,"height":360,"type":"text","text":"透過直接將本機路徑掛載到容器內路徑，讓本機與容器資料同步。\n\n可以透過以下兩種方式\n+ *--volume*\n\t+ `--volume 本機絕對路徑:容器絕對路徑`\n+ *--mount*\n\t+ `--mount type=bind,source=本機絕對路徑,targe`"}
+		{"id":"f5f790f3b3e4ad66","x":460,"y":-918,"width":400,"height":360,"type":"text","text":"透過直接將本機路徑掛載到容器內路徑，讓本機與容器資料同步。\n\n可以透過以下兩種方式\n+ *--volume*\n\t+ `--volume 本機絕對路徑:容器絕對路徑`\n+ *--mount*\n\t+ `--mount type=bind,source=本機絕對路徑,target=容器絕對路徑`"}
 	],
 	"edges":[
 		{"id":"22875b848a3ceb6b","fromNode":"d3f01566a346f7cf","fromSide":"bottom","toNode":"2fdc0c6565cc0ce5","toSide":"top","color":"2"},
