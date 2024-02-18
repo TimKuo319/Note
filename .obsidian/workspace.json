@@ -15,9 +15,9 @@
               "state": {
                 "file": "Container/docker.canvas",
                 "viewState": {
-                  "x": -79.81553933732562,
-                  "y": -667.163728964298,
-                  "zoom": -0.8333333333333333
+                  "x": -1330,
+                  "y": -752.5,
+                  "zoom": 0
                 }
               }
             }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
