@@ -9,7 +9,13 @@ docker-compose是用來整合容器、虛擬網路、volume並且構成應用的
 
 + [檔案架構](##檔案架構)
 	+ [top-level參數](###top-level參數)
-
+		+ [Service參數](####Service參數)
+		+ [networks跟volumes參數](####networks跟volumes參數)
++ [yml及yaml](##yml及yaml)
++ [build](##build)
++ [擴充欄位](##擴充欄位)
++ [檔案覆寫](##檔案覆寫)
++ [Reference](##Reference)
 ## 檔案架構
 ```yml
 version: '3.9'
@@ -228,7 +234,12 @@ production:
 
 ## 檔案覆寫
 
-因為應用程式
+因為應用程式可能有多種環境 -> 開發、測試、正式等，可以透過將docker-compose檔案分成核心、開發等，在不同環境切換時透過--file去覆寫檔案。==但port檔案是無法被覆寫的==。
 
+```bash
+docker compose --file a --file b ->後方檔案覆蓋前方檔案
+```
 
 ## Reference
+
+[Docker Compose 篇 | 不可不知的 Docker 開發部署實戰筆記 | Robert Chang](https://docker.robertchang.me/compose/)
