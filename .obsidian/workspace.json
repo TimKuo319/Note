@@ -11,14 +11,11 @@
             "id": "681ac8727b3f0958",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Cache/redis.canvas",
-                "viewState": {
-                  "x": -755,
-                  "y": 480,
-                  "zoom": -0.18485933297580048
-                }
+                "file": "Web/TypeScript安裝.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache/redis.canvas",
+                "file": "Web/TypeScript安裝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache/redis.canvas",
+                "file": "Web/TypeScript安裝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/redis.canvas"
+                "file": "Web/TypeScript安裝.md"
               }
             }
           },
@@ -165,10 +162,10 @@
   },
   "active": "681ac8727b3f0958",
   "lastOpenFiles": [
+    "Cache/redis.canvas",
     "Container/docker.canvas",
     "Container/Docker-compose.md",
     "Container/Dockerfile撰寫.md",
-    "Cache/redis.canvas",
     "Untitled.md",
     "Web/ReactJS/React.canvas",
     "Web/ReactJS/Basic.md",
