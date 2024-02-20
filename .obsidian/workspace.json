@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/TypeScript安裝.md",
+                "file": "Container/Docker-compose.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/TypeScript安裝.md",
+                "file": "Container/Docker-compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/TypeScript安裝.md",
+                "file": "Container/Docker-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/TypeScript安裝.md"
+                "file": "Container/Docker-compose.md"
               }
             }
           },
@@ -162,6 +162,7 @@
   },
   "active": "681ac8727b3f0958",
   "lastOpenFiles": [
+    "Web/TypeScript安裝.md",
     "Cache/redis.canvas",
     "Container/docker.canvas",
     "Container/Docker-compose.md",
@@ -174,7 +175,6 @@
     "Web/ReactJS/note.md",
     "Web/CSS/CSS.canvas",
     "Web/ExpressJS/app.set()與app.use().md",
-    "Web/TypeScript安裝.md",
     "Todo.md",
     "Web/exports、module.exports、export、export default.md",
     "Web/CSS/Margin vs Padding.md",
