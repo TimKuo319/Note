@@ -11,14 +11,11 @@
             "id": "681ac8727b3f0958",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Container/docker.canvas",
-                "viewState": {
-                  "x": -913.9260654524624,
-                  "y": -1396.7415394475809,
-                  "zoom": -1.1610824735591552
-                }
+                "file": "SWE/Linter - ESLint.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Container/docker.canvas",
+                "file": "SWE/Linter - ESLint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Container/docker.canvas",
+                "file": "SWE/Linter - ESLint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Container/docker.canvas"
+                "file": "SWE/Linter - ESLint.md"
               }
             }
           },
@@ -163,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "681ac8727b3f0958",
   "lastOpenFiles": [
+    "Web/ReactJS/React.canvas",
+    "Container/docker.canvas",
     "Container/Docker-compose.md",
     "SWE/Linter - ESLint.md",
     "SWE/Prettier.md",
     "Web/TypeScript安裝.md",
     "Cache/redis.canvas",
-    "Container/docker.canvas",
     "Container/Dockerfile撰寫.md",
     "Untitled.md",
-    "Web/ReactJS/React.canvas",
     "Web/ReactJS/Basic.md",
     "Web/ReactJS/useEffect.md",
     "Web/Nodejs/NodeJS版本管理.md",
