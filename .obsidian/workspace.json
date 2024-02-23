@@ -15,9 +15,9 @@
               "state": {
                 "file": "Web/NestJS/NestJS.canvas",
                 "viewState": {
-                  "x": -1955,
-                  "y": 270,
-                  "zoom": 0
+                  "x": -503.61899291356644,
+                  "y": 186.2424451926043,
+                  "zoom": -1.6666666666666667
                 }
               }
             }
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
