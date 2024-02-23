@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/NestJS/Writing test with NestJS using jest.md",
+                "file": "Web/NestJS/NestJS Controller、Provider、Module.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/NestJS/Writing test with NestJS using jest.md",
+                "file": "Web/NestJS/NestJS Controller、Provider、Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/NestJS/Writing test with NestJS using jest.md",
+                "file": "Web/NestJS/NestJS Controller、Provider、Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/NestJS/Writing test with NestJS using jest.md"
+                "file": "Web/NestJS/NestJS Controller、Provider、Module.md"
               }
             }
           },
@@ -163,6 +162,8 @@
   },
   "active": "681ac8727b3f0958",
   "lastOpenFiles": [
+    "Web/NestJS/NestJS Connection with MySQL using TypeORM.md",
+    "Web/NestJS/Writing test with NestJS using jest.md",
     "SWE/API.canvas",
     "SWE/Linter - ESLint.md",
     "Web/ReactJS/React.canvas",
@@ -188,7 +189,6 @@
     "SWE/Session vs JWT.md",
     "Web/NestJS/NestJS Controller、Provider、Module.md",
     "Web/NestJS/Decorator.md",
-    "Web/NestJS/NestJS Connection with MySQL using TypeORM.md",
     "image/format_on.png",
     "image/vscode_setting.png",
     "SWE/SOLID principle.md",
