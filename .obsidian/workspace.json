@@ -11,11 +11,14 @@
             "id": "681ac8727b3f0958",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Web/NestJS/NestJS Controller、Provider、Module.md",
-                "mode": "source",
-                "source": false
+                "file": "Web/NestJS/NestJS.canvas",
+                "viewState": {
+                  "x": -1955,
+                  "y": 270,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/NestJS/NestJS Controller、Provider、Module.md",
+                "file": "Web/NestJS/NestJS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/NestJS/NestJS Controller、Provider、Module.md",
+                "file": "Web/NestJS/NestJS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/NestJS/NestJS Controller、Provider、Module.md"
+                "file": "Web/NestJS/NestJS.canvas"
               }
             }
           },
@@ -162,7 +165,15 @@
   },
   "active": "681ac8727b3f0958",
   "lastOpenFiles": [
+    "Web/NestJS/NestJS gurad.md",
+    "Web/NestJS/NestJS.canvas",
     "Web/NestJS/NestJS Connection with MySQL using TypeORM.md",
+    "Web/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
+    "Web/NestJS/NestJS Exception filters.md",
+    "Web/NestJS/NestJS Interceptors.md",
+    "Web/NestJS/NestJS Middleware.md",
+    "Web/NestJS/NestJS Pipes.md",
+    "Web/NestJS/NestJS Controller、Provider、Module.md",
     "Web/NestJS/Writing test with NestJS using jest.md",
     "SWE/API.canvas",
     "SWE/Linter - ESLint.md",
@@ -187,19 +198,11 @@
     "Cache",
     "image/docker_copy_write.png",
     "SWE/Session vs JWT.md",
-    "Web/NestJS/NestJS Controller、Provider、Module.md",
-    "Web/NestJS/Decorator.md",
     "image/format_on.png",
     "image/vscode_setting.png",
-    "SWE/SOLID principle.md",
     "image/fr_usage.png",
     "image/margn_padding.png",
-    "Database/ORM.md",
     "Web/CSS",
-    "Web/Untitled.md",
-    "Web/ReactJS/Zod and hookresolvers with react-hook-form.md",
-    "Web/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
-    "Web/async、 await使用.md",
     "image/docker_image_layer.png",
     "image/Pasted image 20231111221921.png",
     "image/PFF.png",
