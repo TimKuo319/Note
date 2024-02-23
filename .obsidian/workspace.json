@@ -11,14 +11,11 @@
             "id": "681ac8727b3f0958",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "SWE/API.canvas",
-                "viewState": {
-                  "x": -75,
-                  "y": 10,
-                  "zoom": -0.4327868464193861
-                }
+                "file": "Web/NestJS/Writing test with NestJS using jest.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -73,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/API.canvas",
+                "file": "Web/NestJS/Writing test with NestJS using jest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/API.canvas",
+                "file": "Web/NestJS/Writing test with NestJS using jest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/API.canvas"
+                "file": "Web/NestJS/Writing test with NestJS using jest.md"
               }
             }
           },
@@ -165,6 +163,7 @@
   },
   "active": "681ac8727b3f0958",
   "lastOpenFiles": [
+    "SWE/API.canvas",
     "SWE/Linter - ESLint.md",
     "Web/ReactJS/React.canvas",
     "Container/docker.canvas",
@@ -190,7 +189,6 @@
     "Web/NestJS/NestJS Controller、Provider、Module.md",
     "Web/NestJS/Decorator.md",
     "Web/NestJS/NestJS Connection with MySQL using TypeORM.md",
-    "SWE/API.canvas",
     "image/format_on.png",
     "image/vscode_setting.png",
     "SWE/SOLID principle.md",
