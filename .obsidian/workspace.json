@@ -11,18 +11,26 @@
             "id": "681ac8727b3f0958",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Web/NestJS/NestJS.canvas",
-                "viewState": {
-                  "x": -503.61899291356644,
-                  "y": 186.2424451926043,
-                  "zoom": -1.6666666666666667
-                }
+                "file": "Web/ReactJS/useEffect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54e42e64981207f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -90,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/NestJS/NestJS.canvas",
+                "file": "Web/ReactJS/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/NestJS/NestJS.canvas",
+                "file": "Web/ReactJS/useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/NestJS/NestJS.canvas"
+                "file": "Web/ReactJS/useEffect.md"
               }
             }
           },
@@ -164,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "681ac8727b3f0958",
+  "active": "54e42e64981207f4",
   "lastOpenFiles": [
-    "Web/NestJS/NestJS gurad.md",
     "Web/NestJS/NestJS.canvas",
+    "Web/NestJS/NestJS gurad.md",
     "Web/NestJS/NestJS Connection with MySQL using TypeORM.md",
     "Web/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
     "Web/NestJS/NestJS Exception filters.md",
