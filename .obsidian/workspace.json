@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2ea9560bc9eee734",
+        "id": "a5a7c73e1f52b7ff",
         "type": "tabs",
         "children": [
           {
-            "id": "681ac8727b3f0958",
+            "id": "64f6373d94544bb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71b24c5460f06a80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo.md",
+                "file": "IoT/MQTT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "IoT/MQTT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "IoT/MQTT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "IoT/MQTT.md"
               }
             }
           },
@@ -155,8 +142,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,10 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71b24c5460f06a80",
+  "active": "64f6373d94544bb4",
   "lastOpenFiles": [
-    "Web/同源政策與CORS.md",
+    "image/QoS2.png",
+    "image/QoS1.png",
+    "IoT/MQTT.md",
+    "image/QoS0.png",
+    "IoT/LPWAN.md",
     "Todo.md",
+    "OS/Chapter8.md",
+    "OS/Chapter7.md",
+    "OS/Chapter5.md",
+    "OS/Chapter4.md",
+    "OS/Chapter2.md",
+    "Web/CSS/Margin vs Padding.md",
+    "image/LoRa.png",
+    "IoT/Untitled.canvas",
+    "Untitled.md",
+    "IoT",
+    "Web/同源政策與CORS.md",
     "Database/ORM.md",
     "Web/ReactJS/useEffect.md",
     "Web/NestJS/NestJS.canvas",
@@ -195,39 +196,24 @@
     "Container/docker.canvas",
     "Container/Docker-compose.md",
     "SWE/Prettier.md",
-    "Web/TypeScript安裝.md",
     "Cache/redis.canvas",
-    "Container/Dockerfile撰寫.md",
-    "Web/ReactJS/Basic.md",
-    "Web/Nodejs/NodeJS版本管理.md",
-    "Web/ReactJS/note.md",
     "Web/CSS/CSS.canvas",
-    "Web/ExpressJS/app.set()與app.use().md",
-    "Web/exports、module.exports、export、export default.md",
-    "Web/CSS/Margin vs Padding.md",
-    "Web/Json Web Token(JWT).md",
     "Cache",
     "image/docker_copy_write.png",
-    "SWE/Session vs JWT.md",
     "image/format_on.png",
     "image/vscode_setting.png",
     "image/fr_usage.png",
     "image/margn_padding.png",
     "Web/CSS",
     "image/docker_image_layer.png",
-    "image/Pasted image 20231111221921.png",
-    "image/PFF.png",
     "JS/NestJS/Untitled.canvas",
     "Untitled 1.canvas",
     "新增 文字文件.txt",
-    "image/react_share_data.png",
     "Web/ReactJS",
     "Web/Nodejs",
-    "image/GCP_firewall_rule2.png",
     "SWE/軟體工程課",
     "Untitled 1",
     "Web/NestJS",
-    "Web/ExpressJS",
-    "PenTest"
+    "Web/ExpressJS"
   ]
 }
