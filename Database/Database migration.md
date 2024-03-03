@@ -102,9 +102,24 @@ npx typeorm-ts-node-commmonjs migration:run -d "your data source path"
 
 後面的commonjs代表的是，ts檔案轉換過後js檔案所運用的模組類型，若是esm則有不同的指令，可以到orm的文件查詢[Migrations | TypeORM](https://typeorm.io/migrations#running-and-reverting-migrations)
 
-透過以上的方式就能夠進行migration，
+透過以上的方式就能夠進行migration，如果想要roll back這個操作的話，就將==run改為revert==，即可回復動作。
 
+```sh
+npx typeorm-ts-node-commmonjs migration:revert -d "your data source path"
+```
+
+
+## Summary
+
+TypeORM的主要四個migration指令
++ create - 透過TypeORM CLI建立migration檔案，需自行在其中撰寫需要執行的操作
++ generate - TypeORM會檢查entity schema的狀態，如果有更動則會自行產生對應的migration檔案
++ run - 執行migration操作
++ revert - roll back migration操作
+
+以上只有透過簡單的方式嘗試一下database migratoin，還有需要問題需要在思考才能在大型架構下運用。像是==migration strategy、回復特定migration版本==等等。
 # Reference
 
 [Database | NestJS - A progressive Node.js framework](https://docs.nestjs.com/techniques/database#migrations-1)
 [Migrations | TypeORM](https://typeorm.io/migrations#running-and-reverting-migrations)
+[Database Migration — Without Downtime | by Sandi Wu | iCHEF | Medium](https://medium.com/ichef/database-migration-without-downtime-6839a240ea7b)
