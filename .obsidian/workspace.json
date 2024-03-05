@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Database migration.md",
+                "file": "Web/Browser/同源政策與CORS.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Database migration.md",
+                "file": "Web/Browser/同源政策與CORS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Database migration.md",
+                "file": "Web/Browser/同源政策與CORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Database migration.md"
+                "file": "Web/Browser/同源政策與CORS.md"
               }
             }
           },
@@ -160,15 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64f6373d94544bb4",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
-    "Database/ORM.md",
+    "Web/ReactJS/useEffect.md",
+    "Web/JS&TS",
+    "Web/Browser",
     "Database/Database migration.md",
-    "Web/TypeScript安裝.md",
+    "Database/ORM.md",
+    "Web/JS&TS/TypeScript安裝.md",
     "Database/MongoDB Conection and CRUD.md",
-    "Web/同源政策與CORS.md",
-    "Web/async、 await使用.md",
-    "Web/exports、module.exports、export、export default.md",
+    "Web/Browser/同源政策與CORS.md",
+    "Web/JS&TS/async、 await使用.md",
+    "Web/JS&TS/exports、module.exports、export、export default.md",
     "Web/RxJS.md",
     "IoT/MQTT.md",
     "image/QoS2.png",
@@ -186,7 +188,6 @@
     "IoT/Untitled.canvas",
     "Untitled.md",
     "IoT",
-    "Web/ReactJS/useEffect.md",
     "Web/NestJS/NestJS.canvas",
     "Web/NestJS/NestJS gurad.md",
     "Web/NestJS/NestJS Connection with MySQL using TypeORM.md",
@@ -194,7 +195,6 @@
     "Web/NestJS/NestJS Exception filters.md",
     "Web/NestJS/NestJS Interceptors.md",
     "Web/NestJS/NestJS Middleware.md",
-    "Web/NestJS/NestJS Pipes.md",
     "SWE/API.canvas",
     "Web/ReactJS/React.canvas",
     "Container/docker.canvas",
@@ -214,8 +214,6 @@
     "Web/ReactJS",
     "Web/Nodejs",
     "SWE/軟體工程課",
-    "Untitled 1",
-    "Web/NestJS",
-    "Web/ExpressJS"
+    "Untitled 1"
   ]
 }
