@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/JS&TS/Event delegation.md",
+                "file": "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/JS&TS/Event delegation.md",
+                "file": "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/JS&TS/Event delegation.md",
+                "file": "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/JS&TS/Event delegation.md"
+                "file": "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md"
               }
             }
           },
@@ -161,16 +161,20 @@
   },
   "active": "dd5109ae35e0eae6",
   "lastOpenFiles": [
-    "image/event_workflow.png",
+    "Database/What is ACID.md",
+    "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
+    "Database/ORM.md",
+    "Database/Mysql  pool.md",
+    "Database/MongoDB安裝.md",
+    "Database/MongoDB Conection and CRUD.md",
+    "Database/Database migration.md",
     "Web/JS&TS/Event delegation.md",
+    "image/event_workflow.png",
     "Web/Browser/同源政策與CORS.md",
     "Web/ReactJS/useEffect.md",
     "Web/JS&TS",
     "Web/Browser",
-    "Database/Database migration.md",
-    "Database/ORM.md",
     "Web/JS&TS/TypeScript安裝.md",
-    "Database/MongoDB Conection and CRUD.md",
     "Web/JS&TS/async、 await使用.md",
     "Web/JS&TS/exports、module.exports、export、export default.md",
     "Web/RxJS.md",
@@ -193,9 +197,6 @@
     "Web/NestJS/NestJS.canvas",
     "Web/NestJS/NestJS gurad.md",
     "Web/NestJS/NestJS Connection with MySQL using TypeORM.md",
-    "Web/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
-    "Web/NestJS/NestJS Exception filters.md",
-    "Web/NestJS/NestJS Interceptors.md",
     "SWE/API.canvas",
     "Web/ReactJS/React.canvas",
     "Container/docker.canvas",
