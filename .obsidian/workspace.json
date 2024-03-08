@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IoT/MQTT.md",
+                "file": "IoT/LoRa模組應用(Arduino Nano BLE).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IoT/MQTT.md",
+                "file": "IoT/LoRa模組應用(Arduino Nano BLE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IoT/MQTT.md",
+                "file": "IoT/LoRa模組應用(Arduino Nano BLE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IoT/MQTT.md"
+                "file": "IoT/LoRa模組應用(Arduino Nano BLE).md"
               }
             }
           },
@@ -162,6 +162,8 @@
   "active": "dd5109ae35e0eae6",
   "lastOpenFiles": [
     "IoT/LPWAN.md",
+    "IoT/LoRa模組應用(Arduino Nano BLE).md",
+    "IoT/MQTT.md",
     "Database/Database migration.md",
     "Web/JS&TS/Event delegation.md",
     "Web/JS&TS/Prototype.md",
@@ -182,7 +184,6 @@
     "Web/JS&TS/async、 await使用.md",
     "Web/JS&TS/exports、module.exports、export、export default.md",
     "Web/RxJS.md",
-    "IoT/MQTT.md",
     "image/QoS2.png",
     "image/QoS1.png",
     "image/QoS0.png",
@@ -195,7 +196,6 @@
     "Web/CSS/Margin vs Padding.md",
     "image/LoRa.png",
     "IoT/Untitled.canvas",
-    "Untitled.md",
     "IoT",
     "Web/NestJS/NestJS.canvas",
     "SWE/API.canvas",
