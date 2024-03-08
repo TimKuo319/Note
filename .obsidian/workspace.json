@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Database migration.md",
+                "file": "IoT/MQTT.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Database migration.md",
+                "file": "IoT/MQTT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Database migration.md",
+                "file": "IoT/MQTT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Database migration.md"
+                "file": "IoT/MQTT.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "dd5109ae35e0eae6",
   "lastOpenFiles": [
+    "IoT/LPWAN.md",
+    "Database/Database migration.md",
     "Web/JS&TS/Event delegation.md",
     "Web/JS&TS/Prototype.md",
     "CICD/Github Action.md",
@@ -171,7 +173,6 @@
     "Database/Mysql  pool.md",
     "Database/MongoDB安裝.md",
     "Database/MongoDB Conection and CRUD.md",
-    "Database/Database migration.md",
     "image/event_workflow.png",
     "Web/Browser/同源政策與CORS.md",
     "Web/ReactJS/useEffect.md",
@@ -185,7 +186,6 @@
     "image/QoS2.png",
     "image/QoS1.png",
     "image/QoS0.png",
-    "IoT/LPWAN.md",
     "Todo.md",
     "OS/Chapter8.md",
     "OS/Chapter7.md",
