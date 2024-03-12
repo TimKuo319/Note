@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6b590aa64955b123","x":-40,"y":-120,"width":250,"height":60,"type":"text","text":"# Git"},
+		{"id":"0bc1a456e3f545d2","x":-382,"y":-61,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"3dcaae049f9414da","fromNode":"6b590aa64955b123","fromSide":"left","toNode":"0bc1a456e3f545d2","toSide":"right"}
+	]
+}

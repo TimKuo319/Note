@@ -16,7 +16,7 @@ git restore <filename>
 那如果今天檔案已經被加入到暫存區中變成stage的狀態了呢?只要在使用restore時，加上`--stage`的參數，就可以對暫存區的內容進行還原!
 
 ```bash
-git restore --stage <filename>
+git restore --staged <filename>
 ```
 
 假設今天在worktree剛修改完，又對於stage中的部分檔案內容不滿意想要進行修改的話。可以使用以下指令

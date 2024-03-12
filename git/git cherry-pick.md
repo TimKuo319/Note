@@ -9,4 +9,4 @@ git cherry-pick <commit SHA-1 value> ...
 
 利用這樣的方式就可以將其他分支中特定幾個commit給接合到當前分支中。
 
-如果在將commit pick過來的過程中還不想要馬上合併，則可以再加上`--no-commit`的參數，先將commit放到暫存區中。
+如果在將commit pick過來的過程中還不想要馬上合併，則可以再加上`--no-commit`的參數，先將commi內的檔案放到暫存區中。

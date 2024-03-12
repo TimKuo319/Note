@@ -11,11 +11,14 @@
             "id": "dd5109ae35e0eae6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "git/git檔案還原.md",
-                "mode": "source",
-                "source": false
+                "file": "git/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git檔案還原.md",
+                "file": "git/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git檔案還原.md",
+                "file": "git/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git檔案還原.md"
+                "file": "git/Untitled.canvas"
               }
             }
           },
@@ -161,9 +164,11 @@
   },
   "active": "dd5109ae35e0eae6",
   "lastOpenFiles": [
+    "git/git cherry-pick.md",
+    "git/Untitled.canvas",
+    "git/git檔案還原.md",
     "git/git stash檔案暫存.md",
     "git/git head.md",
-    "git/git cherry-pick.md",
     "git/在遠端新增git分支.md",
     "IoT/LoRa模組應用(Arduino Nano BLE).md",
     "IoT/LPWAN.md",
@@ -192,8 +197,6 @@
     "image/QoS1.png",
     "image/QoS0.png",
     "Todo.md",
-    "OS/Chapter8.md",
-    "OS/Chapter7.md",
     "image/LoRa.png",
     "IoT/Untitled.canvas",
     "IoT",
