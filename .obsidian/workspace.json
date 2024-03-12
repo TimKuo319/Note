@@ -15,8 +15,8 @@
               "state": {
                 "file": "git/Untitled.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 97.1295166015625,
+                  "y": 282.0273742675781,
                   "zoom": 0
                 }
               }
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
