@@ -11,14 +11,11 @@
             "id": "dd5109ae35e0eae6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "git/Untitled.canvas",
-                "viewState": {
-                  "x": 97.1295166015625,
-                  "y": 282.0273742675781,
-                  "zoom": 0
-                }
+                "file": "IoT/LoRa模組應用(Arduino Nano BLE).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Untitled.canvas",
+                "file": "IoT/LoRa模組應用(Arduino Nano BLE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Untitled.canvas",
+                "file": "IoT/LoRa模組應用(Arduino Nano BLE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Untitled.canvas"
+                "file": "IoT/LoRa模組應用(Arduino Nano BLE).md"
               }
             }
           },
@@ -164,14 +161,15 @@
   },
   "active": "dd5109ae35e0eae6",
   "lastOpenFiles": [
+    "+UART.md",
+    "IoT/LoRa模組應用(Arduino Nano BLE).md",
+    "IoT/LPWAN.md",
+    "git/git.canvas",
     "git/git cherry-pick.md",
-    "git/Untitled.canvas",
     "git/git檔案還原.md",
     "git/git stash檔案暫存.md",
     "git/git head.md",
     "git/在遠端新增git分支.md",
-    "IoT/LoRa模組應用(Arduino Nano BLE).md",
-    "IoT/LPWAN.md",
     "IoT/MQTT.md",
     "Database/Database migration.md",
     "Web/JS&TS/Event delegation.md",
