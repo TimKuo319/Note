@@ -39,7 +39,7 @@ date: 2024-03-08 22:27
 ## Uplink
 
 1. 透過mac uncf 2 30e2指令進行uplink
-	+ 參數可見Arduino Nano BLE指令手冊
+	+ 參數可見==S7678S==指令手冊
 2. EK板透過UART讀取指令並執行這個uplink指令
 3. 透過天線將資料以LoRa packet的方式發送出去
 4. 在接收範圍內的LoRa gateway接收到LoRa packet
