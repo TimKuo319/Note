@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IoT/Arduino development.md",
+                "file": "Python/local and global keyword.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IoT/Arduino development.md",
+                "file": "Python/local and global keyword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IoT/Arduino development.md",
+                "file": "Python/local and global keyword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IoT/Arduino development.md"
+                "file": "Python/local and global keyword.md"
               }
             }
           },
@@ -161,10 +161,17 @@
   },
   "active": "dd5109ae35e0eae6",
   "lastOpenFiles": [
+    "Python/ML.md",
+    "Python/local and global keyword.md",
+    "Python/CNN.md",
+    "Python/__name__ = _main_在python中的意思.md",
+    "Python/Python Web crawler.md",
+    "Python/Python virtualenv setup.md",
+    "Python/Data analysis.md",
+    "IoT/Arduino development.md",
     "IoT/MQTT.md",
     "IoT/LPWAN.md",
     "IoT/LoRa模組應用(S7678S).md",
-    "IoT/Arduino development.md",
     "+UART.md",
     "git/git.canvas",
     "git/git cherry-pick.md",
@@ -182,16 +189,9 @@
     "Database/ORM.md",
     "Database/Mysql  pool.md",
     "Database/MongoDB安裝.md",
-    "Database/MongoDB Conection and CRUD.md",
     "image/event_workflow.png",
-    "Web/Browser/同源政策與CORS.md",
-    "Web/ReactJS/useEffect.md",
     "Web/JS&TS",
     "Web/Browser",
-    "Web/JS&TS/TypeScript安裝.md",
-    "Web/JS&TS/async、 await使用.md",
-    "Web/JS&TS/exports、module.exports、export、export default.md",
-    "Web/RxJS.md",
     "image/QoS2.png",
     "image/QoS1.png",
     "image/QoS0.png",
