@@ -11,14 +11,11 @@
             "id": "dd5109ae35e0eae6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Cache/redis.canvas",
-                "viewState": {
-                  "x": -285,
-                  "y": 885.4957203994295,
-                  "zoom": -1.282285389900912
-                }
+                "file": "Cache/Redis初探.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache/redis.canvas",
+                "file": "Cache/Redis初探.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache/redis.canvas",
+                "file": "Cache/Redis初探.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/redis.canvas"
+                "file": "Cache/Redis初探.md"
               }
             }
           },
@@ -164,8 +161,9 @@
   },
   "active": "dd5109ae35e0eae6",
   "lastOpenFiles": [
-    "git/git.canvas",
     "Cache/redis.canvas",
+    "Cache/Redis初探.md",
+    "git/git.canvas",
     "Python/local and global keyword.md",
     "Python/ML.md",
     "Python/CNN.md",
@@ -191,7 +189,6 @@
     "CICD",
     "Database/What is ACID.md",
     "Database/ORM.md",
-    "Database/Mysql  pool.md",
     "image/event_workflow.png",
     "Web/JS&TS",
     "Web/Browser",
