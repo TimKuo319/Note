@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "git/git.canvas",
+                "file": "Cache/redis.canvas",
                 "viewState": {
-                  "x": -115,
-                  "y": -40,
-                  "zoom": -0.5453197957347056
+                  "x": -285,
+                  "y": 885.4957203994295,
+                  "zoom": -1.282285389900912
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git.canvas",
+                "file": "Cache/redis.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git.canvas",
+                "file": "Cache/redis.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git.canvas"
+                "file": "Cache/redis.canvas"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "dd5109ae35e0eae6",
   "lastOpenFiles": [
+    "git/git.canvas",
     "Cache/redis.canvas",
     "Python/local and global keyword.md",
     "Python/ML.md",
@@ -177,7 +178,6 @@
     "IoT/LPWAN.md",
     "IoT/LoRa模組應用(S7678S).md",
     "+UART.md",
-    "git/git.canvas",
     "git/git cherry-pick.md",
     "git/git檔案還原.md",
     "git/git stash檔案暫存.md",
