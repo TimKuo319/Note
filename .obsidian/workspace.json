@@ -11,11 +11,14 @@
             "id": "dd5109ae35e0eae6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Python/local and global keyword.md",
-                "mode": "source",
-                "source": false
+                "file": "Cache/redis.canvas",
+                "viewState": {
+                  "x": -565.5424675944969,
+                  "y": 472.89995254132236,
+                  "zoom": -0.8656187232342452
+                }
               }
             }
           }
@@ -70,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/local and global keyword.md",
+                "file": "Cache/redis.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/local and global keyword.md",
+                "file": "Cache/redis.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/local and global keyword.md"
+                "file": "Cache/redis.canvas"
               }
             }
           },
@@ -161,8 +165,8 @@
   },
   "active": "dd5109ae35e0eae6",
   "lastOpenFiles": [
-    "Python/ML.md",
     "Python/local and global keyword.md",
+    "Python/ML.md",
     "Python/CNN.md",
     "Python/__name__ = _main_在python中的意思.md",
     "Python/Python Web crawler.md",
