@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Cache/redis.canvas",
+                "file": "git/git.canvas",
                 "viewState": {
-                  "x": -565.5424675944969,
-                  "y": 472.89995254132236,
-                  "zoom": -0.8656187232342452
+                  "x": -115,
+                  "y": -40,
+                  "zoom": -0.5453197957347056
                 }
               }
             }
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache/redis.canvas",
+                "file": "git/git.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache/redis.canvas",
+                "file": "git/git.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/redis.canvas"
+                "file": "git/git.canvas"
               }
             }
           },
@@ -165,6 +164,7 @@
   },
   "active": "dd5109ae35e0eae6",
   "lastOpenFiles": [
+    "Cache/redis.canvas",
     "Python/local and global keyword.md",
     "Python/ML.md",
     "Python/CNN.md",
@@ -192,7 +192,6 @@
     "Database/What is ACID.md",
     "Database/ORM.md",
     "Database/Mysql  pool.md",
-    "Database/MongoDB安裝.md",
     "image/event_workflow.png",
     "Web/JS&TS",
     "Web/Browser",
@@ -206,7 +205,6 @@
     "SWE/API.canvas",
     "Web/ReactJS/React.canvas",
     "Container/docker.canvas",
-    "Cache/redis.canvas",
     "Web/CSS/CSS.canvas",
     "Cache",
     "image/docker_copy_write.png",
