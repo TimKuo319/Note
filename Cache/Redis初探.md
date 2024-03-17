@@ -49,5 +49,9 @@ redis提供了許多類型的資料結構可以供我們儲存資料，以下列
 + Sorted Set
 	+ 適合用於需要排序的場景，ex: 排行榜，數據統計
 
+## Misc
+
++ Redis預設有16個資料庫編號為0~15，預設會使用0號資料庫，可以透過`client list`中db的編號來辨識自己當前使用的是幾號資料庫
+
 ## Reference
 [Redis](https://redis.io/)
