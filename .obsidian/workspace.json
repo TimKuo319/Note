@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c49b6157cb434e51",
+        "id": "d3f86bdfac0ac8a3",
         "type": "tabs",
         "children": [
           {
-            "id": "dd5109ae35e0eae6",
+            "id": "bdf5fb179404756f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,11 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd5109ae35e0eae6",
+  "active": "bdf5fb179404756f",
   "lastOpenFiles": [
-    "Cache/Redis初探.md",
+    "image/write_behind.png",
     "Cache/常見的Cache Strategy.md",
+    "image/read_write_through.png",
     "Cache/redis.canvas",
+    "Cache/Redis初探.md",
+    "image/cache_aside.png",
     "git/在遠端新增git分支.md",
     "git/git.canvas",
     "git/git head.md",
@@ -188,7 +191,6 @@
     "git/git檔案還原.md",
     "git/git stash檔案暫存.md",
     "Web/JS&TS/Event delegation.md",
-    "Web/JS&TS/Prototype.md",
     "CICD",
     "image/event_workflow.png",
     "Web/JS&TS",
@@ -207,9 +209,6 @@
     "Cache",
     "image/docker_copy_write.png",
     "image/format_on.png",
-    "image/vscode_setting.png",
-    "image/fr_usage.png",
-    "image/margn_padding.png",
     "Web/CSS",
     "JS/NestJS/Untitled.canvas",
     "Untitled 1.canvas",

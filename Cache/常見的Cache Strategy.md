@@ -13,6 +13,7 @@ date: 2024-03-20 11:44 Wed
 + Cons
 	+ 當cache miss的時候延遲會比較高
 	+ 讀取量大的時候，容易造成資料變動頻繁
+![cache-aside](../image/cache_aside.png)
 # Read/Write through
 
 + Read - 當cache hit的時候，就從cache裡面直接回傳資料。如果cache miss，則先去向db要資料後，*先將資料寫入cache再回傳到app中*	
@@ -23,6 +24,7 @@ date: 2024-03-20 11:44 Wed
 + Cons
 	+ cache miss時延遲高
 	+ 需要有較複雜的cache設定，因為cache作為橋梁要面對application以及db
+![read_write_through](../image/read_write_through.png)
 # Write behind 
 
 + Read - 跟read through相同
@@ -33,6 +35,7 @@ date: 2024-03-20 11:44 Wed
 + Cons
 	+ 因為非同步寫入的關係，可能會有一段時間造成cache與db的資料不一致
 	+ 因為非同步的關係，實作起來會更加複雜。
+![write_behind](../image/write_behind.png)
 # Reference
 [什麼是快取 (Cache)？快取 (Cache) 的機制為何？｜ExplainThis](https://www.explainthis.io/zh-hant/swe/cache-mechanism)
 [(21) Three Popular Caching Strategies | LinkedIn](https://www.linkedin.com/pulse/three-popular-caching-strategies-donny-widjaja-mspm-cspo/)
