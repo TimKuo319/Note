@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/ORM.md",
+                "file": "Cache/常見的Cache Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/ORM.md",
+                "file": "Cache/常見的Cache Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/ORM.md",
+                "file": "Cache/常見的Cache Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/ORM.md"
+                "file": "Cache/常見的Cache Strategy.md"
               }
             }
           },
@@ -161,14 +161,19 @@
   },
   "active": "dd5109ae35e0eae6",
   "lastOpenFiles": [
+    "Cache/Redis初探.md",
+    "Cache/常見的Cache Strategy.md",
+    "Cache/redis.canvas",
+    "git/在遠端新增git分支.md",
+    "git/git.canvas",
+    "git/git head.md",
+    "git/git cherry-pick.md",
+    "Database/MongoDB Conection and CRUD.md",
+    "Database/ORM.md",
     "Database/Mysql  pool.md",
     "Database/MongoDB安裝.md",
-    "Database/MongoDB Conection and CRUD.md",
     "Database/Database migration.md",
     "IoT/Arduino development.md",
-    "Cache/Redis初探.md",
-    "Cache/redis.canvas",
-    "git/git.canvas",
     "Python/local and global keyword.md",
     "Python/ML.md",
     "Python/CNN.md",
@@ -180,15 +185,10 @@
     "IoT/LPWAN.md",
     "IoT/LoRa模組應用(S7678S).md",
     "+UART.md",
-    "git/git cherry-pick.md",
     "git/git檔案還原.md",
     "git/git stash檔案暫存.md",
-    "git/git head.md",
-    "git/在遠端新增git分支.md",
     "Web/JS&TS/Event delegation.md",
     "Web/JS&TS/Prototype.md",
-    "CICD/Github Action.md",
-    "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
     "CICD",
     "image/event_workflow.png",
     "Web/JS&TS",
