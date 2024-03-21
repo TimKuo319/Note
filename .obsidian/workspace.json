@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a417935cfe3d4eee",
+        "id": "9e4cb66129dd517e",
         "type": "tabs",
         "children": [
           {
-            "id": "5b5a2f1d406fd1df",
+            "id": "43e9943c042d687f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b5a2f1d406fd1df",
+  "active": "43e9943c042d687f",
   "lastOpenFiles": [
+    "[RFC.md",
     "Web/Backend/Authentication - JWT.md",
     "Web/Untitled.md",
     "Web/Backend",
@@ -194,7 +195,6 @@
     "Python/Data analysis.md",
     "IoT/MQTT.md",
     "IoT/LPWAN.md",
-    "IoT/LoRa模組應用(S7678S).md",
     "CICD",
     "image/event_workflow.png",
     "Web/JS&TS",
