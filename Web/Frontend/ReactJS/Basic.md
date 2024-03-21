@@ -57,7 +57,7 @@ const [count, setCount] = useState(0);
 ## Sharing data between component
 
 component間是互相獨立不受到影響的，要讓他們彼此互相交換資料的方式就要向上透過離他們最近的component來處理。
-![react_share_data](../../image/react_share_data.png)
+![react_share_data](react_share_data.png)
 
 ```js
 export default function MyApp() {  

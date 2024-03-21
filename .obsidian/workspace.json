@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d3f86bdfac0ac8a3",
+        "id": "a417935cfe3d4eee",
         "type": "tabs",
         "children": [
           {
-            "id": "bdf5fb179404756f",
+            "id": "5b5a2f1d406fd1df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cache/常見的Cache Strategy.md",
+                "file": "Web/Backend/Authentication - JWT.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache/常見的Cache Strategy.md",
+                "file": "Web/Backend/Authentication - JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache/常見的Cache Strategy.md",
+                "file": "Web/Backend/Authentication - JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/常見的Cache Strategy.md"
+                "file": "Web/Backend/Authentication - JWT.md"
               }
             }
           },
@@ -159,10 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdf5fb179404756f",
+  "active": "5b5a2f1d406fd1df",
   "lastOpenFiles": [
-    "image/write_behind.png",
+    "Web/Backend/Authentication - JWT.md",
+    "Web/Untitled.md",
+    "Web/Backend",
+    "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
+    "Web/Frontend",
+    "Web/JS&TS/Event delegation.md",
+    "Web/Frontend/CSS/CSS.canvas",
+    "Web/Browser/同源政策與CORS.md",
     "Cache/常見的Cache Strategy.md",
+    "image/write_behind.png",
     "image/read_write_through.png",
     "Cache/redis.canvas",
     "Cache/Redis初探.md",
@@ -187,10 +195,6 @@
     "IoT/MQTT.md",
     "IoT/LPWAN.md",
     "IoT/LoRa模組應用(S7678S).md",
-    "+UART.md",
-    "git/git檔案還原.md",
-    "git/git stash檔案暫存.md",
-    "Web/JS&TS/Event delegation.md",
     "CICD",
     "image/event_workflow.png",
     "Web/JS&TS",
@@ -201,20 +205,17 @@
     "image/LoRa.png",
     "IoT/Untitled.canvas",
     "IoT",
-    "Web/NestJS/NestJS.canvas",
+    "Web/Backend/NestJS/NestJS.canvas",
     "SWE/API.canvas",
-    "Web/ReactJS/React.canvas",
+    "Web/Frontend/ReactJS/React.canvas",
     "Container/docker.canvas",
-    "Web/CSS/CSS.canvas",
     "Cache",
     "image/docker_copy_write.png",
     "image/format_on.png",
-    "Web/CSS",
+    "Web/Frontend/CSS",
     "JS/NestJS/Untitled.canvas",
     "Untitled 1.canvas",
     "新增 文字文件.txt",
-    "Web/ReactJS",
-    "Web/Nodejs",
-    "SWE/軟體工程課"
+    "Web/Frontend/ReactJS"
   ]
 }
