@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cache/Cache常見問題.md",
+                "file": "Cache/Cache problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache/Cache常見問題.md",
+                "file": "Cache/Cache problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache/Cache常見問題.md",
+                "file": "Cache/Cache problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/Cache常見問題.md"
+                "file": "Cache/Cache problem.md"
               }
             }
           },
@@ -172,12 +172,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "9d72ad5a3ab4182d",
   "lastOpenFiles": [
+    "Cache/Cache Strategy.md",
+    "Database/Concurrency problem.md",
+    "Database/What is ACID.md",
+    "Database/ORM.md",
+    "Database/Mysql  pool.md",
+    "Database/MongoDB安裝.md",
+    "Database/MongoDB Conection and CRUD.md",
+    "Database/Database migration.md",
+    "Cache/Cache problem.md",
     "Cache/Redis初探.md",
-    "Cache/Cache常見問題.md",
     "Cache/redis.canvas",
-    "Cache/常見的Cache Strategy.md",
     "Python/local and global keyword.md",
     "Web/Backend/Authentication - JWT.md",
     "[RFC.md",
@@ -195,19 +202,12 @@
     "git/git.canvas",
     "git/git head.md",
     "git/git cherry-pick.md",
-    "Database/MongoDB Conection and CRUD.md",
-    "Database/ORM.md",
-    "Database/Mysql  pool.md",
-    "Database/MongoDB安裝.md",
-    "Database/Database migration.md",
     "IoT/Arduino development.md",
     "Python/ML.md",
     "Python/CNN.md",
     "Python/__name__ = _main_在python中的意思.md",
     "Python/Python Web crawler.md",
     "Python/Python virtualenv setup.md",
-    "Python/Data analysis.md",
-    "IoT/MQTT.md",
     "CICD",
     "image/event_workflow.png",
     "Web/JS&TS",

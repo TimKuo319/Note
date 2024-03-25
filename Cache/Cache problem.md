@@ -30,6 +30,7 @@ date: 2024-03-25 15:00 Mon
 
 可以透過透過複製該資料到多台cache server，減輕單台server的壓力，*但cache副本的expired time也要不一樣，避免cache avalanche*
 
+*dirty data : 指那些在database中已經被更新的資料，但在cache中並沒有更新，導致應用程式讀取的資料時讀取到不精準的資料。*
 ## Reference
 
 [什麼是快取 (Cache)？快取 (Cache) 的機制為何？｜ExplainThis](https://www.explainthis.io/zh-hant/swe/cache-mechanism)
