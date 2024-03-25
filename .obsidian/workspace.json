@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/local and global keyword.md",
+                "file": "Cache/Redis初探.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d72ad5a3ab4182d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cache/Cache常見問題.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/local and global keyword.md",
+                "file": "Cache/Cache常見問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/local and global keyword.md",
+                "file": "Cache/Cache常見問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/local and global keyword.md"
+                "file": "Cache/Cache常見問題.md"
               }
             }
           },
@@ -159,8 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43e9943c042d687f",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "Cache/Redis初探.md",
+    "Cache/Cache常見問題.md",
+    "Cache/redis.canvas",
+    "Cache/常見的Cache Strategy.md",
+    "Python/local and global keyword.md",
     "Web/Backend/Authentication - JWT.md",
     "[RFC.md",
     "Web/Untitled.md",
@@ -170,11 +188,8 @@
     "Web/JS&TS/Event delegation.md",
     "Web/Frontend/CSS/CSS.canvas",
     "Web/Browser/同源政策與CORS.md",
-    "Cache/常見的Cache Strategy.md",
     "image/write_behind.png",
     "image/read_write_through.png",
-    "Cache/redis.canvas",
-    "Cache/Redis初探.md",
     "image/cache_aside.png",
     "git/在遠端新增git分支.md",
     "git/git.canvas",
@@ -186,7 +201,6 @@
     "Database/MongoDB安裝.md",
     "Database/Database migration.md",
     "IoT/Arduino development.md",
-    "Python/local and global keyword.md",
     "Python/ML.md",
     "Python/CNN.md",
     "Python/__name__ = _main_在python中的意思.md",
@@ -194,7 +208,6 @@
     "Python/Python virtualenv setup.md",
     "Python/Data analysis.md",
     "IoT/MQTT.md",
-    "IoT/LPWAN.md",
     "CICD",
     "image/event_workflow.png",
     "Web/JS&TS",
