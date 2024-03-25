@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Backend/Authentication - JWT.md",
+                "file": "Python/local and global keyword.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Backend/Authentication - JWT.md",
+                "file": "Python/local and global keyword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Backend/Authentication - JWT.md",
+                "file": "Python/local and global keyword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Backend/Authentication - JWT.md"
+                "file": "Python/local and global keyword.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "43e9943c042d687f",
   "lastOpenFiles": [
-    "[RFC.md",
     "Web/Backend/Authentication - JWT.md",
+    "[RFC.md",
     "Web/Untitled.md",
     "Web/Backend",
     "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
