@@ -50,7 +50,7 @@ date: 2024-03-08 22:27
 ## Downlink
 
 1. 在MQTT client publish資料
-	+ 資料內攜帶了終端裝置(Arduino開發板)的MAC address
+	+ 資料內攜帶了終端裝置(EK版)的MAC address
 2. MQTT server接收到資料
 3. 傳遞回去給LoRa gateway
 4. LoRa gateway依照MAC address在終端裝置開啟rx window的時候將資料傳遞給終端裝置
