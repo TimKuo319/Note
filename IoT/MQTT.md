@@ -34,11 +34,12 @@ MQTT
 MQTT提供三種訊息傳送服務的QoS
 + QoS0
 	+ 最多傳送一次，訊息可能被重複發送或遺失，適合使用於感 測器的原始資料傳送，因為下一則訊息將馬上被送出。
-	![Qos0](../image/QoS0.png)
+	![QoS0](../image/QoS0.png)
 + QoS1
 	+ At least once（至少一次）”，保證訊息會被送達，但可能會發生重複發送 的情形。
 	+ 接收方透過傳送`PUBBACK`來告知publisher，但若這個過程發生錯誤導致publisher沒接收到訊息，則會重複發送
-	![QoS2](../image/QoS1.png)
+	![QoS11](../image/QoS11.png)
+	![Qos12](../image/QoS12.png)
 + QoS2
 	+ Exactly once（確保一次）”，保證訊息只會被送達一次，適用於對高度謹 慎之系統，如==金流、計費系統==。
 	+ MQTT server回復`PUBREC`，並本身暫存這次訊息，當publisher收到回應時再回傳`PUBREL`讓MQTT server發出訊息。在server成功發送訊息後會回傳`PUBCOMP`表示完成。

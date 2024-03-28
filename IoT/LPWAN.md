@@ -39,7 +39,7 @@ date: 2024-03-01 Fri 15:45
 + Class A
 	+ uplink完內的一小段時間接受downlink
 + Class B
-	+ gateway發送==beacon==來讓end device知道何時需要接受downlink
+	+ gateway==定期發送beacon==來讓end device能夠同步時間、頻率等資訊，當end device收到訊息後，就能夠確定gateway的時間並且與他同步。確定時間後，gateway就能夠知道end device在哪些時間點會開啟rx slot，進而準確的==在這些時間點傳送downlink==，讓device能夠接收
 + Class C
 	+ nearly always open
 
