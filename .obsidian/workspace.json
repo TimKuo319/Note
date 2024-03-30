@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2dee343ba0209b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/pandas基礎操作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IoT/MQTT.md",
+                "file": "Python/pandas基礎操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IoT/MQTT.md",
+                "file": "Python/pandas基礎操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IoT/MQTT.md"
+                "file": "Python/pandas基礎操作.md"
               }
             }
           },
@@ -159,11 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "482ef412e7c1386a",
+  "active": "b2dee343ba0209b7",
   "lastOpenFiles": [
+    "IoT/MQTT.md",
+    "Python/pandas基礎操作.md",
     "IoT/Arduino development.md",
     "IoT/LoRa模組應用(S7678S).md",
-    "IoT/MQTT.md",
     "image/QoS0.png",
     "image/QoS12.png",
     "image/QoS11.png",
