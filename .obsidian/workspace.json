@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IoT/MQTT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2dee343ba0209b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/JS&TS/exports、module.exports、export、export default.md",
+                "file": "Database/What is transaction and ACID.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/JS&TS/exports、module.exports、export、export default.md",
+                "file": "Database/What is transaction and ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/JS&TS/exports、module.exports、export、export default.md",
+                "file": "Database/What is transaction and ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/JS&TS/exports、module.exports、export、export default.md"
+                "file": "Database/What is transaction and ACID.md"
               }
             }
           },
@@ -172,14 +160,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2dee343ba0209b7",
+  "active": "482ef412e7c1386a",
   "lastOpenFiles": [
+    "Container/Docker-compose.md",
+    "Container/docker.canvas",
+    "Container/Dockerfile撰寫.md",
+    "IoT/MQTT.md",
+    "Web/JS&TS/exports、module.exports、export、export default.md",
     "Database/Concurrency problem.md",
     "Cache/Redis初探.md",
     "Cache/Cache Strategy.md",
     "Cache/Cache problem.md",
     "Python/pandas基礎操作.md",
-    "IoT/MQTT.md",
     "IoT/Arduino development.md",
     "IoT/LoRa模組應用(S7678S).md",
     "image/QoS0.png",
@@ -191,7 +183,7 @@
     "image/DSDM_lifecycle.png",
     "IoT/LPWAN.md",
     "image/QoS2.png",
-    "Database/What is ACID.md",
+    "Database/What is transaction and ACID.md",
     "Database/ORM.md",
     "Database/Mysql  pool.md",
     "Database/MongoDB安裝.md",
@@ -210,11 +202,7 @@
     "Web/Browser/同源政策與CORS.md",
     "image/write_behind.png",
     "image/read_write_through.png",
-    "git/在遠端新增git分支.md",
     "git/git.canvas",
-    "git/git head.md",
-    "git/git cherry-pick.md",
-    "Python/ML.md",
     "CICD",
     "Web/JS&TS",
     "Web/Browser",
@@ -223,7 +211,6 @@
     "Web/Backend/NestJS/NestJS.canvas",
     "SWE/API.canvas",
     "Web/Frontend/ReactJS/React.canvas",
-    "Container/docker.canvas",
     "Cache",
     "Web/Frontend/CSS",
     "JS/NestJS/Untitled.canvas",

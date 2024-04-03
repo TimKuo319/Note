@@ -5,6 +5,25 @@ alias:
 
 ---
 
+## Transaction
+
+>Transaction，中文翻作交易或事務，是資料庫執行過程中的一個「邏輯單位」，一個 transaction 中包含多個對資料庫操作的行為，每個 transaction 有兩種可能的結局：全部執行成功 or 全部不執行（只要其中一個行為失敗就全部回滾
+
+transaction的存在主要是為了確保兩件事情
++ 操作的嚴謹性 -> 失敗時即==rollback==
++ 作業執行間的獨立性
+
+### 常見指令
+
++ START TRANSACTION
+	+ 建立一個transaction
++ COMMIT
+	+ transaction操作成功結束時進行commit
++ ROLLBACK
+	+ transaction操作失敗時進行rollback
+
+## ACID
+
 ACID是RDBMS中確保資料一致性和可靠性的重要原則。`但不僅RDBMS有這個特性`，有些NoSQL也有支援這個規則。ex: `MongoDB`
 
 1. 原子性 (Atomicity) : 確保一個`Transaction`被看作不可分割的操作，也就是這個Transaction中的所有操作要不是全部成功，就是全部失敗。且在失敗時必須回復到Transaction前的狀態。以確保data的consistency。
@@ -17,3 +36,6 @@ ACID是RDBMS中確保資料一致性和可靠性的重要原則。`但不僅RDBM
 
 
 *Transaction: 指的是一連串相關的操作或task*
+
+## Reference
+[Database Transaction & ACID - 莫力全 Kyle Mo - Medium](https://oldmo860617.medium.com/database-transaction-acid-156a3b75845e)
