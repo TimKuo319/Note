@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/What is transaction and ACID.md",
+                "file": "Hexo/Hexo + githubpage 架站.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/What is transaction and ACID.md",
+                "file": "Hexo/Hexo + githubpage 架站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/What is transaction and ACID.md",
+                "file": "Hexo/Hexo + githubpage 架站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/What is transaction and ACID.md"
+                "file": "Hexo/Hexo + githubpage 架站.md"
               }
             }
           },
@@ -162,6 +161,15 @@
   },
   "active": "482ef412e7c1386a",
   "lastOpenFiles": [
+    "GCP/GCP設定SSH.md",
+    "GCP/GCP防火牆設定.md",
+    "GCP/GCP MariaDB架設.md",
+    "Web/Backend/Authentication - JWT.md",
+    "SWE/Session vs JWT.md",
+    "SWE/Prettier.md",
+    "SWE/Linter - ESLint.md",
+    "SWE/API.canvas",
+    "Database/What is transaction and ACID.md",
     "Container/Docker-compose.md",
     "Container/docker.canvas",
     "Container/Dockerfile撰寫.md",
@@ -183,7 +191,6 @@
     "image/DSDM_lifecycle.png",
     "IoT/LPWAN.md",
     "image/QoS2.png",
-    "Database/What is transaction and ACID.md",
     "Database/ORM.md",
     "Database/Mysql  pool.md",
     "Database/MongoDB安裝.md",
@@ -191,15 +198,9 @@
     "Database/Database migration.md",
     "Cache/redis.canvas",
     "Python/local and global keyword.md",
-    "Web/Backend/Authentication - JWT.md",
-    "[RFC.md",
-    "Web/Untitled.md",
     "Web/Backend",
-    "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
     "Web/Frontend",
-    "Web/JS&TS/Event delegation.md",
     "Web/Frontend/CSS/CSS.canvas",
-    "Web/Browser/同源政策與CORS.md",
     "image/write_behind.png",
     "image/read_write_through.png",
     "git/git.canvas",
@@ -209,7 +210,6 @@
     "IoT/Untitled.canvas",
     "IoT",
     "Web/Backend/NestJS/NestJS.canvas",
-    "SWE/API.canvas",
     "Web/Frontend/ReactJS/React.canvas",
     "Cache",
     "Web/Frontend/CSS",
