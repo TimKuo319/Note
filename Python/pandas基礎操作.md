@@ -45,7 +45,7 @@ print(df.loc[1:3])
 print(df.loc[1:3, 2:4])
 ```
 
-+ `df.dropna()`/`df.fillna() - 刪除/填補nan的值
++ `df.dropna()`/`df.fillna()` - 刪除/填補nan的值
 + `df.groupby()` - 根據條件對資料分組
 + `df.apply()` - 對每個元素應用函數
 + `df.merge()`/`df.join()` - 合併多個dataframe
