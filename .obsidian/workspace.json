@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d01927d0a06fdfa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "482ef412e7c1386a",
+  "active": "8d01927d0a06fdfa",
   "lastOpenFiles": [
     "GCP/GCP設定SSH.md",
     "GCP/GCP防火牆設定.md",
