@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/pandas基礎操作.md",
+                "file": "OS/Chapter1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/pandas基礎操作.md",
+                "file": "OS/Chapter1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/pandas基礎操作.md",
+                "file": "OS/Chapter1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/pandas基礎操作.md"
+                "file": "OS/Chapter1.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "14d9c761a835184a",
   "lastOpenFiles": [
+    "Python/pandas基礎操作.md",
     "Hexo/Hexo + githubpage 架站.md",
     "GCP/GCP設定SSH.md",
     "GCP/GCP防火牆設定.md",
@@ -180,7 +181,6 @@
     "Cache/Redis初探.md",
     "Cache/Cache Strategy.md",
     "Cache/Cache problem.md",
-    "Python/pandas基礎操作.md",
     "IoT/Arduino development.md",
     "IoT/LoRa模組應用(S7678S).md",
     "image/QoS0.png",
