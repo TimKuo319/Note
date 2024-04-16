@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "055b0964ba8fb302",
+        "id": "be444cc95b2f3aac",
         "type": "tabs",
         "children": [
           {
-            "id": "14d9c761a835184a",
+            "id": "e6335ef63fb679bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/Chapter1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -159,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14d9c761a835184a",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
     "Python/pandas基礎操作.md",
     "Hexo/Hexo + githubpage 架站.md",
