@@ -11,8 +11,12 @@
             "id": "e6335ef63fb679bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web/Nodejs/Nodejs中的Event loop.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Chapter1.md",
+                "file": "Web/Nodejs/Nodejs中的Event loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Chapter1.md",
+                "file": "Web/Nodejs/Nodejs中的Event loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Chapter1.md"
+                "file": "Web/Nodejs/Nodejs中的Event loop.md"
               }
             }
           },
@@ -155,8 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "e6335ef63fb679bf",
   "lastOpenFiles": [
+    "Web/Nodejs/Nodejs底層原理.md",
+    "Web/Nodejs/NodeJS版本管理.md",
+    "Web/Nodejs/Nodejs中的Event loop.md",
+    "Web/JS&TS/TypeScript安裝.md",
+    "Web/JS&TS/async、 await使用.md",
+    "Web/JS&TS/Event delegation.md",
+    "Web/JS&TS/exports、module.exports、export、export default.md",
+    "Web/JS&TS/Prototype.md",
+    "Database/Concurrency problem.md",
     "Python/pandas基礎操作.md",
     "Hexo/Hexo + githubpage 架站.md",
     "GCP/GCP設定SSH.md",
@@ -172,13 +185,10 @@
     "Container/docker.canvas",
     "Container/Dockerfile撰寫.md",
     "IoT/MQTT.md",
-    "Web/JS&TS/exports、module.exports、export、export default.md",
-    "Database/Concurrency problem.md",
     "Cache/Redis初探.md",
     "Cache/Cache Strategy.md",
     "Cache/Cache problem.md",
     "IoT/Arduino development.md",
-    "IoT/LoRa模組應用(S7678S).md",
     "image/QoS0.png",
     "image/QoS12.png",
     "image/QoS11.png",
@@ -186,13 +196,7 @@
     "image/Pasted image 20231111221905.png",
     "image/index_allocation.png",
     "image/DSDM_lifecycle.png",
-    "IoT/LPWAN.md",
     "image/QoS2.png",
-    "Database/ORM.md",
-    "Database/Mysql  pool.md",
-    "Database/MongoDB安裝.md",
-    "Database/MongoDB Conection and CRUD.md",
-    "Database/Database migration.md",
     "Cache/redis.canvas",
     "Web/Backend",
     "Web/Frontend",
