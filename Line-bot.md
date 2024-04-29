@@ -23,9 +23,21 @@ line-bot 主要會有兩種模式，auto-response以及webhook
 
 ## Building line-bot
 
-首先要先建立我們messaging server，因為line官方本身就有推出，[line-bot-](https://github.com/line/line-bot-sdk-python)
+首先要先建立我們messaging server，因為line官方本身就有推出，[line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)，所以可以透過這個套件去撰寫我們的messaging server，而其中因為有使用到flask這個python framework，所以就需要安裝這兩個套件。
+```python
+pip install line-bot-sdk
+pip install flask
+```
 
+整個line-bot的運作過程
+1. line-bot遇上各種事件(接收訊息、加入群組、有人退出群組等等)
+2. 將這個event傳給`line platform`
+3. `line platform`依照line-bot填寫的webhook URL，傳遞request到messaging server。
+4. messaging server依照各種不同的event進行response，`line platform`再將response回應給使用者
+
+(尚未熟悉line-bot-sdk使用，todo)
 ## Reference
 
 [Messaging API overview | LINE Developers](https://developers.line.biz/en/docs/messaging-api/overview/#how-messaging-api-works)
 [Day 28 : 撰寫LineBot，利用短短三天認識自動化機器人(中) - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天 (ithome.com.tw)](https://ithelp.ithome.com.tw/articles/10280447)
+[line/line-bot-sdk-python: LINE Messaging API SDK for Python (github.com)](https://github.com/line/line-bot-sdk-python)
