@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be444cc95b2f3aac",
+        "id": "d02f03e4e7dbd6b2",
         "type": "tabs",
         "children": [
           {
-            "id": "e6335ef63fb679bf",
+            "id": "239098db87519e2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Nodejs/Nodejs中的Event loop.md",
+                "file": "Line-bot.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NestJS",
+                "query": "line:()",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Nodejs/Nodejs中的Event loop.md",
+                "file": "Line-bot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Nodejs/Nodejs中的Event loop.md",
+                "file": "Line-bot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Nodejs/Nodejs中的Event loop.md"
+                "file": "Line-bot.md"
               }
             }
           },
@@ -159,36 +159,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6335ef63fb679bf",
+  "active": "239098db87519e2e",
   "lastOpenFiles": [
-    "Web/Nodejs/Nodejs底層原理.md",
-    "Web/Nodejs/NodeJS版本管理.md",
+    "image/messaging-api-architecture.png",
+    "image/messaging-api-architecture.png.crdownload",
     "Web/Nodejs/Nodejs中的Event loop.md",
-    "Web/JS&TS/TypeScript安裝.md",
-    "Web/JS&TS/async、 await使用.md",
+    "image/line_bot_auto_response.png",
     "Web/JS&TS/Event delegation.md",
     "Web/JS&TS/exports、module.exports、export、export default.md",
     "Web/JS&TS/Prototype.md",
-    "Database/Concurrency problem.md",
-    "Python/pandas基礎操作.md",
-    "Hexo/Hexo + githubpage 架站.md",
-    "GCP/GCP設定SSH.md",
-    "GCP/GCP防火牆設定.md",
-    "GCP/GCP MariaDB架設.md",
-    "Web/Backend/Authentication - JWT.md",
-    "SWE/Session vs JWT.md",
-    "SWE/Prettier.md",
-    "SWE/Linter - ESLint.md",
-    "SWE/API.canvas",
-    "Database/What is transaction and ACID.md",
-    "Container/Docker-compose.md",
-    "Container/docker.canvas",
-    "Container/Dockerfile撰寫.md",
-    "IoT/MQTT.md",
-    "Cache/Redis初探.md",
-    "Cache/Cache Strategy.md",
-    "Cache/Cache problem.md",
+    "Web/JS&TS/TypeScript安裝.md",
+    "Web/Nodejs/Nodejs底層原理.md",
+    "Web/JS&TS/async、 await使用.md",
     "IoT/Arduino development.md",
+    "Database/What is transaction and ACID.md",
+    "Database/Mysql  pool.md",
+    "Database/MongoDB安裝.md",
+    "Database/MongoDB Conection and CRUD.md",
+    "Database/Database migration.md",
+    "Database/Concurrency problem.md",
+    "Web/Nodejs/NodeJS版本管理.md",
+    "Web/Frontend/CSS/Margin vs Padding.md",
+    "Web/Frontend/CSS/CSS.canvas",
+    "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
+    "Web/Browser/同源政策與CORS.md",
+    "OS/Chapter9.md",
+    "OS/Chapter1.md",
+    "SWE/API.canvas",
+    "SWE/Linter - ESLint.md",
+    "Python/Python virtualenv setup.md",
+    "Python/ML.md",
+    "Python/pandas基礎操作.md",
+    "Python/__name__ = _main_在python中的意思.md",
+    "Container/docker.canvas",
     "image/QoS0.png",
     "image/QoS12.png",
     "image/QoS11.png",
@@ -200,9 +203,7 @@
     "Cache/redis.canvas",
     "Web/Backend",
     "Web/Frontend",
-    "Web/Frontend/CSS/CSS.canvas",
     "image/write_behind.png",
-    "image/read_write_through.png",
     "git/git.canvas",
     "CICD",
     "Web/JS&TS",
@@ -215,7 +216,6 @@
     "Web/Frontend/CSS",
     "JS/NestJS/Untitled.canvas",
     "Untitled 1.canvas",
-    "新增 文字文件.txt",
-    "Web/Frontend/ReactJS"
+    "新增 文字文件.txt"
   ]
 }
