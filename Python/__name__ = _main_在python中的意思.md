@@ -1,13 +1,32 @@
 ---
-date : 2023-05-06 22:23 Sat
-alias : [_name_=_main_在python中的意思]
+date: 2023-05-06 22:23 Sat
+aliases:
+  - _name_=_main_在python中的意思
+last-modified: 2024-04-30 22:44 Tue
 ---
 
 ---
 
 ## 內建、隱含的變數
 
-在python中有些內建、隱含的變數，而`___name__`就是其中之一，而`_name_`這個內建變數所代表的意義就是`模組名稱`，當某個檔案被引用的時候。他的模組名稱，也就是`___name__`就會是該檔案名稱。而該檔案若是被直接執行，則`__name__`則會是main
+在python中有些內建、隱含的變數，而`___name__`就是其中之一，而`__name__`這個內建變數所代表的意義就是`模組名稱`，當某個檔案被引用的時候。他的模組名稱，也就是`___name__`，會是該檔案名稱。而該檔案若是被直接執行，則`__name__`則會是main。
+
+以下面的兩組程式碼來說。執行以下指令時
+```bash
+>> python test.py
+
+Call it locally
+main
+this is from function foo
+
+>> python other.py
+
+Call it locally
+test
+this is from function foo
+Call it remotely
+this is from function foo
+```
 
 ```python
 # test.py
@@ -16,6 +35,7 @@ def foo():
 	print("this is from fucntion foo")
 
 print('Call it locally')
+print(__name__)
 foo()
 ```
 
