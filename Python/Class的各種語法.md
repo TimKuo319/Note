@@ -80,6 +80,7 @@ class Person:
 	def age(self,value):
 		if(value > 18):
 			print("you are a adult")
+		self._age = value
 ```
 
 
@@ -91,3 +92,11 @@ property的使用方式很簡單，首先是在getter上方加上`@property`這�
 
 
 這樣一來，當instance要去取得或改變age的時候，python就會自動替我們去呼叫setter以及getter的函式，來確保屬性是在我們的可控範圍下被存取的。
+
+*註: 上述construtor中的`self.age = age`左方的age是`setter`函式，右方是要傳入函式的值，instance的age屬性是`_age`!!!!!*
+
+## Reference
+
+[Python物件導向3個必須瞭解的Python屬性觀念 (learncodewithmike.com)](https://www.learncodewithmike.com/2020/01/python-attribute.html)
+[Python Property 教學：保護變數資料的 Getter 與 Setter • 好豪筆記 (haosquare.com)](https://haosquare.com/python-property/)
+[Built-in Functions — Python 3.12.3 documentation](https://docs.python.org/3/library/functions.html#property)

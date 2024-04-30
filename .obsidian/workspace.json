@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40c050b81db8e56b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decorator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Class的各種語法.md",
+                "file": "Decorator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Class的各種語法.md",
+                "file": "Decorator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Class的各種語法.md"
+                "file": "Decorator.md"
               }
             }
           },
@@ -159,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "239098db87519e2e",
+  "active": "40c050b81db8e56b",
   "lastOpenFiles": [
-    "Python/__name__ = _main_在python中的意思.md",
     "Python/Class的各種語法.md",
+    "Decorator.md",
+    "Python/__name__ = _main_在python中的意思.md",
     "Python/Python virtualenv setup.md",
     "Python/pandas基礎操作.md",
     "Python/local and global keyword.md",
@@ -190,7 +204,6 @@
     "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
     "Web/Browser/同源政策與CORS.md",
     "OS/Chapter9.md",
-    "OS/Chapter1.md",
     "SWE/API.canvas",
     "Container/docker.canvas",
     "image/QoS0.png",
