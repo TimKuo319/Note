@@ -5,7 +5,7 @@ date: 2024-04-29 21:01 Mon
 
 ## Register
 
-要利用line-bot，首先要去註冊`developer`帳號，[Log in to LINE Developers | LINE Developers](https://developers.line.biz/en/docs/line-developers-console/login-account/)，接著需要去註冊provider(*註1*)以及channel(註2)，channel就會是我們之後啟用的line-bot，所以channel的相關資訊就會是之後在line上面看到的資訊。
+要利用line-bot，首先要去註冊`developer`帳號，[Log in to LINE Developers | LINE Developers](https://developers.line.biz/en/docs/line-developers-console/login-account/)，接著需要去註冊provider[^1]以及channel[^2]，channel就會是我們之後啟用的line-bot，所以channel的相關資訊就會是之後在line上面看到的資訊。
 
 ## Mode of line-bot
 
@@ -36,6 +36,9 @@ pip install flask
 4. messaging server依照各種不同的event進行response，`line platform`再將response回應給使用者
 
 (尚未熟悉line-bot-sdk使用，todo)
+
+[^1]:  *provider* :
+[^2]:  *channel* :
 ## Reference
 
 [Messaging API overview | LINE Developers](https://developers.line.biz/en/docs/messaging-api/overview/#how-messaging-api-works)
