@@ -44,4 +44,4 @@ pip install flask
 [line/line-bot-sdk-python: LINE Messaging API SDK for Python (github.com)](https://github.com/line/line-bot-sdk-python)
 
 [^1]:  *provider* :
-[^2]:  *channel* :
+[^2]:  *channel* : channel是使用者service與line platform溝通的path
