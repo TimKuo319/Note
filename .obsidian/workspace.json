@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Line-bot.md",
+                "file": "OS/Chapter7.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Line-bot.md",
+                "file": "OS/Chapter7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Line-bot.md",
+                "file": "OS/Chapter7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Line-bot.md"
+                "file": "OS/Chapter7.md"
               }
             }
           },
@@ -174,13 +174,18 @@
   },
   "active": "40c050b81db8e56b",
   "lastOpenFiles": [
+    "OS/Chapter6.md",
+    "OS/Chapter8.md",
+    "OS/Chapter7.md",
+    "OS/Chapter11.md",
+    "OS/Chapter5.md",
+    "Line-bot.md",
     "Decorator.md",
     "Python/Class的各種語法.md",
     "Python/__name__ = _main_在python中的意思.md",
     "Python/Python virtualenv setup.md",
     "Python/pandas基礎操作.md",
     "Python/local and global keyword.md",
-    "Line-bot.md",
     "image/messaging-api-architecture.png",
     "image/messaging-api-architecture.png.crdownload",
     "Web/Nodejs/Nodejs中的Event loop.md",
@@ -198,12 +203,7 @@
     "Database/MongoDB Conection and CRUD.md",
     "Database/Database migration.md",
     "Database/Concurrency problem.md",
-    "Web/Nodejs/NodeJS版本管理.md",
-    "Web/Frontend/CSS/Margin vs Padding.md",
     "Web/Frontend/CSS/CSS.canvas",
-    "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
-    "Web/Browser/同源政策與CORS.md",
-    "OS/Chapter9.md",
     "SWE/API.canvas",
     "Container/docker.canvas",
     "image/QoS0.png",
