@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Class的各種語法.md",
+                "file": "Python/WSGI.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Class的各種語法.md",
+                "file": "Python/WSGI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Class的各種語法.md",
+                "file": "Python/WSGI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Class的各種語法.md"
+                "file": "Python/WSGI.md"
               }
             }
           },
@@ -161,6 +161,10 @@
   },
   "active": "239098db87519e2e",
   "lastOpenFiles": [
+    "image/wsgi_work.png",
+    "Python/WSGI.md",
+    "image/wsgi.png",
+    "Python/Class的各種語法.md",
     "OS/Chapter7.md",
     "OS/Chapter6.md",
     "OS/Chapter8.md",
@@ -168,7 +172,6 @@
     "OS/Chapter5.md",
     "Line-bot.md",
     "Decorator.md",
-    "Python/Class的各種語法.md",
     "Python/__name__ = _main_在python中的意思.md",
     "Python/Python virtualenv setup.md",
     "Python/pandas基礎操作.md",
@@ -188,8 +191,6 @@
     "Database/Mysql  pool.md",
     "Database/MongoDB安裝.md",
     "Database/MongoDB Conection and CRUD.md",
-    "Database/Database migration.md",
-    "Database/Concurrency problem.md",
     "Web/Frontend/CSS/CSS.canvas",
     "SWE/API.canvas",
     "Container/docker.canvas",
@@ -199,8 +200,6 @@
     "image/Pasted image 20231111221921.png",
     "image/Pasted image 20231111221905.png",
     "image/index_allocation.png",
-    "image/DSDM_lifecycle.png",
-    "image/QoS2.png",
     "Cache/redis.canvas",
     "Web/Backend",
     "Web/Frontend",
