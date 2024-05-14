@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "40c050b81db8e56b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/Chapter7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Chapter7.md",
+                "file": "Python/Class的各種語法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Chapter7.md",
+                "file": "Python/Class的各種語法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Chapter7.md"
+                "file": "Python/Class的各種語法.md"
               }
             }
           },
@@ -172,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40c050b81db8e56b",
+  "active": "239098db87519e2e",
   "lastOpenFiles": [
+    "OS/Chapter7.md",
     "OS/Chapter6.md",
     "OS/Chapter8.md",
-    "OS/Chapter7.md",
     "OS/Chapter11.md",
     "OS/Chapter5.md",
     "Line-bot.md",
