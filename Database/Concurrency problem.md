@@ -24,3 +24,4 @@ date: 2024-03-25 22:49 Mon
 
 [資料庫交易的 Isolation. 最近在讀 High Performance MySQL 時讀到了… | by Yuren Ju | getamis](https://blog.amis.com/database-transaction-isolation-a1e448a7736e)[Distributed System: Concurrency Problems in Relational Database | by Bindu C | Medium](https://medium.com/@bindubc/distributed-system-concurrency-problem-in-relational-database-59866069ca7c)
 [database - Non-Repeatable Read vs Phantom Read? - Stack Overflow](https://stackoverflow.com/questions/11043712/non-repeatable-read-vs-phantom-read)
+https://oldmo860617.medium.com/transaction-%E4%BD%B5%E7%99%BC%E9%8C%AF%E8%AA%A4%E8%88%87%E9%9A%94%E9%9B%A2%E5%B1%A4%E7%B4%9A-51b8af6178ae

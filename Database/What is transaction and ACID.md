@@ -18,9 +18,17 @@ transaction的存在主要是為了確保兩件事情
 + START TRANSACTION
 	+ 建立一個transaction
 + COMMIT
+	+ 在未COMMIT前，transaction的變更操作(INSERT、UPDATE、DELETE)等，都`僅存在資料庫的buffer中`，只有commit被執行後，所做的變更才會真正的儲存到資料庫中，讓其他用戶或連線看見變更。
 	+ transaction操作成功結束時進行commit
 + ROLLBACK
 	+ transaction操作失敗時進行rollback
+
+>[!info]
+>現今我們對資料庫進行修改操作時，可能會發現即使不加上`COMMIT`，也能夠讓其他用戶或連線看見資料變更，原因是因為有些資料庫會預設`AUTO_COMMMIT`，也就是在執行這些變更操作時自動執行COMMIT。
+>
+>以mysql來說，可以透過以下方式查看是否有`AUTO_COMMIT`。
+>``` sql
+>select @@autocommit;
 
 ## ACID
 
