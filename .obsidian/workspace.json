@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MongoDB Conection and CRUD.md",
+                "file": "Python/WSGI.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MongoDB Conection and CRUD.md",
+                "file": "Python/WSGI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MongoDB Conection and CRUD.md",
+                "file": "Python/WSGI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MongoDB Conection and CRUD.md"
+                "file": "Python/WSGI.md"
               }
             }
           },
@@ -161,16 +161,16 @@
   },
   "active": "239098db87519e2e",
   "lastOpenFiles": [
+    "Container/Dockerfile撰寫.md",
+    "Container/Docker-compose.md",
+    "Container/docker.canvas",
+    "Database/MongoDB Conection and CRUD.md",
     "Database/Database migration.md",
     "Database/What is transaction and ACID.md",
     "Database/Mysql  pool.md",
     "Database/ORM.md",
     "Database/Concurrency problem.md",
     "Python/Decorator.md",
-    "Database/MongoDB Conection and CRUD.md",
-    "Container/docker.canvas",
-    "Container/Dockerfile撰寫.md",
-    "Container/Docker-compose.md",
     "Python/WSGI.md",
     "image/wsgi_work.png",
     "image/wsgi.png",
@@ -192,7 +192,6 @@
     "Web/JS&TS/Event delegation.md",
     "Web/JS&TS/exports、module.exports、export、export default.md",
     "Web/JS&TS/Prototype.md",
-    "Web/JS&TS/TypeScript安裝.md",
     "Web/Frontend/CSS/CSS.canvas",
     "SWE/API.canvas",
     "image/QoS0.png",
