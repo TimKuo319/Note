@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Nodejs/Nodejs底層原理.md",
+                "file": "Container/Dockerfile撰寫.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Nodejs/Nodejs底層原理.md",
+                "file": "Container/Dockerfile撰寫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Nodejs/Nodejs底層原理.md",
+                "file": "Container/Dockerfile撰寫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Nodejs/Nodejs底層原理.md"
+                "file": "Container/Dockerfile撰寫.md"
               }
             }
           },
@@ -158,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6297d84f9dd664c",
+  "active": "239098db87519e2e",
   "lastOpenFiles": [
+    "Container/docker.canvas",
+    "Web/Nodejs/Nodejs底層原理.md",
     "Web/Nodejs/NodeJS版本管理.md",
     "Python/WSGI.md",
     "Container/Dockerfile撰寫.md",
     "Container/Docker-compose.md",
-    "Container/docker.canvas",
     "Database/MongoDB Conection and CRUD.md",
     "Database/Database migration.md",
     "Database/What is transaction and ACID.md",
@@ -190,8 +192,6 @@
     "Web/Nodejs/Nodejs中的Event loop.md",
     "image/line_bot_auto_response.png",
     "Web/JS&TS/Event delegation.md",
-    "Web/JS&TS/exports、module.exports、export、export default.md",
-    "Web/JS&TS/Prototype.md",
     "Web/Frontend/CSS/CSS.canvas",
     "SWE/API.canvas",
     "image/QoS0.png",
