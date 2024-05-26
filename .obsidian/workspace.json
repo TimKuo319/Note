@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/WSGI.md",
+                "file": "Web/Nodejs/Nodejs底層原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:()",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/WSGI.md",
+                "file": "Web/Nodejs/Nodejs底層原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/WSGI.md",
+                "file": "Web/Nodejs/Nodejs底層原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/WSGI.md"
+                "file": "Web/Nodejs/Nodejs底層原理.md"
               }
             }
           },
@@ -159,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "239098db87519e2e",
+  "active": "c6297d84f9dd664c",
   "lastOpenFiles": [
+    "Web/Nodejs/NodeJS版本管理.md",
+    "Python/WSGI.md",
     "Container/Dockerfile撰寫.md",
     "Container/Docker-compose.md",
     "Container/docker.canvas",
@@ -171,7 +172,6 @@
     "Database/ORM.md",
     "Database/Concurrency problem.md",
     "Python/Decorator.md",
-    "Python/WSGI.md",
     "image/wsgi_work.png",
     "image/wsgi.png",
     "Python/Class的各種語法.md",
