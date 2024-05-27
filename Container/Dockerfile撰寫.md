@@ -8,6 +8,7 @@ date: 2024-02-12 Mon 15:28
 	+ [From](###From)
 	+ [ENV](###ENV) 
 	+ [RUN](###RUN)
+	+ [VOLUME](###VOLUME)
 	+ [WORKDIR](###WORKDIR)
 	+ [COPY](###COPY)
 	+ [EXPOSE](###EXPOSE)
@@ -57,6 +58,13 @@ CMD ["bundle", "exec", "ruby", "whoami.rb", "-p", "3000", "-o", "0.0.0.0"]
 ### WORKDIR
 
 設定工作目錄，會在container中創建該資料夾並且移動到資料夾內，使得往後的指令都在該資料夾內下執行。
+
+### VOLUME
+VOLUME後通常會接一個絕對路徑，其代表的意思是，在啟動容器時沒有指定volume的情況下，docker會`自動建立volume`，並將該volume指向容器內指定的這個絕對路徑。以下面的例子來說，就是會將volume指向容器內的`/var/lib/mysql`這個路徑
+
+```dockerfile
+VOLUME /var/lib/mysql
+```
 
 ### COPY
 
