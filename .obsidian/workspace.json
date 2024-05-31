@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d02f03e4e7dbd6b2",
+        "id": "b2a7d9a5625d9ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "239098db87519e2e",
+            "id": "3f7f9701901e3d78",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Container/docker.canvas",
-                "viewState": {
-                  "x": 70.85418460066101,
-                  "y": -1343.9447790877082,
-                  "zoom": -0.8409311057933198
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Container/docker.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Container/docker.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Container/docker.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -162,11 +151,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "239098db87519e2e",
+  "active": "3f7f9701901e3d78",
   "lastOpenFiles": [
+    "Container/docker.canvas",
     "Container/Docker-compose.md",
     "Container/Dockerfile撰寫.md",
-    "Container/docker.canvas",
     "Web/Nodejs/Nodejs底層原理.md",
     "Web/Nodejs/NodeJS版本管理.md",
     "Python/WSGI.md",
