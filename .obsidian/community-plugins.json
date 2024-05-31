@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-relative-line-numbers",
+  "obsidian-vimrc-support"
 ]

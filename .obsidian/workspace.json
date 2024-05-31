@@ -11,8 +11,12 @@
             "id": "3f7f9701901e3d78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SWE/Linter - ESLint.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SWE/Linter - ESLint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SWE/Linter - ESLint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SWE/Linter - ESLint.md"
+              }
             }
           },
           {
@@ -153,6 +161,8 @@
   },
   "active": "3f7f9701901e3d78",
   "lastOpenFiles": [
+    "SWE/API.canvas",
+    "Line-bot.md",
     "Container/docker.canvas",
     "Container/Docker-compose.md",
     "Container/Dockerfile撰寫.md",
@@ -174,7 +184,6 @@
     "OS/Chapter8.md",
     "OS/Chapter11.md",
     "OS/Chapter5.md",
-    "Line-bot.md",
     "Python/__name__ = _main_在python中的意思.md",
     "Python/Python virtualenv setup.md",
     "Python/pandas基礎操作.md",
@@ -185,7 +194,6 @@
     "image/line_bot_auto_response.png",
     "Web/JS&TS/Event delegation.md",
     "Web/Frontend/CSS/CSS.canvas",
-    "SWE/API.canvas",
     "image/QoS0.png",
     "image/QoS12.png",
     "image/QoS11.png",
