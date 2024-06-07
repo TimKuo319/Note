@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE/Linter - ESLint.md",
+                "file": "Cache/Cache problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Linter - ESLint.md",
+                "file": "Cache/Cache problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Linter - ESLint.md",
+                "file": "Cache/Cache problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Linter - ESLint.md"
+                "file": "Cache/Cache problem.md"
               }
             }
           },
@@ -159,11 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f7f9701901e3d78",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
-    "SWE/API.canvas",
-    "Line-bot.md",
+    "Untitled",
     "Container/docker.canvas",
+    "Python/__name__ = _main_在python中的意思.md",
+    "SWE/軟體工程課/Chapter3.md",
+    "SWE/軟體工程課/Chapter1.md",
+    "Line-bot.md",
+    "SWE/Linter - ESLint.md",
+    "SWE/API.canvas",
     "Container/Docker-compose.md",
     "Container/Dockerfile撰寫.md",
     "Web/Nodejs/Nodejs底層原理.md",
@@ -184,15 +189,11 @@
     "OS/Chapter8.md",
     "OS/Chapter11.md",
     "OS/Chapter5.md",
-    "Python/__name__ = _main_在python中的意思.md",
     "Python/Python virtualenv setup.md",
     "Python/pandas基礎操作.md",
-    "Python/local and global keyword.md",
     "image/messaging-api-architecture.png",
     "image/messaging-api-architecture.png.crdownload",
-    "Web/Nodejs/Nodejs中的Event loop.md",
     "image/line_bot_auto_response.png",
-    "Web/JS&TS/Event delegation.md",
     "Web/Frontend/CSS/CSS.canvas",
     "image/QoS0.png",
     "image/QoS12.png",
