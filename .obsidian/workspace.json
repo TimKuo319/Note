@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cache/Cache problem.md",
+                "file": "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache/Cache problem.md",
+                "file": "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache/Cache problem.md",
+                "file": "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/Cache problem.md"
+                "file": "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md"
               }
             }
           },
@@ -159,9 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "3f7f9701901e3d78",
   "lastOpenFiles": [
-    "Untitled",
+    "AWS/AWS Practitioner/3. Global infra and High Reliability.md",
+    "Cache/Cache problem.md",
+    "AWS/AWS Practitioner/5. Storage and Database.md",
+    "AWS/AWS Practitioner/4. Networking.md",
+    "AWS/AWS Practitioner/2. Cloud Computing.md",
+    "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md",
+    "AWS/AWS Practitioner",
+    "AWS",
     "Container/docker.canvas",
     "Python/__name__ = _main_在python中的意思.md",
     "SWE/軟體工程課/Chapter3.md",
@@ -186,11 +193,6 @@
     "Python/Class的各種語法.md",
     "OS/Chapter7.md",
     "OS/Chapter6.md",
-    "OS/Chapter8.md",
-    "OS/Chapter11.md",
-    "OS/Chapter5.md",
-    "Python/Python virtualenv setup.md",
-    "Python/pandas基礎操作.md",
     "image/messaging-api-architecture.png",
     "image/messaging-api-architecture.png.crdownload",
     "image/line_bot_auto_response.png",
@@ -213,9 +215,7 @@
     "Web/Backend/NestJS/NestJS.canvas",
     "Web/Frontend/ReactJS/React.canvas",
     "Cache",
-    "Web/Frontend/CSS",
     "JS/NestJS/Untitled.canvas",
-    "Untitled 1.canvas",
-    "新增 文字文件.txt"
+    "Untitled 1.canvas"
   ]
 }
