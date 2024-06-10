@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS Practitioner/9. Migration and Innovation.md",
+                "file": "AWS/AWS Practitioner/8. Pricing and Support.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS Practitioner/9. Migration and Innovation.md",
+                "file": "AWS/AWS Practitioner/8. Pricing and Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS Practitioner/9. Migration and Innovation.md",
+                "file": "AWS/AWS Practitioner/8. Pricing and Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS Practitioner/9. Migration and Innovation.md"
+                "file": "AWS/AWS Practitioner/8. Pricing and Support.md"
               }
             }
           },
@@ -161,17 +161,17 @@
   },
   "active": "3f7f9701901e3d78",
   "lastOpenFiles": [
-    "AWS/AWS Practitioner/2. Cloud Computing.md",
-    "AWS/AWS Practitioner/3. Global infra and High Reliability.md",
     "AWS/AWS Practitioner/5. Storage and Database.md",
-    "AWS/AWS Practitioner/4. Networking.md",
-    "AWS/AWS Practitioner/7. Monitoring and Analysis.md",
-    "AWS/AWS Practitioner/6. Security.md",
-    "AWS/AWS Practitioner/8. Pricing and Support.md",
-    "AWS/AWS Practitioner/10. Cloud Journey.md",
-    "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md",
     "AWS/AWS Practitioner/較不熟的部分.md",
     "AWS/AWS Practitioner/9. Migration and Innovation.md",
+    "AWS/AWS Practitioner/8. Pricing and Support.md",
+    "AWS/AWS Practitioner/7. Monitoring and Analysis.md",
+    "AWS/AWS Practitioner/6. Security.md",
+    "AWS/AWS Practitioner/2. Cloud Computing.md",
+    "AWS/AWS Practitioner/3. Global infra and High Reliability.md",
+    "AWS/AWS Practitioner/4. Networking.md",
+    "AWS/AWS Practitioner/10. Cloud Journey.md",
+    "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md",
     "image/transformation_journey.png",
     "image/CAF.png",
     "image/share_responsibility.png",
