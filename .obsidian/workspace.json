@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS Practitioner/較不熟的部分.md",
+                "file": "git/gitignore_setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS Practitioner/較不熟的部分.md",
+                "file": "git/gitignore_setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS Practitioner/較不熟的部分.md",
+                "file": "git/gitignore_setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS Practitioner/較不熟的部分.md"
+                "file": "git/gitignore_setup.md"
               }
             }
           },
@@ -162,11 +161,13 @@
   },
   "active": "3f7f9701901e3d78",
   "lastOpenFiles": [
+    "git/git檔案還原.md",
+    "git/git stash檔案暫存.md",
+    "AWS/AWS Practitioner/較不熟的部分.md",
     "AWS/AWS Practitioner/8. Pricing and Support.md",
     "AWS/AWS Practitioner/7. Monitoring and Analysis.md",
     "AWS/AWS Practitioner/5. Storage and Database.md",
     "AWS/AWS Practitioner/6. Security.md",
-    "AWS/AWS Practitioner/較不熟的部分.md",
     "AWS/AWS Practitioner/9. Migration and Innovation.md",
     "AWS/AWS Practitioner/10. Cloud Journey.md",
     "AWS/AWS Practitioner/2. Cloud Computing.md",
@@ -193,7 +194,6 @@
     "Web/Nodejs/NodeJS版本管理.md",
     "Python/WSGI.md",
     "Database/MongoDB Conection and CRUD.md",
-    "Database/Database migration.md",
     "image/wsgi_work.png",
     "image/wsgi.png",
     "image/messaging-api-architecture.png",
