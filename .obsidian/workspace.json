@@ -159,8 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f7f9701901e3d78",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "Web/Frontend/CSS/CSS Basic.md",
+    "Web/Frontend/CSS Basic.md",
+    "Web/Frontend/HTML/HTML Basic.md",
+    "Web/Frontend/HTML Basic.md",
+    "Web/Frontend/HTML",
+    "Web/Frontend/新增資料夾",
+    "Web/Frontend/HTML.md",
+    "Web/Frontend/CSS.md",
     "git/git檔案還原.md",
     "git/git stash檔案暫存.md",
     "AWS/AWS Practitioner/較不熟的部分.md",
@@ -188,12 +196,6 @@
     "Line-bot.md",
     "SWE/Linter - ESLint.md",
     "SWE/API.canvas",
-    "Container/Docker-compose.md",
-    "Container/Dockerfile撰寫.md",
-    "Web/Nodejs/Nodejs底層原理.md",
-    "Web/Nodejs/NodeJS版本管理.md",
-    "Python/WSGI.md",
-    "Database/MongoDB Conection and CRUD.md",
     "image/wsgi_work.png",
     "image/wsgi.png",
     "image/messaging-api-architecture.png",
@@ -211,10 +213,8 @@
     "Web/JS&TS",
     "Web/Browser",
     "IoT/Untitled.canvas",
-    "IoT",
     "Web/Backend/NestJS/NestJS.canvas",
     "Web/Frontend/ReactJS/React.canvas",
-    "Cache",
     "JS/NestJS/Untitled.canvas",
     "Untitled 1.canvas"
   ]
