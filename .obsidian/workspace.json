@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Nodejs/Nodejs中的Event loop.md",
+                "file": "Web/JS&TS/JS的Event Loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Nodejs/Nodejs中的Event loop.md",
+                "file": "Web/JS&TS/JS的Event Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Nodejs/Nodejs中的Event loop.md",
+                "file": "Web/JS&TS/JS的Event Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Nodejs/Nodejs中的Event loop.md"
+                "file": "Web/JS&TS/JS的Event Loop.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "3f7f9701901e3d78",
   "lastOpenFiles": [
+    "Web/Nodejs/Nodejs中的Event loop.md",
+    "Web/JS&TS/JS的Event Loop.md",
     "git/git ssh金鑰設定.md",
     "git/在遠端新增git分支.md",
     "git/git.canvas",
@@ -188,11 +190,9 @@
     "AWS/AWS Practitioner/3. Global infra and High Reliability.md",
     "AWS/AWS Practitioner/訂正.md",
     "AWS/AWS Practitioner/4. Networking.md",
-    "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md",
     "image/transformation_journey.png",
     "image/CAF.png",
     "image/share_responsibility.png",
-    "Cache/Cache problem.md",
     "AWS/AWS Practitioner",
     "AWS",
     "Container/docker.canvas",
