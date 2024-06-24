@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/gitignore_setup.md",
+                "file": "git/git ssh金鑰設定.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/gitignore_setup.md",
+                "file": "git/git ssh金鑰設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/gitignore_setup.md",
+                "file": "git/git ssh金鑰設定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/gitignore_setup.md"
+                "file": "git/git ssh金鑰設定.md"
               }
             }
           },
@@ -159,8 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "3f7f9701901e3d78",
   "lastOpenFiles": [
+    "git/在遠端新增git分支.md",
+    "git/git ssh金鑰設定.md",
+    "git/git.canvas",
+    "git/git cherry-pick.md",
+    "git/git head.md",
+    "git/git stash檔案暫存.md",
+    "git/git檔案還原.md",
+    "git/gitignore_setup.md",
     "Web/Frontend/CSS/CSS Basic.md",
     "Web/Frontend/CSS Basic.md",
     "Web/Frontend/HTML/HTML Basic.md",
@@ -169,8 +177,6 @@
     "Web/Frontend/新增資料夾",
     "Web/Frontend/HTML.md",
     "Web/Frontend/CSS.md",
-    "git/git檔案還原.md",
-    "git/git stash檔案暫存.md",
     "AWS/AWS Practitioner/較不熟的部分.md",
     "AWS/AWS Practitioner/8. Pricing and Support.md",
     "AWS/AWS Practitioner/7. Monitoring and Analysis.md",
@@ -190,11 +196,6 @@
     "AWS/AWS Practitioner",
     "AWS",
     "Container/docker.canvas",
-    "Python/__name__ = _main_在python中的意思.md",
-    "SWE/軟體工程課/Chapter3.md",
-    "SWE/軟體工程課/Chapter1.md",
-    "Line-bot.md",
-    "SWE/Linter - ESLint.md",
     "SWE/API.canvas",
     "image/wsgi_work.png",
     "image/wsgi.png",
@@ -208,7 +209,6 @@
     "Cache/redis.canvas",
     "Web/Backend",
     "Web/Frontend",
-    "git/git.canvas",
     "CICD",
     "Web/JS&TS",
     "Web/Browser",
