@@ -36,7 +36,7 @@ return (
 
 上面的`MyButton`就是一種component，而且要記得component的命名`必須以大寫為開頭`，這樣才可以讓react知道這是一個component。而html tag則必須開頭小寫。
 
-
+*React Component一次只能回傳一個element，所以要回傳一個以上的元素時，需要將他們用div包起來，另div作為root element*
 ## useState
 
 當有時候需要component去記得一些狀態的時候可以使用`useState()`，用法如下

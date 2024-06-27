@@ -11,14 +11,11 @@
             "id": "3f7f9701901e3d78",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Web/Frontend/CSS/CSS.canvas",
-                "viewState": {
-                  "x": 92.5,
-                  "y": 190,
-                  "zoom": -1.353845747332678
-                }
+                "file": "Web/Frontend/ReactJS/Basic.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Frontend/CSS/CSS.canvas",
+                "file": "Web/Frontend/ReactJS/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Frontend/CSS/CSS.canvas",
+                "file": "Web/Frontend/ReactJS/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Frontend/CSS/CSS.canvas"
+                "file": "Web/Frontend/ReactJS/Basic.md"
               }
             }
           },
@@ -162,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "3f7f9701901e3d78",
   "lastOpenFiles": [
+    "Web/Frontend/CSS/CSS.canvas",
     "Web/Browser/同源政策與CORS.md",
     "Web/Frontend/CSS/CSS Basic.md",
     "Web/Frontend/ReactJS/useEffect.md",
@@ -193,7 +191,6 @@
     "AWS/AWS Practitioner/5. Storage and Database.md",
     "AWS/AWS Practitioner/6. Security.md",
     "AWS/AWS Practitioner/9. Migration and Innovation.md",
-    "AWS/AWS Practitioner/10. Cloud Journey.md",
     "image/transformation_journey.png",
     "image/CAF.png",
     "image/share_responsibility.png",
@@ -206,7 +203,6 @@
     "image/messaging-api-architecture.png",
     "image/messaging-api-architecture.png.crdownload",
     "image/line_bot_auto_response.png",
-    "Web/Frontend/CSS/CSS.canvas",
     "image/QoS0.png",
     "image/QoS12.png",
     "image/QoS11.png",
