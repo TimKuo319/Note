@@ -11,11 +11,14 @@
             "id": "3f7f9701901e3d78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Web/Frontend/CSS/CSS Basic.md",
-                "mode": "source",
-                "source": false
+                "file": "Web/Frontend/CSS/CSS.canvas",
+                "viewState": {
+                  "x": 92.5,
+                  "y": 190,
+                  "zoom": -1.353845747332678
+                }
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Frontend/CSS/CSS Basic.md",
+                "file": "Web/Frontend/CSS/CSS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Frontend/CSS/CSS Basic.md",
+                "file": "Web/Frontend/CSS/CSS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Frontend/CSS/CSS Basic.md"
+                "file": "Web/Frontend/CSS/CSS.canvas"
               }
             }
           },
@@ -159,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f7f9701901e3d78",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "Web/Browser/同源政策與CORS.md",
+    "Web/Frontend/CSS/CSS Basic.md",
     "Web/Frontend/ReactJS/useEffect.md",
     "Web/Frontend/ReactJS/React.canvas",
     "Web/Frontend/ReactJS/Basic.md",
@@ -175,7 +180,6 @@
     "git/git stash檔案暫存.md",
     "git/git檔案還原.md",
     "git/gitignore_setup.md",
-    "Web/Frontend/CSS/CSS Basic.md",
     "Web/Frontend/CSS Basic.md",
     "Web/Frontend/HTML/HTML Basic.md",
     "Web/Frontend/HTML Basic.md",
@@ -190,7 +194,6 @@
     "AWS/AWS Practitioner/6. Security.md",
     "AWS/AWS Practitioner/9. Migration and Innovation.md",
     "AWS/AWS Practitioner/10. Cloud Journey.md",
-    "AWS/AWS Practitioner/2. Cloud Computing.md",
     "image/transformation_journey.png",
     "image/CAF.png",
     "image/share_responsibility.png",
