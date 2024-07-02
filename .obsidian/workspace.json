@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Decorator.md",
+                "file": "Web/Backend/NestJS/NestJS Controller、Provider、Module.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Decorator.md",
+                "file": "Web/Backend/NestJS/NestJS Controller、Provider、Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Decorator.md",
+                "file": "Web/Backend/NestJS/NestJS Controller、Provider、Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Decorator.md"
+                "file": "Web/Backend/NestJS/NestJS Controller、Provider、Module.md"
               }
             }
           },
@@ -161,6 +161,19 @@
   },
   "active": "3f7f9701901e3d78",
   "lastOpenFiles": [
+    "Web/Backend/NestJS/NestJS Connection with MySQL using TypeORM.md",
+    "Web/Backend/NestJS/NestJS.canvas",
+    "Web/Backend/NestJS/Decorator.md",
+    "Web/Backend/NestJS/Writing test with NestJS using jest.md",
+    "Web/Backend/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
+    "Web/Backend/NestJS/NestJS Pipes.md",
+    "Web/Backend/NestJS/NestJS Middleware.md",
+    "Web/Backend/NestJS/NestJS Interceptors.md",
+    "Web/Backend/NestJS/NestJS gurad.md",
+    "Web/Backend/NestJS/NestJS Exception filters.md",
+    "Web/Backend/NestJS/NestJS Controller、Provider、Module.md",
+    "Web/Backend/Authentication - JWT.md",
+    "Python/Decorator.md",
     "Python/local and global keyword.md",
     "Python/ML.md",
     "Python/pandas基礎操作.md",
@@ -177,21 +190,8 @@
     "Web/Frontend/JavaScript.md",
     "Web/Frontend/ReactJS/Zod and hookresolvers with react-hook-form.md",
     "Web/Frontend/ReactJS/useEffect.md",
-    "Web/Frontend/ReactJS/Basic.md",
     "Web/Frontend/CSS/CSS.canvas",
-    "Web/Browser/同源政策與CORS.md",
-    "Web/Frontend/CSS/CSS Basic.md",
-    "Web/JS&TS/JS的Event Loop.md",
-    "Web/Nodejs/Nodejs中的Event loop.md",
-    "git/git ssh金鑰設定.md",
-    "git/在遠端新增git分支.md",
     "git/git.canvas",
-    "git/git cherry-pick.md",
-    "git/git head.md",
-    "git/git stash檔案暫存.md",
-    "git/git檔案還原.md",
-    "git/gitignore_setup.md",
-    "Web/Frontend/CSS Basic.md",
     "Web/Frontend/HTML",
     "image/transformation_journey.png",
     "image/CAF.png",
@@ -214,7 +214,6 @@
     "CICD",
     "Web/JS&TS",
     "IoT/Untitled.canvas",
-    "Web/Backend/NestJS/NestJS.canvas",
     "JS/NestJS/Untitled.canvas",
     "Untitled 1.canvas"
   ]
