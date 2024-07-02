@@ -11,14 +11,11 @@
             "id": "3f7f9701901e3d78",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Web/Frontend/ReactJS/React.canvas",
-                "viewState": {
-                  "x": -427,
-                  "y": -391.5,
-                  "zoom": -2.8214466264514146
-                }
+                "file": "Python/Decorator.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Frontend/ReactJS/React.canvas",
+                "file": "Python/Decorator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Frontend/ReactJS/React.canvas",
+                "file": "Python/Decorator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Frontend/ReactJS/React.canvas"
+                "file": "Python/Decorator.md"
               }
             }
           },
@@ -164,8 +161,14 @@
   },
   "active": "3f7f9701901e3d78",
   "lastOpenFiles": [
-    "Web/Frontend/ReactJS/不安裝套件使用React.md",
+    "Python/local and global keyword.md",
+    "Python/ML.md",
+    "Python/pandas基礎操作.md",
+    "Python/Python virtualenv setup.md",
+    "Line-bot.md",
     "Web/Frontend/JavaScript/JavaScript.md",
+    "Web/Frontend/ReactJS/React.canvas",
+    "Web/Frontend/ReactJS/不安裝套件使用React.md",
     "Web/Frontend/JavaScript/jQuery.md",
     "Web/Frontend/JavaScript",
     "Web/Frontend/新增資料夾",
@@ -178,7 +181,6 @@
     "Web/Frontend/CSS/CSS.canvas",
     "Web/Browser/同源政策與CORS.md",
     "Web/Frontend/CSS/CSS Basic.md",
-    "Web/Frontend/ReactJS/React.canvas",
     "Web/JS&TS/JS的Event Loop.md",
     "Web/Nodejs/Nodejs中的Event loop.md",
     "git/git ssh金鑰設定.md",
@@ -190,12 +192,7 @@
     "git/git檔案還原.md",
     "git/gitignore_setup.md",
     "Web/Frontend/CSS Basic.md",
-    "Web/Frontend/HTML/HTML Basic.md",
-    "Web/Frontend/HTML Basic.md",
     "Web/Frontend/HTML",
-    "Web/Frontend/HTML.md",
-    "Web/Frontend/CSS.md",
-    "AWS/AWS Practitioner/較不熟的部分.md",
     "image/transformation_journey.png",
     "image/CAF.png",
     "image/share_responsibility.png",

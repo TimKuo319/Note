@@ -6,7 +6,7 @@
 	+ function scope
 	+ 可以重複宣告相同的變數
 	+ 當不在function內進行宣告時，會變為全域變數
-	+ Hoisting的時候，值會被初始化為`undefined`
+	+ Hoisting[^1]的時候，值會被初始化為`undefined`
 + let 
 	+ block scope
 	+ 在同一個block中重複進行宣告時，會造成syntax error
@@ -188,3 +188,5 @@ list.append(item);
 + map
 	+ 會回傳一個新的陣列
 	+ 通常用來創建一個新陣列
+
+[^1]: : 在JavaScript中，當一個變數或function在宣告前就被使用就稱作hoisting，不會出錯的原因是因為，JavaScript在執行前，會先掃描過所有程式碼，他會先將變數或function的宣告先放到記憶體中，並依照宣告性質給予不同的初始值(var是undefined，let、const沒有初始值(`會產生error`))，再去執行。
