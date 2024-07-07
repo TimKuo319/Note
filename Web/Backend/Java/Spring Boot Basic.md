@@ -141,3 +141,34 @@ public String search(@RequestParam String query, @RequestParam int page, Model m
 ```
 
 
+## Tomcat
+
++ 開源的Java Servelet container以及webserver
+
++ Spring Boot預設使用的servelet container，也可以自行選擇`undertow`、`jetty`做使用，但內建的tomcat效能可能會較差一點，所以在要放到production環境時，有時會放在獨立的tomcat中
+
++ muti-thread，適合運算密集性的task
+
+## Servelet
+
++ 是一個Java class，用於擴展服務器的功能，處理客戶端請求並生成動態Web內容。
+
++ 可以處理各類型的請求，但通常用於HTTP請求
+
++ 可以動態生成web page
+
++ 支持session manage
+
+>[!info]
+> 一個Servlet 本質上是一個特殊的Java類，`設計用來處理Web請求並生成響應。它是Java Web應用程序中處理HTTP請求的基本單位。每個Servlet都有自己的職責，通常負責特定類型的請求或特定功能區域的處理。在整個Web應用中可能有多個Servlet，每個都處理不同的URL或不同類型的任務`
+>
+> 可以暫時將一個Servelet想像成一個controller的感覺，這些不同的Servelet如何處理請求就是Servelet container的責任
+
+
+## How Servelet work with Servelet Container
+
+1. Container接收到HTTP request
+2. 創建ServeletRequest及ServeletResponse
+3. 選擇合適的Servelet來處理請求
+4. 調用Servelet的`service` method
+5. 回傳response給client
