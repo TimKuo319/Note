@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
+                "file": "Web/Backend/Java/Java Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
+                "file": "Web/Backend/Java/Java Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
+                "file": "Web/Backend/Java/Java Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md"
+                "file": "Web/Backend/Java/Java Basic.md"
               }
             }
           },
@@ -161,6 +162,15 @@
   },
   "active": "3f7f9701901e3d78",
   "lastOpenFiles": [
+    "image/access_level_modifiers.png",
+    "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
+    "Web/Backend/Java/Thymeleaf in Spring Boot with Maven.md",
+    "Web/Backend/Java/Spring Boot Basic.md",
+    "Web/Backend/Java/Network.md",
+    "Web/Backend/Java/Maven.md",
+    "Web/Backend/Java/Java Basic.md",
+    "Web/Backend/Java",
+    "Web/Backend/Untitled.md",
     "Web/Browser/同源政策與CORS.md",
     "Web/JS&TS/Prototype.md",
     "Web/JS&TS/JS的Event Loop.md",
@@ -180,15 +190,7 @@
     "Web/Backend/NestJS/NestJS Exception filters.md",
     "Web/Backend/Authentication - JWT.md",
     "Python/Decorator.md",
-    "Python/local and global keyword.md",
-    "Python/ML.md",
-    "Python/pandas基礎操作.md",
-    "Python/Python virtualenv setup.md",
-    "Line-bot.md",
-    "Web/Frontend/JavaScript/JavaScript.md",
     "Web/Frontend/ReactJS/React.canvas",
-    "Web/Frontend/ReactJS/不安裝套件使用React.md",
-    "Web/Frontend/JavaScript/jQuery.md",
     "Web/Frontend/JavaScript",
     "Web/Frontend/新增資料夾",
     "Web/Frontend/CSS/CSS.canvas",
@@ -213,7 +215,6 @@
     "Web/Backend",
     "Web/Frontend",
     "CICD",
-    "Web/JS&TS",
     "IoT/Untitled.canvas",
     "JS/NestJS/Untitled.canvas",
     "Untitled 1.canvas"
