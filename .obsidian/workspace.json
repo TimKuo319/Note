@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/JS&TS/Prototype.md",
+                "file": "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/JS&TS/Prototype.md",
+                "file": "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/JS&TS/Prototype.md",
+                "file": "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/JS&TS/Prototype.md"
+                "file": "Web/Browser/cookie、localStorage、sessionStorage、indexedDB.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "3f7f9701901e3d78",
   "lastOpenFiles": [
+    "Web/Browser/同源政策與CORS.md",
+    "Web/JS&TS/Prototype.md",
     "Web/JS&TS/JS的Event Loop.md",
     "Web/JS&TS/exports、module.exports、export、export default.md",
     "Web/JS&TS/Event delegation.md",
@@ -189,8 +191,6 @@
     "Web/Frontend/JavaScript/jQuery.md",
     "Web/Frontend/JavaScript",
     "Web/Frontend/新增資料夾",
-    "Web/Frontend/不安裝套件使用React.md",
-    "Web/Frontend/jQuery.md",
     "Web/Frontend/CSS/CSS.canvas",
     "git/git.canvas",
     "Web/Frontend/HTML",
