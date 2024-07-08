@@ -189,4 +189,11 @@ list.append(item);
 	+ 會回傳一個新的陣列
 	+ 通常用來創建一個新陣列
 
+## Ajax使用
+
+[[JS] AJAX 筆記. 什麼是 AJAX ？ | by Greta Ma | 馬格蕾特的樹洞 | Medium](https://medium.com/%E9%A6%AC%E6%A0%BC%E8%95%BE%E7%89%B9%E7%9A%84%E5%86%92%E9%9A%AA%E8%80%85%E6%97%A5%E8%AA%8C/js-ajax-%E7%AD%86%E8%A8%98-b9a57976fa60)
+
+
+## Footnote
+
 [^1]: : 在JavaScript中，當一個變數或function在宣告前就被使用就稱作hoisting，不會出錯的原因是因為，JavaScript在執行前，會先掃描過所有程式碼，他會先將變數或function的宣告先放到記憶體中，並依照宣告性質給予不同的初始值(var是undefined，let、const沒有初始值(`會產生error`))，再去執行。
