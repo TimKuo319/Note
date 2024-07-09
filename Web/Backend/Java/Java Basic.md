@@ -249,3 +249,8 @@ import java.lang.annotation.RetentionPolicy;
 
 
 ## Reflection
+
+
+## Optional
+
+[多此一舉! 不要這樣用 Java 8 Optional](https://kaisheng714.github.io/articles/misuse-of-java-8-optional)
