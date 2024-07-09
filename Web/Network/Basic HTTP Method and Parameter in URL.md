@@ -3,6 +3,7 @@
 
 + Path Variables
 	+ 通常用於存取resources，存取唯一的資料
+		+ 比較常在`GET method`時使用，如果是`POST method`會將變數放在`reqeust body`，所以不會使用path variable
 	+ 格式
 ```bash
 /users/123/orders/456
