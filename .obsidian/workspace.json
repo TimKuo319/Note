@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Frontend/JavaScript/JavaScript.md",
+                "file": "Web/Frontend/JavaScript/Sync vs Async.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Frontend/JavaScript/JavaScript.md",
+                "file": "Web/Frontend/JavaScript/Sync vs Async.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Frontend/JavaScript/JavaScript.md",
+                "file": "Web/Frontend/JavaScript/Sync vs Async.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Frontend/JavaScript/JavaScript.md"
+                "file": "Web/Frontend/JavaScript/Sync vs Async.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "5bf70e9ccbad6130",
   "lastOpenFiles": [
+    "Web/Frontend/JavaScript/JavaScript.md",
+    "Web/Frontend/JavaScript/Sync vs Async.md",
     "Container/docker.canvas",
     "Web/Backend/Java/Spring Boot Basic.md",
     "Web/Backend/Java/Java Basic.md",
@@ -190,7 +192,6 @@
     "Web/Backend/NestJS/NestJS gurad.md",
     "Web/Backend/NestJS/NestJS Exception filters.md",
     "Web/Backend/Authentication - JWT.md",
-    "Python/Decorator.md",
     "Web/Frontend/ReactJS/React.canvas",
     "Web/Frontend/JavaScript",
     "Web/Frontend/新增資料夾",
