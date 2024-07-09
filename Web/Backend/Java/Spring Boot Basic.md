@@ -117,6 +117,14 @@ public class StudentController {
 		+ semantic的component, 通常會用在`model`，用來與db溝通
 	+ `Bean`
 
+### DI with Inteface
+
+有時我們會透過implement interface，來確保功能沒有被漏掉(`因為interface的method需要全都被實作`)。舉例來說`UserService`及`UserServiceImpl`，在進行DI的時候==注入interface比較好==，因為這樣其他地方的程式碼只會依賴於interface。
+
+且在進行DI時，==如果interface只有一個implementation==，spring就會直接替我們去找這個implementation。
+
+如果是有多個implementation的狀況，則需要再額外使用`Qualifier`進行標記
+
 ## Access Parameter in URL
 
 + Path Variable
