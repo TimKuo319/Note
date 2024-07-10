@@ -155,7 +155,47 @@ public String search(@RequestParam String query, @RequestParam int page, Model m
 }
 ```
 
+## Redirect
 
+### @ModelAttribute
+
++ 用於將請求參數綁定到model中，讓參數可以被更方便的取用
+
+假設有一個表單資料包含使用者email及password，我們將其封裝在一個叫做`User`的class。我們就可以搭配`@ModelAttribute`來取得資料
+
+```java
+@Controller
+public class MyController {
+
+    @RequestMapping("/form")
+    public String handleForm(@ModelAttribute("user") User user) {
+        // 处理用户输入
+        return "result";
+    }
+}
+
+```
+
+### @ModelAttribute vs @RequestParam
+
+這兩種方法都會去擷取攜帶在URL中的參數，以下是各自的使用場景
+
++ ModelAttribute  
+	+ 需要將多參數綁訂到一個對象上時，像是上面的`User`例子
+	+ 需要在多個Controller method間`共享數據時`
++ RequestParam
+	+ 只是要從請求中獲得單個獲少量參數時
+
+### RedirectView vs ModelAndView
+
++ RedirectView
+	+ 專門用於redirect
+	+ 直接返回redirect過去的View，且會一併改變URL
+	+ 適合純粹的redirect需求
++ ModelAndView
+	+ 用於返回View和Model的資料
+	+ 可以用於render template或redirect
+	+ 較為靈活，`可以同時傳遞model資料以及redirect`
 ## Tomcat
 
 + 開源的Java Servelet container以及webserver
