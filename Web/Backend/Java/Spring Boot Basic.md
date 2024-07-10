@@ -25,6 +25,11 @@
 + 通常用於建立傳統的的web application controller
 + 回傳值通常會是`view`的名稱，用於render
 
+### @RequestBody
+
++ 用來接收RequestBody中的資料，但通常是接受`appliction/json`的Content-Type
+	+ 如果使用前端表單預設的method進行傳輸的話，預設的Content-Type是`application/x-www-form-urlencoded`，所以要透過`@RequestBody`進行拿取時，
+
 ### @ResponseBody
 
 + Tells a controller that the object returned is automatically serialized into JSON and passed back into the _HttpResponse_ object.
