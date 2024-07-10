@@ -116,6 +116,8 @@ public class StudentController {
 	+ `Repository`
 		+ semantic的component, 通常會用在`model`，用來與db溝通
 	+ `Bean`
+		+ 通常會搭配`@Configuration` annotation，用來作為配置類。
+		+ `@Configuration`用來修飾class，代表是一個配置類，通常包含許多`@bean`或annotation
 
 ### DI with Inteface
 
