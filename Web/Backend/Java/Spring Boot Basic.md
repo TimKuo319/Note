@@ -157,6 +157,7 @@ public String search(@RequestParam String query, @RequestParam int page, Model m
 
 ## Redirect
 
+### @M
 ### @ModelAttribute
 
 + 用於將請求參數綁定到model中，讓參數可以被更方便的取用
