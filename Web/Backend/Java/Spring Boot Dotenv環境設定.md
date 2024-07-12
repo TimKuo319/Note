@@ -46,8 +46,11 @@ public class DotenvConfig {
 
 ## @Configuration與@PostConstruct
 
-+ Configuration
++ @Configuration
 	+ 一個比較特別的component，相對於其他component通常會在要被`injection`時才進行初始化，`@Configuration`標記的class會在最一開始進行instantiate，來讓配置能被最開始載入。
-+ PostConstruct
-	+ 
++ @PostConstruct
+	+ 被調用時的執行順序
+		1. 實例化：首先，Spring 創建 bean 的實例（調用構造函數）。
+		2. 依賴注入：然後，Spring 進行依賴注入（設置 @Autowired 字段等）。
+		3. @PostConstruct：最後，執行帶有 @PostConstruct 註解的方法。
 
