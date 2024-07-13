@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git檔案還原.md",
+                "file": "Web/Backend/Java/Java Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git檔案還原.md",
+                "file": "Web/Backend/Java/Java Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git檔案還原.md",
+                "file": "Web/Backend/Java/Java Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git檔案還原.md"
+                "file": "Web/Backend/Java/Java Basic.md"
               }
             }
           },
@@ -159,14 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bf70e9ccbad6130",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "Web/Backend/Java/JDBC Basic.md",
+    "Database/MySQL/MySQL Basic.md",
+    "Database/MySQL/Relational Database.md",
+    "Database/MySQL",
+    "Database/Untitled.md",
+    "Web/Backend/Java/Java Basic.md",
+    "git/git檔案還原.md",
     "git/git ssh金鑰設定.md",
     "git/git stash檔案暫存.md",
     "Web/Backend/Java/Spring Boot Basic.md",
     "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
     "Web/Backend/Java/Maven.md",
-    "Web/Backend/Java/Java Basic.md",
     "Container/Docker-compose.md",
     "SWE/軟體工程課/Chapter1.md",
     "Web/Frontend/JavaScript/Sync vs Async.md",
@@ -186,12 +192,7 @@
     "Web/JS&TS/Event delegation.md",
     "Web/JS&TS/async、 await使用.md",
     "Web/Backend/NestJS/NestJS Controller、Provider、Module.md",
-    "Web/Backend/NestJS/NestJS Connection with MySQL using TypeORM.md",
     "Web/Backend/NestJS/NestJS.canvas",
-    "Web/Backend/NestJS/Decorator.md",
-    "Web/Backend/NestJS/Writing test with NestJS using jest.md",
-    "Web/Backend/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
-    "Web/Backend/NestJS/NestJS Pipes.md",
     "Web/Frontend/ReactJS/React.canvas",
     "Web/Frontend/JavaScript",
     "Web/Frontend/新增資料夾",
@@ -213,7 +214,6 @@
     "Cache/redis.canvas",
     "Web/Backend",
     "Web/Frontend",
-    "CICD",
     "IoT/Untitled.canvas",
     "JS/NestJS/Untitled.canvas",
     "Untitled 1.canvas"
