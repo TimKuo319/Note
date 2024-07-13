@@ -159,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "5bf70e9ccbad6130",
   "lastOpenFiles": [
+    "Web/Backend/Nginx.md",
     "Web/Backend/Java/JDBC Basic.md",
     "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Relational Database.md",
@@ -191,7 +192,6 @@
     "Web/JS&TS/exports、module.exports、export、export default.md",
     "Web/JS&TS/Event delegation.md",
     "Web/JS&TS/async、 await使用.md",
-    "Web/Backend/NestJS/NestJS Controller、Provider、Module.md",
     "Web/Backend/NestJS/NestJS.canvas",
     "Web/Frontend/ReactJS/React.canvas",
     "Web/Frontend/JavaScript",
