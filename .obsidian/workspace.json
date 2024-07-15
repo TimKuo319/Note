@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Backend/Java/Maven.md",
+                "file": "GCP/GCP設定SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Backend/Java/Maven.md",
+                "file": "GCP/GCP設定SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Backend/Java/Maven.md",
+                "file": "GCP/GCP設定SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Backend/Java/Maven.md"
+                "file": "GCP/GCP設定SSH.md"
               }
             }
           },
@@ -161,8 +161,10 @@
   },
   "active": "5bf70e9ccbad6130",
   "lastOpenFiles": [
-    "Web/Backend/Java/frequently_used_package/JUnit.md",
+    "GCP/GCP防火牆設定.md",
+    "GCP/GCP MariaDB架設.md",
     "Web/Backend/Java/Maven.md",
+    "Web/Backend/Java/frequently_used_package/JUnit.md",
     "Web/Backend/Java/Spring Boot Basic.md",
     "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
     "Web/Backend/Java/Thymeleaf in Spring Boot with Maven.md",
@@ -187,8 +189,6 @@
     "Web/Backend/Java/Untitled.md",
     "Web/Backend/Java/Logger.md",
     "Web/Backend/Nginx.md",
-    "Database/MySQL/MySQL Basic.md",
-    "Database/MySQL/Relational Database.md",
     "Database/MySQL",
     "Container/docker.canvas",
     "SWE/API.canvas",
