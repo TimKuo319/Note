@@ -22,8 +22,15 @@ public class LoginHandler {
 + `ExceptionHandler` - 用來接收特定Exception
 + `Throwable` - 所有Error及Exception的Super set，在這裡可以替換成BindException
 + `getAllErrors` - 取得所有錯誤，包含`Object Error及Field Error`
-
-## Object Error vs Field Error
++ `BindingResult` - 在處理表單相關驗證的時候常會用到的class
+	+ 用來捕獲驗證錯誤
+	+ 儲存錯誤訊息
+	+ 檢查綁定狀態
+	+ 常用方法
+		+ hasErrors()
+		+ getAllErrors
+		+ ....
+## Object Error vs Field Error(todo)
 
 + `Object Error` - 通常用於多字段的驗證，或更複雜的邏輯驗證
 + `Field Error` - 通常用於單一字段的驗證

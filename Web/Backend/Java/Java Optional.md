@@ -10,7 +10,6 @@ Optional是用來檢查null的一種語法，可以方便我們減少透過if el
 `Optional.of()` 用於創建一個包含非 `null` 值的 `Optional` 對象。如果傳入的值為 `null`，會拋出 `NullPointerException`。
 
 ```java
-
 Optional<String> nonEmptyOptional = Optional.of("Hello, World");
 ```
 
@@ -18,21 +17,17 @@ Optional<String> nonEmptyOptional = Optional.of("Hello, World");
 
 `Optional.ofNullable()` 用於創建一個可能包含 `null` 值的 `Optional` 對象。如果傳入的值為 `null`，則返回一個空的 `Optional` 對象。
 
-java
-
-複製程式碼
-
-`Optional<String> nullableOptional = Optional.ofNullable(null);`
+```java
+Optional<String> nullableOptional = Optional.ofNullable(null);
+```
 
 #### 3. 使用 `Optional.empty()`
 
 `Optional.empty()` 用於創建一個空的 `Optional` 對象。
 
-java
-
-複製程式碼
-
-`Optional<String> emptyOptional = Optional.empty();`
+```java
+Optional<String> emptyOptional = Optional.empty();
+```
 
 ### 檢查 `Optional` 的值
 
@@ -40,21 +35,18 @@ java
 
 `isPresent()` 方法返回一個布爾值，表示 `Optional` 是否包含值。
 
-java
+```java
+if (nonEmptyOptional.isPresent()) {     System.out.println("Value is present"); }
+```
 
-複製程式碼
-
-`if (nonEmptyOptional.isPresent()) {     System.out.println("Value is present"); }`
 
 #### 2. 使用 `ifPresent()`
 
 `ifPresent()` 方法接受一個 `Consumer`，如果 `Optional` 包含值，則執行給定的代碼塊。
 
-java
-
-複製程式碼
-
-`nonEmptyOptional.ifPresent(value -> System.out.println("Value: " + value));`
+```java
+nonEmptyOptional.ifPresent(value -> System.out.println("Value: " + value));
+```
 
 ### 獲取 `Optional` 的值
 
@@ -88,3 +80,8 @@ String value = nullableOptional.orElseGet(() -> "Default Value from Supplier");
 ```java
 String value = nullableOptional.orElseThrow(() -> new IllegalArgumentExcepti
 ```
+
+
+## Reference
+
+[Java Optional 基本 & 心得分享 - 艾倫的開發心路歷程](https://allenhsieh1992.com/posts/java/java-optional-basic/)
