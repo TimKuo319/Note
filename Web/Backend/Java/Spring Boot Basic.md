@@ -32,7 +32,28 @@
 
 ### @ResponseBody
 
-+ Tells a controller that the object returned is automatically serialized into JSON and passed back into the _HttpResponse_ object.
++ 可以回傳object，會將object內部欄位或是key/value pair轉換成`json`
++ 回傳string，將純文字放在`response body`中
+
+想要對response有更高的掌控權可以透過`ResponseEntity`來達成
+
++ entity中的generic可以`指的是response body中的型態`
+
+```java
+@RestController
+public class MyController {
+
+    @GetMapping("/custom")
+    public ResponseEntity<String> getCustom() {
+        HttpHeaders headers = new HttpHeaders();
+        headers.add("Custom-Header", "value");
+        return new ResponseEntity<>("Hello, Custom World", headers, HttpStatus.CREATED);
+    }
+}
+
+```
+
+
 ### @RestController
 
 + `@Controller的特化版` 
@@ -196,10 +217,34 @@ public class MyController {
 	+ 專門用於redirect
 	+ 直接返回redirect過去的View，且會一併改變URL
 	+ 適合純粹的redirect需求
+```java
+@GetMapping("/redirect1")
+public RedirectView redirect1() {
+    RedirectView redirectView = new RedirectView();
+    redirectView.setUrl("/target-url");
+    
+    // 添加參數
+    redirectView.addFlashedAttribute("param1", "value1");
+    redirectView.addFlashedAttribute("param2", "value2");
+    
+    return redirectView;
+}
+```
 + ModelAndView
 	+ 用於返回View和Model的資料
 	+ 可以用於render template或redirect
 	+ 較為靈活，`可以同時傳遞model資料以及redirect`
+```java
+@GetMapping("/redirect")
+public ModelAndView redirect() {
+    ModelAndView modelAndView = new ModelAndView();
+    //添加模型參數
+    modelAndView.addObject("key", "value"); // 添加數據到model
+    modelAndView.setViewName("redirect:/target-url"); // 設置重導向的目標URL
+    return modelAndView;
+}
+```
+
 ## Tomcat
 
 + 開源的Java Servelet container以及webserver
