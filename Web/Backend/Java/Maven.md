@@ -45,12 +45,18 @@ mvn archetype:generate -B "-DgroupId=com.teamtreehouse" "-DartifactId=file-spy"
 
 ## Deployment strtegy
 
-1. 切換至project 的root directory，並使用`mvn spring-boot run`
+1. 切換至project 的root directory，並使用`mvn spring-boot:run`
 	+ 通常會在開發環境使用，用於快速測試
-	
+```sh
+mvn spring-boot:run
+```
+
 2. 透過前面[Package Files to JAR](<##Package Files to JAR>)先打包成jar檔案，再利用`java -jar filename.jar`來啟動專案
 	+ 通常會在正式環境中使用
-
+```
+mvn clean package
+java -jar <filename>.jar
+```
 ## Maven repository
 ## Reference
 

@@ -13,13 +13,13 @@ vim /etc/mysql/mariadb.conf.d/50-server-cnf
 
 接著再到google cloud內設定防火牆規則。
 
-![GCP_firewall](../image/GCP_firewall.png)
+![GCP_firewall](GCP_firewall.png)
 
 點選設定防火牆規則後，即可點擊上方的建立防火牆規則。
 
-![GCP_firewall_rule1.png](../image/GCP_firewall_rule1.png)
+![GCP_firewall_rule1.png](GCP_firewall_rule1.png)
 
-![GCP_firewall_rule2.png](../image/GCP_firewall_rule2.png)
+![GCP_firewall_rule2.png](GCP_firewall_rule2.png)
 
 畫面如上，以資料庫來說port是開在3306，所以通訊協定和port設定就要在TCP填入3306，流量方向為輸入，目標則為網路中的所有執行個體，這樣就可以從外部進行連線。如果想要只允許特定IP才能連線進來，則可以透過`目標`搭配`來源篩選器`來進行過濾。
 

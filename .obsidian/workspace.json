@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d81ecc454ce0c596",
+        "id": "04839e8692d79bb6",
         "type": "tabs",
         "children": [
           {
-            "id": "5bf70e9ccbad6130",
+            "id": "abb56d90985fe02f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCP/GCP設定SSH.md",
+                "file": "Web/Backend/Java/Maven.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GCP/GCP設定SSH.md",
+                "file": "Web/Backend/Java/Maven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GCP/GCP設定SSH.md",
+                "file": "Web/Backend/Java/Maven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GCP/GCP設定SSH.md"
+                "file": "Web/Backend/Java/Maven.md"
               }
             }
           },
@@ -159,10 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bf70e9ccbad6130",
+  "active": "abb56d90985fe02f",
   "lastOpenFiles": [
-    "GCP/GCP防火牆設定.md",
-    "GCP/GCP MariaDB架設.md",
+    "Web/Backend/Java/Logger.md",
+    "Web/Backend/Java/Java Optional.md",
+    "Web/Backend/Java/JDBC Basic.md",
+    "Cloud/AWS/連線EC2 instance.md",
+    "image/key_pair_create.png",
+    "image/EC2_create.png",
+    "Cloud/Untitled.md",
+    "Cloud/AWS",
+    "Cloud/GCP/GCP設定SSH.md",
+    "Cloud",
+    "Cloud/GCP/GCP防火牆設定.md",
+    "Cloud/GCP/GCP MariaDB架設.md",
     "Web/Backend/Java/Maven.md",
     "Web/Backend/Java/frequently_used_package/JUnit.md",
     "Web/Backend/Java/Spring Boot Basic.md",
@@ -180,15 +190,9 @@
     "Web/Frontend/HTML/HTML Basic.md",
     "Web/Frontend/HTML/Form表單.md",
     "Web/Backend/Authentication - JWT.md",
-    "Web/Backend/Java/JDBC Basic.md",
-    "Web/Backend/Java/Java Optional.md",
     "Web/Backend/Java/Java Basic.md",
     "Web/Backend/Java/frequently_used_package/Lombok.md",
-    "Web/Backend/Java/Exception Handler.md",
     "Web/Backend/Java/frequently_used_package",
-    "Web/Backend/Java/Untitled.md",
-    "Web/Backend/Java/Logger.md",
-    "Web/Backend/Nginx.md",
     "Database/MySQL",
     "Container/docker.canvas",
     "SWE/API.canvas",
@@ -208,12 +212,8 @@
     "image/wsgi_work.png",
     "image/wsgi.png",
     "image/messaging-api-architecture.png",
-    "image/messaging-api-architecture.png.crdownload",
     "image/line_bot_auto_response.png",
-    "image/QoS0.png",
-    "image/QoS12.png",
     "Cache/redis.canvas",
-    "Web/Backend",
     "IoT/Untitled.canvas",
     "JS/NestJS/Untitled.canvas",
     "Untitled 1.canvas"
