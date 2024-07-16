@@ -37,14 +37,14 @@ SELECT <columns> FROM <your_table> WHERE <column> LIKE "Harry Botter%"
 ### CREATE TABLE
 
 ```SQL
-CREATE TABLE <table_name>  
-(  
-<column_name> <data_type>,  
-<column_name> <data_type>,  
-<column_name> <data_type>,  
-<column_name> <data_type>,  
-...  
-)
+CREATE TABLE table_name (
+    <column1> <datatype> <constraints>,
+    <column2> <datatype> <constraints>,
+    <column3> <datatype> <constraints>,
+    ...,
+    PRIMARY KEY (column),
+    FOREIGN KEY (column) REFERENCES other_table(column)
+);
 ```
 
 ```sql
@@ -127,7 +127,19 @@ VALUES (_value1_, _value2_, _value3_, ...);
 mysqldump -u"username" -p "database" > <fileName>.sql
 ```
 + 匯入
-	+ 進入mysql client
+
+1. 入mysql client
+2. 建立要匯入的資料庫
+```SQL
+create <database >
+```
+
+3. 使用該資料庫
+```SQL
+use <database>
+```
+
+4. 匯入備份的sql檔案
 ```sh
 source <dumpfilepath>
 ```
