@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Frontend/ReactJS/Zod and hookresolvers with react-hook-form.md",
+                "file": "git/git cheet_sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Frontend/ReactJS/Zod and hookresolvers with react-hook-form.md",
+                "file": "git/git cheet_sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Frontend/ReactJS/Zod and hookresolvers with react-hook-form.md",
+                "file": "git/git cheet_sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Frontend/ReactJS/Zod and hookresolvers with react-hook-form.md"
+                "file": "git/git cheet_sheet.md"
               }
             }
           },
@@ -161,7 +161,9 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "git/在遠端新增git分支.md",
     "git/git cheet_sheet.md",
+    "Web/Frontend/ReactJS/Zod and hookresolvers with react-hook-form.md",
     "Web/Frontend/ReactJS/useEffect.md",
     "Web/Frontend/ReactJS/React.canvas",
     "Web/Frontend/ReactJS/Basic.md",
@@ -172,7 +174,6 @@
     "git/git ssh金鑰設定.md",
     "git/git head.md",
     "git/git cherry-pick.md",
-    "git/在遠端新增git分支.md",
     "git/gitignore_setup.md",
     "image/git_lifecycle.png",
     "image/git_lifecycle.png.crdownload",
@@ -190,7 +191,6 @@
     "Web/Backend/Java/Java Basic.md",
     "Web/Backend/Nginx.md",
     "Container/Docker-compose.md",
-    "Cloud/GCP/GCP設定SSH.md",
     "image/key_pair_create.png",
     "image/EC2_create.png",
     "Cloud/AWS",

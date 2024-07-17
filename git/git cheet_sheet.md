@@ -29,4 +29,13 @@ git pull <remote repo> <branch name> --allow-unreleated-history
 git push <repository alias> <branch name>
 ```
 
++ 查看本地分支對應的遠端分支
+```sh
+git branch -vv
+```
+
+## Reference
+
 [解决"requested upstream branch 'origin/master' does not exist"_set upstream to时报错 does not exists-CSDN博客](https://blog.csdn.net/jack22001/article/details/87946037)
+
+[Git远程：分支的upstream_查看git branch的upstream-CSDN博客](https://blog.csdn.net/GarfieldEr007/article/details/88652243)
