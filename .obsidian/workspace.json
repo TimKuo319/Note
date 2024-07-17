@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git cheet_sheet.md",
+                "file": "Cloud/AWS/AWS IAM建立.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git cheet_sheet.md",
+                "file": "Cloud/AWS/AWS IAM建立.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git cheet_sheet.md",
+                "file": "Cloud/AWS/AWS IAM建立.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git cheet_sheet.md"
+                "file": "Cloud/AWS/AWS IAM建立.md"
               }
             }
           },
@@ -161,8 +161,11 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
-    "git/在遠端新增git分支.md",
+    "image/create_IAM_user.png",
+    "Cloud/AWS/連線EC2 instance.md",
+    "Cloud/AWS/AWS IAM建立.md",
     "git/git cheet_sheet.md",
+    "git/在遠端新增git分支.md",
     "Web/Frontend/ReactJS/Zod and hookresolvers with react-hook-form.md",
     "Web/Frontend/ReactJS/useEffect.md",
     "Web/Frontend/ReactJS/React.canvas",
@@ -188,9 +191,6 @@
     "Web/Backend/Java/JDBC Basic.md",
     "Web/Backend/Java/Java Optional.md",
     "Web/Backend/Java/Exception Handler.md",
-    "Web/Backend/Java/Java Basic.md",
-    "Web/Backend/Nginx.md",
-    "Container/Docker-compose.md",
     "image/key_pair_create.png",
     "image/EC2_create.png",
     "Cloud/AWS",
