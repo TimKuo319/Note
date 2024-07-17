@@ -50,6 +50,7 @@ const [count, setCount] = useState(0);
 
 前面的count是當前state，setCount則是一個可以去設定state的function，一般來說，命名傳統會是`[something , setsomething]`。useState中的填入的值就是state的初始值。
 
+當一個component中的任何一個state被更新時，==component都會再重新進行render==
 ## Hooks
 
 在react中，名稱以`use`開頭的function就被稱作hooks，前面提到的useState就是hook的一種，當然也可以結合不同的hook來customize自己的hooks。hooks較其他function更加嚴格一點，他只能在component的最上方被使用，如果是要在迴圈或條件式內使用hook，則必須要再多寫一個component在其中。

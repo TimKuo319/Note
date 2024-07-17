@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Frontend/ReactJS/useEffect.md",
+                "file": "Web/Frontend/ReactJS/Zod and hookresolvers with react-hook-form.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Frontend/ReactJS/useEffect.md",
+                "file": "Web/Frontend/ReactJS/Zod and hookresolvers with react-hook-form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Frontend/ReactJS/useEffect.md",
+                "file": "Web/Frontend/ReactJS/Zod and hookresolvers with react-hook-form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Frontend/ReactJS/useEffect.md"
+                "file": "Web/Frontend/ReactJS/Zod and hookresolvers with react-hook-form.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "Web/Frontend/ReactJS/useEffect.md",
     "Web/Frontend/ReactJS/React.canvas",
     "Web/Frontend/ReactJS/Basic.md",
     "Web/Frontend/ReactJS/不安裝套件使用React.md",
@@ -189,7 +190,6 @@
     "Web/Backend/Nginx.md",
     "Container/Docker-compose.md",
     "Cloud/GCP/GCP設定SSH.md",
-    "Cloud/GCP/GCP防火牆設定.md",
     "image/key_pair_create.png",
     "image/EC2_create.png",
     "Cloud/AWS",
