@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "04839e8692d79bb6",
+        "id": "d1d584fc090ec3d5",
         "type": "tabs",
         "children": [
           {
-            "id": "abb56d90985fe02f",
+            "id": "9b527b392935e9a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Backend/Java/Exception Handler.md",
+                "file": "Web/Backend/Java/frequently_used_package/Lombok.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Backend/Java/Exception Handler.md",
+                "file": "Web/Backend/Java/frequently_used_package/Lombok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Backend/Java/Exception Handler.md",
+                "file": "Web/Backend/Java/frequently_used_package/Lombok.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Backend/Java/Exception Handler.md"
+                "file": "Web/Backend/Java/frequently_used_package/Lombok.md"
               }
             }
           },
@@ -159,8 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abb56d90985fe02f",
+  "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "Web/Backend/Java/frequently_used_package/Validation with spring validation.md",
+    "Web/Backend/Java/frequently_used_package/Session management.md",
+    "Web/Backend/Java/Spring Boot Basic.md",
+    "Web/Backend/Java/JDBC Basic.md",
+    "Web/Backend/Java/Java Optional.md",
+    "Web/Backend/Java/Exception Handler.md",
     "Web/Backend/Java/Java Basic.md",
     "Web/Backend/Nginx.md",
     "Container/Docker-compose.md",
@@ -170,9 +176,6 @@
     "CICD/Github Action.md",
     "Web/Backend/Java/Maven.md",
     "Database/MySQL/MySQL Basic.md",
-    "Web/Backend/Java/Exception Handler.md",
-    "Web/Backend/Java/Java Optional.md",
-    "Web/Backend/Java/JDBC Basic.md",
     "Web/Backend/Java/Logger.md",
     "image/key_pair_create.png",
     "image/EC2_create.png",
@@ -181,7 +184,6 @@
     "Cloud",
     "Cloud/GCP/GCP MariaDB架設.md",
     "Web/Backend/Java/frequently_used_package/JUnit.md",
-    "Web/Backend/Java/Spring Boot Basic.md",
     "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
     "Web/Backend/Java/Thymeleaf in Spring Boot with Maven.md",
     "Web/JS&TS/exports、module.exports、export、export default.md",
@@ -190,8 +192,6 @@
     "Web/Frontend/ReactJS/Basic.md",
     "Web/Frontend/ReactJS/React.canvas",
     "Web/Frontend/ReactJS/useEffect.md",
-    "Web/Frontend/ReactJS/不安裝套件使用React.md",
-    "Web/Frontend/JavaScript/Sync vs Async.md",
     "Web/Backend/Java/frequently_used_package",
     "Database/MySQL",
     "Container/docker.canvas",

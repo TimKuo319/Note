@@ -245,6 +245,29 @@ public ModelAndView redirect() {
 }
 ```
 
+## redirectattribute.addAttribute vs redirectattribute.addFlashAttribute
+
++ `addAttibute` - 將重導向的網址加入到URL中，可以透過`request param`拿取
++ `addFlashAttibute` - 透過建立一個一次性的session，來在下一次的重導向中使用資料
+	+ 可以透過`modelattribute`拿取
+```java
+@GetMapping("/signup")  
+public String getSignup(@ModelAttribute("message") String message){  
+    return "signup";  
+}  
+  
+/**  
+ * * @param userDto - user info provided by client  
+ * @param redirectAttributes - used to pass attribute when redirecting.  
+ * @return ModelView  
+ */@PostMapping("/signup")  
+public RedirectView postSignup(UserDto userDto, RedirectAttributes redirectAttributes){  
+    AuthResult result = userService.signup(userDto);  
+    redirectAttributes.addFlashAttribute("message", result.getMessage());  
+    return new RedirectView("/"+result.getFilePath());  
+}
+```
+
 ## Tomcat
 
 + 開源的Java Servelet container以及webserver
