@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Backend/Java/frequently_used_package/Lombok.md",
+                "file": "Web/Frontend/ReactJS/useEffect.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Backend/Java/frequently_used_package/Lombok.md",
+                "file": "Web/Frontend/ReactJS/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Backend/Java/frequently_used_package/Lombok.md",
+                "file": "Web/Frontend/ReactJS/useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Backend/Java/frequently_used_package/Lombok.md"
+                "file": "Web/Frontend/ReactJS/useEffect.md"
               }
             }
           },
@@ -161,6 +161,24 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "Web/Frontend/ReactJS/React.canvas",
+    "Web/Frontend/ReactJS/Basic.md",
+    "Web/Frontend/ReactJS/不安裝套件使用React.md",
+    "git/git檔案還原.md",
+    "git/git stash檔案暫存.md",
+    "git/git_lifecycle.md",
+    "git/git ssh金鑰設定.md",
+    "git/git head.md",
+    "git/git cherry-pick.md",
+    "git/在遠端新增git分支.md",
+    "git/gitignore_setup.md",
+    "image/git_lifecycle.png",
+    "image/git_lifecycle.png.crdownload",
+    "git/git.canvas",
+    "CICD/Github Action.md",
+    "Web/Frontend/前端伺服器大致執行流程(wtih framework).md",
+    "Web/Backend/Java/frequently_used_package/Lombok.md",
+    "Web/Frontend/ReactJS/Untitled.md",
     "Web/Backend/Java/frequently_used_package/Validation with spring validation.md",
     "Web/Backend/Java/frequently_used_package/Session management.md",
     "Web/Backend/Java/Spring Boot Basic.md",
@@ -172,26 +190,10 @@
     "Container/Docker-compose.md",
     "Cloud/GCP/GCP設定SSH.md",
     "Cloud/GCP/GCP防火牆設定.md",
-    "Cloud/AWS/連線EC2 instance.md",
-    "CICD/Github Action.md",
-    "Web/Backend/Java/Maven.md",
-    "Database/MySQL/MySQL Basic.md",
-    "Web/Backend/Java/Logger.md",
     "image/key_pair_create.png",
     "image/EC2_create.png",
-    "Cloud/Untitled.md",
     "Cloud/AWS",
     "Cloud",
-    "Cloud/GCP/GCP MariaDB架設.md",
-    "Web/Backend/Java/frequently_used_package/JUnit.md",
-    "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
-    "Web/Backend/Java/Thymeleaf in Spring Boot with Maven.md",
-    "Web/JS&TS/exports、module.exports、export、export default.md",
-    "Web/JS&TS/Event delegation.md",
-    "Web/JS&TS/async、 await使用.md",
-    "Web/Frontend/ReactJS/Basic.md",
-    "Web/Frontend/ReactJS/React.canvas",
-    "Web/Frontend/ReactJS/useEffect.md",
     "Web/Backend/Java/frequently_used_package",
     "Database/MySQL",
     "Container/docker.canvas",
@@ -202,17 +204,14 @@
     "Web/Frontend/JavaScript",
     "Web/Frontend/新增資料夾",
     "Web/Frontend/CSS/CSS.canvas",
-    "git/git.canvas",
     "Web/Frontend/HTML",
     "image/transformation_journey.png",
     "image/CAF.png",
     "image/share_responsibility.png",
     "AWS/AWS Practitioner",
-    "AWS",
     "image/wsgi_work.png",
     "image/wsgi.png",
     "image/messaging-api-architecture.png",
-    "image/line_bot_auto_response.png",
     "Cache/redis.canvas",
     "IoT/Untitled.canvas",
     "JS/NestJS/Untitled.canvas",

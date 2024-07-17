@@ -20,7 +20,7 @@ useEffect(() => {
 
 ### useEffect的執行時機
 
-當沒有提供第二個參數給`useEffect`的時候，`useEffect`預設會在每次component==被redner完後執行==，而上面的`useEffect`範例，只是給了一個空陣列作為第二個參數，在這樣的狀況下，`useEffect`只會在第一次component被render完後執行。也可以避免     無限迴圈。
+當沒有提供第二個參數給`useEffect`的時候，`useEffect`預設會在每次component==被redner完後執行==，而上面的`useEffect`範例，只是給了一個空陣列作為第二個參數，在這樣的狀況下，`useEffect`只會在第一次component被render完後執行。也可以避免 無限迴圈。
 
 
 ### Clean up 
