@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "git/git head.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "git/git head.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "git/git head.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md"
+                "file": "git/git head.md"
               }
             }
           },
@@ -161,37 +161,36 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "git/git ssh金鑰設定.md",
+    "git/git stash檔案暫存.md",
+    "git/git_lifecycle.md",
+    "git/gitignore_setup.md",
+    "git/git檔案還原.md",
+    "git/git head.md",
+    "git/git cherry-pick.md",
+    "git/git cheet_sheet.md",
+    "git/git.canvas",
+    "Database/MySQL/MySQL Basic.md",
     "Web/Backend/Nginx.md",
     "Web/Backend/Java/Maven.md",
-    "git/git ssh金鑰設定.md",
     "Web/Backend/Java/Thymeleaf in Spring Boot with Maven.md",
     "Cloud/AWS/連線EC2 instance.md",
     "Cloud/AWS/AWS IAM建立.md",
     "image/create_IAM_user.png",
-    "git/git cheet_sheet.md",
     "git/在遠端新增git分支.md",
     "Web/Frontend/ReactJS/Zod and hookresolvers with react-hook-form.md",
     "Web/Frontend/ReactJS/useEffect.md",
     "Web/Frontend/ReactJS/React.canvas",
     "Web/Frontend/ReactJS/Basic.md",
     "Web/Frontend/ReactJS/不安裝套件使用React.md",
-    "git/git檔案還原.md",
-    "git/git stash檔案暫存.md",
-    "git/git_lifecycle.md",
-    "git/git head.md",
-    "git/git cherry-pick.md",
-    "git/gitignore_setup.md",
     "image/git_lifecycle.png",
     "image/git_lifecycle.png.crdownload",
-    "git/git.canvas",
     "CICD/Github Action.md",
     "Web/Frontend/前端伺服器大致執行流程(wtih framework).md",
     "Web/Backend/Java/frequently_used_package/Lombok.md",
     "Web/Frontend/ReactJS/Untitled.md",
     "Web/Backend/Java/frequently_used_package/Validation with spring validation.md",
     "Web/Backend/Java/frequently_used_package/Session management.md",
-    "Web/Backend/Java/Spring Boot Basic.md",
-    "Web/Backend/Java/JDBC Basic.md",
     "image/key_pair_create.png",
     "image/EC2_create.png",
     "Cloud/AWS",
