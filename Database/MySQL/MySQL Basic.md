@@ -200,6 +200,23 @@ WHERE column_name operator (SELECT column_name
 
 + subquery在搭配in做使用的時候只能撈出一個欄位
 
+## 創建和管理用戶授權
+
++ 創建新使用者
+```sql
+CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
+
+```
+
++ 查詢資料庫中的所有使用者
+```SQL
+select user, host from mysql.user;
+```
+
++ 授予用戶權限
+```sql
+GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost' WITH GRANT OPTION;
+```
 
 
 ## Reference

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Backend/Nginx.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Backend/Nginx.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Backend/Nginx.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Backend/Nginx.md"
+                "file": "Database/MySQL/MySQL Basic.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "Web/Backend/Nginx.md",
     "Web/Backend/Java/Maven.md",
     "git/git ssh金鑰設定.md",
     "Web/Backend/Java/Thymeleaf in Spring Boot with Maven.md",
@@ -191,7 +192,6 @@
     "Web/Backend/Java/frequently_used_package/Session management.md",
     "Web/Backend/Java/Spring Boot Basic.md",
     "Web/Backend/Java/JDBC Basic.md",
-    "Web/Backend/Java/Java Optional.md",
     "image/key_pair_create.png",
     "image/EC2_create.png",
     "Cloud/AWS",
