@@ -17,7 +17,12 @@
 ## SSH連線
 
 ```sh
-ssh -i <private_key filepath> ec2-user@<your instance public ip>
+ssh -i <private_key filepath> <username>@<your instance public ip>
 ```
 
 + `-i` - 指定`private key`檔案位置
++ `username` - 查詢官方文件根據不同的作業系統有不同的使用者名稱
+
+## Reference
+
+[Manage system users on your Linux instance - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/managing-users.html)
