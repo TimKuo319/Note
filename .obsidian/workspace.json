@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git head.md",
+                "file": "Web/Backend/Nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git head.md",
+                "file": "Web/Backend/Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git head.md",
+                "file": "Web/Backend/Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git head.md"
+                "file": "Web/Backend/Nginx.md"
               }
             }
           },
@@ -161,12 +161,13 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "Database/MySQL/Install MySQL on Ubuntu.md",
+    "git/git head.md",
     "git/git ssh金鑰設定.md",
     "git/git stash檔案暫存.md",
     "git/git_lifecycle.md",
     "git/gitignore_setup.md",
     "git/git檔案還原.md",
-    "git/git head.md",
     "git/git cherry-pick.md",
     "git/git cheet_sheet.md",
     "git/git.canvas",
