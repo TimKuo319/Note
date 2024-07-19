@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Backend/Nginx.md",
+                "file": "Web/Backend/Nginx/Port forwarding with nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Backend/Nginx.md",
+                "file": "Web/Backend/Nginx/Port forwarding with nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Backend/Nginx.md",
+                "file": "Web/Backend/Nginx/Port forwarding with nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Backend/Nginx.md"
+                "file": "Web/Backend/Nginx/Port forwarding with nginx.md"
               }
             }
           },
@@ -161,7 +161,12 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "().md",
+    "Web/Backend/Nginx/Port forwarding with nginx.md",
+    "Web/Backend/Nginx/Nginx.md",
+    "Web/Backend/Nginx",
     "Database/MySQL/Install MySQL on Ubuntu.md",
+    "Web/Backend/Untitled.md",
     "git/git head.md",
     "git/git ssh金鑰設定.md",
     "git/git stash檔案暫存.md",
@@ -172,7 +177,6 @@
     "git/git cheet_sheet.md",
     "git/git.canvas",
     "Database/MySQL/MySQL Basic.md",
-    "Web/Backend/Nginx.md",
     "Web/Backend/Java/Maven.md",
     "Web/Backend/Java/Thymeleaf in Spring Boot with Maven.md",
     "Cloud/AWS/連線EC2 instance.md",
@@ -189,9 +193,6 @@
     "CICD/Github Action.md",
     "Web/Frontend/前端伺服器大致執行流程(wtih framework).md",
     "Web/Backend/Java/frequently_used_package/Lombok.md",
-    "Web/Frontend/ReactJS/Untitled.md",
-    "Web/Backend/Java/frequently_used_package/Validation with spring validation.md",
-    "Web/Backend/Java/frequently_used_package/Session management.md",
     "image/key_pair_create.png",
     "image/EC2_create.png",
     "Cloud/AWS",
@@ -210,7 +211,6 @@
     "image/transformation_journey.png",
     "image/CAF.png",
     "image/share_responsibility.png",
-    "AWS/AWS Practitioner",
     "image/wsgi_work.png",
     "image/wsgi.png",
     "Cache/redis.canvas",
