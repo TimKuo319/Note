@@ -162,6 +162,7 @@
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
     "Database/MySQL/MySQL Basic.md",
+    "Database/MySQL/Relational Database.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
     "Web/Backend/Nginx/Port forwarding with nginx.md",
     "().md",
@@ -192,7 +193,6 @@
     "image/git_lifecycle.png.crdownload",
     "CICD/Github Action.md",
     "Web/Frontend/前端伺服器大致執行流程(wtih framework).md",
-    "Web/Backend/Java/frequently_used_package/Lombok.md",
     "image/key_pair_create.png",
     "image/EC2_create.png",
     "Cloud/AWS",
