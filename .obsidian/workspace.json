@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MySQL/Relational Database.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MySQL/Relational Database.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MySQL/Relational Database.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MySQL/Relational Database.md"
+                "file": "Database/MySQL/MySQL Basic.md"
               }
             }
           },
@@ -161,9 +161,9 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "Database/MySQL/Install MySQL on Ubuntu.md",
     "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Relational Database.md",
-    "Database/MySQL/Install MySQL on Ubuntu.md",
     "Web/Backend/Nginx/Port forwarding with nginx.md",
     "().md",
     "Web/Backend/Nginx/Nginx.md",
