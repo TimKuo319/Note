@@ -66,6 +66,14 @@ CREATE TABLE article (
 );
 
 ```
+
+## 反引號跟單引號的差別
+
++ 反引號 
+	+ 用來區分table name或column name等，避免與sql keyword產生衝突
++ 單引號
+	+ 用於輸入或選擇`值`的時候
+
 ### Drop TABLE
 
 刪除table
