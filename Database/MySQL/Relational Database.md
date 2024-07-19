@@ -33,12 +33,13 @@
 + one-to-many
 	+ 最常見的類型
 	+ 一個客戶可以有多個訂單，但一筆訂單只能有一個客戶
-	+ primary key在many那邊
+	+ `foreign key`在many那邊
 	
 + many-to-many
 	+ 一個學生可以選修很多門課，一門課也可以被很多個學生選修
 	+ 會依照兩張table的primary key再額外建一個資料表(`junction table`)儲存這個資訊
 		+ 實際上就是變成兩個one-to-many的情況
+		+ `foreign key`在`junction table`中
 ## Reference
 
 [Day 32 資料庫正規化(一~三) - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10229472)
