@@ -28,7 +28,7 @@ sudo ln -s /etc/nginx/sites-available/node /etc/nginx/sites-enabled/node
 sudo service nginx restart
 ```
 
-## How Nginx get Config File
+## How Nginx load Config File
 
 
 ```nginx
@@ -77,3 +77,11 @@ http {
 從預設的`nginx.conf`中看到，有一行`include /etc/nginx/sites-enabled/*`，這就可以幫助`nginx`去讀取我們寫在`/etc/nginx/sites-enabled`中的設定檔。
 
 而前面[Configuration](## Configuration)中的第三步要設定連結的原因是因為，我們撰寫的`.conf`檔案其實在`etc/nginx/sites-available`中，為了要讓nginx讀取到，我們還需要建立一個link在`/etc/nginx/enabled`中，讓nginx讀取到`.conf`檔。
+
+## Reference
+
+https://eladnava.com/binding-nodejs-port-80-using-nginx/
+
+https://nginx.org/en/docs/http/ngx_http_core_module.html#var_remote_addr
+
+[系統設計 - 正向代理跟反向代理 · jyt0532's Blog](https://www.jyt0532.com/2019/11/18/proxy-reverse-proxy/)
