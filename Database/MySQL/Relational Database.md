@@ -40,6 +40,10 @@
 	+ 會依照兩張table的primary key再額外建一個資料表(`junction table`)儲存這個資訊
 		+ 實際上就是變成兩個one-to-many的情況
 		+ `foreign key`在`junction table`中
+
+>[!info] one-to-one vs one-to-many
+>重點在證明唯一性，以上面的例子來說，訂單這個總體可以有很多個客戶，但因為一筆訂單`只能`對應到一個客戶，所以才會是一對多關係
+
 ## Reference
 
 [Day 32 資料庫正規化(一~三) - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10229472)
