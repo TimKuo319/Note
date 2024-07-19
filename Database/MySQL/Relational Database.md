@@ -18,11 +18,45 @@
 	+ `不能`被修改
 
 + Foreign keys
-	+ Foreign Key的值`必須是另外一張表中的存在的primary key`
 	+ 用來跟其他table做關聯
+	+ `Foreign key constrain`
+		+ Foreign Key的值`必須是另外一張表中的存在的primary key`
+		+ 可以搭配`casacade`在父table中的值有更動時執行對應的操作
 
+```sql
+CREATE TABLE table_name (
+    <column1> <datatype> <constraints>,
+    <column2> <datatype> <constraints>,
+    <column3> <datatype> <constraints>,
+    ...,
+    PRIMARY KEY (column),
+    FOREIGN KEY (column) REFERENCES other_table(column)
+);
+```
 
-## RelationShip
+### 級聯操作
+
++ syntax
+```sql
+Foreign key (column) references other_table(column) on <operation> <action> 
+```
+
++ opertation
+	+ `on delete`
+		+ 在刪除時執行，
+	+ `on update`
+		+ 更新時執行
+
++ action
+	+ `casacade`
+	+ `set null`
+	+ `set default`
+	+ `no action`
+		+ 即使子table中已經沒有可以參考的foreign key，不會馬上報錯，而是在未來查詢時報錯。
+	+ `restrict`
+		+ 與`no action`類似，但通常立即檢查`constraint`，而不是在commit時檢查。
+
+## Relationship
 
 + one-to-one
 	+ 資料表之間的row是一對一對應的

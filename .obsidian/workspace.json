@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -161,9 +162,9 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
-    "Database/MySQL/Install MySQL on Ubuntu.md",
     "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Relational Database.md",
+    "Database/MySQL/Install MySQL on Ubuntu.md",
     "Web/Backend/Nginx/Port forwarding with nginx.md",
     "().md",
     "Web/Backend/Nginx/Nginx.md",

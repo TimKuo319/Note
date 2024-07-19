@@ -98,6 +98,14 @@ INSERT INTO _table_name_
 VALUES (_value1_, _value2_, _value3_, ...);
 ```
 
+### Group by
+
+group by指令用於將查詢結果中的特定欄位相同值分成群組
+
+```sql
+SELECT column_name(s), aggregate_function(column_name) FROM table_name WHERE column_name operator value GROUP BY column_name1, column_name2...;
+```
+
 ## Data types in SQL
 
 ### Numeric 
@@ -163,7 +171,6 @@ select * from <tableName> join <tableName> on <column> where <clause>
 	+ 只找交集的部分
 + Outer join
 	+ Left
-		+ 
 	+ Right
 	+ Full
 
@@ -197,14 +204,13 @@ SELECT column1, column2, ... FROM table1 EXCEPT SELECT column1, column2, ... FRO
 
 ### SubQuery
 
++ 常用於過濾數據，以下面的例子來說，因為只想要撈出特定的departmentID，所以用subquery的方式先過濾數據。
 ```sql
-SELECT column_name(s)
-FROM table_name
-WHERE column_name operator (SELECT column_name
-                            FROM table_name
-                            WHERE condition);
-
+SELECT * 
+FROM Employees 
+WHERE DepartmentID IN (SELECT DepartmentID FROM Departments WHERE Location = 'New York');
 ```
+
 
 + subquery在搭配in做使用的時候只能撈出一個欄位
 
