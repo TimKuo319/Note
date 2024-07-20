@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Web/Frontend/JavaScript/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Web/Frontend/JavaScript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Web/Frontend/JavaScript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md"
+                "file": "Web/Frontend/JavaScript/JavaScript.md"
               }
             }
           },
@@ -162,8 +161,10 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
-    "Database/MySQL/Relational Database.md",
+    "Web/Frontend/HTML/HTML Basic.md",
+    "Web/Frontend/HTML/Form表單.md",
     "Database/MySQL/MySQL Basic.md",
+    "Database/MySQL/Relational Database.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
     "Web/Backend/Nginx/Port forwarding with nginx.md",
     "().md",
@@ -192,8 +193,6 @@
     "Web/Frontend/ReactJS/不安裝套件使用React.md",
     "image/git_lifecycle.png",
     "image/git_lifecycle.png.crdownload",
-    "CICD/Github Action.md",
-    "Web/Frontend/前端伺服器大致執行流程(wtih framework).md",
     "image/key_pair_create.png",
     "image/EC2_create.png",
     "Cloud/AWS",
