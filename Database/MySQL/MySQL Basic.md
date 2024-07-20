@@ -98,6 +98,13 @@ INSERT INTO _table_name_
 VALUES (_value1_, _value2_, _value3_, ...);
 ```
 
+3. 搭配`SELECT`進行批量插入，以及使用`NOT EXISTS`進行檢查，避免新增重複值
+```sql
+INSERT INTO _table_name_
+SELECT VALUE
+WHERE NOT EXISTS (SELECT ....)
+```
+
 ### Group by
 
 group by指令用於將查詢結果中的特定欄位相同值分成群組
