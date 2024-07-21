@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Backend/Java/Java Basic.md",
+                "file": "Web/Backend/Java/Spring Boot Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Backend/Java/Java Basic.md",
+                "file": "Web/Backend/Java/Spring Boot Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Backend/Java/Java Basic.md",
+                "file": "Web/Backend/Java/Spring Boot Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Backend/Java/Java Basic.md"
+                "file": "Web/Backend/Java/Spring Boot Basic.md"
               }
             }
           },
@@ -159,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
+    "Web/Backend/Java/JDBC Basic.md",
+    "Web/Backend/Java/Java Basic.md",
     "Web/Frontend/JavaScript/JavaScript.md",
     "Web/Frontend/HTML/HTML Basic.md",
     "Web/Frontend/HTML/Form表單.md",
@@ -187,10 +190,7 @@
     "Cloud/AWS/AWS IAM建立.md",
     "image/create_IAM_user.png",
     "git/在遠端新增git分支.md",
-    "Web/Frontend/ReactJS/Zod and hookresolvers with react-hook-form.md",
-    "Web/Frontend/ReactJS/useEffect.md",
     "Web/Frontend/ReactJS/React.canvas",
-    "Web/Frontend/ReactJS/Basic.md",
     "image/git_lifecycle.png",
     "image/git_lifecycle.png.crdownload",
     "image/key_pair_create.png",
