@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Frontend/JavaScript/JavaScript.md",
+                "file": "Web/Backend/Java/Java Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Frontend/JavaScript/JavaScript.md",
+                "file": "Web/Backend/Java/Java Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Frontend/JavaScript/JavaScript.md",
+                "file": "Web/Backend/Java/Java Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Frontend/JavaScript/JavaScript.md"
+                "file": "Web/Backend/Java/Java Basic.md"
               }
             }
           },
@@ -159,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b527b392935e9a0",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "Web/Frontend/JavaScript/JavaScript.md",
     "Web/Frontend/HTML/HTML Basic.md",
     "Web/Frontend/HTML/Form表單.md",
     "Database/MySQL/MySQL Basic.md",
@@ -190,7 +191,6 @@
     "Web/Frontend/ReactJS/useEffect.md",
     "Web/Frontend/ReactJS/React.canvas",
     "Web/Frontend/ReactJS/Basic.md",
-    "Web/Frontend/ReactJS/不安裝套件使用React.md",
     "image/git_lifecycle.png",
     "image/git_lifecycle.png.crdownload",
     "image/key_pair_create.png",
