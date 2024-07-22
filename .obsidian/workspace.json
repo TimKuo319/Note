@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Backend/Java/frequently_used_package/Validation with spring validation.md",
+                "file": "Web/Backend/Nginx/Port forwarding with nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Backend/Java/frequently_used_package/Validation with spring validation.md",
+                "file": "Web/Backend/Nginx/Port forwarding with nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Backend/Java/frequently_used_package/Validation with spring validation.md",
+                "file": "Web/Backend/Nginx/Port forwarding with nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Backend/Java/frequently_used_package/Validation with spring validation.md"
+                "file": "Web/Backend/Nginx/Port forwarding with nginx.md"
               }
             }
           },
@@ -161,6 +161,9 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "Web/Backend/Nginx/Nginx.md",
+    "Web/Backend/Nginx/Port forwarding with nginx.md",
+    "Web/Backend/Java/frequently_used_package/Validation with spring validation.md",
     "Database/MySQL/MySQL Basic.md",
     "Web/Backend/Java/Spring Boot Basic.md",
     "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
@@ -171,9 +174,7 @@
     "Web/Frontend/HTML/Form表單.md",
     "Database/MySQL/Relational Database.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
-    "Web/Backend/Nginx/Port forwarding with nginx.md",
     "().md",
-    "Web/Backend/Nginx/Nginx.md",
     "Web/Backend/Nginx",
     "Web/Backend/Untitled.md",
     "git/git head.md",
@@ -188,7 +189,6 @@
     "Web/Backend/Java/Maven.md",
     "Web/Backend/Java/Thymeleaf in Spring Boot with Maven.md",
     "Cloud/AWS/連線EC2 instance.md",
-    "Cloud/AWS/AWS IAM建立.md",
     "image/create_IAM_user.png",
     "Web/Frontend/ReactJS/React.canvas",
     "image/git_lifecycle.png",

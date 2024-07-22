@@ -17,6 +17,10 @@ server {
 }
 ``` 
 
++ `$remote_addr` - 客戶端的IP
++ `$http_host` - 客戶端的domainName或serverName
+
+
 3. 建立softlink到`/etc/sites-enabled`
 ```sh
 sudo ln -s /etc/nginx/sites-available/node /etc/nginx/sites-enabled/node
