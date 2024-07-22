@@ -113,6 +113,27 @@ group by指令用於將查詢結果中的特定欄位相同值分成群組
 SELECT column_name(s), aggregate_function(column_name) FROM table_name WHERE column_name operator value GROUP BY column_name1, column_name2...;
 ```
 
+### Limit Offset
+
+limit、offset通常會放在query的最後，limit表示的是要拿出幾筆資料，offset則表示要從第幾筆資料開始。
+
+```sql
+SELECT column_name(s)
+FROM table_name
+WHERE condition
+GROUP BY column_name(s)
+HAVING condition
+ORDER BY column_name(s)
+LIMIT number_of_rows OFFSET offset_value;
+```
+
+```sql
+SELECT *
+FROM employees
+ORDER BY salary DESC
+LIMIT 3 OFFSET 5;
+```
+
 ## Data types in SQL
 
 ### Numeric 
