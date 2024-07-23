@@ -27,6 +27,7 @@ SELECT <columns> FROM <your_table> WHERE <column> BETWEEN <minimum> AND <maximum
 
 + 利用LIKE來進行比較鬆散的配對
 + `%`代表的是任意數的字元(包含0)，所以下方的句子就會找出所有開頭為Harry Botter的條件
++ `_`表示一個字元
 + 依照不同的DB，有的是`case-sensitive`，有的則不是
 
 ```SQL
