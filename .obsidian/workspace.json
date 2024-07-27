@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Web/Frontend/CSS/CSS Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Web/Frontend/CSS/CSS Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Web/Frontend/CSS/CSS Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md"
+                "file": "Web/Frontend/CSS/CSS Basic.md"
               }
             }
           },
@@ -161,18 +161,18 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "Web/Frontend/HTML/HTML Basic.md",
+    "Web/Frontend/HTML/Form表單.md",
+    "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Relational Database.md",
     "Web/Backend/Nginx/Port forwarding with nginx.md",
     "Web/Backend/Nginx/Nginx.md",
     "Web/Backend/Java/frequently_used_package/Validation with spring validation.md",
-    "Database/MySQL/MySQL Basic.md",
     "Web/Backend/Java/Spring Boot Basic.md",
     "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
     "Web/Backend/Java/JDBC Basic.md",
     "Web/Backend/Java/Java Basic.md",
     "Web/Frontend/JavaScript/JavaScript.md",
-    "Web/Frontend/HTML/HTML Basic.md",
-    "Web/Frontend/HTML/Form表單.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
     "().md",
     "Web/Backend/Nginx",
