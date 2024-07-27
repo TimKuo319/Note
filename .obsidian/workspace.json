@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Frontend/CSS/CSS Basic.md",
+                "file": "Web/Backend/Nginx/Serve static site with nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Frontend/CSS/CSS Basic.md",
+                "file": "Web/Backend/Nginx/Serve static site with nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Frontend/CSS/CSS Basic.md",
+                "file": "Web/Backend/Nginx/Serve static site with nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Frontend/CSS/CSS Basic.md"
+                "file": "Web/Backend/Nginx/Serve static site with nginx.md"
               }
             }
           },
@@ -161,12 +161,14 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "Web/Backend/Nginx/Port forwarding with nginx.md",
+    "Web/Backend/Nginx/Serve static site with nginx.md",
+    "Web/Backend/Nginx/Nginx.md",
+    "Web/Frontend/CSS/CSS Basic.md",
     "Web/Frontend/HTML/HTML Basic.md",
     "Web/Frontend/HTML/Form表單.md",
     "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Relational Database.md",
-    "Web/Backend/Nginx/Port forwarding with nginx.md",
-    "Web/Backend/Nginx/Nginx.md",
     "Web/Backend/Java/frequently_used_package/Validation with spring validation.md",
     "Web/Backend/Java/Spring Boot Basic.md",
     "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
@@ -187,8 +189,6 @@
     "git/git cheet_sheet.md",
     "git/git.canvas",
     "Web/Backend/Java/Maven.md",
-    "Web/Backend/Java/Thymeleaf in Spring Boot with Maven.md",
-    "Cloud/AWS/連線EC2 instance.md",
     "image/create_IAM_user.png",
     "Web/Frontend/ReactJS/React.canvas",
     "image/git_lifecycle.png",
