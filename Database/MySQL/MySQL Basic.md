@@ -155,13 +155,28 @@ LIMIT 3 OFFSET 5;
 	+ 假設宣告varchar(255) ，但實際上只使用了10個字元，那就只會佔10個字元的空間
 + BINARY
 + TEXT
+
+### ENUM
+
++ 可指定某張表只能有特定的值
+
+```sql
+CREATE TABLE orders (
+    order_id INT PRIMARY KEY,
+    order_date DATE NOT NULL,
+    time ENUM('morning', 'afternoon', 'anytime') NOT NULL
+);
+
+```
+
 ### Date and Time
 
-+ DATE
-+ DATETIME
-+ TIMESTAMP
++ DATE - YYYY-MM-DD 
++ DATETIME  - YYYY-MM-DD HH:MM:SS
++ TIMESTAMP - 類似於`DATETIME`， 通常用於在資料庫中的建立或修改時間
 + TIME
 + YEAR
+
 
 ### Backup
 
