@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Systemd.md",
+                "file": "Web/Backend/Java/Maven.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Systemd.md",
+                "file": "Web/Backend/Java/Maven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Systemd.md",
+                "file": "Web/Backend/Java/Maven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Systemd.md"
+                "file": "Web/Backend/Java/Maven.md"
               }
             }
           },
@@ -162,8 +161,10 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
-    "Linux/todo.md",
+    "Web/Backend/Java/Java Basic.md",
+    "Web/Backend/Java/Java Optional.md",
     "Linux/Systemd.md",
+    "Linux/todo.md",
     "Database/MySQL/MySQL Basic.md",
     "Linux",
     "Database/MySQL/Install MySQL on Ubuntu.md",
@@ -178,7 +179,6 @@
     "Web/Backend/Java/Spring Boot Basic.md",
     "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
     "Web/Backend/Java/JDBC Basic.md",
-    "Web/Backend/Java/Java Basic.md",
     "Web/Frontend/JavaScript/JavaScript.md",
     "().md",
     "Web/Backend/Nginx",
@@ -189,7 +189,6 @@
     "git/git_lifecycle.md",
     "git/gitignore_setup.md",
     "git/git檔案還原.md",
-    "git/git cherry-pick.md",
     "git/git.canvas",
     "image/create_IAM_user.png",
     "Web/Frontend/ReactJS/React.canvas",
