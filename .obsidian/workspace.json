@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Linux/Systemd.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Linux/Systemd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Linux/Systemd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md"
+                "file": "Linux/Systemd.md"
               }
             }
           },
@@ -161,6 +162,10 @@
   },
   "active": "9b527b392935e9a0",
   "lastOpenFiles": [
+    "Linux/todo.md",
+    "Linux/Systemd.md",
+    "Database/MySQL/MySQL Basic.md",
+    "Linux",
     "Database/MySQL/Install MySQL on Ubuntu.md",
     "Web/Frontend/HTML/Form表單.md",
     "Web/Backend/Nginx/Serve static site with nginx.md",
@@ -168,7 +173,6 @@
     "Web/Backend/Nginx/Nginx.md",
     "Web/Frontend/CSS/CSS Basic.md",
     "Web/Frontend/HTML/HTML Basic.md",
-    "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Relational Database.md",
     "Web/Backend/Java/frequently_used_package/Validation with spring validation.md",
     "Web/Backend/Java/Spring Boot Basic.md",
@@ -186,9 +190,7 @@
     "git/gitignore_setup.md",
     "git/git檔案還原.md",
     "git/git cherry-pick.md",
-    "git/git cheet_sheet.md",
     "git/git.canvas",
-    "Web/Backend/Java/Maven.md",
     "image/create_IAM_user.png",
     "Web/Frontend/ReactJS/React.canvas",
     "image/git_lifecycle.png",
@@ -207,7 +209,6 @@
     "Web/Frontend/JavaScript",
     "Web/Frontend/新增資料夾",
     "Web/Frontend/CSS/CSS.canvas",
-    "Web/Frontend/HTML",
     "image/transformation_journey.png",
     "image/CAF.png",
     "image/share_responsibility.png",
