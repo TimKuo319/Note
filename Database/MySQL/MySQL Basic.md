@@ -114,6 +114,17 @@ group by指令用於將查詢結果中的特定欄位相同值分成群組
 SELECT column_name(s), aggregate_function(column_name) FROM table_name WHERE column_name operator value GROUP BY column_name1, column_name2...;
 ```
 
+### Update
+
+```sql
+UPDATE table_name SET column1=value1, column2=value2, column3=value3··· WHERE some_column=some_value;
+```
+
+```sql
+UPDATE `order`
+SET isPaid = 1
+WHERE order_id = 123;
+```
 ### Limit Offset
 
 limit、offset通常會放在query的最後，limit表示的是要拿出幾筆資料，offset則表示要從第幾筆資料開始。
