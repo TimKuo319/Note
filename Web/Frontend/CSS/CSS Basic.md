@@ -266,6 +266,45 @@ li:nth-child(even) {
 ### Relative and Absolute Positioning
 
 + relative
+	+ 將自己作為基準元素，讓其內的子元素在使用`absolute`定位時，以他做參照
+	+ 以下面的例子來說，`.search`因為都在`input`中
+``` html
+<div class="search">  
+    <div class="input-container">  
+        <input type="text" placeholder="Search..."/>  
+        <img src="asset/search.png" alt="Search Icon" class="search-icon"/>  
+    </div>  
+    <img src="asset/member.png">  
+</div>
+```
+
+```css
+.input-container {  
+    position: relative;  
+    flex-grow: 1;  
+}  
+  
+.search input {  
+    padding: 0.5rem;  
+    padding-right: 2.5rem;  
+    border: 1px solid #000;  
+    border-radius: 20px;  
+    width: 100%;  
+}  
+  
+.search-icon {  
+    position: absolute;  
+    right: 0.5rem;  
+    top: 50%;  
+    transform: translateY(-50%);  
+    width: 24px;  
+    height: 24px;  
+}  
+  
+.search img {  
+    margin-left: 1rem;  
+}
+```
 + absolute
 	+ 在整個頁面中的絕對位置
 + fixed
