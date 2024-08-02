@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "97b02322a3d5cd5a",
+        "id": "a7b74bb161264d78",
         "type": "tabs",
         "children": [
           {
-            "id": "dd786d6b5249d1e6",
+            "id": "bb73f087e321a627",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Backend/Nginx/Nginx CORS setting.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Backend/Nginx/Nginx CORS setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Backend/Nginx/Nginx CORS setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web/Backend/Nginx/Nginx CORS setting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,13 +151,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd786d6b5249d1e6",
+  "active": "bb73f087e321a627",
   "lastOpenFiles": [
-    "Web/Backend/Nginx/Serve static site with nginx.md",
     "Network/同源政策與CORS.md",
+    "Web/Backend/Nginx/Nginx CORS setting.md",
+    "Web/Backend/Nginx/Serve static site with nginx.md",
     "Network/cookie、localStorage、sessionStorage、indexedDB.md",
     "Network/Basic HTTP Method and Parameter in URL.md",
-    "Web/Backend/Nginx/Nginx CORS setting.md",
     "Web/Backend/Nginx/Nginx.md",
     "Web/Nodejs/Nodejs中的Event loop.md",
     "Web/Backend/Nginx/Port forwarding with nginx.md",
