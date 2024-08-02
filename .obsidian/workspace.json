@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d1d584fc090ec3d5",
+        "id": "97b02322a3d5cd5a",
         "type": "tabs",
         "children": [
           {
-            "id": "9b527b392935e9a0",
+            "id": "dd786d6b5249d1e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Frontend/CSS/CSS Basic.md",
+                "file": "Web/Backend/Nginx/Nginx CORS setting.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Frontend/CSS/CSS Basic.md",
+                "file": "Web/Backend/Nginx/Nginx CORS setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Frontend/CSS/CSS Basic.md",
+                "file": "Web/Backend/Nginx/Nginx CORS setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Frontend/CSS/CSS Basic.md"
+                "file": "Web/Backend/Nginx/Nginx CORS setting.md"
               }
             }
           },
@@ -159,10 +160,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b527b392935e9a0",
+  "active": "dd786d6b5249d1e6",
   "lastOpenFiles": [
-    "Vim/intellij vimrc config.md",
+    "Web/Backend/Nginx/Serve static site with nginx.md",
+    "Network/同源政策與CORS.md",
+    "Network/cookie、localStorage、sessionStorage、indexedDB.md",
+    "Network/Basic HTTP Method and Parameter in URL.md",
+    "Web/Backend/Nginx/Nginx CORS setting.md",
+    "Web/Backend/Nginx/Nginx.md",
+    "Web/Nodejs/Nodejs中的Event loop.md",
+    "Web/Backend/Nginx/Port forwarding with nginx.md",
+    "Web/Backend/Authentication - JWT.md",
+    "Web/Frontend/JavaScript/Fetch template.md",
+    "Web/Frontend/JavaScript/JavaScript.md",
     "Web/Frontend/CSS/CSS Basic.md",
+    "Vim/intellij vimrc config.md",
     "Vim",
     "Web/Frontend/CSS/CSS.canvas",
     "Database/MySQL/MySQL Basic.md",
@@ -174,23 +186,12 @@
     "Linux",
     "Database/MySQL/Install MySQL on Ubuntu.md",
     "Web/Frontend/HTML/Form表單.md",
-    "Web/Backend/Nginx/Serve static site with nginx.md",
-    "Web/Backend/Nginx/Port forwarding with nginx.md",
-    "Web/Backend/Nginx/Nginx.md",
     "Web/Frontend/HTML/HTML Basic.md",
     "Database/MySQL/Relational Database.md",
     "Web/Backend/Java/frequently_used_package/Validation with spring validation.md",
     "Web/Backend/Java/Spring Boot Basic.md",
     "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
-    "Web/Backend/Java/JDBC Basic.md",
-    "Web/Frontend/JavaScript/JavaScript.md",
-    "().md",
     "Web/Backend/Nginx",
-    "Web/Backend/Untitled.md",
-    "git/git head.md",
-    "git/git ssh金鑰設定.md",
-    "git/git stash檔案暫存.md",
-    "git/git_lifecycle.md",
     "git/git.canvas",
     "image/create_IAM_user.png",
     "Web/Frontend/ReactJS/React.canvas",
