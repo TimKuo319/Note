@@ -305,6 +305,9 @@ li:nth-child(even) {
     margin-left: 1rem;  
 }
 ```
+
++ https://medium.com/ui-ux%E7%B7%B4%E5%8A%9F%E5%9D%8A/position-%E5%B1%AC%E6%80%A7%E7%9A%84%E5%9F%BA%E7%A4%8E%E6%A6%82%E5%BF%B5-5931254e5203
+
 + absolute
 	+ 在整個頁面中的絕對位置
 + fixed
