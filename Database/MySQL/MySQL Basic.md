@@ -119,6 +119,20 @@ WHERE c.name IN ('新顏色1', '新顏色2', '新顏色3')
 ON DUPLICATE KEY UPDATE stock = stock;  
 ```
 
+`ON DUPLICATE KEY UPDATE column = value`的做法是決定要怎進行更新，以上面的例子來說，就是該row的stock會等於該row的stock，也就是說，在遇到重複的時候，就不更新的意思。
+
+
+## Cross join
+
+[SQL CROSS JOIN 交叉連接 - SQL 語法教學 Tutorial](https://www.fooish.com/sql/cross-join.html)
+
+## Rand 
+
++ RAND產生0~1之間的浮點數，FLOOR將值取為整數
+
+```sql
+FLOOR(1 + (RAND() * 10))
+```
 
 ### Group by
 
@@ -180,6 +194,7 @@ LIMIT 3 OFFSET 5;
 	+ 假設宣告varchar(255) ，但實際上只使用了10個字元，那就只會佔10個字元的空間
 + BINARY
 + TEXT
+
 
 ### ENUM
 
