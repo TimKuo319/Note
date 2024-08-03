@@ -121,8 +121,15 @@ ON DUPLICATE KEY UPDATE stock = stock;
 
 `ON DUPLICATE KEY UPDATE column = value`的做法是決定要怎進行更新，以上面的例子來說，就是該row的stock會等於該row的stock，也就是說，在遇到重複的時候，就不更新的意思。
 
+## Join(todo)
 
-## Cross join
+### Inner join
+
+### Left join
+
+### Right join
+
+### Cross join
 
 [SQL CROSS JOIN 交叉連接 - SQL 語法教學 Tutorial](https://www.fooish.com/sql/cross-join.html)
 
