@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/同源政策與CORS.md",
+                "file": "Web/Frontend/JavaScript/PushState and PopState.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/同源政策與CORS.md",
+                "file": "Web/Frontend/JavaScript/PushState and PopState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/同源政策與CORS.md",
+                "file": "Web/Frontend/JavaScript/PushState and PopState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/同源政策與CORS.md"
+                "file": "Web/Frontend/JavaScript/PushState and PopState.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "bb73f087e321a627",
   "lastOpenFiles": [
-    "Database/MySQL/MySQL Basic.md",
     "Network/同源政策與CORS.md",
+    "Web/Frontend/JavaScript/PushState and PopState.md",
+    "Database/MySQL/MySQL Basic.md",
     "Web/Backend/Nginx/Nginx CORS setting.md",
     "Web/Backend/Nginx/Serve static site with nginx.md",
     "Network/cookie、localStorage、sessionStorage、indexedDB.md",
@@ -189,7 +190,6 @@
     "Database/MySQL/Relational Database.md",
     "Web/Backend/Java/frequently_used_package/Validation with spring validation.md",
     "Web/Backend/Java/Spring Boot Basic.md",
-    "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
     "Web/Backend/Nginx",
     "git/git.canvas",
     "image/create_IAM_user.png",
