@@ -33,3 +33,6 @@ date: 2024-02-28 Wed 15:17
 [跨來源資源共用（CORS） - HTTP | MDN (mozilla.org)](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/CORS)
 [Preflight request - MDN Web Docs Glossary: Definitions of Web-related terms | MDN (mozilla.org)](https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request)
 [CORS 是什麼? 為什麼要有 CORS? ｜ExplainThis](https://www.explainthis.io/zh-hant/swe/what-is-cors)
+
+
++ 為何透過nginx直接請求圖片沒有遇到cors問題?

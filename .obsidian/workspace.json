@@ -11,8 +11,12 @@
             "id": "bb73f087e321a627",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Network/同源政策與CORS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Network/同源政策與CORS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Network/同源政策與CORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Network/同源政策與CORS.md"
+              }
             }
           },
           {
@@ -153,6 +161,7 @@
   },
   "active": "bb73f087e321a627",
   "lastOpenFiles": [
+    "Database/MySQL/MySQL Basic.md",
     "Network/同源政策與CORS.md",
     "Web/Backend/Nginx/Nginx CORS setting.md",
     "Web/Backend/Nginx/Serve static site with nginx.md",
@@ -168,7 +177,6 @@
     "Vim/intellij vimrc config.md",
     "Vim",
     "Web/Frontend/CSS/CSS.canvas",
-    "Database/MySQL/MySQL Basic.md",
     "Web/Backend/Java/Maven.md",
     "Web/Backend/Java/Java Basic.md",
     "Web/Backend/Java/Java Optional.md",
