@@ -106,6 +106,20 @@ SELECT VALUE
 WHERE NOT EXISTS (SELECT ....)
 ```
 
+4. 新增遇到重複`primary key`時，可以使用`ON DUPLICATE KEY UPDATE ...`來解決。這樣的做法在遇到重複已經存在的資料時，會選擇用`update`的方式來更新資料，而不會報錯
+
+```sql
+INSERT INTO variant (product_id, color_id, size_id, stock)
+SELECT p.id, c.id, s.id, 100 -- 假設初始庫存為100
+FROM product p
+CROSS JOIN color c
+CROSS JOIN size s
+WHERE c.name IN ('新顏色1', '新顏色2', '新顏色3')
+  AND s.size IN ('新尺寸1', '新尺寸2', '新尺寸3')
+ON DUPLICATE KEY UPDATE stock = stock;  
+```
+
+
 ### Group by
 
 group by指令用於將查詢結果中的特定欄位相同值分成群組

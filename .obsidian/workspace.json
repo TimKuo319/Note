@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Frontend/JavaScript/PushState and PopState.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Frontend/JavaScript/PushState and PopState.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Frontend/JavaScript/PushState and PopState.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Frontend/JavaScript/PushState and PopState.md"
+                "file": "Database/MySQL/MySQL Basic.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "bb73f087e321a627",
   "lastOpenFiles": [
-    "Network/同源政策與CORS.md",
     "Web/Frontend/JavaScript/PushState and PopState.md",
+    "Network/同源政策與CORS.md",
     "Database/MySQL/MySQL Basic.md",
     "Web/Backend/Nginx/Nginx CORS setting.md",
     "Web/Backend/Nginx/Serve static site with nginx.md",
