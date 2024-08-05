@@ -15,7 +15,29 @@
 
 在默認沒有調整的情況下，redisTemplate會使用`jdk serilizer`來處理資料，但因為`jdk serilizer`是直接將資料轉換成二進位格式，不易於我們進行閱讀或除錯，所以通常會需要自己配置`redisTemplate`相關的config，來決定我們要將資料序列化成甚麼樣子。
 
+```java
+public class ResiConfig {  
+    @Bean  
+    public RedisTemplate<String, Object> redisTemplate(RedisConnectionFactory factory) {  
+        RedisTemplate<String, Object> redisTemplate = new RedisTemplate<>();  
+        try {  
+            redisTemplate.setKeySerializer(new StringRedisSerializer());  
+            redisTemplate.setDefaultSerializer(new GenericJackson2JsonRedisSerializer());  
+            redisTemplate.setConnectionFactory(factory);  
+        } catch (Exception e) {  
+            log.error("Error getting Redis Template connection", e);  
+        }  
+        return redisTemplate;  
+    }  
+}
+```
 
+
+以上面的程式碼來說
++ `redisTemplate.setKeySerializer(new StringRedisSerializer())`;
+	+ redis key序列化出來的值會變成字串
++ `redisTemplate.setDefaultSerializer(new Ger.....)`
+	+ redis value將會被序列化為json格式
 ## RedisConnectionFactory
 
 + spring data redis中的一個接口，用來創建和管理與redis server的connection
