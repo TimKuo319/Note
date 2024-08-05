@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Redis/Install Redis using wsl.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Redis/Install Redis using wsl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Redis/Install Redis using wsl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md"
+                "file": "Redis/Install Redis using wsl.md"
               }
             }
           },
@@ -161,21 +161,25 @@
   },
   "active": "bb73f087e321a627",
   "lastOpenFiles": [
+    "WSL/Install WSL on Windows.md",
+    "Redis/Install Redis using wsl.md",
+    "Redis",
+    "Database/MySQL/MySQL Basic.md",
+    "WSL",
     "Cloud/AWS/Cloud Watch.md",
     "Cloud/AWS/連線EC2 instance.md",
     "Cloud/AWS/AWS IAM建立.md",
-    "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Relational Database.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
     "Web/Frontend/JavaScript/PushState and PopState.md",
     "Network/同源政策與CORS.md",
-    "Web/Backend/Nginx/Nginx CORS setting.md",
-    "Web/Backend/Nginx/Serve static site with nginx.md",
+    "Nginx/Nginx CORS setting.md",
+    "Nginx/Serve static site with nginx.md",
     "Network/cookie、localStorage、sessionStorage、indexedDB.md",
     "Network/Basic HTTP Method and Parameter in URL.md",
-    "Web/Backend/Nginx/Nginx.md",
+    "Nginx/Nginx.md",
     "Web/Nodejs/Nodejs中的Event loop.md",
-    "Web/Backend/Nginx/Port forwarding with nginx.md",
+    "Nginx/Port forwarding with nginx.md",
     "Web/Backend/Authentication - JWT.md",
     "Web/Frontend/JavaScript/Fetch template.md",
     "Web/Frontend/JavaScript/JavaScript.md",
@@ -187,10 +191,8 @@
     "Web/Backend/Java/Java Basic.md",
     "Web/Backend/Java/Java Optional.md",
     "Linux/Systemd.md",
-    "Linux/todo.md",
     "Linux",
-    "Web/Frontend/HTML/Form表單.md",
-    "Web/Backend/Nginx",
+    "Nginx",
     "git/git.canvas",
     "image/create_IAM_user.png",
     "Web/Frontend/ReactJS/React.canvas",
@@ -205,9 +207,7 @@
     "Container/docker.canvas",
     "SWE/API.canvas",
     "image/access_level_modifiers.png",
-    "Web/Backend/Java",
     "Web/Backend/NestJS/NestJS.canvas",
-    "Web/Frontend/JavaScript",
     "image/transformation_journey.png",
     "image/CAF.png",
     "image/share_responsibility.png",
