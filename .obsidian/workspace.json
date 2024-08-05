@@ -161,8 +161,9 @@
   },
   "active": "bb73f087e321a627",
   "lastOpenFiles": [
-    "WSL/Install WSL on Windows.md",
+    "Redis/RedisTemplate with spring boot framework.md",
     "Redis/Install Redis using wsl.md",
+    "WSL/Install WSL on Windows.md",
     "Redis",
     "Database/MySQL/MySQL Basic.md",
     "WSL",
@@ -190,7 +191,6 @@
     "Web/Backend/Java/Maven.md",
     "Web/Backend/Java/Java Basic.md",
     "Web/Backend/Java/Java Optional.md",
-    "Linux/Systemd.md",
     "Linux",
     "Nginx",
     "git/git.canvas",
