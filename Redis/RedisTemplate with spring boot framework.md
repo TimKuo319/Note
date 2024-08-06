@@ -45,7 +45,16 @@ public class ResiConfig {
 + `redisTemplate.setDefaultSerializer(new Ger.....)`
 	+ redis value將會被序列化為`json`格式
 	+ 從redis反序列化回來的值也會變成`json`格式，如果是塞dto給他，回來的值也會自動是dto
-	
+
+>[!info]
+> 透過serializer將值給解回來的時候，serializer會自動判斷該資料原本在java中的類型
+> ```redis
+> [\"java.util.ArrayList\",[{\"@class\":\"org.example.stylish.dto.campaignDto.ResponseCampaignDto\",\"product_id\":[\"java.math.BigInteger\",15],\"story\":\"asdf\",\"picture\":\"http://52.69.33.14/uploads/52c9be46-eb4e-4d9d-963a-93e513d7a3de-FRTH6-dVEAAxdmq.jpg\"},{\"@class\":\"org.example.stylish.dto.campaignDto.ResponseCampaignDto\",\"product_id\":[\"java.math.BigInteger\",20],\"story\":\"story\",\"picture\":\"http://52.69.33.14/uploads/198c1c4e-6cb5-4c45-b992-49a2872bd9fc-Exploring_unusual_problems.png\"}]]
+> ```
+> 從上面的程式碼中可以看到，值在被serializer存入redis的過程中就經過serializer的標示
+> ，所以回傳時可以透過這樣的方式去轉換回傳值得型態。
+
+
 ## RedisConnectionFactory
 
 + spring data redis中的一個接口，用來創建和管理與redis server的connection
