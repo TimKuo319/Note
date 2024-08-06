@@ -1,14 +1,16 @@
 
 ## Method
 
-+ `template.opsForValue` 
+用來對四種不同資料結構操作
+
++ `template.opsForValue`
 	+ 用來對simple value(`其實就是redis中的string`)進行操作
-	+ `set`
-		+ 用來對新增key-value pair到redis中
-	+ `get`
-	+ `delete`
++ `templat.opsForHash`
++ `template.opsForList` 
++ `template.opsForSet`
 
 + `template.expire(key, timeout, timeUnit)`
+	+ 設定過期時間
 
 + `@Cacheable`
 	+ 替`spring boot`自動配置cache
