@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/Install Redis using wsl.md",
+                "file": "Web/Backend/Java/Spring Boot Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/Install Redis using wsl.md",
+                "file": "Web/Backend/Java/Spring Boot Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/Install Redis using wsl.md",
+                "file": "Web/Backend/Java/Spring Boot Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/Install Redis using wsl.md"
+                "file": "Web/Backend/Java/Spring Boot Basic.md"
               }
             }
           },
@@ -161,9 +161,10 @@
   },
   "active": "bb73f087e321a627",
   "lastOpenFiles": [
-    "Database/MySQL/MySQL Basic.md",
+    "Web/Backend/Java/Java Basic.md",
     "Redis/RedisTemplate with spring boot framework.md",
     "Redis/Install Redis using wsl.md",
+    "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Database design.md",
     "Database/MySQL/Relational Database.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
@@ -188,7 +189,6 @@
     "Web/Backend/Authentication - JWT.md",
     "Web/Frontend/JavaScript/Fetch template.md",
     "Web/Frontend/JavaScript/JavaScript.md",
-    "Web/Frontend/CSS/CSS Basic.md",
     "Vim",
     "Web/Frontend/CSS/CSS.canvas",
     "Linux",

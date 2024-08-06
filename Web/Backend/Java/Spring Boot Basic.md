@@ -141,10 +141,46 @@ public class StudentController {
 		+ semantic的component，通常會用在`service layer`
 	+ `Repository`
 		+ semantic的component, 通常會用在`model`，用來與db溝通
+	+ `Confiugrtion`
+		 `@Configuration`用來修飾class，代表是一個配置類，通常包含許多`@bean`或annotation， `@Configuration`代表的是`@Bean`定義的來源。	
 	+ `Bean`
 		+ 通常會搭配`@Configuration` annotation，用來作為配置類。
-		+ `@Configuration`用來修飾class，代表是一個配置類，通常包含許多`@bean`或annotation
-
+		+ 用於method level，其中回傳值會被加入IoC Container中，讓後續的其他部分使用 
+		+ Springboot允許透過參數來進行`Autowire`，這也是為甚麼常常在配置檔案中參數看似沒有傳遞卻也能正常運作的原因。
+		+ 以下面的程式碼來說，redisConnectionFactory就是一個被自動注入的參數
+		
+```java
+package com.example.demo.config;  
+  
+import com.example.demo.service.RedisService;  
+import lombok.extern.log4j.Log4j2;  
+import org.springframework.context.annotation.Bean;  
+import org.springframework.context.annotation.Configuration;  
+import org.springframework.data.redis.connection.RedisConnectionFactory;  
+import org.springframework.data.redis.core.RedisTemplate;  
+import org.springframework.data.redis.serializer.GenericJackson2JsonRedisSerializer;  
+import org.springframework.data.redis.serializer.StringRedisSerializer;  
+  
+@Log4j2  
+@Configuration  
+public class RedisConfig {  
+    @Bean  
+    public RedisTemplate<String, Object> redisTemplate(RedisConnectionFactory redisConnectionFactory) {  
+       RedisTemplate<String, Object> redisTemplate = new RedisTemplate<>();  
+        try {  
+            redisTemplate.setKeySerializer(new StringRedisSerializer());  
+            redisTemplate.setValueSerializer(new StringRedisSerializer());  
+            redisTemplate.setHashKeySerializer(new StringRedisSerializer());  
+            redisTemplate.setHashValueSerializer(new GenericJackson2JsonRedisSerializer());  
+            redisTemplate.setConnectionFactory(redisConnectionFactory);  
+        } catch (Exception e) {  
+            log.error("Error getting Redis Template connection", e);  
+        }  
+        return redisTemplate;  
+    }  
+}
+```
+		
 ### DI with Inteface
 
 有時我們會透過implement interface，來確保功能沒有被漏掉(`因為interface的method需要全都被實作`)。舉例來說`UserService`及`UserServiceImpl`，在進行DI的時候==注入interface比較好==，因為這樣其他地方的程式碼只會依賴於interface。

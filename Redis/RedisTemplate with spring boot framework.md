@@ -41,14 +41,11 @@ public class ResiConfig {
 以上面的程式碼來說
 + `redisTemplate.setKeySerializer(new StringRedisSerializer())`;
 	+ 會將透過java傳出去的值序列化成`String`的格式
+	+ 從redis拿回來的值也會被反序列化成`String`
 + `redisTemplate.setDefaultSerializer(new Ger.....)`
 	+ redis value將會被序列化為`json`格式
-
-
->[!info] return value
->雖然前面有透過serializer進行序列化，但如果是用get的方式將value的值給取回來的話，因為redis不會知道value在程式語言中的型態，所以還是需要自己進行值的轉換，如果是複雜的物件可以使用`objectMapper`處理 
-
-
+	+ 從redis反序列化回來的值也會變成`json`格式，如果是塞dto給他，回來的值也會自動是dto
+	
 ## RedisConnectionFactory
 
 + spring data redis中的一個接口，用來創建和管理與redis server的connection
