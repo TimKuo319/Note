@@ -160,6 +160,13 @@ UPDATE `order`
 SET isPaid = 1
 WHERE order_id = 123;
 ```
+
+
+### Delete
+
+```sql
+DELETE FROM table_name WHERE column_name operator value;
+```
 ### Limit Offset
 
 limit、offset通常會放在query的最後，limit表示的是要拿出幾筆資料，offset則表示要從第幾筆資料開始。

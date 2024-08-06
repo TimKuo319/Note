@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/RedisTemplate with spring boot framework.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/RedisTemplate with spring boot framework.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/RedisTemplate with spring boot framework.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/RedisTemplate with spring boot framework.md"
+                "file": "Database/MySQL/MySQL Basic.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "bb73f087e321a627",
   "lastOpenFiles": [
-    "Redis/Install Redis using wsl.md",
     "Redis/RedisTemplate with spring boot framework.md",
+    "Redis/Install Redis using wsl.md",
     "Database/MySQL/Database design.md",
     "Database/MySQL/Relational Database.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
