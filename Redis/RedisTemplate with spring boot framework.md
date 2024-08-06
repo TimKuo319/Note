@@ -5,7 +5,10 @@
 	+ 用來對simple value(`其實就是redis中的string`)進行操作
 	+ `set`
 		+ 用來對新增key-value pair到redis中
+	+ `get`
+	+ `delete`
 
++ `template.expire(key, timeout, timeUnit)`
 
 + `@Cacheable`
 	+ 替`spring boot`自動配置cache
@@ -63,3 +66,6 @@ public class ResiConfig {
 
 [Java and Redis](https://redis.io/learn/develop/java/getting-started)
 [Introduction to Spring Data Redis | Baeldung](https://www.baeldung.com/spring-data-redis-tutorial)
+[Effective and highly available cache: Integrating Spring Boot with Redis | by McKinsey Digital | McKinsey Digital Insights | Medium](https://medium.com/digital-mckinsey/effective-and-highly-available-cache-integrating-spring-boot-with-redis-2e21c5cec8bd)
+
+
