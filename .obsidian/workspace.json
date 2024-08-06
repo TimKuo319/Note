@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/RedisTemplate with spring boot framework.md",
+                "file": "Redis/Install Redis using wsl.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/RedisTemplate with spring boot framework.md",
+                "file": "Redis/Install Redis using wsl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/RedisTemplate with spring boot framework.md",
+                "file": "Redis/Install Redis using wsl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/RedisTemplate with spring boot framework.md"
+                "file": "Redis/Install Redis using wsl.md"
               }
             }
           },
@@ -161,19 +161,21 @@
   },
   "active": "bb73f087e321a627",
   "lastOpenFiles": [
-    "Redis/Install Redis using wsl.md",
     "Redis/RedisTemplate with spring boot framework.md",
+    "Redis/Install Redis using wsl.md",
+    "Database/MySQL/Database design.md",
+    "Database/MySQL/Relational Database.md",
+    "Database/MySQL/Install MySQL on Ubuntu.md",
+    "Database/MySQL/Table design.md",
+    "Database/MySQL/MySQL Basic.md",
     "Linux/Tmux 基本使用.md",
     "Linux/todo.md",
     "WSL/Install WSL on Windows.md",
     "Redis",
-    "Database/MySQL/MySQL Basic.md",
     "WSL",
     "Cloud/AWS/Cloud Watch.md",
     "Cloud/AWS/連線EC2 instance.md",
     "Cloud/AWS/AWS IAM建立.md",
-    "Database/MySQL/Relational Database.md",
-    "Database/MySQL/Install MySQL on Ubuntu.md",
     "Web/Frontend/JavaScript/PushState and PopState.md",
     "Network/同源政策與CORS.md",
     "Nginx/Nginx CORS setting.md",
@@ -187,10 +189,8 @@
     "Web/Frontend/JavaScript/Fetch template.md",
     "Web/Frontend/JavaScript/JavaScript.md",
     "Web/Frontend/CSS/CSS Basic.md",
-    "Vim/intellij vimrc config.md",
     "Vim",
     "Web/Frontend/CSS/CSS.canvas",
-    "Web/Backend/Java/Maven.md",
     "Linux",
     "Nginx",
     "git/git.canvas",
