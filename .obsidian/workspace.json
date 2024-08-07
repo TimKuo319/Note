@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/RedisTemplate with spring boot framework.md",
+                "file": "Web/Backend/Java/Spring Boot Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/RedisTemplate with spring boot framework.md",
+                "file": "Web/Backend/Java/Spring Boot Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/RedisTemplate with spring boot framework.md",
+                "file": "Web/Backend/Java/Spring Boot Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/RedisTemplate with spring boot framework.md"
+                "file": "Web/Backend/Java/Spring Boot Basic.md"
               }
             }
           },
@@ -159,12 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb73f087e321a627",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
-    "Redis/Install Redis using wsl.md",
+    "Web/Backend/Authentication - JWT.md",
+    "Web/Backend/Java/Thymeleaf in Spring Boot with Maven.md",
+    "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
     "Web/Backend/Java/Spring Boot Basic.md",
-    "Web/Backend/Java/Java Basic.md",
+    "Web/Backend/Java/Maven.md",
+    "Web/Backend/Java/Logger.md",
+    "Web/Backend/Java/JDBC Basic.md",
+    "Web/Backend/Java/Java Optional.md",
+    "Web/Backend/Java/Exception Handler.md",
+    "Web/Backend/Java/frequently_used_package/JUnit.md",
     "Redis/RedisTemplate with spring boot framework.md",
+    "Redis/Install Redis using wsl.md",
+    "Web/Backend/Java/Java Basic.md",
     "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Database design.md",
     "Database/MySQL/Relational Database.md",
@@ -180,15 +189,6 @@
     "Cloud/AWS/AWS IAM建立.md",
     "Web/Frontend/JavaScript/PushState and PopState.md",
     "Network/同源政策與CORS.md",
-    "Nginx/Nginx CORS setting.md",
-    "Nginx/Serve static site with nginx.md",
-    "Network/cookie、localStorage、sessionStorage、indexedDB.md",
-    "Network/Basic HTTP Method and Parameter in URL.md",
-    "Nginx/Nginx.md",
-    "Web/Nodejs/Nodejs中的Event loop.md",
-    "Nginx/Port forwarding with nginx.md",
-    "Web/Backend/Authentication - JWT.md",
-    "Web/Frontend/JavaScript/Fetch template.md",
     "Vim",
     "Web/Frontend/CSS/CSS.canvas",
     "Linux",
