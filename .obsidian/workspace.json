@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Backend/Java/Spring Boot Basic.md",
+                "file": "Redis/關閉redis自動備份.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Backend/Java/Spring Boot Basic.md",
+                "file": "Redis/關閉redis自動備份.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Backend/Java/Spring Boot Basic.md",
+                "file": "Redis/關閉redis自動備份.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Backend/Java/Spring Boot Basic.md"
+                "file": "Redis/關閉redis自動備份.md"
               }
             }
           },
@@ -159,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "bb73f087e321a627",
   "lastOpenFiles": [
+    "Web/Backend/Java/Spring Boot Basic.md",
+    "Redis/關閉redis自動備份.md",
     "Web/Backend/Authentication - JWT.md",
     "Web/Backend/Java/Thymeleaf in Spring Boot with Maven.md",
     "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
-    "Web/Backend/Java/Spring Boot Basic.md",
     "Web/Backend/Java/Maven.md",
     "Web/Backend/Java/Logger.md",
     "Web/Backend/Java/JDBC Basic.md",
@@ -188,7 +189,6 @@
     "Cloud/AWS/連線EC2 instance.md",
     "Cloud/AWS/AWS IAM建立.md",
     "Web/Frontend/JavaScript/PushState and PopState.md",
-    "Network/同源政策與CORS.md",
     "Vim",
     "Web/Frontend/CSS/CSS.canvas",
     "Linux",
