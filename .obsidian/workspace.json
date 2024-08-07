@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/關閉redis自動備份.md",
+                "file": "Redis/Install Redis using wsl.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/關閉redis自動備份.md",
+                "file": "Redis/Install Redis using wsl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/關閉redis自動備份.md",
+                "file": "Redis/Install Redis using wsl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/關閉redis自動備份.md"
+                "file": "Redis/Install Redis using wsl.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "bb73f087e321a627",
   "lastOpenFiles": [
-    "Web/Backend/Java/Spring Boot Basic.md",
     "Redis/關閉redis自動備份.md",
+    "Web/Backend/Java/Spring Boot Basic.md",
     "Web/Backend/Authentication - JWT.md",
     "Web/Backend/Java/Thymeleaf in Spring Boot with Maven.md",
     "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
