@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/Redis usage.md",
+                "file": "Web/Backend/Java/Java AOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/Redis usage.md",
+                "file": "Web/Backend/Java/Java AOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/Redis usage.md",
+                "file": "Web/Backend/Java/Java AOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/Redis usage.md"
+                "file": "Web/Backend/Java/Java AOP.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "bb73f087e321a627",
   "lastOpenFiles": [
-    "Redis/Install Redis using wsl.md",
     "Redis/Redis usage.md",
+    "Web/Backend/Java/Java AOP.md",
+    "Redis/Install Redis using wsl.md",
     "Redis/關閉redis自動備份.md",
     "Web/Backend/Java/Spring Boot Basic.md",
     "Web/Backend/Authentication - JWT.md",
@@ -188,7 +189,6 @@
     "WSL",
     "Cloud/AWS/Cloud Watch.md",
     "Cloud/AWS/連線EC2 instance.md",
-    "Cloud/AWS/AWS IAM建立.md",
     "Vim",
     "Web/Frontend/CSS/CSS.canvas",
     "Linux",
