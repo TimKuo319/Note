@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Backend/Java/Java AOP.md",
+                "file": "Redis/Redis as MQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Backend/Java/Java AOP.md",
+                "file": "Redis/Redis as MQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Backend/Java/Java AOP.md",
+                "file": "Redis/Redis as MQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Backend/Java/Java AOP.md"
+                "file": "Redis/Redis as MQ.md"
               }
             }
           },
@@ -161,7 +161,18 @@
   },
   "active": "bb73f087e321a627",
   "lastOpenFiles": [
+    "Network/同源政策與CORS.md",
+    "Redis/Redis as MQ.md",
     "Redis/Redis usage.md",
+    "Nginx/Nginx CORS setting.md",
+    "Web/Backend/ExpressJS/app.set()與app.use().md",
+    "Nginx/Nginx.md",
+    "Nginx/Port forwarding with nginx.md",
+    "Nginx/Serve static site with nginx.md",
+    "Web/Backend/NestJS/NestJS.canvas",
+    "Web/Backend/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
+    "Network/Basic HTTP Method and Parameter in URL.md",
+    "Network/cookie、localStorage、sessionStorage、indexedDB.md",
     "Web/Backend/Java/Java AOP.md",
     "Redis/Install Redis using wsl.md",
     "Redis/關閉redis自動備份.md",
@@ -177,18 +188,8 @@
     "Web/Backend/Java/frequently_used_package/JUnit.md",
     "Redis/RedisTemplate with spring boot framework.md",
     "Web/Backend/Java/Java Basic.md",
-    "Database/MySQL/MySQL Basic.md",
-    "Database/MySQL/Database design.md",
-    "Database/MySQL/Relational Database.md",
-    "Database/MySQL/Install MySQL on Ubuntu.md",
-    "Database/MySQL/Table design.md",
-    "Linux/Tmux 基本使用.md",
-    "Linux/todo.md",
-    "WSL/Install WSL on Windows.md",
     "Redis",
     "WSL",
-    "Cloud/AWS/Cloud Watch.md",
-    "Cloud/AWS/連線EC2 instance.md",
     "Vim",
     "Web/Frontend/CSS/CSS.canvas",
     "Linux",
@@ -207,7 +208,6 @@
     "Container/docker.canvas",
     "SWE/API.canvas",
     "image/access_level_modifiers.png",
-    "Web/Backend/NestJS/NestJS.canvas",
     "image/transformation_journey.png",
     "image/CAF.png",
     "image/share_responsibility.png",
