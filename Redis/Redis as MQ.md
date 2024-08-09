@@ -46,7 +46,7 @@ XREAD COUNT 2 STREAMS race:france 0
 	+ `race:france` - 要讀取的stream
 	+ `france_riders` - group name
 ```
-XGROUP CREATE race:france france_riders $
+XGROUP CREATE race:france france_riders $ MKSTREAM
 ```
 + `XREADGROUP`
 	+ is used to read from a stream via a consumer group.
@@ -55,7 +55,8 @@ XGROUP CREATE race:france france_riders $
 		2. 待處理訊息
 	+ `>`
 		+ ==用來代表只處理最新id以後的id，也就是沒辦法處理之前的id==
-	+ 
+	+ `MKSTREAM`
+		+ 如果前面指定的stream不存在的話，則會自動創建該stream
 ```
 XREADGROUP GROUP <group_name> <consumer_name> 讀取筆數 STREAMS <讀取stream> <id> 
 ```
