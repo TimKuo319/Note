@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/Redis as MQ.md",
+                "file": "Database/MySQL/Relational Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/Redis as MQ.md",
+                "file": "Database/MySQL/Relational Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/Redis as MQ.md",
+                "file": "Database/MySQL/Relational Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/Redis as MQ.md"
+                "file": "Database/MySQL/Relational Database.md"
               }
             }
           },
@@ -162,8 +163,9 @@
   },
   "active": "bb73f087e321a627",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Database/MySQL/MySQL Basic.md",
     "Redis/Redis as MQ.md",
+    "Untitled.canvas",
     "Network/同源政策與CORS.md",
     "Redis/Redis usage.md",
     "Nginx/Nginx CORS setting.md",
