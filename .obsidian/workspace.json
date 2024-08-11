@@ -11,8 +11,12 @@
             "id": "9b0f457c13996e6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "git/clone所有分支.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "git/clone所有分支.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "git/clone所有分支.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "git/clone所有分支.md"
+              }
             }
           },
           {
@@ -154,6 +162,18 @@
   },
   "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
+    "git/gitignore_setup.md",
+    "git/clone所有分支.md",
+    "Untitled.md",
+    "git/git檔案還原.md",
+    "git/git_lifecycle.md",
+    "git/git stash檔案暫存.md",
+    "git/git ssh金鑰設定.md",
+    "git/git head.md",
+    "git/git cherry-pick.md",
+    "git/git cheet_sheet.md",
+    "git/git.canvas",
+    "git/在遠端新增git分支.md",
     "Vim/intellij vimrc config.md",
     "Terminal/Mac 終端機美化.md",
     "Database/MySQL/Relational Database.md",
@@ -172,24 +192,12 @@
     "Web/Backend/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
     "Network/Basic HTTP Method and Parameter in URL.md",
     "Network/cookie、localStorage、sessionStorage、indexedDB.md",
-    "Web/Backend/Java/Java AOP.md",
-    "Redis/Install Redis using wsl.md",
-    "Redis/關閉redis自動備份.md",
-    "Web/Backend/Java/Spring Boot Basic.md",
-    "Web/Backend/Authentication - JWT.md",
-    "Web/Backend/Java/Thymeleaf in Spring Boot with Maven.md",
-    "Web/Backend/Java/Spring Boot Dotenv環境設定.md",
-    "Web/Backend/Java/Maven.md",
-    "Web/Backend/Java/Logger.md",
-    "Web/Backend/Java/JDBC Basic.md",
-    "Web/Backend/Java/Java Optional.md",
     "Redis",
     "WSL",
     "Vim",
     "Web/Frontend/CSS/CSS.canvas",
     "Linux",
     "Nginx",
-    "git/git.canvas",
     "image/create_IAM_user.png",
     "Web/Frontend/ReactJS/React.canvas",
     "image/git_lifecycle.png",
