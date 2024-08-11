@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/ORM.md",
+                "file": "Database/ORM/JPA(java).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/ORM.md",
+                "file": "Database/ORM/JPA(java).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/ORM.md",
+                "file": "Database/ORM/JPA(java).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/ORM.md"
+                "file": "Database/ORM/JPA(java).md"
               }
             }
           },
@@ -162,6 +162,12 @@
   },
   "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
+    "Database/ORM/ORM介紹.md",
+    "Database/ORM/JPA(java).md",
+    "Database/Concurrency problem.md",
+    "git/git alias設定.md",
+    "Database/ORM",
+    "Database/MySQL/MySQL Basic.md",
     "git/clone所有分支.md",
     "git/gitignore_setup.md",
     "Untitled.md",
@@ -178,7 +184,6 @@
     "Terminal/Mac 終端機美化.md",
     "Database/MySQL/Relational Database.md",
     "Terminal",
-    "Database/MySQL/MySQL Basic.md",
     "Redis/Redis as MQ.md",
     "Untitled.canvas",
     "Network/同源政策與CORS.md",
@@ -187,11 +192,7 @@
     "Web/Backend/ExpressJS/app.set()與app.use().md",
     "Nginx/Nginx.md",
     "Nginx/Port forwarding with nginx.md",
-    "Nginx/Serve static site with nginx.md",
     "Web/Backend/NestJS/NestJS.canvas",
-    "Web/Backend/NestJS/NestJS TypeORM forFeature and autoLoadEntities.md",
-    "Network/Basic HTTP Method and Parameter in URL.md",
-    "Network/cookie、localStorage、sessionStorage、indexedDB.md",
     "Redis",
     "WSL",
     "Vim",
@@ -206,7 +207,6 @@
     "image/EC2_create.png",
     "Cloud/AWS",
     "Cloud",
-    "Web/Backend/Java/frequently_used_package",
     "Container/docker.canvas",
     "SWE/API.canvas",
     "image/access_level_modifiers.png",
