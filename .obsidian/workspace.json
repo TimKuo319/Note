@@ -164,6 +164,7 @@
   "active": "bb73f087e321a627",
   "lastOpenFiles": [
     "Database/MySQL/MySQL Basic.md",
+    "Database/MySQL/Relational Database.md",
     "Redis/Redis as MQ.md",
     "Untitled.canvas",
     "Network/同源政策與CORS.md",
@@ -190,7 +191,6 @@
     "Web/Backend/Java/Java Optional.md",
     "Web/Backend/Java/Exception Handler.md",
     "Web/Backend/Java/frequently_used_package/JUnit.md",
-    "Redis/RedisTemplate with spring boot framework.md",
     "Redis",
     "WSL",
     "Vim",
