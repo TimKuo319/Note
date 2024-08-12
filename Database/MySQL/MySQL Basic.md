@@ -330,6 +330,7 @@ select user, host from mysql.user;
 GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost' WITH GRANT OPTION;
 ```
 
+with grant option(?)
 
 ## Reference
 
@@ -338,3 +339,5 @@ GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost' WITH GRANT OPTION;
 資料型態: [MySQL 學習筆記(四) — MySQL中的資料類型 Data Type — 如何創建tables資料表?如何操作資料表? — 快速為自己創建一個資料表 | by Chwang | Medium](https://chwang12341.medium.com/mysql-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E5%9B%9B-mysql%E4%B8%AD%E7%9A%84%E8%B3%87%E6%96%99%E9%A1%9E%E5%9E%8B-data-type-%E5%A6%82%E4%BD%95%E5%89%B5%E5%BB%BAtables%E8%B3%87%E6%96%99%E8%A1%A8-%E5%A6%82%E4%BD%95%E6%93%8D%E4%BD%9C%E8%B3%87%E6%96%99%E8%A1%A8-%E5%BF%AB%E9%80%9F%E7%82%BA%E8%87%AA%E5%B7%B1%E5%89%B5%E5%BB%BA%E4%B8%80%E5%80%8B%E8%B3%87%E6%96%99%E8%A1%A8-927e0c365d6e)
 
 備份: https://code.yidas.com/mysqldump/
+
+
