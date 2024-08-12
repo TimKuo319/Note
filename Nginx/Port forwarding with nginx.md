@@ -1,7 +1,7 @@
 
 ## Configuration
 
-1.  在`/etc/sites-available`中建立configuration檔案
+1.  在`/etc/nginx/sites-available`中建立configuration檔案
 
 2. 撰寫`nginx檔案`
 ```nginx
