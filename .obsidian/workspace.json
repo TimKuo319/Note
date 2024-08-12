@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx/Port forwarding with nginx.md",
+                "file": "Redis/關閉redis自動備份.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/Port forwarding with nginx.md",
+                "file": "Redis/關閉redis自動備份.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx/Port forwarding with nginx.md",
+                "file": "Redis/關閉redis自動備份.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/Port forwarding with nginx.md"
+                "file": "Redis/關閉redis自動備份.md"
               }
             }
           },
@@ -162,6 +162,9 @@
   },
   "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
+    "Container/複製本地檔案到容器中.md",
+    "Container/docker.canvas",
+    "Nginx/Port forwarding with nginx.md",
     "Nginx/Nginx CORS setting.md",
     "Nginx/Nginx.md",
     "Database/ORM/JPA(java).md",
@@ -189,9 +192,6 @@
     "Terminal",
     "Redis/Redis as MQ.md",
     "Untitled.canvas",
-    "Network/同源政策與CORS.md",
-    "Redis/Redis usage.md",
-    "Web/Backend/ExpressJS/app.set()與app.use().md",
     "Web/Backend/NestJS/NestJS.canvas",
     "Redis",
     "WSL",
@@ -207,7 +207,6 @@
     "image/EC2_create.png",
     "Cloud/AWS",
     "Cloud",
-    "Container/docker.canvas",
     "SWE/API.canvas",
     "image/access_level_modifiers.png",
     "image/transformation_journey.png",
