@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring Boot Dotenv環境設定.md",
+                "file": "Redis/關閉redis自動備份.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring Boot Dotenv環境設定.md",
+                "file": "Redis/關閉redis自動備份.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring Boot Dotenv環境設定.md",
+                "file": "Redis/關閉redis自動備份.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring Boot Dotenv環境設定.md"
+                "file": "Redis/關閉redis自動備份.md"
               }
             }
           },
@@ -160,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
+    "Java/Spring Boot Dotenv環境設定.md",
     "Java/Thymeleaf in Spring Boot with Maven.md",
     "Database/spring boot jdbc遇到retrieval key not allowed.md",
     "Redis/關閉redis自動備份.md",
@@ -190,7 +191,6 @@
     "git/git cherry-pick.md",
     "git/git cheet_sheet.md",
     "Vim/intellij vimrc config.md",
-    "Terminal/Mac 終端機美化.md",
     "Terminal",
     "Untitled.canvas",
     "Web/Backend/NestJS/NestJS.canvas",
