@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/關閉redis自動備份.md",
+                "file": "Database/spring boot jdbc遇到retrieval key not allowed.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/關閉redis自動備份.md",
+                "file": "Database/spring boot jdbc遇到retrieval key not allowed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/關閉redis自動備份.md",
+                "file": "Database/spring boot jdbc遇到retrieval key not allowed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/關閉redis自動備份.md"
+                "file": "Database/spring boot jdbc遇到retrieval key not allowed.md"
               }
             }
           },
@@ -162,6 +162,8 @@
   },
   "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
+    "Redis/關閉redis自動備份.md",
+    "Database/spring boot jdbc遇到retrieval key not allowed.md",
     "Container/複製本地檔案到容器中.md",
     "Container/docker.canvas",
     "Nginx/Port forwarding with nginx.md",
@@ -190,7 +192,6 @@
     "Terminal/Mac 終端機美化.md",
     "Database/MySQL/Relational Database.md",
     "Terminal",
-    "Redis/Redis as MQ.md",
     "Untitled.canvas",
     "Web/Backend/NestJS/NestJS.canvas",
     "Redis",
