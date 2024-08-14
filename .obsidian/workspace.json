@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/關閉redis自動備份.md",
+                "file": "Linux/SSH config設定.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/關閉redis自動備份.md",
+                "file": "Linux/SSH config設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/關閉redis自動備份.md",
+                "file": "Linux/SSH config設定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/關閉redis自動備份.md"
+                "file": "Linux/SSH config設定.md"
               }
             }
           },
@@ -162,10 +162,11 @@
   },
   "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
+    "Redis/關閉redis自動備份.md",
+    "Linux/SSH config設定.md",
     "Java/Spring Boot Dotenv環境設定.md",
     "Java/Thymeleaf in Spring Boot with Maven.md",
     "Database/spring boot jdbc遇到retrieval key not allowed.md",
-    "Redis/關閉redis自動備份.md",
     "Container/複製本地檔案到容器中.md",
     "Container/docker.canvas",
     "Nginx/Port forwarding with nginx.md",
@@ -190,7 +191,6 @@
     "git/git head.md",
     "git/git cherry-pick.md",
     "git/git cheet_sheet.md",
-    "Vim/intellij vimrc config.md",
     "Terminal",
     "Untitled.canvas",
     "Web/Backend/NestJS/NestJS.canvas",
