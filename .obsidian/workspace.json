@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SSH config設定.md",
+                "file": "Java/Spring Boot設定log檔案.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/SSH config設定.md",
+                "file": "Java/Spring Boot設定log檔案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/SSH config設定.md",
+                "file": "Java/Spring Boot設定log檔案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/SSH config設定.md"
+                "file": "Java/Spring Boot設定log檔案.md"
               }
             }
           },
@@ -162,10 +162,21 @@
   },
   "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
-    "Redis/關閉redis自動備份.md",
-    "Linux/SSH config設定.md",
+    "Java/Exception Handler.md",
+    "Java/Spring Boot設定log檔案.md",
+    "Java/Java AOP.md",
+    "Java/Java Basic.md",
+    "Java/Java Optional.md",
+    "Java/JDBC Basic.md",
+    "Java/Logger.md",
+    "Java/Maven.md",
+    "Java/Spring Boot Basic.md",
     "Java/Spring Boot Dotenv環境設定.md",
     "Java/Thymeleaf in Spring Boot with Maven.md",
+    "Linux/Systemd.md",
+    "AWS/CloudWatch自動重啟.md",
+    "Linux/SSH config設定.md",
+    "Redis/關閉redis自動備份.md",
     "Database/spring boot jdbc遇到retrieval key not allowed.md",
     "Container/複製本地檔案到容器中.md",
     "Container/docker.canvas",
@@ -179,18 +190,7 @@
     "git/git.canvas",
     "git/clone所有分支.md",
     "Database/MySQL/MySQL Basic.md",
-    "Database/ORM/ORM介紹.md",
-    "Database/Concurrency problem.md",
     "Database/ORM",
-    "git/gitignore_setup.md",
-    "Untitled.md",
-    "git/git檔案還原.md",
-    "git/git_lifecycle.md",
-    "git/git stash檔案暫存.md",
-    "git/git ssh金鑰設定.md",
-    "git/git head.md",
-    "git/git cherry-pick.md",
-    "git/git cheet_sheet.md",
     "Terminal",
     "Untitled.canvas",
     "Web/Backend/NestJS/NestJS.canvas",
