@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring Boot設定log檔案.md",
+                "file": "Redis/關閉redis自動備份.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring Boot設定log檔案.md",
+                "file": "Redis/關閉redis自動備份.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring Boot設定log檔案.md",
+                "file": "Redis/關閉redis自動備份.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring Boot設定log檔案.md"
+                "file": "Redis/關閉redis自動備份.md"
               }
             }
           },
@@ -160,10 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b0f457c13996e6d",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
-    "Java/Exception Handler.md",
+    "Redis/Install Redis using wsl.md",
+    "Redis/RedisTemplate with spring boot framework.md",
+    "Redis/Redis as MQ.md",
     "Java/Spring Boot設定log檔案.md",
+    "Java/Exception Handler.md",
     "Java/Java AOP.md",
     "Java/Java Basic.md",
     "Java/Java Optional.md",
@@ -186,10 +189,7 @@
     "Database/ORM/JPA(java).md",
     "git/指定追蹤遠端分支.md",
     "git/在遠端新增git分支.md",
-    "git/git alias設定.md",
     "git/git.canvas",
-    "git/clone所有分支.md",
-    "Database/MySQL/MySQL Basic.md",
     "Database/ORM",
     "Terminal",
     "Untitled.canvas",
