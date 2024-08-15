@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/關閉redis自動備份.md",
+                "file": "Database/MySQL/Relational Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/關閉redis自動備份.md",
+                "file": "Database/MySQL/Relational Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/關閉redis自動備份.md",
+                "file": "Database/MySQL/Relational Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/關閉redis自動備份.md"
+                "file": "Database/MySQL/Relational Database.md"
               }
             }
           },
@@ -162,6 +163,8 @@
   },
   "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "Database/MySQL/MySQL Basic.md",
+    "Redis/關閉redis自動備份.md",
     "Redis/Install Redis using wsl.md",
     "Redis/RedisTemplate with spring boot framework.md",
     "Redis/Redis as MQ.md",
@@ -179,7 +182,6 @@
     "Linux/Systemd.md",
     "AWS/CloudWatch自動重啟.md",
     "Linux/SSH config設定.md",
-    "Redis/關閉redis自動備份.md",
     "Database/spring boot jdbc遇到retrieval key not allowed.md",
     "Container/複製本地檔案到容器中.md",
     "Container/docker.canvas",
@@ -188,7 +190,6 @@
     "Nginx/Nginx.md",
     "Database/ORM/JPA(java).md",
     "git/指定追蹤遠端分支.md",
-    "git/在遠端新增git分支.md",
     "git/git.canvas",
     "Database/ORM",
     "Terminal",
