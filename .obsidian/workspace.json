@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MySQL/Relational Database.md",
+                "file": "Cache/Cache Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MySQL/Relational Database.md",
+                "file": "Cache/Cache Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MySQL/Relational Database.md",
+                "file": "Cache/Cache Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MySQL/Relational Database.md"
+                "file": "Cache/Cache Strategy.md"
               }
             }
           },
@@ -160,13 +161,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
+    "Database/MySQL/Relational Database.md",
     "Database/MySQL/MySQL Basic.md",
-    "Redis/關閉redis自動備份.md",
-    "Redis/Install Redis using wsl.md",
-    "Redis/RedisTemplate with spring boot framework.md",
-    "Redis/Redis as MQ.md",
+    "Cache/Redis/關閉redis自動備份.md",
+    "Cache/Redis/Install Redis using wsl.md",
+    "Cache/Redis/RedisTemplate with spring boot framework.md",
+    "Cache/Redis/Redis as MQ.md",
     "Java/Spring Boot設定log檔案.md",
     "Java/Exception Handler.md",
     "Java/Java AOP.md",
@@ -188,13 +190,12 @@
     "Nginx/Nginx CORS setting.md",
     "Nginx/Nginx.md",
     "Database/ORM/JPA(java).md",
-    "git/指定追蹤遠端分支.md",
     "git/git.canvas",
     "Database/ORM",
     "Terminal",
     "Untitled.canvas",
     "Web/Backend/NestJS/NestJS.canvas",
-    "Redis",
+    "Cache/Redis",
     "WSL",
     "Vim",
     "Web/Frontend/CSS/CSS.canvas",
