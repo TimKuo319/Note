@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cache/Cache Strategy.md",
+                "file": "Nginx/WebSocket nginx 設定.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache/Cache Strategy.md",
+                "file": "Nginx/WebSocket nginx 設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache/Cache Strategy.md",
+                "file": "Nginx/WebSocket nginx 設定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/Cache Strategy.md"
+                "file": "Nginx/WebSocket nginx 設定.md"
               }
             }
           },
@@ -162,6 +162,12 @@
   },
   "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
+    "Nginx/Nginx.md",
+    "Linux/Symbolic link.md",
+    "Linux/SSH config設定.md",
+    "Nginx/WebSocket nginx 設定.md",
+    "Nginx/Nginx CORS setting.md",
+    "Cache/Cache Strategy.md",
     "Database/MySQL/Relational Database.md",
     "Database/MySQL/MySQL Basic.md",
     "Cache/Redis/關閉redis自動備份.md",
@@ -181,14 +187,8 @@
     "Java/Thymeleaf in Spring Boot with Maven.md",
     "Linux/Systemd.md",
     "AWS/CloudWatch自動重啟.md",
-    "Linux/SSH config設定.md",
     "Database/spring boot jdbc遇到retrieval key not allowed.md",
-    "Container/複製本地檔案到容器中.md",
     "Container/docker.canvas",
-    "Nginx/Port forwarding with nginx.md",
-    "Nginx/Nginx CORS setting.md",
-    "Nginx/Nginx.md",
-    "Database/ORM/JPA(java).md",
     "git/git.canvas",
     "Database/ORM",
     "Terminal",
