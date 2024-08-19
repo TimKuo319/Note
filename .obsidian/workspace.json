@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx/WebSocket nginx 設定.md",
+                "file": "Terminal/iTerm2 change theme.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/WebSocket nginx 設定.md",
+                "file": "Terminal/iTerm2 change theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx/WebSocket nginx 設定.md",
+                "file": "Terminal/iTerm2 change theme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/WebSocket nginx 設定.md"
+                "file": "Terminal/iTerm2 change theme.md"
               }
             }
           },
@@ -163,9 +163,13 @@
   "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
     "Nginx/Nginx.md",
-    "Linux/Symbolic link.md",
+    "Terminal/iTerm2 change theme.md",
+    "Terminal/Oh my zsh 設定.md",
+    "Container/docker ubuntu 指令安裝.md",
+    "Container/在本地檔案和容器間傳遞資料.md",
     "Linux/SSH config設定.md",
     "Nginx/WebSocket nginx 設定.md",
+    "Linux/Symbolic link.md",
     "Nginx/Nginx CORS setting.md",
     "Cache/Cache Strategy.md",
     "Database/MySQL/Relational Database.md",
@@ -184,10 +188,6 @@
     "Java/Maven.md",
     "Java/Spring Boot Basic.md",
     "Java/Spring Boot Dotenv環境設定.md",
-    "Java/Thymeleaf in Spring Boot with Maven.md",
-    "Linux/Systemd.md",
-    "AWS/CloudWatch自動重啟.md",
-    "Database/spring boot jdbc遇到retrieval key not allowed.md",
     "Container/docker.canvas",
     "git/git.canvas",
     "Database/ORM",
