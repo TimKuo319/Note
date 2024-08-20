@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Symbolic link.md",
+                "file": "Database/Shard.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Symbolic link.md",
+                "file": "Database/Shard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Symbolic link.md",
+                "file": "Database/Shard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Symbolic link.md"
+                "file": "Database/Shard.md"
               }
             }
           },
@@ -162,6 +162,8 @@
   },
   "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
+    "Linux/Symbolic link.md",
+    "Database/Shard.md",
     "Linux/Systemd.md",
     "Linux/Tmux 基本使用.md",
     "Terminal/Mac 終端機美化.md",
@@ -172,7 +174,6 @@
     "Container/在本地檔案和容器間傳遞資料.md",
     "Linux/SSH config設定.md",
     "Nginx/WebSocket nginx 設定.md",
-    "Linux/Symbolic link.md",
     "Nginx/Nginx CORS setting.md",
     "Cache/Cache Strategy.md",
     "Database/MySQL/Relational Database.md",
@@ -187,7 +188,6 @@
     "Java/Java Basic.md",
     "Java/Java Optional.md",
     "Java/JDBC Basic.md",
-    "Java/Logger.md",
     "Container/docker.canvas",
     "git/git.canvas",
     "Database/ORM",
