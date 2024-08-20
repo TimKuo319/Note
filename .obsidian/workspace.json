@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal/iTerm2 change theme.md",
+                "file": "Terminal/Mac 終端機美化.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal/iTerm2 change theme.md",
+                "file": "Terminal/Mac 終端機美化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal/iTerm2 change theme.md",
+                "file": "Terminal/Mac 終端機美化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal/iTerm2 change theme.md"
+                "file": "Terminal/Mac 終端機美化.md"
               }
             }
           },
@@ -162,8 +162,8 @@
   },
   "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
-    "Nginx/Nginx.md",
     "Terminal/iTerm2 change theme.md",
+    "Nginx/Nginx.md",
     "Terminal/Oh my zsh 設定.md",
     "Container/docker ubuntu 指令安裝.md",
     "Container/在本地檔案和容器間傳遞資料.md",
