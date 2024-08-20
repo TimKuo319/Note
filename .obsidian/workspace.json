@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal/Mac 終端機美化.md",
+                "file": "Linux/Symbolic link.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal/Mac 終端機美化.md",
+                "file": "Linux/Symbolic link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal/Mac 終端機美化.md",
+                "file": "Linux/Symbolic link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal/Mac 終端機美化.md"
+                "file": "Linux/Symbolic link.md"
               }
             }
           },
@@ -162,6 +162,9 @@
   },
   "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
+    "Linux/Systemd.md",
+    "Linux/Tmux 基本使用.md",
+    "Terminal/Mac 終端機美化.md",
     "Terminal/iTerm2 change theme.md",
     "Nginx/Nginx.md",
     "Terminal/Oh my zsh 設定.md",
@@ -185,9 +188,6 @@
     "Java/Java Optional.md",
     "Java/JDBC Basic.md",
     "Java/Logger.md",
-    "Java/Maven.md",
-    "Java/Spring Boot Basic.md",
-    "Java/Spring Boot Dotenv環境設定.md",
     "Container/docker.canvas",
     "git/git.canvas",
     "Database/ORM",
