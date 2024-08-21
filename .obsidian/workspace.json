@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Shard.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Shard.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Shard.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Shard.md"
+                "file": "Database/MySQL/MySQL Basic.md"
               }
             }
           },
@@ -162,6 +162,9 @@
   },
   "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
+    "Java/Spring Boot Basic.md",
+    "Java/Java Basic.md",
+    "Database/Shard.md",
     "Database/Database migration.md",
     "Database/Database lock.md",
     "Network/同源政策與CORS.md",
@@ -172,7 +175,6 @@
     "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
     "Database/spring boot jdbc遇到retrieval key not allowed.md",
     "Database/What is transaction and ACID.md",
-    "Database/Shard.md",
     "Database/MySQL/Mysql  pool.md",
     "Database/Untitled",
     "Database/Mongo/MongoDB Conection and CRUD.md",
@@ -188,8 +190,6 @@
     "Terminal/Oh my zsh 設定.md",
     "Container/docker ubuntu 指令安裝.md",
     "Container/在本地檔案和容器間傳遞資料.md",
-    "Linux/SSH config設定.md",
-    "Nginx/WebSocket nginx 設定.md",
     "Container/docker.canvas",
     "git/git.canvas",
     "Database/ORM",

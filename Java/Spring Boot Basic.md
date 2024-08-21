@@ -145,9 +145,14 @@ public class StudentController {
 		 `@Configuration`用來修飾class，代表是一個配置類，通常包含許多`@bean`或annotation， `@Configuration`代表的是`@Bean`定義的來源。	
 	+ `Bean`
 		+ 通常會搭配`@Configuration` annotation，用來作為配置類。
+		
 		+ 用於method level，其中回傳值會被加入IoC Container中，讓後續的其他部分使用 
+		
 		+ Springboot允許透過參數來進行`Autowire`，這也是為甚麼常常在配置檔案中參數看似沒有傳遞卻也能正常運作的原因。
+		
 		+ 以下面的程式碼來說，redisConnectionFactory就是一個被自動注入的參數
+
+		+ ==Bean 的名稱就是該 method 的名稱==
 		
 ```java
 package com.example.demo.config;  
