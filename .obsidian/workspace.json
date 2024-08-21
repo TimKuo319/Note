@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/資料庫分散式架構 - 讀寫分離.md",
+                "file": "Database/Database lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/資料庫分散式架構 - 讀寫分離.md",
+                "file": "Database/Database lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/資料庫分散式架構 - 讀寫分離.md",
+                "file": "Database/Database lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/資料庫分散式架構 - 讀寫分離.md"
+                "file": "Database/Database lock.md"
               }
             }
           },
@@ -162,8 +162,13 @@
   },
   "active": "9b0f457c13996e6d",
   "lastOpenFiles": [
+    "Database/Concurrency problem.md",
+    "Database/Database lock.md",
+    "Concurrency.md",
+    "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
+    "Database/spring boot jdbc遇到retrieval key not allowed.md",
+    "Database/What is transaction and ACID.md",
     "Database/Shard.md",
-    "Database/資料庫分散式架構 - 讀寫分離.md",
     "Database/MySQL/Mysql  pool.md",
     "Database/Untitled",
     "Database/Mongo/MongoDB Conection and CRUD.md",
@@ -185,10 +190,6 @@
     "Nginx/Nginx CORS setting.md",
     "Cache/Cache Strategy.md",
     "Database/MySQL/Relational Database.md",
-    "Cache/Redis/關閉redis自動備份.md",
-    "Cache/Redis/Install Redis using wsl.md",
-    "Cache/Redis/RedisTemplate with spring boot framework.md",
-    "Cache/Redis/Redis as MQ.md",
     "Container/docker.canvas",
     "git/git.canvas",
     "Database/ORM",
