@@ -78,6 +78,21 @@ Foreign key (column) references other_table(column) on <operation> <action>
 >[!info] one-to-one vs one-to-many
 >重點在證明唯一性，以上面的例子來說，訂單這個總體可以有很多個客戶，但因為一筆訂單`只能`對應到一個客戶，所以才會是一對多關係
 
+
+## Join(todo)
+
+### Inner join
+
+### Left join
+
+### Right join
+
+### Cross join
+
+
 ## Reference
 
 [Day 32 資料庫正規化(一~三) - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10229472)
+
+
+[SQL CROSS JOIN 交叉連接 - SQL 語法教學 Tutorial](https://www.fooish.com/sql/cross-join.html)
