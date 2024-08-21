@@ -10,6 +10,7 @@
 
 
 
+
 ### Reference
 
 [【筆記】Database Sharding. （由於用途為筆記，不會像以往文章太詳細介紹概念） | by 莫力全 Kyle Mo | Medium](https://oldmo860617.medium.com/%E7%AD%86%E8%A8%98-database-sharding-22e22f0809c0)
