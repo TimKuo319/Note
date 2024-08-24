@@ -20,6 +20,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "c2b10cc2f01aed38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd980a2852d3c4a2",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -144,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -162,10 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04bb78368635fbea",
+  "active": "cd980a2852d3c4a2",
   "lastOpenFiles": [
-    "Network/Authentication - JWT.md",
+    "Frontend/VueJS",
     "Network/OAuth.md",
+    "Network/cookie、localStorage、sessionStorage、indexedDB.md",
+    "Network/Basic HTTP Method and Parameter in URL.md",
+    "Network/Authentication - JWT.md",
     "Terminal/zsh 鍵位設定.md",
     "git/git cherry-pick.md",
     "git/git head.md",
@@ -187,9 +203,6 @@
     "Testing/壓力測試工具 - K6.md",
     "Database/Shard.md",
     "AWS/Auto Load Balancer 設定.md",
-    "Untitled.md",
-    "Database/Transaction.md",
-    "Database/Database lock.md",
     "Testing",
     "Database/Untitled",
     "Database/Mongo",
@@ -198,15 +211,15 @@
     "Database/ORM",
     "Terminal",
     "Untitled.canvas",
-    "Web/Backend/NestJS/NestJS.canvas",
+    "Backend/NestJS/NestJS.canvas",
     "Cache/Redis",
     "WSL",
     "Vim",
-    "Web/Frontend/CSS/CSS.canvas",
+    "Frontend/CSS/CSS.canvas",
     "Linux",
     "Nginx",
     "image/create_IAM_user.png",
-    "Web/Frontend/ReactJS/React.canvas",
+    "Frontend/ReactJS/React.canvas",
     "image/git_lifecycle.png",
     "image/key_pair_create.png",
     "image/EC2_create.png",

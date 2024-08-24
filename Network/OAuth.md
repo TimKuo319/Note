@@ -6,6 +6,23 @@ OAuth（Open Authorization) 是一種開放標準協議
 目的在於讓第三方應用程式在`不需要知道使用者密碼的情況下`，取得用戶對於特定平台( `facebook` `google`)的有限訪問權。
 
 
+## Role in OAuth
+
++ Resource Owner
+	+ 擁有第三方平台應用程式使用權限的使用者
+	+ Ex : `google` 或 `facebook` 的使用者
+
++ Client
+	+ 客戶端是指`希望訪問資源擁有者在資源伺服器上的資源的應用程式`
+	+ Ex : 我們的應用程式
+
++ Authorization Server
+	+ 負責驗證資源擁有者的身份並授權客戶端的伺服器。這通常是 OAuth 提供者的一部分
+	+ Ex: Google 的 OAuth 授權伺服器
+
++ Resource Server
+	+ 資源伺服器是保存資源擁有者的資源並向經授權的客戶端提供資源的伺服器。這可能是與授權伺服器相同的伺服器或一個單獨的伺服器。
+
 ## Auth Flow
 
 1. 應用程式請求授權
@@ -39,6 +56,14 @@ OAuth（Open Authorization) 是一種開放標準協議
 > 
 > Authorized Domains 是一個列表，`指定了可以進行 OAuth 訪問的 domain`
 
++ Authorized JavaScript Origin
+	- 允許發起OAuth請求的完整URL列表（包括 `protocol`和 `port`）
+	- 主要用於客戶端JavaScript應用的OAuth流程
+	- 提供更精細的控制，特別是針對OAuth請求
+	- 可包括開發環境URL（如localhost）
+
++ Authorized Redirect URIs
+	+ 在執行完第三方平台的 OAuth 畫面後，要導向去哪裡
 
 ## Reference
 

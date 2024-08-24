@@ -5,7 +5,7 @@
 		{"id":"7514e39c60344d00","type":"text","text":"## Border","x":-425,"y":172,"width":250,"height":60},
 		{"id":"273435c8aa3f222d","type":"text","text":"## Padding","x":-125,"y":172,"width":250,"height":60},
 		{"id":"54f6d7479e3b1f5d","type":"text","text":"## box-sizing\n\n>>**box-sizing** 的出現是用來調整區塊的內距與邊框計算方式，與 **border** 以及 **padding** 的設定有關","x":-425,"y":320,"width":250,"height":60},
-		{"id":"c4feba24f12cb5dc","type":"file","file":"Web/Frontend/CSS/Margin vs Padding.md","x":40,"y":320,"width":400,"height":400},
+		{"id":"c4feba24f12cb5dc","type":"file","file":"Frontend/CSS/Margin vs Padding.md","x":40,"y":320,"width":400,"height":400},
 		{"id":"820c4c58c4be08a0","type":"text","text":"### content-box\n設定的寬度`僅為content寬度`，padding以及border的寬度會`額外加上去`。","x":-580,"y":535,"width":250,"height":60},
 		{"id":"6287298881f55f7a","type":"text","text":"### border-box\n設定的寬度已經包含`content寬度`、`padding寬度`、`border寬度`","x":-280,"y":535,"width":250,"height":60},
 		{"id":"948c799084fd052d","type":"text","text":"## Fr","x":236,"y":-200,"width":250,"height":60},
