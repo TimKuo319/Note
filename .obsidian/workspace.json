@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git cherry-pick.md",
+                "file": "Network/OAuth.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git cherry-pick.md",
+                "file": "Network/OAuth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git cherry-pick.md",
+                "file": "Network/OAuth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git cherry-pick.md"
+                "file": "Network/OAuth.md"
               }
             }
           },
@@ -142,7 +143,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,13 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a177e24a6a232f8",
+  "active": "04bb78368635fbea",
   "lastOpenFiles": [
+    "Network/Authentication - JWT.md",
+    "Network/OAuth.md",
+    "Terminal/zsh 鍵位設定.md",
+    "git/git cherry-pick.md",
     "git/git head.md",
     "git/clone所有分支.md",
     "git/指定追蹤遠端分支.md",
     "git/在遠端新增git分支.md",
-    "git/git cherry-pick.md",
     "git/git cheet_sheet.md",
     "git/git alias設定.md",
     "git/git stash檔案暫存.md",
@@ -185,9 +190,6 @@
     "Untitled.md",
     "Database/Transaction.md",
     "Database/Database lock.md",
-    "Database/What is transaction and ACID.md",
-    "What.md",
-    "Database/MySQL/Mysql  pool.md",
     "Testing",
     "Database/Untitled",
     "Database/Mongo",
