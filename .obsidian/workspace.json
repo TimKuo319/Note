@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c2b10cc2f01aed38",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cd980a2852d3c4a2",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd980a2852d3c4a2",
+  "active": "1a177e24a6a232f8",
   "lastOpenFiles": [
     "Frontend/VueJS",
     "Network/OAuth.md",
