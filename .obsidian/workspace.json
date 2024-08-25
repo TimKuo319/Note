@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,15 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ed9e76e5c4daff6",
+  "active": "c6297d84f9dd664c",
   "lastOpenFiles": [
-    "Frontend/VueJS/Vue SFC.md",
-    "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
-    "Frontend/VueJS/Vue Option API vs Composition API.md",
-    "Frontend/VueJS/Vue-Cli vs Vite.md",
-    "Frontend/VueJS/Vue3 參考資源.md",
-    "Frontend/VueJS/Vue Project Common File.md",
     "Frontend/VueJS/Vue 專案建立.md",
+    "Frontend/VueJS/Vue Option API vs Composition API.md",
+    "Frontend/VueJS/Vue3 參考資源.md",
+    "Frontend/VueJS/Vue-Cli vs Vite.md",
+    "Frontend/VueJS/Vue SFC.md",
+    "Frontend/VueJS/Vue Project Common File.md",
+    "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
     "Architecture Patterns/MVVM.md",
     "image/MVVM.png",
     "Design Patterns",
