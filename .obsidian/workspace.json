@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/VueJS/Vue 基本元素.md",
+                "file": "Frontend/VueJS/Vue Option API vs Composition API.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/VueJS/Vue 基本元素.md",
+                "file": "Frontend/VueJS/Vue Option API vs Composition API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/VueJS/Vue 基本元素.md",
+                "file": "Frontend/VueJS/Vue Option API vs Composition API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/VueJS/Vue 基本元素.md"
+                "file": "Frontend/VueJS/Vue Option API vs Composition API.md"
               }
             }
           },
@@ -163,8 +163,11 @@
   },
   "active": "6ed9e76e5c4daff6",
   "lastOpenFiles": [
-    "Frontend/VueJS/Vue 參考資源.md",
-    "Frontend/VueJS/Vue 基本元素.md",
+    "Frontend/VueJS/Vue-Cli vs Vite.md",
+    "Frontend/VueJS/Vue Option API vs Composition API.md",
+    "Frontend/VueJS/Vue3 參考資源.md",
+    "Frontend/VueJS/Vue Project Common File.md",
+    "Frontend/VueJS/Vue 專案建立.md",
     "Architecture Patterns/MVVM.md",
     "image/MVVM.png",
     "Design Patterns",
@@ -192,9 +195,6 @@
     "Python/__name__ = _main_在python中的意思.md",
     "Terminal/Oh my zsh 設定.md",
     "Terminal/iTerm2 change theme.md",
-    "Terminal/Mac 終端機美化.md",
-    "PenTest/picogym_writeup/It's my birthday.md",
-    "PenTest/picogym_writeup/CTF初探.md",
     "Testing",
     "Database/Untitled",
     "Database/Mongo",
