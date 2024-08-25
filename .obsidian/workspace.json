@@ -11,8 +11,12 @@
             "id": "1a177e24a6a232f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/VueJS/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frontend/VueJS/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frontend/VueJS/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frontend/VueJS/Untitled.md"
+              }
             }
           },
           {
@@ -155,6 +163,7 @@
   },
   "active": "1a177e24a6a232f8",
   "lastOpenFiles": [
+    "Frontend/VueJS/Untitled.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "2024-08-25.md",
