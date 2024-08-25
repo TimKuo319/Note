@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/VueJS/Vue Option API vs Composition API.md",
+                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/VueJS/Vue Option API vs Composition API.md",
+                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/VueJS/Vue Option API vs Composition API.md",
+                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/VueJS/Vue Option API vs Composition API.md"
+                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md"
               }
             }
           },
@@ -163,8 +163,10 @@
   },
   "active": "6ed9e76e5c4daff6",
   "lastOpenFiles": [
-    "Frontend/VueJS/Vue-Cli vs Vite.md",
+    "Frontend/VueJS/Vue SFC.md",
+    "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
     "Frontend/VueJS/Vue Option API vs Composition API.md",
+    "Frontend/VueJS/Vue-Cli vs Vite.md",
     "Frontend/VueJS/Vue3 參考資源.md",
     "Frontend/VueJS/Vue Project Common File.md",
     "Frontend/VueJS/Vue 專案建立.md",
@@ -193,8 +195,6 @@
     "IoT/LoRa模組應用(S7678S).md",
     "Python/Class的各種語法.md",
     "Python/__name__ = _main_在python中的意思.md",
-    "Terminal/Oh my zsh 設定.md",
-    "Terminal/iTerm2 change theme.md",
     "Testing",
     "Database/Untitled",
     "Database/Mongo",
