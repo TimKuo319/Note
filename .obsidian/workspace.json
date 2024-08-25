@@ -11,12 +11,8 @@
             "id": "1a177e24a6a232f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/OAuth.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/OAuth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/OAuth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Network/OAuth.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,8 +155,11 @@
   },
   "active": "1a177e24a6a232f8",
   "lastOpenFiles": [
-    "Frontend/VueJS",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2024-08-25.md",
     "Network/OAuth.md",
+    "Frontend/VueJS",
     "Network/cookie、localStorage、sessionStorage、indexedDB.md",
     "Network/Basic HTTP Method and Parameter in URL.md",
     "Network/Authentication - JWT.md",
@@ -188,7 +183,6 @@
     "PenTest/picogym_writeup/CTF初探.md",
     "Testing/壓力測試工具 - K6.md",
     "Database/Shard.md",
-    "AWS/Auto Load Balancer 設定.md",
     "Testing",
     "Database/Untitled",
     "Database/Mongo",
@@ -196,14 +190,12 @@
     "git/git.canvas",
     "Database/ORM",
     "Terminal",
-    "Untitled.canvas",
     "Backend/NestJS/NestJS.canvas",
     "Cache/Redis",
     "WSL",
     "Vim",
     "Frontend/CSS/CSS.canvas",
     "Linux",
-    "Nginx",
     "image/create_IAM_user.png",
     "Frontend/ReactJS/React.canvas",
     "image/git_lifecycle.png",
@@ -217,7 +209,6 @@
     "image/wsgi_work.png",
     "image/wsgi.png",
     "Cache/redis.canvas",
-    "IoT/Untitled.canvas",
-    "JS/NestJS/Untitled.canvas"
+    "IoT/Untitled.canvas"
   ]
 }
