@@ -65,6 +65,84 @@ const increment = () => {
 ```
 
 
+#### defineExpose
+
+透過 `<script setup>` 回傳出來的 data 或 function 只能在同一個 component 中被使用。如果想要讓 parent component 或其他 component 使用其中的 data 或 function，需要使用 `defineExpose` 
+
+```vue
+<template>
+  <FullCalendar ref="fullCalendar" :options="calendarOptions" />
+</template>
+
+<script setup>
+
+//................
+
+watch(
+  () => props.weekends,
+  (newValue) => {
+    console.log('Weekends prop changed:', newValue)
+    if (fullCalendar.value) {
+      const api = fullCalendar.value.getApi()
+      api.setOption('weekends', newValue)
+    }
+  }
+)
+
+watch(events, (newEvents) => {
+  if (fullCalendar.value) {
+    const api = fullCalendar.value.getApi()
+    api.removeAllEvents()
+    api.addEventSource(newEvents)
+  }
+})
+
+onMounted(async () => {
+  console.log('Calendar mounted')
+  try {
+    const response = await axios.get('http://localhost:8080/events')
+    let fetchedevents = []
+  
+    for(const event of response.data) {
+      fetchedevents.push(formattedEvent(event)) 
+    }
+
+    console.log('Fetched events:', events)
+    events.value = fetchedevents 
+  } catch (error) {
+    console.error('Failed to fetch events:', error)
+  }
+})
+
+const addEvent = (event) => {
+  if (fullCalendar.value) {
+    const api = fullCalendar.value.getApi()
+    api.addEvent(event)
+  }
+}
+
+// format event data to match FullCalendar API
+const formattedEvent = (event) => {
+  const startDate = formattedDate(event.start.date.value)
+  const summary = event.summary
+
+  return { title: summary, date: startDate }
+}
+
+// format date to match FullCalendar API
+const formattedDate = (timestamp) => {
+  const date = new Date(timestamp)
+  return format(date, 'yyyy-MM-dd')
+}
+
+defineExpose({ addEvent }) <---------------
+</script>
+
+```
+
+從上面的 程式碼中可以看到
+
+
 ### Code Example - script 
 
 `<script setup>`

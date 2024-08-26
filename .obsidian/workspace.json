@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/VueJS/Todo Note.md",
+                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/VueJS/Todo Note.md",
+                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/VueJS/Todo Note.md",
+                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/VueJS/Todo Note.md"
+                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md"
               }
             }
           },
@@ -172,11 +172,11 @@
   },
   "active": "bbb36a02a2fc7cf7",
   "lastOpenFiles": [
-    "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
+    "Frontend/VueJS/Vue Watch and WatchEffect.md",
     "Frontend/VueJS/Todo Note.md",
+    "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
     "Frontend/SideEffect.md",
     "Frontend/ReactJS/useEffect.md",
-    "Frontend/VueJS/Vue Watch and WatchEffect.md",
     "Frontend/VueJS/Vue lifecycle hook.md",
     "Frontend/VueJS/Vue nextTick.md",
     "Frontend/VueJS/Vue Option API vs Composition API.md",
