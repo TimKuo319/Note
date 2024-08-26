@@ -7,3 +7,5 @@
 - [ ] [Vue lifecycle hook](<Vue lifecycle hook>)
 
 - [ ] [Vue Watch and WatchEffect](<Vue Watch and WatchEffect>)
+
+- [ ] 對於內容是物件的 props ，為何需要使用函式回傳值
