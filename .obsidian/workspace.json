@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/VueJS/Vue V-slot.md",
+                "file": "Frontend/VueJS/Vue 專案建立.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/VueJS/Vue V-slot.md",
+                "file": "Frontend/VueJS/Vue 專案建立.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/VueJS/Vue V-slot.md",
+                "file": "Frontend/VueJS/Vue 專案建立.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/VueJS/Vue V-slot.md"
+                "file": "Frontend/VueJS/Vue 專案建立.md"
               }
             }
           },
@@ -164,10 +164,17 @@
   },
   "active": "be0916224a11d616",
   "lastOpenFiles": [
+    "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
+    "Frontend/VueJS/Vue Composition API async.md",
+    "Frontend/VueJS/Vue nextTick.md",
+    "Frontend/VueJS/Vue Option API vs Composition API.md",
+    "Frontend/VueJS/Vue Project Common File.md",
+    "Frontend/VueJS/Vue Reactive & ref.md",
+    "Frontend/VueJS/Vue SFC.md",
     "Frontend/VueJS/Vue V-model vs Ref.md",
     "Frontend/VueJS/Vue V-slot.md",
+    "Frontend/VueJS/Vue-Cli vs Vite.md",
     "Frontend/VueJS/Vue 元件溝通 - props、emit.md",
-    "Frontend/VueJS/Vue Reactive & ref.md",
     "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
     "Java/Java Basic.md",
     "Java/Java Optional.md",
@@ -178,25 +185,18 @@
     "Java/Multi-datasource in java.md",
     "Java/Spring Boot設定log檔案.md",
     "Java/Spring Boot Dotenv環境設定.md",
-    "Frontend/VueJS/Vue nextTick.md",
     "Frontend/VueJS/V-Directive/V-for 與 V-if.md",
     "Frontend/VueJS/V-Directive/Vue Directive.md",
     "Frontend/VueJS/V-Directive/Build-in Directives.md",
     "Frontend/VueJS/V-Directive",
     "image/v-directive.png",
     "Frontend/VueJS/Vue 專案建立.md",
-    "Frontend/VueJS/Vue Option API vs Composition API.md",
     "Frontend/VueJS/Vue3 參考資源.md",
-    "Frontend/VueJS/Vue-Cli vs Vite.md",
-    "Frontend/VueJS/Vue SFC.md",
-    "Frontend/VueJS/Vue Project Common File.md",
-    "Architecture Patterns/MVVM.md",
     "image/MVVM.png",
     "Design Patterns",
     "Architecture Patterns",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "2024-08-25.md",
     "Frontend/VueJS",
     "Testing",
     "Database/Untitled",

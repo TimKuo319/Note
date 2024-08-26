@@ -5,4 +5,4 @@
 npm init vue@latest
 ```
 
-接著就照著 tool 回應的問題來完成專案的建立
+接著就照著 tool 的問題來完成專案的建立
