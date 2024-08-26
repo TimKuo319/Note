@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c5628c31248b4895",
+        "id": "8ad8f238bd914ab2",
         "type": "tabs",
         "children": [
           {
-            "id": "bbb36a02a2fc7cf7",
+            "id": "cd7cb3fa09b26485",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,21 +162,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bbb36a02a2fc7cf7",
+  "active": "cd7cb3fa09b26485",
   "lastOpenFiles": [
+    "Frontend/如何在 component - based architecture 中拆分檔案.md",
+    "Frontend/Todo Note.md",
     "Frontend/VueJS/Vue Watch and WatchEffect.md",
-    "Frontend/VueJS/Todo Note.md",
+    "Frontend/VueJS/Vue lifecycle hook.md",
+    "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
+    "Frontend/VueJS/V-Directive/V-for 與 V-if.md",
     "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
+    "Frontend/VueJS/Untitled.md",
     "Frontend/SideEffect.md",
     "Frontend/ReactJS/useEffect.md",
-    "Frontend/VueJS/Vue lifecycle hook.md",
     "Frontend/VueJS/Vue nextTick.md",
     "Frontend/VueJS/Vue Option API vs Composition API.md",
     "Frontend/VueJS/Vue Composition API async.md",
-    "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
     "Frontend/VueJS/Vue 專案建立.md",
     "Frontend/VueJS/Vue 元件溝通 - props、emit.md",
-    "Frontend/VueJS/V-Directive/V-for 與 V-if.md",
     "Vue.md",
     "Frontend/VueJS/V-Directive/Build-in Directives.md",
     "Frontend/VueJS/V-Directive/Vue Directive.md",
@@ -198,8 +192,6 @@
     "Frontend/VueJS/Vue Project Common File.md",
     "Frontend/VueJS/Vue Reactive & ref.md",
     "Frontend/VueJS/Vue SFC.md",
-    "Line-bot.md",
-    "進度報告.md",
     "Frontend/VueJS/V-Directive",
     "image/v-directive.png",
     "image/MVVM.png",

@@ -71,7 +71,7 @@ const increment = () => {
 
 ```vue
 <template>
-  <FullCalendar ref="fullCalendar" :options="calendarOptions" />
+  //....
 </template>
 
 <script setup>
@@ -140,7 +140,7 @@ defineExpose({ addEvent }) <---------------
 
 ```
 
-從上面的 程式碼中可以看到
+從上面的程式碼中可以看到，我們因為想要將這個 component 中的 `addEvent` 給其他 component 使用，所以需要透過 `defineExpose` 來將他 expose 出來。
 
 
 ### Code Example - script 
