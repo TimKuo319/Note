@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/VueJS/Vue 專案建立.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/VueJS/Vue 專案建立.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/VueJS/Vue 專案建立.md"
+                "file": "進度報告.md"
               }
             }
           },
@@ -162,8 +160,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be0916224a11d616",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "Line-bot.md",
+    "進度報告.md",
+    "Frontend/VueJS/Vue 專案建立.md",
     "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
     "Frontend/VueJS/Vue Composition API async.md",
     "Frontend/VueJS/Vue nextTick.md",
@@ -187,11 +188,8 @@
     "Java/Spring Boot Dotenv環境設定.md",
     "Frontend/VueJS/V-Directive/V-for 與 V-if.md",
     "Frontend/VueJS/V-Directive/Vue Directive.md",
-    "Frontend/VueJS/V-Directive/Build-in Directives.md",
     "Frontend/VueJS/V-Directive",
     "image/v-directive.png",
-    "Frontend/VueJS/Vue 專案建立.md",
-    "Frontend/VueJS/Vue3 參考資源.md",
     "image/MVVM.png",
     "Design Patterns",
     "Architecture Patterns",
