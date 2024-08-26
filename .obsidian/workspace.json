@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/VueJS/Vue 專案建立.md",
+                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "進度報告.md"
+                "file": "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md"
               }
             }
           },
@@ -141,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,10 +163,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "be0916224a11d616",
   "lastOpenFiles": [
-    "Line-bot.md",
-    "進度報告.md",
+    "Frontend/VueJS/Vue 元件溝通 - props、emit.md",
     "Frontend/VueJS/Vue 專案建立.md",
     "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
     "Frontend/VueJS/Vue Composition API async.md",
@@ -171,11 +173,12 @@
     "Frontend/VueJS/Vue Option API vs Composition API.md",
     "Frontend/VueJS/Vue Project Common File.md",
     "Frontend/VueJS/Vue Reactive & ref.md",
-    "Frontend/VueJS/Vue SFC.md",
     "Frontend/VueJS/Vue V-model vs Ref.md",
-    "Frontend/VueJS/Vue V-slot.md",
     "Frontend/VueJS/Vue-Cli vs Vite.md",
-    "Frontend/VueJS/Vue 元件溝通 - props、emit.md",
+    "Frontend/VueJS/Vue SFC.md",
+    "Line-bot.md",
+    "進度報告.md",
+    "Frontend/VueJS/Vue V-slot.md",
     "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
     "Java/Java Basic.md",
     "Java/Java Optional.md",

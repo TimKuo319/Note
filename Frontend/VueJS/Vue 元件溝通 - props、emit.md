@@ -69,3 +69,25 @@ export default {
 + [Day 17: 元件溝通的原則 feat. props & emit - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10302898)
 
 + [Composition API: setup() | Vue.js](https://vuejs.org/api/composition-api-setup.html#composition-api-setup)
+
+
+### to learn 
+
+
+```vue
+<script>
+export default {
+  props: ['message'],
+  setup(props, { emit }) {
+    const sendEvent = () => {
+      emit('custom-event', 'Hello from child')
+    }
+
+    return { sendEvent }
+  }
+}
+</script>
+```
+
+以上面的程式碼來說，props 的綁定在 vue 底層是如何執行的。
+
