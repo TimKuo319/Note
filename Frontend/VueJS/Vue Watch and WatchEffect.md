@@ -18,4 +18,20 @@ watch(items, (newItems) => {
 
 ### to learn
 
-watch vs watchEffect
+##### Brief diff
+`watch` 和 `watchEffect` 都是 Vue 3 中用於響應式監聽的函數，但它們有一些重要的區別：
+
+1. 監聽方式：
+    - `watch` 明確指定要監聽的響應式引用或 getter 函數。
+    - `watchEffect` 自動追蹤其內部所使用的所有響應式依賴。
+2. 執行時機：
+    - `watch` 默認情況下只在監聽的值發生變化時才執行。
+    - `watchEffect` 在組件初始化時立即執行一次，之後在其依賖變化時執行。
+3. 參數：
+    - `watch` 回調函數接收新值和舊值作為參數。
+    - `watchEffect` 不提供這些參數。
+4. 控制粒度：
+    - `watch` 提供了更細粒度的控制，可以指定具體監聽哪些值。
+    - `watchEffect` 自動收集依賴，更簡潔但控制較少。
+5. 停止監聽：
+    - 兩者都返回一個停止函數，但 `watchEffect` 的停止函數會在組件卸載時自動調用。
