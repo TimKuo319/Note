@@ -1,7 +1,7 @@
 
 ## Time Unit
 
-- [ ] ISO representataion
+- [ ] ISO representation
 
 ## Basic JS
 
@@ -12,6 +12,9 @@
 - [ ] !! 運算子
 
 ## Vue
+
+- [ ] 查看 vue 的初始建立流程
+	+ 查看各個 component 是怎麼被建立出來的
 
 - [ ] [Vue Slot](<./VueJS/Vue Slot>)
 
@@ -34,3 +37,7 @@
 - [ ] [Navigation Guard](<./VueJS/Navigation Guard>)
 
 - [ ] [VueJS State](<./VueJS/VueJS State>)
+
+- [ ]  [Vue Routing](<./VueJS/Vue Routing>)
+
+- [ ] [Vue State Management](<./VueJS/Vue State Management>) 
