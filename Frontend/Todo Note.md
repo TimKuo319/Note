@@ -4,6 +4,8 @@
 
 - [ ] [Vue axios 封裝與 interceptor](<Vue axios 封裝與 interceptor>)  
 
+- [ ] Vue 的 SideEffect 處理
+
 - [ ] [Vue lifecycle hook](<Vue lifecycle hook>)
 
 - [ ] [Vue Watch and WatchEffect](<Vue Watch and WatchEffect>)
