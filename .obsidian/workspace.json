@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/VueJS/Vue Watch and WatchEffect.md",
+                "file": "Frontend/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/VueJS/Vue Watch and WatchEffect.md",
+                "file": "Frontend/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/VueJS/Vue Watch and WatchEffect.md",
+                "file": "Frontend/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/VueJS/Vue Watch and WatchEffect.md"
+                "file": "Frontend/Todo Note.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "7929bbe930c8b9c5",
   "lastOpenFiles": [
+    "Frontend/VueJS/Vue Watch and WatchEffect.md",
     "Frontend/Todo Note.md",
     "Frontend/VueJS/Vue Slot.md",
     "Frontend/SideEffect.md",
@@ -190,7 +191,6 @@
     "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
     "Frontend/VueJS/Vue V-model vs Ref.md",
     "git/Todo Note.md",
-    "Frontend/VueJS/Vue Watch and WatchEffect.md",
     "Frontend/VueJS/VueJS State.md",
     "Frontend/如何在 component - based architecture 中拆分檔案.md",
     "Frontend/ReactJS/useEffect.md",
