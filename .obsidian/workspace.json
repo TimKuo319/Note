@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/VueJS/Vue Slot.md",
+                "file": "Frontend/VueJS/Vue Watch and WatchEffect.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/VueJS/Vue Slot.md",
+                "file": "Frontend/VueJS/Vue Watch and WatchEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/VueJS/Vue Slot.md",
+                "file": "Frontend/VueJS/Vue Watch and WatchEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/VueJS/Vue Slot.md"
+                "file": "Frontend/VueJS/Vue Watch and WatchEffect.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   "active": "7929bbe930c8b9c5",
   "lastOpenFiles": [
     "Frontend/Todo Note.md",
-    "Frontend/SideEffect.md",
     "Frontend/VueJS/Vue Slot.md",
+    "Frontend/SideEffect.md",
     "Frontend/JavaScript/JavaScript.md",
     "Frontend/VueJS/V-Directive/Common V-Directive.md",
     "VueJS/Common V-Directive.md",

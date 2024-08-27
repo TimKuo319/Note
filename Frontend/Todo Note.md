@@ -5,6 +5,8 @@
 
 - [ ] JS 常見 method function
 
+- [ ] Arrow function vs normal function
+
 ## Vue
 
 - [ ] [Vue Slot](<./VueJS/Vue Slot>)
