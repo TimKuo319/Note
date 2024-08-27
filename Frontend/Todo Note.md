@@ -1,6 +1,17 @@
 
 
-- [ ] [V-for 與 V-if](V-for%20與%20V-if.md 與 V-if>)
+
+## Basic JS
+
+- [ ] JS 常見 method function
+
+## Vue
+
+- [ ] [Vue Slot](<./VueJS/Vue Slot>)
+
+- [ ] [Common V-Directive](<./VueJS/V-Directive/Common V-Directive>)
+
+- [ ] computed vs watch
 
 - [ ] [Vue axios 封裝與 interceptor](<Vue axios 封裝與 interceptor>)  
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Todo Note.md",
+                "file": "Frontend/VueJS/Vue Slot.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Todo Note.md",
+                "file": "Frontend/VueJS/Vue Slot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Todo Note.md",
+                "file": "Frontend/VueJS/Vue Slot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Todo Note.md"
+                "file": "Frontend/VueJS/Vue Slot.md"
               }
             }
           },
@@ -150,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,34 +171,35 @@
   },
   "active": "7929bbe930c8b9c5",
   "lastOpenFiles": [
-    "Frontend/VueJS/Vue Watch and WatchEffect.md",
-    "git/Todo Note.md",
     "Frontend/Todo Note.md",
-    "Frontend/VueJS/VueJS State.md",
-    "Frontend/VueJS/Navigation Guard.md",
-    "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
-    "Frontend/VueJS/Vue 元件溝通 - props、emit.md",
-    "Frontend/VueJS/Vue V-model vs Ref.md",
-    "Frontend/VueJS/V-Directive/Vue Directive.md",
-    "Frontend/VueJS/V-Directive/V-for 與 V-if.md",
-    "Frontend/VueJS/V-Directive/Build-in Directives.md",
-    "Frontend/如何在 component - based architecture 中拆分檔案.md",
-    "Frontend/VueJS/Vue lifecycle hook.md",
-    "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
     "Frontend/SideEffect.md",
-    "Frontend/ReactJS/useEffect.md",
-    "Frontend/VueJS/Vue nextTick.md",
-    "Frontend/VueJS/Vue Option API vs Composition API.md",
+    "Frontend/VueJS/Vue Slot.md",
+    "Frontend/JavaScript/JavaScript.md",
+    "Frontend/VueJS/V-Directive/Common V-Directive.md",
+    "VueJS/Common V-Directive.md",
+    "VueJS",
+    "Frontend/VueJS/V-Directive/Build-in Directives.md",
+    "Frontend/VueJS/V-Directive/Vue Directive.md",
+    "Frontend/VueJS/Navigation Guard.md",
     "Frontend/VueJS/Vue Composition API async.md",
+    "Frontend/VueJS/Vue lifecycle hook.md",
+    "Frontend/VueJS/Vue nextTick.md",
+    "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
     "Frontend/VueJS/Vue 專案建立.md",
+    "Frontend/VueJS/Vue 元件溝通 - props、emit.md",
+    "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
+    "Frontend/VueJS/Vue V-model vs Ref.md",
+    "git/Todo Note.md",
+    "Frontend/VueJS/Vue Watch and WatchEffect.md",
+    "Frontend/VueJS/VueJS State.md",
+    "Frontend/如何在 component - based architecture 中拆分檔案.md",
+    "Frontend/ReactJS/useEffect.md",
+    "Frontend/VueJS/Vue Option API vs Composition API.md",
     "Vue.md",
     "V-Directive/V-for.md",
     "V-Directive",
     "Frontend/VueJS/Untitled",
     "Frontend/VueJS/Vue V-slot.md",
-    "Frontend/VueJS/Vue-Cli vs Vite.md",
-    "Frontend/VueJS/Vue3 參考資源.md",
-    "Frontend/VueJS/Vue Project Common File.md",
     "Frontend/VueJS/V-Directive",
     "image/v-directive.png",
     "image/MVVM.png",
@@ -213,7 +213,6 @@
     "Database/Mongo",
     "Container/docker.canvas",
     "git/git.canvas",
-    "Database/ORM",
     "Backend/NestJS/NestJS.canvas",
     "Frontend/CSS/CSS.canvas",
     "image/create_IAM_user.png",
