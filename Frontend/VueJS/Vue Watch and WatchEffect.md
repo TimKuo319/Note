@@ -15,3 +15,7 @@ watch(items, (newItems) => {
 
 ```
 
+
+### to learn
+
+watch vs watchEffect

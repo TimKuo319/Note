@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ad8f238bd914ab2",
+        "id": "e59f719d5ed9ba9b",
         "type": "tabs",
         "children": [
           {
-            "id": "cd7cb3fa09b26485",
+            "id": "7929bbe930c8b9c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Todo Note.md",
+                "file": "Frontend/VueJS/Vue Watch and WatchEffect.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Todo Note.md",
+                "file": "Frontend/VueJS/Vue Watch and WatchEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Todo Note.md",
+                "file": "Frontend/VueJS/Vue Watch and WatchEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Todo Note.md"
+                "file": "Frontend/VueJS/Vue Watch and WatchEffect.md"
               }
             }
           },
@@ -170,8 +170,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd7cb3fa09b26485",
+  "active": "7929bbe930c8b9c5",
   "lastOpenFiles": [
+    "Frontend/Todo Note.md",
+    "Frontend/VueJS/VueJS State.md",
+    "Frontend/VueJS/Navigation Guard.md",
     "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
     "Frontend/VueJS/Vue 元件溝通 - props、emit.md",
     "Frontend/VueJS/Vue V-model vs Ref.md",
@@ -179,11 +182,9 @@
     "Frontend/VueJS/V-Directive/V-for 與 V-if.md",
     "Frontend/VueJS/V-Directive/Build-in Directives.md",
     "Frontend/如何在 component - based architecture 中拆分檔案.md",
-    "Frontend/Todo Note.md",
     "Frontend/VueJS/Vue Watch and WatchEffect.md",
     "Frontend/VueJS/Vue lifecycle hook.md",
     "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
-    "Frontend/VueJS/Untitled.md",
     "Frontend/SideEffect.md",
     "Frontend/ReactJS/useEffect.md",
     "Frontend/VueJS/Vue nextTick.md",
@@ -199,7 +200,6 @@
     "Frontend/VueJS/Vue3 參考資源.md",
     "Frontend/VueJS/Vue Project Common File.md",
     "Frontend/VueJS/Vue Reactive & ref.md",
-    "Frontend/VueJS/Vue SFC.md",
     "Frontend/VueJS/V-Directive",
     "image/v-directive.png",
     "image/MVVM.png",

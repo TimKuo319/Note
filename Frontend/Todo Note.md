@@ -14,3 +14,6 @@
 
 - [ ] [如何在 component - based architecture 中拆分檔案](<如何在 component - based architecture 中拆分檔案>)
 
+- [ ] [Navigation Guard](<./VueJS/Navigation Guard>)
+
+- [ ] [VueJS State](<./VueJS/VueJS State>)
