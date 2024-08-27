@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/VueJS/Vue State management.md",
+                "file": "git/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/VueJS/Vue State management.md",
+                "file": "git/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/VueJS/Vue State management.md",
+                "file": "git/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/VueJS/Vue State management.md"
+                "file": "git/Todo Note.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "7929bbe930c8b9c5",
   "lastOpenFiles": [
+    "Frontend/VueJS/Vue State management.md",
     "Frontend/Todo Note.md",
     "Frontend/VueJS/VueJS State.md",
-    "Frontend/VueJS/Vue State management.md",
     "Frontend/VueJS/Navigation Guard.md",
     "Frontend/VueJS/Vue Routing.md",
     "Frontend/VueJS/Vue lifecycle hook.md",
