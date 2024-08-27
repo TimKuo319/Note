@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git diff.md",
+                "file": "Frontend/VueJS/Navigation Guard.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git diff.md",
+                "file": "Frontend/VueJS/Navigation Guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git diff.md",
+                "file": "Frontend/VueJS/Navigation Guard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git diff.md"
+                "file": "Frontend/VueJS/Navigation Guard.md"
               }
             }
           },
@@ -171,9 +172,9 @@
   },
   "active": "7929bbe930c8b9c5",
   "lastOpenFiles": [
-    "git/Todo Note.md",
-    "git/git diff.md",
     "Frontend/Todo Note.md",
+    "git/git diff.md",
+    "git/Todo Note.md",
     "Frontend/VueJS/Vue Watch and WatchEffect.md",
     "Frontend/VueJS/Vue Slot.md",
     "Frontend/SideEffect.md",
