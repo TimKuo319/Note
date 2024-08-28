@@ -46,6 +46,7 @@
 
 - [ ] [Vue Composable](<./VueJS/Vue Composable>)
 
+- [ ] 什麼時候 template 跟 script 的順序會相反
 ## Vue - practice
 
 - [ ] router

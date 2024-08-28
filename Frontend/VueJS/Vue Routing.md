@@ -23,12 +23,14 @@
 
 ## To learn
 
-composition api 中 router 的使用。
+- composition api 中 router 的使用。
 
-### Router 中的寫法差異 
+- vue router 的模式選擇 
+	- history 
+	- hash
 
-arrow function vs 直接指定 component
-
+- Router 中的寫法差異 
+	- arrow function vs 直接指定 component
 ```js
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
