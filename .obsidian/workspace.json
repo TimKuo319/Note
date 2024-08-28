@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Todo Note.md",
+                "file": "Frontend/VueJS/Vue Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Todo Note.md",
+                "file": "Frontend/VueJS/Vue Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Todo Note.md",
+                "file": "Frontend/VueJS/Vue Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Todo Note.md"
+                "file": "Frontend/VueJS/Vue Routing.md"
               }
             }
           },
@@ -169,10 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40e2409e26f15565",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
-    "Frontend/VueJS/Vue Composable.md",
+    "Frontend/VueJS/Vue 專案建立.md",
     "Frontend/Todo Note.md",
+    "Frontend/VueJS/Vue Composable.md",
     "Frontend/如何在 component - based architecture 中拆分檔案.md",
     "Frontend/VueJS/Vue Reactive & ref.md",
     "Frontend/VueJS/Vue Project Common File.md",
@@ -181,7 +182,6 @@
     "Frontend/VueJS/Vue lifecycle hook.md",
     "Frontend/VueJS/Vue Composition API async.md",
     "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
-    "Frontend/VueJS/Vue 專案建立.md",
     "Frontend/VueJS/Vue 元件溝通 - props、emit.md",
     "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
     "Frontend/VueJS/Navigation Guard.md",
