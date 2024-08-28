@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e59f719d5ed9ba9b",
+        "id": "57c22d2313bfd5d0",
         "type": "tabs",
         "children": [
           {
-            "id": "7929bbe930c8b9c5",
+            "id": "d60deb07b7e66296",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/Todo Note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "git/Todo Note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,17 +161,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7929bbe930c8b9c5",
+  "active": "d60deb07b7e66296",
   "lastOpenFiles": [
-    "Frontend/VueJS/Vue State management.md",
+    "Frontend/VueJS/Vue Reactive & ref.md",
     "Frontend/Todo Note.md",
-    "Frontend/VueJS/VueJS State.md",
-    "Frontend/VueJS/Navigation Guard.md",
-    "Frontend/VueJS/Vue Routing.md",
+    "Frontend/VueJS/Vue Project Common File.md",
+    "Frontend/VueJS/Vue Option API vs Composition API.md",
+    "Frontend/VueJS/Vue nextTick.md",
     "Frontend/VueJS/Vue lifecycle hook.md",
+    "Frontend/VueJS/Vue Composition API async.md",
+    "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
+    "Frontend/VueJS/Vue 專案建立.md",
+    "Frontend/VueJS/Vue 元件溝通 - props、emit.md",
+    "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
+    "Frontend/VueJS/Navigation Guard.md",
+    "Frontend/VueJS/Vue State management.md",
+    "git/Todo Note.md",
+    "Frontend/VueJS/VueJS State.md",
+    "Frontend/VueJS/Vue Routing.md",
     "image/Vue-Lifecycle.png",
     "git/git diff.md",
-    "git/Todo Note.md",
     "Frontend/VueJS/Vue Watch and WatchEffect.md",
     "Frontend/VueJS/Vue Slot.md",
     "Frontend/SideEffect.md",
@@ -189,16 +190,7 @@
     "VueJS",
     "Frontend/VueJS/V-Directive/Build-in Directives.md",
     "Frontend/VueJS/V-Directive/Vue Directive.md",
-    "Frontend/VueJS/Vue Composition API async.md",
-    "Frontend/VueJS/Vue nextTick.md",
-    "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
-    "Frontend/VueJS/Vue 專案建立.md",
-    "Frontend/VueJS/Vue 元件溝通 - props、emit.md",
-    "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
     "Frontend/VueJS/Vue V-model vs Ref.md",
-    "Frontend/如何在 component - based architecture 中拆分檔案.md",
-    "Frontend/ReactJS/useEffect.md",
-    "Frontend/VueJS/Vue Option API vs Composition API.md",
     "V-Directive",
     "Frontend/VueJS/Untitled",
     "Frontend/VueJS/V-Directive",
