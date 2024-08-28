@@ -171,8 +171,9 @@
   },
   "active": "40e2409e26f15565",
   "lastOpenFiles": [
-    "Frontend/VueJS/Vue 專案建立.md",
     "Frontend/Todo Note.md",
+    "Frontend/VueJS/Vue Routing.md",
+    "Frontend/VueJS/Vue 專案建立.md",
     "Frontend/VueJS/Vue Composable.md",
     "Frontend/如何在 component - based architecture 中拆分檔案.md",
     "Frontend/VueJS/Vue Reactive & ref.md",
@@ -188,7 +189,6 @@
     "Frontend/VueJS/Vue State management.md",
     "git/Todo Note.md",
     "Frontend/VueJS/VueJS State.md",
-    "Frontend/VueJS/Vue Routing.md",
     "image/Vue-Lifecycle.png",
     "git/git diff.md",
     "Frontend/VueJS/Vue Watch and WatchEffect.md",

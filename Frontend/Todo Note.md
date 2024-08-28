@@ -42,7 +42,7 @@
 
 - [ ]  [Vue Routing](<./VueJS/Vue Routing>)
 
-- [ ] [Vue State Management](<./VueJS/Vue State Management>) 
+- [ ] [Vue State Management](<./VueJS/Vue State Management>) ( 補充 provide inject)
 
 - [ ] [Vue Composable](<./VueJS/Vue Composable>)
 
