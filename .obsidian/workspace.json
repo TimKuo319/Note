@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal/iTherm2 移除前方 marker.md",
+                "file": "Format/ISO 8601.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal/iTherm2 移除前方 marker.md",
+                "file": "Format/ISO 8601.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal/iTherm2 移除前方 marker.md",
+                "file": "Format/ISO 8601.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal/iTherm2 移除前方 marker.md"
+                "file": "Format/ISO 8601.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "40e2409e26f15565",
   "lastOpenFiles": [
+    "Terminal/iTherm2 remove shell marker.md",
+    "Format/ISO 8601.md",
+    "Format",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
-    "Terminal/iTherm2 移除前方 marker.md",
     "Java/Todo Note.md",
     "Java/Security",
     "Java/Spring Boot Basic.md",
@@ -197,7 +199,6 @@
     "Frontend/VueJS/Vue lifecycle hook.md",
     "Frontend/VueJS/Vue Composition API async.md",
     "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
-    "Frontend/VueJS/Vue 元件溝通 - props、emit.md",
     "image/Vue-Lifecycle.png",
     "VueJS",
     "V-Directive",
@@ -211,7 +212,6 @@
     "Untitled.canvas",
     "Frontend/VueJS",
     "Testing",
-    "Database/Untitled",
     "Container/docker.canvas",
     "git/git.canvas",
     "Backend/NestJS/NestJS.canvas",
