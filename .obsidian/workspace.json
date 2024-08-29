@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Todo Note.md",
+                "file": "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Todo Note.md",
+                "file": "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Todo Note.md",
+                "file": "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Todo Note.md"
+                "file": "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md"
               }
             }
           },
@@ -171,15 +172,21 @@
   },
   "active": "40e2409e26f15565",
   "lastOpenFiles": [
-    "Frontend/VueJS/Vue Routing.md",
-    "Frontend/Todo Note.md",
     "Java/Todo Note.md",
+    "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
+    "Java/Security",
+    "Java/Spring Boot Basic.md",
+    "Java/Spring Boot Dotenv環境設定.md",
+    "Java/Java Basic.md",
+    "Network/Todo.md",
+    "Java/Thymeleaf in Spring Boot with Maven.md",
+    "Frontend/VueJS/Google login 串接.md",
+    "Frontend/Todo Note.md",
+    "Frontend/VueJS/Vue Routing.md",
     "Network/Basic HTTP Method and Parameter in URL.md",
     "Network/Authentication - JWT.md",
-    "Network/Todo.md",
     "Frontend/VueJS/V-Directive/Common V-Directive.md",
     "VueJS/Common V-Directive.md",
-    "Frontend/VueJS/Google login 串接.md",
     "Frontend/VueJS/Vue 專案建立.md",
     "Frontend/VueJS/Vue Composable.md",
     "Frontend/如何在 component - based architecture 中拆分檔案.md",
@@ -192,12 +199,7 @@
     "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
     "Frontend/VueJS/Vue 元件溝通 - props、emit.md",
     "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
-    "Frontend/VueJS/Navigation Guard.md",
-    "Frontend/VueJS/Vue State management.md",
-    "git/Todo Note.md",
-    "Frontend/VueJS/VueJS State.md",
     "image/Vue-Lifecycle.png",
-    "git/git diff.md",
     "VueJS",
     "V-Directive",
     "Frontend/VueJS/Untitled",
@@ -211,7 +213,6 @@
     "Frontend/VueJS",
     "Testing",
     "Database/Untitled",
-    "Database/Mongo",
     "Container/docker.canvas",
     "git/git.canvas",
     "Backend/NestJS/NestJS.canvas",
