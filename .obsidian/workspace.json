@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/VueJS/Vue Routing.md",
+                "file": "Frontend/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/VueJS/Vue Routing.md",
+                "file": "Frontend/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/VueJS/Vue Routing.md",
+                "file": "Frontend/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/VueJS/Vue Routing.md"
+                "file": "Frontend/Todo Note.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "40e2409e26f15565",
   "lastOpenFiles": [
+    "Frontend/VueJS/Vue Routing.md",
     "Frontend/Todo Note.md",
     "Java/Todo Note.md",
     "Network/Basic HTTP Method and Parameter in URL.md",
@@ -179,7 +180,6 @@
     "Frontend/VueJS/V-Directive/Common V-Directive.md",
     "VueJS/Common V-Directive.md",
     "Frontend/VueJS/Google login 串接.md",
-    "Frontend/VueJS/Vue Routing.md",
     "Frontend/VueJS/Vue 專案建立.md",
     "Frontend/VueJS/Vue Composable.md",
     "Frontend/如何在 component - based architecture 中拆分檔案.md",
