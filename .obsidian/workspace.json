@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Frontend/VueJS/Vue Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Frontend/VueJS/Vue Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Frontend/VueJS/Vue Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Todo Note.md"
+                "file": "Frontend/VueJS/Vue Routing.md"
               }
             }
           },
@@ -172,12 +171,12 @@
   },
   "active": "40e2409e26f15565",
   "lastOpenFiles": [
-    "Network/Basic HTTP Method and Parameter in URL.md",
+    "Frontend/Todo Note.md",
     "Java/Todo Note.md",
+    "Network/Basic HTTP Method and Parameter in URL.md",
     "Network/Authentication - JWT.md",
     "Network/Todo.md",
     "Frontend/VueJS/V-Directive/Common V-Directive.md",
-    "Frontend/Todo Note.md",
     "VueJS/Common V-Directive.md",
     "Frontend/VueJS/Google login 串接.md",
     "Frontend/VueJS/Vue Routing.md",

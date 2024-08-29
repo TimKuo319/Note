@@ -51,3 +51,9 @@ const router = createRouter({
   ]
 })
 ```
+
+
+- router push 時的寫法差異
+	- 指定路徑
+	- 指定 route name
+		- 指定 route name 的寫法可以在 route 實際變動後，依舊能成功導航，要是單純指定路徑的話，一旦路徑改變就沒辦法找到正確位置
