@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
+                "file": "Terminal/iTherm2 移除前方 marker.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
+                "file": "Terminal/iTherm2 移除前方 marker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
+                "file": "Terminal/iTherm2 移除前方 marker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md"
+                "file": "Terminal/iTherm2 移除前方 marker.md"
               }
             }
           },
@@ -172,8 +171,9 @@
   },
   "active": "40e2409e26f15565",
   "lastOpenFiles": [
-    "Java/Todo Note.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
+    "Terminal/iTherm2 移除前方 marker.md",
+    "Java/Todo Note.md",
     "Java/Security",
     "Java/Spring Boot Basic.md",
     "Java/Spring Boot Dotenv環境設定.md",
@@ -198,7 +198,6 @@
     "Frontend/VueJS/Vue Composition API async.md",
     "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
     "Frontend/VueJS/Vue 元件溝通 - props、emit.md",
-    "Frontend/VueJS/Vue <Script setup> vs <Script>(+setup).md",
     "image/Vue-Lifecycle.png",
     "VueJS",
     "V-Directive",
