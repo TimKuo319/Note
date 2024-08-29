@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Basic HTTP Method and Parameter in URL.md",
+                "file": "Java/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Basic HTTP Method and Parameter in URL.md",
+                "file": "Java/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Basic HTTP Method and Parameter in URL.md",
+                "file": "Java/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Basic HTTP Method and Parameter in URL.md"
+                "file": "Java/Todo Note.md"
               }
             }
           },
@@ -169,8 +170,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "40e2409e26f15565",
   "lastOpenFiles": [
+    "Network/Basic HTTP Method and Parameter in URL.md",
+    "Java/Todo Note.md",
     "Network/Authentication - JWT.md",
     "Network/Todo.md",
     "Frontend/VueJS/V-Directive/Common V-Directive.md",
@@ -196,8 +199,6 @@
     "Frontend/VueJS/VueJS State.md",
     "image/Vue-Lifecycle.png",
     "git/git diff.md",
-    "Frontend/VueJS/Vue Watch and WatchEffect.md",
-    "Frontend/VueJS/Vue Slot.md",
     "VueJS",
     "V-Directive",
     "Frontend/VueJS/Untitled",
