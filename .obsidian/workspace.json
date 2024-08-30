@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -172,8 +171,10 @@
   },
   "active": "1904a8acc4e29d3f",
   "lastOpenFiles": [
-    "Network/OAuth.md",
+    "Excalidraw/Drawing 2024-08-30 17.55.52.excalidraw.md",
     "Frontend/VueJS/Google login 串接.md",
+    "Excalidraw",
+    "Network/OAuth.md",
     "Frontend/Todo Note.md",
     "Format/ISO 8601.md",
     "Terminal/iTherm2 remove shell marker.md",
@@ -199,7 +200,6 @@
     "Frontend/VueJS/Vue Option API vs Composition API.md",
     "Frontend/VueJS/Vue nextTick.md",
     "Frontend/VueJS/Vue lifecycle hook.md",
-    "Frontend/VueJS/Vue Composition API async.md",
     "image/Vue-Lifecycle.png",
     "VueJS",
     "V-Directive",
@@ -212,7 +212,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frontend/VueJS",
-    "Testing",
     "Container/docker.canvas",
     "git/git.canvas",
     "Backend/NestJS/NestJS.canvas",
