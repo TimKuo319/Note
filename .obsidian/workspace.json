@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bbaf126d8e282e09",
+        "id": "1ef2fc6b7c1bdac1",
         "type": "tabs",
         "children": [
           {
-            "id": "63e322c21f118b97",
+            "id": "1904a8acc4e29d3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Todo Note.md",
+                "file": "Frontend/VueJS/Google login 串接.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Todo Note.md",
+                "file": "Frontend/VueJS/Google login 串接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Todo Note.md",
+                "file": "Frontend/VueJS/Google login 串接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Todo Note.md"
+                "file": "Frontend/VueJS/Google login 串接.md"
               }
             }
           },
@@ -169,8 +170,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63e322c21f118b97",
+  "active": "1904a8acc4e29d3f",
   "lastOpenFiles": [
+    "Network/OAuth.md",
+    "Frontend/VueJS/Google login 串接.md",
+    "Frontend/Todo Note.md",
     "Format/ISO 8601.md",
     "Terminal/iTherm2 remove shell marker.md",
     "Format",
@@ -182,8 +186,6 @@
     "Java/Java Basic.md",
     "Network/Todo.md",
     "Java/Thymeleaf in Spring Boot with Maven.md",
-    "Frontend/VueJS/Google login 串接.md",
-    "Frontend/Todo Note.md",
     "Frontend/VueJS/Vue Routing.md",
     "Network/Basic HTTP Method and Parameter in URL.md",
     "Network/Authentication - JWT.md",
@@ -198,7 +200,6 @@
     "Frontend/VueJS/Vue nextTick.md",
     "Frontend/VueJS/Vue lifecycle hook.md",
     "Frontend/VueJS/Vue Composition API async.md",
-    "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
     "image/Vue-Lifecycle.png",
     "VueJS",
     "V-Directive",
