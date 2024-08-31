@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1ef2fc6b7c1bdac1",
+        "id": "82f53fb9bba0064e",
         "type": "tabs",
         "children": [
           {
-            "id": "1904a8acc4e29d3f",
+            "id": "a98064d6e32f1e5e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Container/docker.canvas",
-                "viewState": {
-                  "x": -609.9673426067087,
-                  "y": -2340.629933623879,
-                  "zoom": -0.30346284688196246
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Container/docker.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Container/docker.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Container/docker.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -172,13 +161,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1904a8acc4e29d3f",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "Web/Nodejs/NodeJS版本管理.md",
+    "Web/Todo Note.md",
+    "Web/Nodejs/Nodejs底層原理.md",
+    "Container/docker.canvas",
     "Container/Dockerfile撰寫.md",
     "Container/Docker-compose.md",
     "Container/docker ubuntu 指令安裝.md",
     "Container/在本地檔案和容器間傳遞資料.md",
-    "Container/docker.canvas",
     "Network/Todo.md",
     "Nginx/Nginx.md",
     "Nginx/Port forwarding with nginx.md",
@@ -201,9 +193,6 @@
     "Frontend/VueJS/Vue Routing.md",
     "Network/Basic HTTP Method and Parameter in URL.md",
     "Network/Authentication - JWT.md",
-    "Frontend/VueJS/V-Directive/Common V-Directive.md",
-    "VueJS/Common V-Directive.md",
-    "Frontend/VueJS/Vue 專案建立.md",
     "image/Vue-Lifecycle.png",
     "VueJS",
     "V-Directive",
