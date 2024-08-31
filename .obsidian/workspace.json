@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Container/Dockerfile撰寫.md",
+                "file": "Nginx/Nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Container/Dockerfile撰寫.md",
+                "file": "Nginx/Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Container/Dockerfile撰寫.md",
+                "file": "Nginx/Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Container/Dockerfile撰寫.md"
+                "file": "Nginx/Nginx.md"
               }
             }
           },
@@ -171,8 +171,11 @@
   },
   "active": "1904a8acc4e29d3f",
   "lastOpenFiles": [
-    "Container/docker ubuntu 指令安裝.md",
+    "Nginx/Port forwarding with nginx.md",
+    "Nginx/Nginx CORS setting.md",
+    "Nginx/Nginx.md",
     "Container/Dockerfile撰寫.md",
+    "Container/docker ubuntu 指令安裝.md",
     "Container/Docker-compose.md",
     "Frontend/VueJS/Google login 串接.md",
     "Excalidraw/Drawing 2024-08-30 17.55.52.excalidraw.md",
@@ -197,9 +200,6 @@
     "VueJS/Common V-Directive.md",
     "Frontend/VueJS/Vue 專案建立.md",
     "Frontend/VueJS/Vue Composable.md",
-    "Frontend/如何在 component - based architecture 中拆分檔案.md",
-    "Frontend/VueJS/Vue Reactive & ref.md",
-    "Frontend/VueJS/Vue Project Common File.md",
     "image/Vue-Lifecycle.png",
     "VueJS",
     "V-Directive",
