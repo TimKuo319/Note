@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -171,8 +172,15 @@
   },
   "active": "a98064d6e32f1e5e",
   "lastOpenFiles": [
-    "Container/Docker-compose.md",
+    "Container/Todo Note.md",
+    "Frontend/Untitled.md",
+    "Frontend/Todo Note.md",
+    "Frontend/如何在 component - based architecture 中拆分檔案.md",
+    "Frontend/SideEffect.md",
+    "Frontend/前端伺服器大致執行流程(wtih framework).md",
+    "Frontend/VueJS/Vue 專案建立.md",
     "Container/Dockerfile撰寫.md",
+    "Container/Docker-compose.md",
     "Web/Nodejs/NodeJS版本管理.md",
     "Web/Todo Note.md",
     "Web/Nodejs/Nodejs底層原理.md",
@@ -187,7 +195,6 @@
     "Excalidraw/Drawing 2024-08-30 17.55.52.excalidraw.md",
     "Excalidraw",
     "Network/OAuth.md",
-    "Frontend/Todo Note.md",
     "Format/ISO 8601.md",
     "Terminal/iTherm2 remove shell marker.md",
     "Format",
@@ -195,12 +202,6 @@
     "Java/Todo Note.md",
     "Java/Security",
     "Java/Spring Boot Basic.md",
-    "Java/Spring Boot Dotenv環境設定.md",
-    "Java/Java Basic.md",
-    "Java/Thymeleaf in Spring Boot with Maven.md",
-    "Frontend/VueJS/Vue Routing.md",
-    "Network/Basic HTTP Method and Parameter in URL.md",
-    "Network/Authentication - JWT.md",
     "image/Vue-Lifecycle.png",
     "VueJS",
     "V-Directive",

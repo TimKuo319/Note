@@ -52,3 +52,13 @@
 - [ ] router
 
 - [ ]  pinia
+
+## Frontend build  
+
+- [ ] vite是什麼, 大致上幫我們做了哪些事
+
+- [ ] vite build 的時候依據哪些檔案
+
+- [ ] jsConfig.json 的用途
+
+
