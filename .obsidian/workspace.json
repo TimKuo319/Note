@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "82f53fb9bba0064e",
+        "id": "4a2b3903ad2b57c2",
         "type": "tabs",
         "children": [
           {
-            "id": "a98064d6e32f1e5e",
+            "id": "17efd91dc0a527c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Container/Dockerfile撰寫.md",
+                "file": "Java/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Container/Dockerfile撰寫.md",
+                "file": "Java/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Container/Dockerfile撰寫.md",
+                "file": "Java/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Container/Dockerfile撰寫.md"
+                "file": "Java/Todo Note.md"
               }
             }
           },
@@ -170,16 +169,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a98064d6e32f1e5e",
+  "active": "17efd91dc0a527c2",
   "lastOpenFiles": [
+    "Nginx/Todo Note.md",
+    "Nginx/WebSocket nginx 設定.md",
+    "Container/Image example/Frontend with vite.md",
     "Container/Todo Note.md",
+    "Container/Image example",
+    "Container/Untitled.md",
+    "Container/Dockerfile撰寫.md",
+    "Container/忽略特定檔案 .dockerignore.md",
     "Frontend/Untitled.md",
     "Frontend/Todo Note.md",
     "Frontend/如何在 component - based architecture 中拆分檔案.md",
     "Frontend/SideEffect.md",
     "Frontend/前端伺服器大致執行流程(wtih framework).md",
     "Frontend/VueJS/Vue 專案建立.md",
-    "Container/Dockerfile撰寫.md",
     "Container/Docker-compose.md",
     "Web/Nodejs/NodeJS版本管理.md",
     "Web/Todo Note.md",
@@ -195,13 +200,8 @@
     "Excalidraw/Drawing 2024-08-30 17.55.52.excalidraw.md",
     "Excalidraw",
     "Network/OAuth.md",
-    "Format/ISO 8601.md",
-    "Terminal/iTherm2 remove shell marker.md",
     "Format",
-    "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
-    "Java/Todo Note.md",
     "Java/Security",
-    "Java/Spring Boot Basic.md",
     "image/Vue-Lifecycle.png",
     "VueJS",
     "V-Directive",
@@ -213,7 +213,6 @@
     "Architecture Patterns",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Frontend/VueJS",
     "git/git.canvas",
     "Backend/NestJS/NestJS.canvas",
     "Frontend/CSS/CSS.canvas",
