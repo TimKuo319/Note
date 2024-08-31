@@ -115,6 +115,11 @@ COPY --from=tester /example.txt /example.txt # 最終階段CMD [ "cat", "/exampl
 ## Reference
 
 [4.9 Dockerfile 內容解析 | 不可不知的 Docker 開發部署實戰筆記 | Robert Chang](https://docker.robertchang.me/images/explain-dockerfile)
+
 [4.10 建置映像檔 | 不可不知的 Docker 開發部署實戰筆記 | Robert Chang](https://docker.robertchang.me/images/building)
+
 [4.11 重新整理 Dockerfile 的執行順序 | 不可不知的 Docker 開發部署實戰筆記 | Robert Chang](https://docker.robertchang.me/images/reorder-dockerfile)
+
 [4.12 多階段建置映像檔 | 不可不知的 Docker 開發部署實戰筆記 | Robert Chang](https://docker.robertchang.me/images/multiple-building)
+
+[Docker Workshop for T 大使](https://lightda-tw.notion.site/Docker-Workshop-for-T-da02c18618ac4436ac76fe245ccb0bea#c800f973990149f7b4af0eb32092a56f)

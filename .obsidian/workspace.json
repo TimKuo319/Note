@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/VueJS/Google login 串接.md",
+                "file": "Container/Dockerfile撰寫.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/VueJS/Google login 串接.md",
+                "file": "Container/Dockerfile撰寫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/VueJS/Google login 串接.md",
+                "file": "Container/Dockerfile撰寫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/VueJS/Google login 串接.md"
+                "file": "Container/Dockerfile撰寫.md"
               }
             }
           },
@@ -171,8 +171,11 @@
   },
   "active": "1904a8acc4e29d3f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-30 17.55.52.excalidraw.md",
+    "Container/docker ubuntu 指令安裝.md",
+    "Container/Dockerfile撰寫.md",
+    "Container/Docker-compose.md",
     "Frontend/VueJS/Google login 串接.md",
+    "Excalidraw/Drawing 2024-08-30 17.55.52.excalidraw.md",
     "Excalidraw",
     "Network/OAuth.md",
     "Frontend/Todo Note.md",
@@ -197,9 +200,6 @@
     "Frontend/如何在 component - based architecture 中拆分檔案.md",
     "Frontend/VueJS/Vue Reactive & ref.md",
     "Frontend/VueJS/Vue Project Common File.md",
-    "Frontend/VueJS/Vue Option API vs Composition API.md",
-    "Frontend/VueJS/Vue nextTick.md",
-    "Frontend/VueJS/Vue lifecycle hook.md",
     "image/Vue-Lifecycle.png",
     "VueJS",
     "V-Directive",
