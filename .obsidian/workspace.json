@@ -11,8 +11,12 @@
             "id": "a98064d6e32f1e5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Container/Dockerfile撰寫.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Container/Dockerfile撰寫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Container/Dockerfile撰寫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Container/Dockerfile撰寫.md"
+              }
             }
           },
           {
@@ -161,14 +169,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "a98064d6e32f1e5e",
   "lastOpenFiles": [
+    "Container/Docker-compose.md",
+    "Container/Dockerfile撰寫.md",
     "Web/Nodejs/NodeJS版本管理.md",
     "Web/Todo Note.md",
     "Web/Nodejs/Nodejs底層原理.md",
     "Container/docker.canvas",
-    "Container/Dockerfile撰寫.md",
-    "Container/Docker-compose.md",
     "Container/docker ubuntu 指令安裝.md",
     "Container/在本地檔案和容器間傳遞資料.md",
     "Network/Todo.md",
