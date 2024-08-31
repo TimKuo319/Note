@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx/Nginx.md",
+                "file": "Network/Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/Nginx.md",
+                "file": "Network/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx/Nginx.md",
+                "file": "Network/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/Nginx.md"
+                "file": "Network/Todo.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "1904a8acc4e29d3f",
   "lastOpenFiles": [
+    "Nginx/Nginx.md",
     "Nginx/Port forwarding with nginx.md",
     "Nginx/Nginx CORS setting.md",
-    "Nginx/Nginx.md",
     "Container/Dockerfile撰寫.md",
     "Container/docker ubuntu 指令安裝.md",
     "Container/Docker-compose.md",
