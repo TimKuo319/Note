@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Container/Docker-compose.md",
+                "file": "Nginx/Nginx 在 SPA 上的設定.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Container/Docker-compose.md",
+                "file": "Nginx/Nginx 在 SPA 上的設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Container/Docker-compose.md",
+                "file": "Nginx/Nginx 在 SPA 上的設定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Container/Docker-compose.md"
+                "file": "Nginx/Nginx 在 SPA 上的設定.md"
               }
             }
           },
@@ -171,14 +171,18 @@
   },
   "active": "17efd91dc0a527c2",
   "lastOpenFiles": [
-    "Container/Dockerfile撰寫.md",
+    "Nginx/WebSocket nginx 設定.md",
+    "Nginx/Nginx 在 SPA 上的設定.md",
+    "Nginx/Todo Note.md",
+    "Nginx/Serve static site with nginx.md",
+    "Nginx/Nginx CORS setting.md",
+    "Nginx/Nginx.md",
     "Container/Todo Note.md",
     "Container/Docker-compose.md",
+    "Container/Dockerfile撰寫.md",
     "Container/Image example/Java Spring boot.md",
     "Container/Image example/Frontend with vite.md",
     "Java/Todo Note.md",
-    "Nginx/Todo Note.md",
-    "Nginx/WebSocket nginx 設定.md",
     "Container/Image example",
     "Container/Untitled.md",
     "Container/忽略特定檔案 .dockerignore.md",
@@ -195,10 +199,6 @@
     "Container/docker ubuntu 指令安裝.md",
     "Container/在本地檔案和容器間傳遞資料.md",
     "Network/Todo.md",
-    "Nginx/Nginx.md",
-    "Nginx/Port forwarding with nginx.md",
-    "Nginx/Nginx CORS setting.md",
-    "Frontend/VueJS/Google login 串接.md",
     "Excalidraw",
     "Format",
     "Java/Security",
