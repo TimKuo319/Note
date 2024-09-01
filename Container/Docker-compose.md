@@ -36,7 +36,7 @@ services:
 
     ports:
 
-      - 3001:3001
+      - "3001:3001"
 
     environment:
 
@@ -60,7 +60,7 @@ services:
 
     ports:
 
-      - 3000:3000
+      - "3000:3000"
 
     depends_on:
 
