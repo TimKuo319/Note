@@ -111,6 +111,16 @@ COPY --from=tester /example.txt /example.txt # 最終階段CMD [ "cat", "/exampl
 我們可以透過這樣的特性，在建置階段的時候安裝所需的套件，但並不將它傳遞到最後做使用，像是tsc、ts-node等等，可以大大減少最終image的大小。
 
 
+最終只要保留 docker 
+
+```sh
+docker build -t <your-docker-file> -f <指定 dockerfile> <指定 build context>
+```
+
+example:
+```
+docekr build -t 
+```
 
 ## Reference
 

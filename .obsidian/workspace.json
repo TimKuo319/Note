@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CICD/Github Action.md",
+                "file": "CICD/Github Action Example.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CICD/Github Action.md",
+                "file": "CICD/Github Action Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CICD/Github Action.md",
+                "file": "CICD/Github Action Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CICD/Github Action.md"
+                "file": "CICD/Github Action Example.md"
               }
             }
           },
@@ -171,7 +172,8 @@
   },
   "active": "0b9d94f345ec71bc",
   "lastOpenFiles": [
-    "CICD/Untitled.md",
+    "Container/Dockerfile撰寫.md",
+    "CICD/Github Action Example.md",
     "CICD/Github Action.md",
     "CICD/Todo Note.md",
     "Frontend/axios 相對路徑.md",
@@ -184,7 +186,6 @@
     "Nginx/WebSocket nginx 設定.md",
     "Container/Todo Note.md",
     "Container/Docker-compose.md",
-    "Container/Dockerfile撰寫.md",
     "Container/Image example/Java Spring boot.md",
     "Container/Image example/Frontend with vite.md",
     "Java/Todo Note.md",
