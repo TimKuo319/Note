@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a2b3903ad2b57c2",
+        "id": "f50af68e130f56a7",
         "type": "tabs",
         "children": [
           {
-            "id": "17efd91dc0a527c2",
+            "id": "0b9d94f345ec71bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx/Nginx 在 SPA 上的設定.md",
+                "file": "CICD/Github Action.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/Nginx 在 SPA 上的設定.md",
+                "file": "CICD/Github Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx/Nginx 在 SPA 上的設定.md",
+                "file": "CICD/Github Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/Nginx 在 SPA 上的設定.md"
+                "file": "CICD/Github Action.md"
               }
             }
           },
@@ -169,14 +169,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17efd91dc0a527c2",
+  "active": "0b9d94f345ec71bc",
   "lastOpenFiles": [
-    "Nginx/WebSocket nginx 設定.md",
-    "Nginx/Nginx 在 SPA 上的設定.md",
+    "CICD/Untitled.md",
+    "CICD/Github Action.md",
+    "CICD/Todo Note.md",
+    "Frontend/axios 相對路徑.md",
     "Nginx/Todo Note.md",
-    "Nginx/Serve static site with nginx.md",
-    "Nginx/Nginx CORS setting.md",
+    "Nginx/Nginx 在 SPA 上的設定.md",
     "Nginx/Nginx.md",
+    "Nginx/Nginx CORS setting.md",
+    "Nginx/Serve static site with nginx.md",
+    "image/router_path.png",
+    "Nginx/WebSocket nginx 設定.md",
     "Container/Todo Note.md",
     "Container/Docker-compose.md",
     "Container/Dockerfile撰寫.md",
@@ -186,7 +191,6 @@
     "Container/Image example",
     "Container/Untitled.md",
     "Container/忽略特定檔案 .dockerignore.md",
-    "Frontend/Untitled.md",
     "Frontend/Todo Note.md",
     "Frontend/如何在 component - based architecture 中拆分檔案.md",
     "Frontend/SideEffect.md",
@@ -196,9 +200,6 @@
     "Web/Todo Note.md",
     "Web/Nodejs/Nodejs底層原理.md",
     "Container/docker.canvas",
-    "Container/docker ubuntu 指令安裝.md",
-    "Container/在本地檔案和容器間傳遞資料.md",
-    "Network/Todo.md",
     "Excalidraw",
     "Format",
     "Java/Security",
@@ -224,7 +225,6 @@
     "SWE/API.canvas",
     "image/access_level_modifiers.png",
     "image/transformation_journey.png",
-    "image/CAF.png",
     "Cache/redis.canvas",
     "IoT/Untitled.canvas"
   ]
