@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CICD/Todo Note.md",
+                "file": "CICD/Github Action/Github Action CI workflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CICD/Todo Note.md",
+                "file": "CICD/Github Action/Github Action CI workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CICD/Todo Note.md",
+                "file": "CICD/Github Action/Github Action CI workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CICD/Todo Note.md"
+                "file": "CICD/Github Action/Github Action CI workflow.md"
               }
             }
           },
@@ -171,11 +171,11 @@
   },
   "active": "0b9d94f345ec71bc",
   "lastOpenFiles": [
-    "CICD/Github Action/Github secret 設定.md",
-    "CICD/Github Action/Github Action CI workflow.md",
     "CICD/Github Action/Github Action CD workflow.md",
     "CICD/Github Action/Github Action.md",
     "CICD/Todo Note.md",
+    "CICD/Github Action/Github secret 設定.md",
+    "CICD/Github Action/Github Action CI workflow.md",
     "CICD/Github Action/action.yml 檔案撰寫注意事項.md",
     "CICD/Github Action",
     "Container/Dockerfile撰寫.md",
