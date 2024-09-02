@@ -1,8 +1,8 @@
 
 
-- [ ] act ( run github action locally)
+- [ ] act ( run github action locally) [act](act)
 
-- [ ] Actions secrets vs variables [Github secret 設定](<Github secret 設定>)
+- [ ] 補操作說明 [Github secret 設定](<Github secret 設定>)
 
 - [ ] what is dependent bot ?
 
