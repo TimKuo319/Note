@@ -78,7 +78,8 @@ jobs:
 
 	- `build-and-push-backend` - 這個位置可以隨便取，代表的是 ==job 的名稱== 所以以上面的角度來說就是有兩個 job 
 
-	- `runs-on` - 指定這個 job 要跑在什麼樣的環境上
+	- `runs-on` - 指定這個 job 要跑在什麼樣的環境上 
+		- github 會自動分配一台 runner 給這個 job
 
 	- `steps` - 定義 job 的各個 step，每一個 step 以 `-` 開頭
 	
