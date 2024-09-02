@@ -7,9 +7,12 @@
 
 ### 程式碼來源
 
-直接實際來看一個例子，以下是一個 github action 的 yml 檔案。這個檔案的觸發條件有兩個，一個是在 `push 到 main branch 的時候`，另外一個是`發 pr 到 main branch 的時候`，。這兩個事件的共通點是，都有 `來源` 跟 `目標` 。而 checkout 做的事情就是將 `來源` 的程式碼放到 runner 中。
+直接實際來看一個例子，以下是一個 github action 的 yml 檔案。這個檔案的觸發條件有兩個，一個是在 `push 到 main branch 的時候`，另外一個是`發 pr 到 main branch 的時候`。
 
-所以當今天有一個從 `developer branch` 發向 `main branch` 的 PR 時，checkout 實際上會是將`developer 的 code 放到 runner 中`，==而不是將 main branch 的 code 放到 runner 中==
+
+所以當今天有一個從 `developer branch` 發向 `main branch` 的 PR 時，checkout 實際上會是將`來源跟目標結果合在一起，生成一個暫存的結果`，並將這個結果放到 runner 中，透過這樣將合併的 code 進行 CI workflow 的流程來先確保合併後的程式碼會是沒有問題的。
+
+同理，當遇到 `push` 事件的時候，checkout 出來的結果也會是 `push` 完成的結果。
 
 ```yml
 name: CI Pipeline

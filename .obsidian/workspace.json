@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -172,9 +171,9 @@
   },
   "active": "bfaf77406206e5f4",
   "lastOpenFiles": [
-    "CICD/Github Action/action.yml 檔案撰寫注意事項.md",
-    "CICD/Github Action/關於 workflow_run.md",
     "CICD/Github Action/checkout 的程式碼來源.md",
+    "CICD/Github Action/關於 workflow_run.md",
+    "CICD/Github Action/action.yml 檔案撰寫注意事項.md",
     "CICD/Github Action/Github Action CD workflow.md",
     "CICD/Github Action/Github Action.md",
     "CICD/Github Action/Github secret 設定.md",
