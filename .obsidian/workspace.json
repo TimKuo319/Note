@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CICD/Github Action Example.md",
+                "file": "CICD/Github Action/action.yml 檔案撰寫注意事項.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CICD/Github Action Example.md",
+                "file": "CICD/Github Action/action.yml 檔案撰寫注意事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CICD/Github Action Example.md",
+                "file": "CICD/Github Action/action.yml 檔案撰寫注意事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CICD/Github Action Example.md"
+                "file": "CICD/Github Action/action.yml 檔案撰寫注意事項.md"
               }
             }
           },
@@ -172,10 +171,12 @@
   },
   "active": "0b9d94f345ec71bc",
   "lastOpenFiles": [
-    "Container/Dockerfile撰寫.md",
-    "CICD/Github Action Example.md",
-    "CICD/Github Action.md",
+    "CICD/Github Action/Docker Image CI workflow.md",
+    "CICD/Github Action/Github Action.md",
     "CICD/Todo Note.md",
+    "CICD/Github Action/action.yml 檔案撰寫注意事項.md",
+    "CICD/Github Action",
+    "Container/Dockerfile撰寫.md",
     "Frontend/axios 相對路徑.md",
     "Nginx/Todo Note.md",
     "Nginx/Nginx 在 SPA 上的設定.md",
@@ -199,7 +200,6 @@
     "Frontend/VueJS/Vue 專案建立.md",
     "Web/Nodejs/NodeJS版本管理.md",
     "Web/Todo Note.md",
-    "Web/Nodejs/Nodejs底層原理.md",
     "Container/docker.canvas",
     "Excalidraw",
     "Format",
@@ -212,7 +212,6 @@
     "image/v-directive.png",
     "image/MVVM.png",
     "Design Patterns",
-    "Architecture Patterns",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "git/git.canvas",
