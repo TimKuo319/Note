@@ -1,11 +1,10 @@
 
-- [ ] github action
 
 - [ ] act ( run github action locally)
 
-- [ ] Actions secrets vs variables 
+- [ ] Actions secrets vs variables [Github secret 設定](<Github secret 設定>)
 
-- [ ] 利用 github secret 新增 vs 把 .env 放到 runner 中，哪個做法比較好
+- [ ] what is dependent bot ?
 
 
 

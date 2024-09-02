@@ -79,7 +79,12 @@ jobs:
 	- `build-and-push-backend` - 這個位置可以隨便取，代表的是 ==job 的名稱== 所以以上面的角度來說就是有兩個 job 
 
 	- `runs-on` - 指定這個 job 要跑在什麼樣的環境上 
+	
 		- github 會自動分配一台 runner 給這個 job
+
+	- `needs` 
+	
+		- 指定這個 job `依賴於哪一個job`，只有當依賴的 job 完成，才會執行當前的 job
 
 	- `steps` - 定義 job 的各個 step，每一個 step 以 `-` 開頭
 	
@@ -94,3 +99,8 @@ jobs:
 		- `with` - 提供 action 需要的參數，像上面使用別人寫好的 action 時，就必須指定需要的 java 發行版以及版本
 		
 
+更詳細的參數可以參考  [Triggering a workflow](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/triggering-a-workflow)
+
+## Refernece
+
+[Triggering a workflow](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/triggering-a-workflow)

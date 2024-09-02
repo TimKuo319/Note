@@ -26,3 +26,5 @@ date: 2024-03-07 21:38
 ## Reference
 
 [Quickstart for GitHub Actions](https://docs.github.com/en/actions/writing-workflows/quickstart)
+
+[How to run a GitHub Action in local - LIVE DEMO - DEV Community](https://dev.to/this-is-learning/how-to-run-a-github-action-in-local-live-demo-4116)
