@@ -11,8 +11,12 @@
             "id": "25986931442de9d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Container/Todo Note.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Container/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Container/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Container/Todo Note.md"
+              }
             }
           },
           {
@@ -163,6 +171,8 @@
   },
   "active": "25986931442de9d8",
   "lastOpenFiles": [
+    "AWS/Auto Load Balancer 設定.md",
+    "CICD/Todo Note.md",
     "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md",
     "CICD/What is CICD.md",
     "CICD/Github Action/Github Action CI workflow.md",
@@ -175,7 +185,6 @@
     "Nginx/Todo Note.md",
     "Nginx/Nginx.md",
     "Nginx/WebSocket nginx 設定.md",
-    "CICD/Todo Note.md",
     "Java/Todo Note.md",
     "Frontend/Todo Note.md",
     "CICD/Github Action",
@@ -191,7 +200,6 @@
     "Container/Image example/Frontend with vite.md",
     "Container/Image example",
     "Container/Untitled.md",
-    "Container/忽略特定檔案 .dockerignore.md",
     "Container/docker.canvas",
     "Excalidraw",
     "Format",
