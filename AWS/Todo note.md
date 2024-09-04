@@ -5,4 +5,6 @@
 
 - [ ] s3 網站靜態託管設定
 
-	- [ ] 在 pro
+	- [ ] 在 properties 的部分最下方開啟靜態網站託管
+
+- [ ] ELB 設定 target group
