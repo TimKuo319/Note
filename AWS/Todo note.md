@@ -1,6 +1,10 @@
 
 - [ ] clodufront 設定
 
+	- [ ] 設定 alternative name 
+	
+	- [ ] 在 cloudfront 掛上申請好的憑證
+
 	- [ ] behavior 可以設定收到某些路徑的時候導向某個部分
 
 - [ ] s3 網站靜態託管設定
