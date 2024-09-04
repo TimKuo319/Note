@@ -12,3 +12,5 @@
 	- [ ] 在 properties 的部分最下方開啟靜態網站託管
 
 - [ ] ELB 設定 target group
+
+- [ ] SES
