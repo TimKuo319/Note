@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/JavaScript/Fetch template.md",
+                "file": "Database/MySQL/Install MySQL on Ubuntu.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/JavaScript/Fetch template.md",
+                "file": "Database/MySQL/Install MySQL on Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/JavaScript/Fetch template.md",
+                "file": "Database/MySQL/Install MySQL on Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/JavaScript/Fetch template.md"
+                "file": "Database/MySQL/Install MySQL on Ubuntu.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "25986931442de9d8",
   "lastOpenFiles": [
+    "Frontend/JavaScript/Fetch template.md",
     "AWS/IAM User and IAM Role.md",
     "AWS/CloudWatch自動重啟.md",
     "AWS/Todo note.md",
@@ -197,7 +198,6 @@
     "Frontend/axios 相對路徑.md",
     "Nginx/Nginx 在 SPA 上的設定.md",
     "Nginx/Nginx CORS setting.md",
-    "Nginx/Serve static site with nginx.md",
     "image/router_path.png",
     "Container/Image example",
     "Container/docker.canvas",
