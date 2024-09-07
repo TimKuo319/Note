@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/IAM User and IAM Role.md",
+                "file": "Frontend/JavaScript/Fetch template.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/IAM User and IAM Role.md",
+                "file": "Frontend/JavaScript/Fetch template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/IAM User and IAM Role.md",
+                "file": "Frontend/JavaScript/Fetch template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/IAM User and IAM Role.md"
+                "file": "Frontend/JavaScript/Fetch template.md"
               }
             }
           },
@@ -171,8 +172,8 @@
   },
   "active": "25986931442de9d8",
   "lastOpenFiles": [
-    "AWS/CloudWatch自動重啟.md",
     "AWS/IAM User and IAM Role.md",
+    "AWS/CloudWatch自動重啟.md",
     "AWS/Todo note.md",
     "AWS/Auto Load Balancer 設定.md",
     "AWS/AWS Practitioner/較不熟的部分.md",
