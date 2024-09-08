@@ -14,4 +14,6 @@
 
 - [ ] transactional annotation 
 
+- [ ] synchornize
+
 
