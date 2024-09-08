@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de2a95a26bb4eefd",
+        "id": "607a46e58224784d",
         "type": "tabs",
         "children": [
           {
-            "id": "25986931442de9d8",
+            "id": "93df61d7458e77bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MySQL/Install MySQL on Ubuntu.md",
+                "file": "Java/application.properties 讀取環境變數.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MySQL/Install MySQL on Ubuntu.md",
+                "file": "Java/application.properties 讀取環境變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MySQL/Install MySQL on Ubuntu.md",
+                "file": "Java/application.properties 讀取環境變數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MySQL/Install MySQL on Ubuntu.md"
+                "file": "Java/application.properties 讀取環境變數.md"
               }
             }
           },
@@ -169,8 +169,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25986931442de9d8",
+  "active": "93df61d7458e77bf",
   "lastOpenFiles": [
+    "image/envfile.png",
+    "Java/application.properties 讀取環境變數.md",
+    "image/env.png",
+    "Java/Spring Boot/Thymeleaf in Spring Boot with Maven.md",
+    "Java/Spring Boot/Spring Boot AOP.md",
+    "Java/Multi-datasource in java.md",
+    "Java/Java Basic/Java Optional.md",
+    "Java/Spring Boot/Spring Boot設定log檔案.md",
+    "Java/Spring Boot/Spring Boot Dotenv環境設定.md",
+    "Java/Spring Boot/Spring Boot Basic.md",
+    "Java/Spring Boot",
+    "Java/Java Basic",
+    "Java/Todo Note.md",
+    "Database/MySQL/Install MySQL on Ubuntu.md",
+    "V-Directive/V-for.md",
     "Frontend/JavaScript/Fetch template.md",
     "AWS/IAM User and IAM Role.md",
     "AWS/CloudWatch自動重啟.md",
@@ -185,19 +200,7 @@
     "CICD/Github Action/Github secret 設定.md",
     "CICD/Github Action/action.yml 檔案撰寫注意事項.md",
     "CICD/Github Action/act.md",
-    "CICD/Github Action/關於 workflow_run.md",
-    "CICD/Github Action/checkout 的程式碼來源.md",
-    "CICD/Github Action/Github Action.md",
-    "Nginx/Todo Note.md",
-    "Nginx/Nginx.md",
-    "Nginx/WebSocket nginx 設定.md",
-    "Java/Todo Note.md",
-    "Frontend/Todo Note.md",
     "CICD/Github Action",
-    "Container/Dockerfile撰寫.md",
-    "Frontend/axios 相對路徑.md",
-    "Nginx/Nginx 在 SPA 上的設定.md",
-    "Nginx/Nginx CORS setting.md",
     "image/router_path.png",
     "Container/Image example",
     "Container/docker.canvas",
@@ -208,14 +211,12 @@
     "VueJS",
     "V-Directive",
     "Frontend/VueJS/Untitled",
-    "Frontend/VueJS/V-Directive",
     "image/v-directive.png",
     "image/MVVM.png",
-    "Design Patterns",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "git/git.canvas",
-    "Backend/NestJS/NestJS.canvas",
+    "NodeJS/NestJS/NestJS.canvas",
     "Frontend/CSS/CSS.canvas",
     "image/create_IAM_user.png",
     "Frontend/ReactJS/React.canvas",
@@ -223,8 +224,6 @@
     "image/key_pair_create.png",
     "image/EC2_create.png",
     "SWE/API.canvas",
-    "image/access_level_modifiers.png",
-    "image/transformation_journey.png",
     "Cache/redis.canvas",
     "IoT/Untitled.canvas"
   ]
