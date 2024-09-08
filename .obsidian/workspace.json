@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "607a46e58224784d",
+        "id": "07d4d1bf418cb82e",
         "type": "tabs",
         "children": [
           {
-            "id": "93df61d7458e77bf",
+            "id": "f8fc462b4bb98c96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/application.properties 讀取環境變數.md",
+                "file": "Java/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/application.properties 讀取環境變數.md",
+                "file": "Java/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/application.properties 讀取環境變數.md",
+                "file": "Java/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/application.properties 讀取環境變數.md"
+                "file": "Java/Todo Note.md"
               }
             }
           },
@@ -169,21 +169,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93df61d7458e77bf",
+  "active": "f8fc462b4bb98c96",
   "lastOpenFiles": [
-    "image/envfile.png",
+    "Java/Spring Data JPA with MySQL.md",
+    "Java/ORM in JAVA.md",
+    "Java/Spring Boot/JDBC Basic.md",
     "Java/application.properties 讀取環境變數.md",
+    "Java/Spring Boot/Exception Handler.md",
+    "Java/Multi-datasource in java.md",
+    "Java/Todo Note.md",
+    "image/envfile.png",
     "image/env.png",
     "Java/Spring Boot/Thymeleaf in Spring Boot with Maven.md",
     "Java/Spring Boot/Spring Boot AOP.md",
-    "Java/Multi-datasource in java.md",
     "Java/Java Basic/Java Optional.md",
     "Java/Spring Boot/Spring Boot設定log檔案.md",
     "Java/Spring Boot/Spring Boot Dotenv環境設定.md",
     "Java/Spring Boot/Spring Boot Basic.md",
     "Java/Spring Boot",
     "Java/Java Basic",
-    "Java/Todo Note.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
     "V-Directive/V-for.md",
     "Frontend/JavaScript/Fetch template.md",
@@ -197,9 +201,6 @@
     "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md",
     "CICD/What is CICD.md",
     "CICD/Github Action/Github Action CI workflow.md",
-    "CICD/Github Action/Github secret 設定.md",
-    "CICD/Github Action/action.yml 檔案撰寫注意事項.md",
-    "CICD/Github Action/act.md",
     "CICD/Github Action",
     "image/router_path.png",
     "Container/Image example",
