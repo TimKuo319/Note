@@ -11,7 +11,7 @@
 		{"id":"7ca3e7cfe5dd15a3","type":"text","text":"## Docker file","x":320,"y":-1490,"width":250,"height":50},
 		{"id":"d9989270b2b1acce","type":"text","text":"### .dockerignore\n\n在當前專案下有些檔案(測試檔案、開發環境的cache檔等等)，都是正式環境中不需要的檔案，可以將這些檔案加入`.dockerignore`中來避免被加入image的建置中。","x":615,"y":-1558,"width":400,"height":187},
 		{"id":"67e42579349c001a","type":"text","text":"## COPY\n\n+ 在多階段建置時，透過`--from`來將上一階段的檔案複製到這個階段。\n+ 若是沒有透過`--from`指定檔案，則source指的就是當前專案所在目錄。\n+ dest directory不存在的時候會自動建立目錄，dest file不存在的時候需要其父目錄存在時才建立。\n\n","x":615,"y":-1348,"width":400,"height":299},
-		{"id":"e84aa96c9a2d3456","type":"file","file":"Container/Dockerfile撰寫.md","x":615,"y":-1901,"width":400,"height":329},
+		{"id":"e84aa96c9a2d3456","type":"file","file":"Container/Docker/Dockerfile撰寫.md","x":615,"y":-1901,"width":400,"height":329},
 		{"id":"c14902f8a4a7e789","type":"text","text":"### 映像檔名稱\n\n*repo網域 /映像檔名稱 : tag*","x":105,"y":-1722,"width":255,"height":120},
 		{"id":"d5ede416c4a7c474","type":"text","text":"# 空間清理\n\n## Container: \n\n強制刪除所有容器\n```bash\ndocker container rm --force $(docker container ls -all --quiet)\n```\n\n刪除停止運行的容器\n```bash\ndocker container prune\n```\n## Image\n\n刪除dangling的映像檔\n```bash\ndocker image prune\n```\n\n## System\n\n刪除無名的映像檔、停止的容器\n```bash\ndocker system prune\n```","x":-2920,"y":-1901,"width":580,"height":731},
 		{"id":"653524364395d4fd","type":"text","text":"## Network","x":-1430,"y":-1831,"width":180,"height":60},
