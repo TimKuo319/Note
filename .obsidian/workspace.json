@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "07d4d1bf418cb82e",
+        "id": "3db75b9d88220023",
         "type": "tabs",
         "children": [
           {
-            "id": "f8fc462b4bb98c96",
+            "id": "9ff7e108f5bae412",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Todo Note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Todo Note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,13 +161,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "9ff7e108f5bae412",
   "lastOpenFiles": [
+    "Java/Todo Note.md",
     "Container/K8s",
     "Container/Docker",
     "Frontend/Todo Note.md",
     "image/access_level_modifiers.png",
-    "Java/Todo Note.md",
     "Java/123.md",
     "Terminal/zsh 鍵位設定.md",
     "Datastructure",
@@ -211,7 +203,6 @@
     "Container/Docker/docker.canvas",
     "Excalidraw",
     "Format",
-    "Java/Security",
     "image/Vue-Lifecycle.png",
     "image/v-directive.png",
     "image/MVVM.png",
