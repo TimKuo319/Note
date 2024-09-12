@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Todo.md",
+                "file": "Python/Python ubuntu 安裝.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Todo.md",
+                "file": "Python/Python ubuntu 安裝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Todo.md",
+                "file": "Python/Python ubuntu 安裝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Todo.md"
+                "file": "Python/Python ubuntu 安裝.md"
               }
             }
           },
@@ -171,8 +172,10 @@
   },
   "active": "9ff7e108f5bae412",
   "lastOpenFiles": [
-    "Container/Docker/Docker image push 遇到 deny.md",
     "Linux/Todo.md",
+    "Python/Python ubuntu 安裝.md",
+    "Untitled",
+    "Container/Docker/Docker image push 遇到 deny.md",
     "Container/Docker/docker ubuntu 指令安裝.md",
     "Container/Docker/將 docker image push 到 docker hub.md",
     "Container/Docker/Dockerfile撰寫.md",
@@ -205,13 +208,11 @@
     "Java/Spring Boot",
     "Java/Java Basic",
     "Database/MySQL/Install MySQL on Ubuntu.md",
-    "V-Directive/V-for.md",
     "CICD/Github Action",
     "image/router_path.png",
     "Container/Docker/Image example",
     "Container/Docker/docker.canvas",
     "Excalidraw",
-    "Format",
     "image/Vue-Lifecycle.png",
     "image/v-directive.png",
     "image/MVVM.png",
