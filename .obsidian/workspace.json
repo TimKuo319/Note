@@ -11,8 +11,12 @@
             "id": "9ff7e108f5bae412",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Container/Docker/Docker-compose.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Container/Docker/Docker-compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Container/Docker/Docker-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Container/Docker/Docker-compose.md"
+              }
             }
           },
           {
@@ -163,6 +171,8 @@
   },
   "active": "9ff7e108f5bae412",
   "lastOpenFiles": [
+    "Container/Docker/Dockerfile撰寫.md",
+    "Container/Docker/docker ubuntu 指令安裝.md",
     "Java/Todo Note.md",
     "Container/K8s",
     "Container/Docker",
@@ -196,7 +206,6 @@
     "AWS/IAM User and IAM Role.md",
     "AWS/CloudWatch自動重啟.md",
     "AWS/Todo note.md",
-    "AWS/Auto Load Balancer 設定.md",
     "CICD/Github Action",
     "image/router_path.png",
     "Container/Docker/Image example",
