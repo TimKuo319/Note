@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"date\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -170,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ff7e108f5bae412",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
     "Linux/Todo.md",
     "Python/Python ubuntu 安裝.md",
