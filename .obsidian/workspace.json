@@ -11,8 +11,12 @@
             "id": "94411bb53d538fe1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/Installation/Installation on ubuntu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Installation/Installation on ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Installation/Installation on ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Installation/Installation on ubuntu.md"
+              }
             }
           },
           {
@@ -163,6 +172,8 @@
   },
   "active": "94411bb53d538fe1",
   "lastOpenFiles": [
+    "Java/Installation/Installation on ubuntu.md",
+    "Java/Installation",
     "Python/Python ubuntu 安裝.md",
     "Linux/Tmux 基本使用.md",
     "Linux/Todo.md",
@@ -196,14 +207,12 @@
     "Java/Spring Boot/Spring Boot AOP.md",
     "Java/Java Basic/Java Optional.md",
     "Java/Spring Boot/Spring Boot設定log檔案.md",
-    "Java/Spring Boot/Spring Boot Dotenv環境設定.md",
     "Java/Spring Boot",
     "Java/Java Basic",
     "CICD/Github Action",
     "image/router_path.png",
     "Container/Docker/Image example",
     "Container/Docker/docker.canvas",
-    "Excalidraw",
     "image/Vue-Lifecycle.png",
     "image/v-directive.png",
     "image/MVVM.png",
