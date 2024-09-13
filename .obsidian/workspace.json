@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3db75b9d88220023",
+        "id": "0baba7e36443cb03",
         "type": "tabs",
         "children": [
           {
-            "id": "9ff7e108f5bae412",
+            "id": "94411bb53d538fe1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Tmux 基本使用.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Tmux 基本使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Tmux 基本使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Tmux 基本使用.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,11 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ff7e108f5bae412",
+  "active": "94411bb53d538fe1",
   "lastOpenFiles": [
+    "Python/Python ubuntu 安裝.md",
+    "Linux/Tmux 基本使用.md",
     "Linux/Todo.md",
     "Network/Todo.md",
-    "Python/Python ubuntu 安裝.md",
     "Untitled",
     "Container/Docker/Docker image push 遇到 deny.md",
     "Container/Docker/docker ubuntu 指令安裝.md",
@@ -204,7 +197,6 @@
     "Java/Java Basic/Java Optional.md",
     "Java/Spring Boot/Spring Boot設定log檔案.md",
     "Java/Spring Boot/Spring Boot Dotenv環境設定.md",
-    "Java/Spring Boot/Spring Boot Basic.md",
     "Java/Spring Boot",
     "Java/Java Basic",
     "CICD/Github Action",
