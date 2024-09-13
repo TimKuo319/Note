@@ -22,3 +22,6 @@ virtualenv venv
 source ${env_name}/bin/activate
 ```
 
+## Reference
+
+[How to install virtualenv in Ubuntu? - featurepreneur - Medium](https://medium.com/featurepreneur/how-to-install-virtualenv-in-ubuntu-12ddebc992a6)
