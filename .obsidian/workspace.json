@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md",
+                "file": "Container/Docker/docker ubuntu 指令安裝.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md",
+                "file": "Container/Docker/docker ubuntu 指令安裝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md",
+                "file": "Container/Docker/docker ubuntu 指令安裝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md"
+                "file": "Container/Docker/docker ubuntu 指令安裝.md"
               }
             }
           },
