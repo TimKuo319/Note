@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0baba7e36443cb03",
+        "id": "be555b13f511711f",
         "type": "tabs",
         "children": [
           {
-            "id": "94411bb53d538fe1",
+            "id": "d35ed2c0c71f83fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Container/Docker/docker ubuntu 指令安裝.md",
+                "file": "Python/Installation/Python virtualenv setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Container/Docker/docker ubuntu 指令安裝.md",
+                "file": "Python/Installation/Python virtualenv setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Container/Docker/docker ubuntu 指令安裝.md",
+                "file": "Python/Installation/Python virtualenv setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Container/Docker/docker ubuntu 指令安裝.md"
+                "file": "Python/Installation/Python virtualenv setup.md"
               }
             }
           },
@@ -169,17 +169,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94411bb53d538fe1",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "Python/Installation/Python ubuntu 安裝.md",
+    "Python/__name__ = _main_在python中的意思.md",
+    "Python/Installation",
+    "Python/Class的各種語法.md",
     "Java/Installation/Installation on ubuntu.md",
+    "Network/Todo.md",
+    "Java/application.properties 讀取環境變數 (intellij).md",
+    "Container/Docker/docker ubuntu 指令安裝.md",
     "Java/Installation",
-    "Python/Python ubuntu 安裝.md",
     "Linux/Tmux 基本使用.md",
     "Linux/Todo.md",
-    "Network/Todo.md",
     "Untitled",
     "Container/Docker/Docker image push 遇到 deny.md",
-    "Container/Docker/docker ubuntu 指令安裝.md",
     "Container/Docker/將 docker image push 到 docker hub.md",
     "Container/Docker/Dockerfile撰寫.md",
     "Container/Docker/Docker-compose.md",
@@ -197,20 +201,16 @@
     "Java/Spring Data JPA with MySQL.md",
     "Java/ORM in JAVA.md",
     "Java/Spring Boot/JDBC Basic.md",
-    "Java/application.properties 讀取環境變數.md",
     "Java/Spring Boot/Exception Handler.md",
     "Java/Multi-datasource in java.md",
     "image/envfile.png",
     "image/env.png",
     "Java/Spring Boot/Thymeleaf in Spring Boot with Maven.md",
     "Java/Spring Boot/Spring Boot AOP.md",
-    "Java/Java Basic/Java Optional.md",
-    "Java/Spring Boot/Spring Boot設定log檔案.md",
     "Java/Spring Boot",
     "Java/Java Basic",
     "CICD/Github Action",
     "image/router_path.png",
-    "Container/Docker/Image example",
     "Container/Docker/docker.canvas",
     "image/Vue-Lifecycle.png",
     "image/v-directive.png",
