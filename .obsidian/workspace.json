@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md",
+                "file": "Nginx/Nginx 在 SPA 上的設定.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md",
+                "file": "Nginx/Nginx 在 SPA 上的設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md",
+                "file": "Nginx/Nginx 在 SPA 上的設定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md"
+                "file": "Nginx/Nginx 在 SPA 上的設定.md"
               }
             }
           },
@@ -171,12 +171,12 @@
   },
   "active": "d35ed2c0c71f83fb",
   "lastOpenFiles": [
+    "Java/Installation/Installation on ubuntu.md",
     "Python/Installation/Python virtualenv setup.md",
     "Python/Installation/Python ubuntu 安裝.md",
     "Python/__name__ = _main_在python中的意思.md",
     "Python/Installation",
     "Python/Class的各種語法.md",
-    "Java/Installation/Installation on ubuntu.md",
     "Network/Todo.md",
     "Java/application.properties 讀取環境變數 (intellij).md",
     "Container/Docker/docker ubuntu 指令安裝.md",
