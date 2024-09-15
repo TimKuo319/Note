@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Installation/Python virtualenv setup.md",
+                "file": "Java/Installation/Installation on ubuntu.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Installation/Python virtualenv setup.md",
+                "file": "Java/Installation/Installation on ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Installation/Python virtualenv setup.md",
+                "file": "Java/Installation/Installation on ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Installation/Python virtualenv setup.md"
+                "file": "Java/Installation/Installation on ubuntu.md"
               }
             }
           },
@@ -169,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "d35ed2c0c71f83fb",
   "lastOpenFiles": [
+    "Python/Installation/Python virtualenv setup.md",
     "Python/Installation/Python ubuntu 安裝.md",
     "Python/__name__ = _main_在python中的意思.md",
     "Python/Installation",
@@ -206,7 +207,6 @@
     "image/envfile.png",
     "image/env.png",
     "Java/Spring Boot/Thymeleaf in Spring Boot with Maven.md",
-    "Java/Spring Boot/Spring Boot AOP.md",
     "Java/Spring Boot",
     "Java/Java Basic",
     "CICD/Github Action",
