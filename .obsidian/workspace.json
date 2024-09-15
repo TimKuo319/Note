@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx/Nginx 在 SPA 上的設定.md",
+                "file": "Linux/Tmux 基本使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/Nginx 在 SPA 上的設定.md",
+                "file": "Linux/Tmux 基本使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx/Nginx 在 SPA 上的設定.md",
+                "file": "Linux/Tmux 基本使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/Nginx 在 SPA 上的設定.md"
+                "file": "Linux/Tmux 基本使用.md"
               }
             }
           },
@@ -171,6 +172,8 @@
   },
   "active": "d35ed2c0c71f83fb",
   "lastOpenFiles": [
+    "Nginx/Port forwarding with nginx.md",
+    "Nginx/Nginx 在 SPA 上的設定.md",
     "Java/Installation/Installation on ubuntu.md",
     "Python/Installation/Python virtualenv setup.md",
     "Python/Installation/Python ubuntu 安裝.md",
@@ -203,10 +206,8 @@
     "Java/ORM in JAVA.md",
     "Java/Spring Boot/JDBC Basic.md",
     "Java/Spring Boot/Exception Handler.md",
-    "Java/Multi-datasource in java.md",
     "image/envfile.png",
     "image/env.png",
-    "Java/Spring Boot/Thymeleaf in Spring Boot with Maven.md",
     "Java/Spring Boot",
     "Java/Java Basic",
     "CICD/Github Action",
