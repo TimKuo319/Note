@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "be555b13f511711f",
+        "id": "74207414e36d3e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "d35ed2c0c71f83fb",
+            "id": "19419d4fb232df44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Tmux 基本使用.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Tmux 基本使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Tmux 基本使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Tmux 基本使用.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d35ed2c0c71f83fb",
+  "active": "19419d4fb232df44",
   "lastOpenFiles": [
+    "Linux/Tmux 基本使用.md",
     "Nginx/Port forwarding with nginx.md",
     "Nginx/Nginx 在 SPA 上的設定.md",
     "Java/Installation/Installation on ubuntu.md",
@@ -184,7 +177,6 @@
     "Java/application.properties 讀取環境變數 (intellij).md",
     "Container/Docker/docker ubuntu 指令安裝.md",
     "Java/Installation",
-    "Linux/Tmux 基本使用.md",
     "Linux/Todo.md",
     "Untitled",
     "Container/Docker/Docker image push 遇到 deny.md",
