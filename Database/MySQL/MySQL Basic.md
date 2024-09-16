@@ -320,6 +320,8 @@ CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
 
 ```
 
+- `%`為萬用字元，將上面的`localhost`換成`%`的話代表使用者可以從任何一個地方連線進來。
+
 + 查詢資料庫中的所有使用者
 ```SQL
 select user, host from mysql.user;
