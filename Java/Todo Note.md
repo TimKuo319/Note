@@ -4,6 +4,10 @@
 
 - [ ] webconfigurer vs security
 
+	- [ ] webConfigurer 
+		- [ ] allowedHeaders
+		- [ ] allowCredentials
+
 - [ ] jdk 的 docker image 選項
 
 	- [ ] maven - open-jdk ( already deprecated )
@@ -17,3 +21,5 @@
 - [ ] synchornize
 
 - [ ] what is object mapper
+
+- [ ] JPA 理解
