@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "74207414e36d3e1d",
+        "id": "6784759f02998e33",
         "type": "tabs",
         "children": [
           {
-            "id": "19419d4fb232df44",
+            "id": "dd880b1fd9dad8db",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -66,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -162,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19419d4fb232df44",
+  "active": "dd880b1fd9dad8db",
   "lastOpenFiles": [
     "Linux/Tmux 基本使用.md",
     "Nginx/Port forwarding with nginx.md",
