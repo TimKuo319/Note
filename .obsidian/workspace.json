@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Java/Installation/Installation on ubuntu.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Java/Installation/Installation on ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Java/Installation/Installation on ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md"
+                "file": "Java/Installation/Installation on ubuntu.md"
               }
             }
           },
@@ -171,9 +171,10 @@
   },
   "active": "dd880b1fd9dad8db",
   "lastOpenFiles": [
-    "Database/MySQL/Mysql  pool.md",
+    "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
     "Database/MySQL/Database design.md",
+    "Database/MySQL/Mysql  pool.md",
     "Java/JPA/JPA Quick Note.md",
     "Java/JPA/Spring Data JPA with MySQL.md",
     "Java/ORM in JAVA.md",
@@ -181,7 +182,6 @@
     "Java/application.properties 讀取環境變數 (intellij).md",
     "Java/Multi-datasource in java.md",
     "Java/Todo Note.md",
-    "Database/MySQL/MySQL Basic.md",
     "Database/ORM/JPA(java).md",
     "Java/JPA",
     "Network/Todo.md",
