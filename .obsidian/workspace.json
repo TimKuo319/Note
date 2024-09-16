@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md",
+                "file": "Git/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md",
+                "file": "Git/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md",
+                "file": "Git/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md"
+                "file": "Git/Todo Note.md"
               }
             }
           },
@@ -171,6 +171,23 @@
   },
   "active": "dd880b1fd9dad8db",
   "lastOpenFiles": [
+    "Git/在遠端新增git分支.md",
+    "Git/指定追蹤遠端分支.md",
+    "Git/clone所有分支.md",
+    "Git/git.canvas",
+    "Git/git alias設定.md",
+    "Git/git cheet_sheet.md",
+    "Git/git cherry-pick.md",
+    "Git/git diff.md",
+    "Git/git head.md",
+    "Git/git ssh金鑰設定.md",
+    "Git/git stash檔案暫存.md",
+    "Git/git_lifecycle.md",
+    "Git/git檔案還原.md",
+    "Git/Github PR Default Previewer 設定.md",
+    "Git/gitignore_setup.md",
+    "Git/Todo Note.md",
+    "Java/Installation/Installation on ubuntu.md",
     "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
     "Database/MySQL/Database design.md",
@@ -181,26 +198,10 @@
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Java/application.properties 讀取環境變數 (intellij).md",
     "Java/Multi-datasource in java.md",
-    "Java/Todo Note.md",
-    "Database/ORM/JPA(java).md",
     "Java/JPA",
-    "Network/Todo.md",
-    "Linux/Tmux 基本使用.md",
-    "Nginx/Port forwarding with nginx.md",
-    "Nginx/Nginx 在 SPA 上的設定.md",
-    "Java/Installation/Installation on ubuntu.md",
-    "Python/Installation/Python virtualenv setup.md",
-    "Python/Installation/Python ubuntu 安裝.md",
-    "Python/__name__ = _main_在python中的意思.md",
     "Python/Installation",
-    "Python/Class的各種語法.md",
-    "Container/Docker/docker ubuntu 指令安裝.md",
     "Java/Installation",
-    "Linux/Todo.md",
     "Untitled",
-    "Container/Docker/Docker image push 遇到 deny.md",
-    "Container/Docker/將 docker image push 到 docker hub.md",
-    "Container/Docker/Dockerfile撰寫.md",
     "Container/K8s",
     "Container/Docker",
     "image/access_level_modifiers.png",
@@ -217,7 +218,6 @@
     "image/MVVM.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "git/git.canvas",
     "NodeJS/NestJS/NestJS.canvas",
     "Frontend/CSS/CSS.canvas",
     "image/create_IAM_user.png",
