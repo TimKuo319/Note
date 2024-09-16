@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA/JPA Quick Note.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JPA/JPA Quick Note.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JPA/JPA Quick Note.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JPA/JPA Quick Note.md"
+                "file": "Database/MySQL/MySQL Basic.md"
               }
             }
           },
@@ -171,8 +171,11 @@
   },
   "active": "dd880b1fd9dad8db",
   "lastOpenFiles": [
-    "Java/JPA/Spring Data JPA with MySQL.md",
+    "Database/MySQL/Mysql  pool.md",
+    "Database/MySQL/Install MySQL on Ubuntu.md",
+    "Database/MySQL/Database design.md",
     "Java/JPA/JPA Quick Note.md",
+    "Java/JPA/Spring Data JPA with MySQL.md",
     "Java/ORM in JAVA.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Java/application.properties 讀取環境變數 (intellij).md",
@@ -198,12 +201,9 @@
     "Container/Docker/Docker image push 遇到 deny.md",
     "Container/Docker/將 docker image push 到 docker hub.md",
     "Container/Docker/Dockerfile撰寫.md",
-    "Container/Docker/Docker-compose.md",
     "Container/K8s",
     "Container/Docker",
-    "Frontend/Todo Note.md",
     "image/access_level_modifiers.png",
-    "Java/123.md",
     "DataStructure",
     "Algorithm",
     "image/envfile.png",
