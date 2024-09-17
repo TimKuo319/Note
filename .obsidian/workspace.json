@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Todo Note.md",
+                "file": "Linux/Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Todo Note.md",
+                "file": "Linux/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Todo Note.md",
+                "file": "Linux/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Todo Note.md"
+                "file": "Linux/Todo.md"
               }
             }
           },
@@ -171,6 +171,9 @@
   },
   "active": "dd880b1fd9dad8db",
   "lastOpenFiles": [
+    "Linux/Tmux 基本使用.md",
+    "Linux/Todo.md",
+    "Git/Todo Note.md",
     "Git/在遠端新增git分支.md",
     "Git/指定追蹤遠端分支.md",
     "Git/clone所有分支.md",
@@ -186,7 +189,6 @@
     "Git/git檔案還原.md",
     "Git/Github PR Default Previewer 設定.md",
     "Git/gitignore_setup.md",
-    "Git/Todo Note.md",
     "Java/Installation/Installation on ubuntu.md",
     "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
@@ -196,8 +198,6 @@
     "Java/JPA/Spring Data JPA with MySQL.md",
     "Java/ORM in JAVA.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
-    "Java/application.properties 讀取環境變數 (intellij).md",
-    "Java/Multi-datasource in java.md",
     "Java/JPA",
     "Python/Installation",
     "Java/Installation",
