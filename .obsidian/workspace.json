@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Todo.md",
+                "file": "Python/Installation/Python ubuntu 安裝.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Todo.md",
+                "file": "Python/Installation/Python ubuntu 安裝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Todo.md",
+                "file": "Python/Installation/Python ubuntu 安裝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Todo.md"
+                "file": "Python/Installation/Python ubuntu 安裝.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "dd880b1fd9dad8db",
   "lastOpenFiles": [
-    "Linux/Tmux 基本使用.md",
     "Linux/Todo.md",
+    "Linux/Tmux 基本使用.md",
     "Git/Todo Note.md",
     "Git/在遠端新增git分支.md",
     "Git/指定追蹤遠端分支.md",
