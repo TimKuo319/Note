@@ -23,3 +23,6 @@
 - [ ] what is object mapper
 
 - [ ] JPA 理解
+
+- [ ] 網址解析
+	- UriComponents
