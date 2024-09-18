@@ -11,7 +11,7 @@ sudo apt install python3-pip
 ### 虛擬環境安裝
 
 ``` sh
-sudo pip3 install virtualenv
+sudo apt install python3-virtualenv
 ```
 
 ### 創建與啟動虛擬環境
