@@ -26,3 +26,7 @@
 
 - [ ] 網址解析
 	- UriComponents
+
+- [ ] 從 server 端發送 api
+
+	- http client vs restemplate

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Todo.md",
+                "file": "Java/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Todo.md",
+                "file": "Java/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Todo.md",
+                "file": "Java/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Todo.md"
+                "file": "Java/Todo Note.md"
               }
             }
           },
@@ -171,13 +171,13 @@
   },
   "active": "dd880b1fd9dad8db",
   "lastOpenFiles": [
+    "Linux/Todo.md",
     "Linux/SSH config設定.md",
     "Linux/檢查各個目錄大小.md",
     "Linux/列出當前正在使用的 TCP and UDP port.md",
     "Java/Todo Note.md",
     "Container/Docker/清理未使用到的 image、cache、container.md",
     "Python/Installation/Python ubuntu 安裝.md",
-    "Linux/Todo.md",
     "Linux/Tmux 基本使用.md",
     "Git/Todo Note.md",
     "Git/在遠端新增git分支.md",
