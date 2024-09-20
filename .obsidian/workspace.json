@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Todo note.md",
+                "file": "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Todo note.md",
+                "file": "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Todo note.md",
+                "file": "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Todo note.md"
+                "file": "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md"
               }
             }
           },
@@ -171,17 +171,18 @@
   },
   "active": "966a514b2c913f0e",
   "lastOpenFiles": [
-    "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+    "Linux/列出當前正在使用的 TCP and UDP port.md",
+    "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
+    "Linux/SSH config設定.md",
     "AWS/Todo note.md",
+    "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
     "AWS/IAM User and IAM Role.md",
     "設定環境變數.md",
     "AWS/CloudWatch自動重啟.md",
     "AWS/Auto Load Balancer 設定.md",
     "Java/Todo Note.md",
     "Linux/Todo.md",
-    "Linux/SSH config設定.md",
     "Linux/檢查各個目錄大小.md",
-    "Linux/列出當前正在使用的 TCP and UDP port.md",
     "Container/Docker/清理未使用到的 image、cache、container.md",
     "Python/Installation/Python ubuntu 安裝.md",
     "Linux/Tmux 基本使用.md",
@@ -197,7 +198,6 @@
     "Git/git head.md",
     "Git/git ssh金鑰設定.md",
     "Git/git stash檔案暫存.md",
-    "Git/git_lifecycle.md",
     "Java/JPA",
     "Python/Installation",
     "Java/Installation",
