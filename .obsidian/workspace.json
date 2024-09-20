@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6784759f02998e33",
+        "id": "cae4225a69f66b00",
         "type": "tabs",
         "children": [
           {
-            "id": "dd880b1fd9dad8db",
+            "id": "966a514b2c913f0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Todo Note.md"
+                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md"
               }
             }
           },
@@ -169,10 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd880b1fd9dad8db",
+  "active": "966a514b2c913f0e",
   "lastOpenFiles": [
-    "Linux/Todo.md",
+    "設定環境變數.md",
+    "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+    "AWS/IAM User and IAM Role.md",
+    "AWS/CloudWatch自動重啟.md",
+    "AWS/Auto Load Balancer 設定.md",
     "Java/Todo Note.md",
+    "Linux/Todo.md",
     "Linux/SSH config設定.md",
     "Linux/檢查各個目錄大小.md",
     "Linux/列出當前正在使用的 TCP and UDP port.md",
@@ -193,11 +198,6 @@
     "Git/git stash檔案暫存.md",
     "Git/git_lifecycle.md",
     "Git/git檔案還原.md",
-    "Git/Github PR Default Previewer 設定.md",
-    "Git/gitignore_setup.md",
-    "Java/Installation/Installation on ubuntu.md",
-    "Database/MySQL/MySQL Basic.md",
-    "Database/MySQL/Install MySQL on Ubuntu.md",
     "Java/JPA",
     "Python/Installation",
     "Java/Installation",
