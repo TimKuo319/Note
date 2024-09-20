@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+                "file": "AWS/Todo note.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+                "file": "AWS/Todo note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+                "file": "AWS/Todo note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md"
+                "file": "AWS/Todo note.md"
               }
             }
           },
@@ -171,9 +171,10 @@
   },
   "active": "966a514b2c913f0e",
   "lastOpenFiles": [
-    "設定環境變數.md",
     "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+    "AWS/Todo note.md",
     "AWS/IAM User and IAM Role.md",
+    "設定環境變數.md",
     "AWS/CloudWatch自動重啟.md",
     "AWS/Auto Load Balancer 設定.md",
     "Java/Todo Note.md",
@@ -197,7 +198,6 @@
     "Git/git ssh金鑰設定.md",
     "Git/git stash檔案暫存.md",
     "Git/git_lifecycle.md",
-    "Git/git檔案還原.md",
     "Java/JPA",
     "Python/Installation",
     "Java/Installation",

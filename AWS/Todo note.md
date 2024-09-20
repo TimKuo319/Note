@@ -14,3 +14,7 @@
 - [ ] ELB 設定 target group
 
 - [ ] SES
+
+- [ ] [AWS CLI](<AWS CLI 基礎使用 (搭配 AWS STS)>)
+
+- [ ] STS 是什麼？
