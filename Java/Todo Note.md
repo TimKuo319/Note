@@ -33,3 +33,10 @@
 
 - [ ] 踩雷
 	- [ ] restTemplate 在傳遞 `Map<String, Object>` 的時候會將 `Content-Type` 設為 `application/json`，如果是用 `Map<String, String>` 傳遞則會使用預設的 `application/x-www-form-urlencoded`
+
+
+- [ ] java 的 design pattern `singleton`
+
+- [ ] AutomicInteger 
+
+	- [ ] 目前理解是不用自己手動 `synchronized` 來確保 `thread-safe`

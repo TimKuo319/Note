@@ -83,6 +83,35 @@ CREATE TABLE article (
 DROP TABLE <table-name>
 ```
 
+
+## Join(todo)
+
+### Inner join
+
+### Left join
+
+### Right join
+
+### Cross join
+
+[SQL CROSS JOIN 交叉連接 - SQL 語法教學 Tutorial](https://www.fooish.com/sql/cross-join.html)
+
+## Rand 
+
++ RAND產生0~1之間的浮點數，FLOOR將值取為整數
+
+```sql
+FLOOR(1 + (RAND() * 10))
+```
+
+### Group by
+
+group by指令用於將查詢結果中的特定欄位相同值分成群組
+
+```sql
+SELECT column_name(s), aggregate_function(column_name) FROM table_name WHERE column_name operator value GROUP BY column_name1, column_name2...;
+```
+
 ### INSERT INTO
 
 新增資料
@@ -121,33 +150,7 @@ ON DUPLICATE KEY UPDATE stock = stock;
 
 `ON DUPLICATE KEY UPDATE column = value`的做法是決定要怎進行更新，以上面的例子來說，就是該row的stock會等於該row的stock，也就是說，在遇到重複的時候，就不更新的意思。
 
-## Join(todo)
 
-### Inner join
-
-### Left join
-
-### Right join
-
-### Cross join
-
-[SQL CROSS JOIN 交叉連接 - SQL 語法教學 Tutorial](https://www.fooish.com/sql/cross-join.html)
-
-## Rand 
-
-+ RAND產生0~1之間的浮點數，FLOOR將值取為整數
-
-```sql
-FLOOR(1 + (RAND() * 10))
-```
-
-### Group by
-
-group by指令用於將查詢結果中的特定欄位相同值分成群組
-
-```sql
-SELECT column_name(s), aggregate_function(column_name) FROM table_name WHERE column_name operator value GROUP BY column_name1, column_name2...;
-```
 
 ### Update
 
