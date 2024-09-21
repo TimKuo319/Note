@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
+                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
+                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
+                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md"
+                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "966a514b2c913f0e",
   "lastOpenFiles": [
-    "Linux/列出當前正在使用的 TCP and UDP port.md",
     "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
+    "Linux/列出當前正在使用的 TCP and UDP port.md",
     "Linux/SSH config設定.md",
     "AWS/Todo note.md",
     "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
