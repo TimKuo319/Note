@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+                "file": "Java/JPA/雙向關聯與單向關聯.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+                "file": "Java/JPA/雙向關聯與單向關聯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+                "file": "Java/JPA/雙向關聯與單向關聯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md"
+                "file": "Java/JPA/雙向關聯與單向關聯.md"
               }
             }
           },
@@ -171,16 +171,20 @@
   },
   "active": "966a514b2c913f0e",
   "lastOpenFiles": [
+    "Java/Todo Note.md",
+    "Java/JPA/雙向關聯與單向關聯.md",
+    "Java/ORM in JAVA.md",
+    "Java/JPA/Spring Data JPA with MySQL.md",
+    "Java/JPA/JPA Quick Note.md",
+    "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
     "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
     "Linux/列出當前正在使用的 TCP and UDP port.md",
     "Linux/SSH config設定.md",
     "AWS/Todo note.md",
-    "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
     "AWS/IAM User and IAM Role.md",
     "設定環境變數.md",
     "AWS/CloudWatch自動重啟.md",
     "AWS/Auto Load Balancer 設定.md",
-    "Java/Todo Note.md",
     "Linux/Todo.md",
     "Linux/檢查各個目錄大小.md",
     "Container/Docker/清理未使用到的 image、cache、container.md",
@@ -194,10 +198,6 @@
     "Git/git alias設定.md",
     "Git/git cheet_sheet.md",
     "Git/git cherry-pick.md",
-    "Git/git diff.md",
-    "Git/git head.md",
-    "Git/git ssh金鑰設定.md",
-    "Git/git stash檔案暫存.md",
     "Java/JPA",
     "Python/Installation",
     "Java/Installation",
