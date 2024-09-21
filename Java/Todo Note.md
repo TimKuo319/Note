@@ -23,6 +23,11 @@
 - [ ] what is object mapper
 
 - [ ] JPA 理解
+	- 基礎 CRUD 只針對 `primary key`
+	- `findAll()`
+	- `findById()`
+	- `deleteById()`
+	- ....
 
 - [ ] 網址解析
 	- UriComponents
