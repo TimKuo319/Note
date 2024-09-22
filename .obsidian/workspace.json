@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Java/application.properties 讀取環境變數 (intellij).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Java/application.properties 讀取環境變數 (intellij).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Java/application.properties 讀取環境變數 (intellij).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Todo Note.md"
+                "file": "Java/application.properties 讀取環境變數 (intellij).md"
               }
             }
           },
@@ -171,9 +171,10 @@
   },
   "active": "966a514b2c913f0e",
   "lastOpenFiles": [
+    "Java/Todo Note.md",
+    "Network/Todo.md",
     "Java/JPA/JPA Quick Note.md",
     "Java/JPA/Spring Data JPA with MySQL.md",
-    "Java/Todo Note.md",
     "Java/JPA/雙向關聯與單向關聯.md",
     "Database/MySQL/Mysql  pool.md",
     "Database/MySQL/MySQL Basic.md",
@@ -197,7 +198,6 @@
     "Git/指定追蹤遠端分支.md",
     "Git/clone所有分支.md",
     "Git/git.canvas",
-    "Git/git alias設定.md",
     "Java/JPA",
     "Python/Installation",
     "Java/Installation",

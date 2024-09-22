@@ -45,3 +45,6 @@
 - [ ] AutomicInteger 
 
 	- [ ] 目前理解是不用自己手動 `synchronized` 來確保 `thread-safe`
+
+- [ ] `@Profile` annotation
+
