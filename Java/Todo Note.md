@@ -27,7 +27,7 @@
 	- `findAll()`
 	- `findById()`
 	- `deleteById()`
-	- ....
+	- JPQL
 
 - [ ] 網址解析
 	- UriComponents

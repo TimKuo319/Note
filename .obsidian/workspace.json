@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA/Spring Data JPA with MySQL.md",
+                "file": "Java/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JPA/Spring Data JPA with MySQL.md",
+                "file": "Java/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JPA/Spring Data JPA with MySQL.md",
+                "file": "Java/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JPA/Spring Data JPA with MySQL.md"
+                "file": "Java/Todo Note.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   "active": "966a514b2c913f0e",
   "lastOpenFiles": [
     "Java/JPA/JPA Quick Note.md",
+    "Java/JPA/Spring Data JPA with MySQL.md",
     "Java/Todo Note.md",
     "Java/JPA/雙向關聯與單向關聯.md",
-    "Java/JPA/Spring Data JPA with MySQL.md",
     "Database/MySQL/Mysql  pool.md",
     "Database/MySQL/MySQL Basic.md",
     "Java/ORM in JAVA.md",
