@@ -63,7 +63,7 @@ OAuth（Open Authorization) 是一種開放標準協議
 	- 可包括開發環境URL（如localhost）
 
 + Authorized Redirect URIs
-	+ 在執行完第三方平台的 OAuth 畫面後，要導向去哪裡
+	- 接收來自 OAuth provider 的 `authorization code` 的 endpoint，需要再發送回去請求 `access_token`
 
 ## Reference
 
