@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/application.properties 讀取環境變數 (intellij).md",
+                "file": "Network/Github login.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/application.properties 讀取環境變數 (intellij).md",
+                "file": "Network/Github login.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/application.properties 讀取環境變數 (intellij).md",
+                "file": "Network/Github login.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/application.properties 讀取環境變數 (intellij).md"
+                "file": "Network/Github login.md"
               }
             }
           },
@@ -171,8 +171,12 @@
   },
   "active": "966a514b2c913f0e",
   "lastOpenFiles": [
-    "Java/Todo Note.md",
     "Network/Todo.md",
+    "Network/Github login.md",
+    "Network/Untitled",
+    "Network/OAuth.md",
+    "Java/application.properties 讀取環境變數 (intellij).md",
+    "Java/Todo Note.md",
     "Java/JPA/JPA Quick Note.md",
     "Java/JPA/Spring Data JPA with MySQL.md",
     "Java/JPA/雙向關聯與單向關聯.md",
@@ -194,9 +198,6 @@
     "Python/Installation/Python ubuntu 安裝.md",
     "Linux/Tmux 基本使用.md",
     "Git/Todo Note.md",
-    "Git/在遠端新增git分支.md",
-    "Git/指定追蹤遠端分支.md",
-    "Git/clone所有分支.md",
     "Git/git.canvas",
     "Java/JPA",
     "Python/Installation",
@@ -210,7 +211,6 @@
     "image/envfile.png",
     "image/env.png",
     "Java/Spring Boot",
-    "Java/Java Basic",
     "image/router_path.png",
     "Container/Docker/docker.canvas",
     "image/Vue-Lifecycle.png",
