@@ -48,3 +48,8 @@
 
 - [ ] `@Profile` annotation
 
+- [ ] spring 的 bean 依賴注入順序
+
+	1. 成員函數
+	2. 其他注入
+	- 參考 masternode jwt util	
