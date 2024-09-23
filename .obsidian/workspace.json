@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/application.properties 讀取環境變數 (intellij).md",
+                "file": "Network/Github login.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/application.properties 讀取環境變數 (intellij).md",
+                "file": "Network/Github login.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/application.properties 讀取環境變數 (intellij).md",
+                "file": "Network/Github login.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/application.properties 讀取環境變數 (intellij).md"
+                "file": "Network/Github login.md"
               }
             }
           },
@@ -172,11 +171,11 @@
   },
   "active": "966a514b2c913f0e",
   "lastOpenFiles": [
-    "Network/Github login.md",
     "Network/OAuth.md",
+    "Java/application.properties 讀取環境變數 (intellij).md",
+    "Network/Github login.md",
     "Network/Todo.md",
     "Network/Untitled",
-    "Java/application.properties 讀取環境變數 (intellij).md",
     "Java/Todo Note.md",
     "Java/JPA/JPA Quick Note.md",
     "Java/JPA/Spring Data JPA with MySQL.md",
