@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Container/Docker/Docker container 資源限制.md",
+                "file": "Message Queue/Kafka/What is Kafka.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Container/Docker/Docker container 資源限制.md",
+                "file": "Message Queue/Kafka/What is Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Container/Docker/Docker container 資源限制.md",
+                "file": "Message Queue/Kafka/What is Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Container/Docker/Docker container 資源限制.md"
+                "file": "Message Queue/Kafka/What is Kafka.md"
               }
             }
           },
@@ -171,13 +172,19 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
+    "Message Queue/Todo.md",
+    "Message Queue/Kafka/What is Kafka.md",
+    "Java/Todo Note.md",
+    "Message Queue/Kafka",
+    "Message Queue/Rabbit MQ",
+    "Message Queue",
+    "Container/Docker/Docker container 資源限制.md",
     "Container/Todo Note.md",
     "Docker/<Docker container 資源限制.md",
     "Container/Docker/Dockerfile撰寫.md",
     "Container/Docker/Docker-compose.md",
     "Container/Docker/docker ubuntu 指令安裝.md",
     "Container/Docker/Docker image push 遇到 deny.md",
-    "Container/Docker/Docker container 資源限制.md",
     "Container/Docker/docker.canvas",
     "Container/Docker/container 資源監控.md",
     "Container/Docker/將 docker image push 到 docker hub.md",
@@ -198,17 +205,12 @@
     "Git/git head.md",
     "Git/git ssh金鑰設定.md",
     "Git/git stash檔案暫存.md",
-    "Git/git_lifecycle.md",
-    "Git/指定追蹤遠端分支.md",
     "Network/Untitled",
     "Java/JPA",
     "Python/Installation",
     "Java/Installation",
     "Container/K8s",
-    "Container/Docker",
     "image/access_level_modifiers.png",
-    "DataStructure",
-    "Algorithm",
     "image/envfile.png",
     "image/env.png",
     "image/router_path.png",
