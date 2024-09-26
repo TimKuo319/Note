@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/rsync 跨系統檔案同步.md",
+                "file": "Observability/Metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/rsync 跨系統檔案同步.md",
+                "file": "Observability/Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/rsync 跨系統檔案同步.md",
+                "file": "Observability/Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/rsync 跨系統檔案同步.md"
+                "file": "Observability/Metrics.md"
               }
             }
           },
@@ -171,8 +171,12 @@
   },
   "active": "966a514b2c913f0e",
   "lastOpenFiles": [
-    "Container/Docker/清理未使用到的 image、cache、container.md",
+    "Untitled.md",
+    "Observability/Metrics.md",
+    "Observability",
+    "Container/Docker/container 資源監控.md",
     "Linux/rsync 跨系統檔案同步.md",
+    "Container/Docker/清理未使用到的 image、cache、container.md",
     "Git/新增與刪除遠端 repo.md",
     "Git/git.canvas",
     "Git/git alias設定.md",
@@ -195,14 +199,10 @@
     "Network/Authentication - JWT.md",
     "Network/後端 redirect 到前端時，傳送資訊.md",
     "Network/同源政策與CORS.md",
-    "Network/OAuth.md",
-    "Java/application.properties 讀取環境變數 (intellij).md",
     "Network/Untitled",
-    "Java/JPA/JPA Quick Note.md",
     "Java/JPA",
     "Python/Installation",
     "Java/Installation",
-    "Untitled",
     "Container/K8s",
     "Container/Docker",
     "image/access_level_modifiers.png",
