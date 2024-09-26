@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cae4225a69f66b00",
+        "id": "38ec7b3591b05153",
         "type": "tabs",
         "children": [
           {
-            "id": "966a514b2c913f0e",
+            "id": "6e0f56c99e2a18a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Observability/Metrics.md",
+                "file": "Container/Docker/Docker container 資源限制.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Observability/Metrics.md",
+                "file": "Container/Docker/Docker container 資源限制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Observability/Metrics.md",
+                "file": "Container/Docker/Docker container 資源限制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Observability/Metrics.md"
+                "file": "Container/Docker/Docker container 資源限制.md"
               }
             }
           },
@@ -169,14 +169,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "966a514b2c913f0e",
+  "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Observability/Metrics.md",
-    "Observability",
+    "Container/Todo Note.md",
+    "Docker/<Docker container 資源限制.md",
+    "Container/Docker/Dockerfile撰寫.md",
+    "Container/Docker/Docker-compose.md",
+    "Container/Docker/docker ubuntu 指令安裝.md",
+    "Container/Docker/Docker image push 遇到 deny.md",
+    "Container/Docker/Docker container 資源限制.md",
+    "Container/Docker/docker.canvas",
     "Container/Docker/container 資源監控.md",
-    "Linux/rsync 跨系統檔案同步.md",
+    "Container/Docker/將 docker image push 到 docker hub.md",
+    "Container/Docker/忽略特定檔案 .dockerignore.md",
+    "Container/Docker/在本地檔案和容器間傳遞資料.md",
+    "Docker/<Docker.md",
+    "Docker",
     "Container/Docker/清理未使用到的 image、cache、container.md",
+    "Observability/Metrics.md",
+    "Untitled.md",
+    "Observability",
+    "Linux/rsync 跨系統檔案同步.md",
     "Git/新增與刪除遠端 repo.md",
     "Git/git.canvas",
     "Git/git alias設定.md",
@@ -187,18 +200,6 @@
     "Git/git stash檔案暫存.md",
     "Git/git_lifecycle.md",
     "Git/指定追蹤遠端分支.md",
-    "Git/clone所有分支.md",
-    "Git/在遠端新增git分支.md",
-    "Git/Github tag.md",
-    "Java/Todo Note.md",
-    "Java/ORM in JAVA.md",
-    "Network/Todo.md",
-    "Network/Github login.md",
-    "Network/cookie、localStorage、sessionStorage、indexedDB.md",
-    "Network/Basic HTTP Method and Parameter in URL.md",
-    "Network/Authentication - JWT.md",
-    "Network/後端 redirect 到前端時，傳送資訊.md",
-    "Network/同源政策與CORS.md",
     "Network/Untitled",
     "Java/JPA",
     "Python/Installation",
@@ -210,9 +211,7 @@
     "Algorithm",
     "image/envfile.png",
     "image/env.png",
-    "Java/Spring Boot",
     "image/router_path.png",
-    "Container/Docker/docker.canvas",
     "image/Vue-Lifecycle.png",
     "image/v-directive.png",
     "image/MVVM.png",
