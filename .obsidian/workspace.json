@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Queue/Kafka/Python producer 腳本建立.md",
+                "file": "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Message Queue/Kafka/Python producer 腳本建立.md",
+                "file": "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Message Queue/Kafka/Python producer 腳本建立.md",
+                "file": "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Message Queue/Kafka/Python producer 腳本建立.md"
+                "file": "Message Queue/Kafka/zookeeper 修改 admin_server port.md"
               }
             }
           },
@@ -172,13 +171,15 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
-    "Python/Installation/Python virtualenv setup (mac).md",
+    "Message Queue/Kafka/What is Kafka.md",
     "Message Queue/Kafka/Python producer 腳本建立.md",
+    "Message Queue/Kafka/Mac 安裝.md",
+    "Message Queue/Kafka/基本指令.md",
+    "Message Queue/Todo.md",
+    "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
+    "Python/Installation/Python virtualenv setup (mac).md",
     "Python/Installation/Python virtualenv setup (linux).md",
     "Python/Installation/Python ubuntu 安裝.md",
-    "Message Queue/Kafka/基本指令.md",
-    "Message Queue/Kafka/Mac 安裝.md",
-    "Message Queue/Kafka/What is Kafka.md",
     "Linux/Todo.md",
     "Linux/Systemd.md",
     "Linux/Symbolic link.md",
@@ -187,7 +188,6 @@
     "Linux/rsync 跨系統檔案同步.md",
     "Linux/檢查各個目錄大小.md",
     "Linux/列出當前正在使用的 TCP and UDP port.md",
-    "Message Queue/Todo.md",
     "Java/Todo Note.md",
     "Message Queue/Kafka",
     "Message Queue/Rabbit MQ",
@@ -201,7 +201,6 @@
     "Container/Docker/Docker image push 遇到 deny.md",
     "Container/Docker/docker.canvas",
     "Container/Docker/container 資源監控.md",
-    "Container/Docker/將 docker image push 到 docker hub.md",
     "Docker",
     "Observability",
     "Git/git.canvas",
