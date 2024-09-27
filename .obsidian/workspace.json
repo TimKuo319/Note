@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Queue/Kafka/What is Kafka.md",
+                "file": "Linux/Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Message Queue/Kafka/What is Kafka.md",
+                "file": "Linux/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Message Queue/Kafka/What is Kafka.md",
+                "file": "Linux/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Message Queue/Kafka/What is Kafka.md"
+                "file": "Linux/Todo.md"
               }
             }
           },
@@ -172,8 +171,16 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
-    "Message Queue/Todo.md",
+    "Linux/Systemd.md",
+    "Linux/Symbolic link.md",
+    "Linux/SSH config設定.md",
+    "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
+    "Linux/rsync 跨系統檔案同步.md",
+    "Linux/檢查各個目錄大小.md",
+    "Linux/列出當前正在使用的 TCP and UDP port.md",
+    "Linux/Todo.md",
     "Message Queue/Kafka/What is Kafka.md",
+    "Message Queue/Todo.md",
     "Java/Todo Note.md",
     "Message Queue/Kafka",
     "Message Queue/Rabbit MQ",
@@ -196,15 +203,7 @@
     "Observability/Metrics.md",
     "Untitled.md",
     "Observability",
-    "Linux/rsync 跨系統檔案同步.md",
-    "Git/新增與刪除遠端 repo.md",
     "Git/git.canvas",
-    "Git/git alias設定.md",
-    "Git/git cherry-pick.md",
-    "Git/git diff.md",
-    "Git/git head.md",
-    "Git/git ssh金鑰設定.md",
-    "Git/git stash檔案暫存.md",
     "Network/Untitled",
     "Java/JPA",
     "Python/Installation",
