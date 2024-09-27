@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Queue/Kafka/基本指令.md",
+                "file": "Java/Installation/Installation on ubuntu.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Message Queue/Kafka/基本指令.md",
+                "file": "Java/Installation/Installation on ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Message Queue/Kafka/基本指令.md",
+                "file": "Java/Installation/Installation on ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Message Queue/Kafka/基本指令.md"
+                "file": "Java/Installation/Installation on ubuntu.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
+    "Message Queue/Kafka/基本指令.md",
     "Message Queue/Todo.md",
     "Container/Docker/docker ubuntu 指令安裝.md",
     "Java/Installation/Installation on ubuntu.md",
@@ -178,7 +179,6 @@
     "Message Queue/Kafka/What is Kafka.md",
     "Message Queue/Kafka/Python producer 腳本建立.md",
     "Message Queue/Kafka/Mac 安裝.md",
-    "Message Queue/Kafka/基本指令.md",
     "Python/Installation/Python virtualenv setup (mac).md",
     "Python/Installation/Python virtualenv setup (linux).md",
     "Python/Installation/Python ubuntu 安裝.md",
