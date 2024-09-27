@@ -1,4 +1,8 @@
 
+```sh
+pip install kafka-python-ng
+```
+
 
 ```python
 from kafka import KafkaProducer
@@ -30,3 +34,8 @@ if __name__ == "__main__":
     container_name = 'gitmazon'  # 替換為你的容器名稱
     send_stats_to_kafka(container_name)
 ```
+
+
+## Reference
+
+["import kafka" fails with "ModuleNotFoundError: No module named 'kafka.vendor.six.moves'" under Python 3.12 · Issue #2412 · dpkp/kafka-python](https://github.com/dpkp/kafka-python/issues/2412)
