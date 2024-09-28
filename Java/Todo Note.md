@@ -28,6 +28,7 @@
 	- `findById()`
 	- `deleteById()`
 	- JPQL
+	- entity graph
 
 - [ ] 網址解析
 	- UriComponents

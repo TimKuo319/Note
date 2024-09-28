@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md",
+                "file": "Java/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md",
+                "file": "Java/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md",
+                "file": "Java/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md"
+                "file": "Java/Todo Note.md"
               }
             }
           },
@@ -171,10 +172,10 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
+    "Java/Installation/Installation on ubuntu.md",
     "Message Queue/Kafka/基本指令.md",
     "Message Queue/Todo.md",
     "Container/Docker/docker ubuntu 指令安裝.md",
-    "Java/Installation/Installation on ubuntu.md",
     "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
     "Message Queue/Kafka/What is Kafka.md",
     "Message Queue/Kafka/Python producer 腳本建立.md",
