@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Message Queue/Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Message Queue/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Message Queue/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Todo Note.md"
+                "file": "Message Queue/Todo.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
+    "Java/Todo Note.md",
     "Java/Installation/Installation on ubuntu.md",
     "Message Queue/Kafka/基本指令.md",
     "Message Queue/Todo.md",
@@ -191,7 +192,6 @@
     "Linux/rsync 跨系統檔案同步.md",
     "Linux/檢查各個目錄大小.md",
     "Linux/列出當前正在使用的 TCP and UDP port.md",
-    "Java/Todo Note.md",
     "Message Queue/Kafka",
     "Message Queue/Rabbit MQ",
     "Message Queue",
