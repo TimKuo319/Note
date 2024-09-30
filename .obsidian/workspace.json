@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx/Port forwarding with nginx.md",
+                "file": "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/Port forwarding with nginx.md",
+                "file": "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx/Port forwarding with nginx.md",
+                "file": "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/Port forwarding with nginx.md"
+                "file": "Nginx/certbot 憑證申請(搭配自己買的 domain).md"
               }
             }
           },
@@ -171,8 +172,17 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
+    "Nginx/Serve static site with nginx.md",
+    "Nginx/Todo Note.md",
+    "Nginx/WebSocket nginx 設定.md",
+    "Nginx/ZeroSSL 憑證申請.md",
+    "Nginx/Port forwarding with nginx.md",
     "Nginx/Nginx CORS setting.md",
+    "Nginx/Nginx 安裝.md",
+    "Nginx/Nginx 在 SPA 上的設定.md",
     "Nginx/Nginx.md",
+    "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
+    "Nginx/ZeroSSL憑證申請",
     "Network/Domain name.md",
     "AWS/CloudFront S3/CloudFront behavior 設定.md",
     "AWS/CloudFront S3/CloudFront 刷新資料.md",
@@ -191,14 +201,6 @@
     "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
     "Message Queue/Kafka/What is Kafka.md",
     "Message Queue/Kafka/Python producer 腳本建立.md",
-    "Message Queue/Kafka/Mac 安裝.md",
-    "Python/Installation/Python virtualenv setup (mac).md",
-    "Python/Installation/Python virtualenv setup (linux).md",
-    "Python/Installation/Python ubuntu 安裝.md",
-    "Linux/Todo.md",
-    "Linux/Systemd.md",
-    "Linux/Symbolic link.md",
-    "Linux/SSH config設定.md",
     "Message Queue/Kafka",
     "Message Queue/Rabbit MQ",
     "Message Queue",
@@ -208,7 +210,6 @@
     "Git/git.canvas",
     "Network/Untitled",
     "Java/JPA",
-    "Python/Installation",
     "image/access_level_modifiers.png",
     "image/envfile.png",
     "image/env.png",
