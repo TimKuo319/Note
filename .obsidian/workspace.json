@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Queue/Todo.md",
+                "file": "Frontend/特殊效果/Particles.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Message Queue/Todo.md",
+                "file": "Frontend/特殊效果/Particles.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Message Queue/Todo.md",
+                "file": "Frontend/特殊效果/Particles.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Message Queue/Todo.md"
+                "file": "Frontend/特殊效果/Particles.js.md"
               }
             }
           },
@@ -172,10 +171,12 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
+    "Message Queue/Todo.md",
+    "Frontend/特殊效果/Particles.js.md",
+    "Frontend/特殊效果",
     "Java/Todo Note.md",
     "Java/Installation/Installation on ubuntu.md",
     "Message Queue/Kafka/基本指令.md",
-    "Message Queue/Todo.md",
     "Container/Docker/docker ubuntu 指令安裝.md",
     "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
     "Message Queue/Kafka/What is Kafka.md",
@@ -200,7 +201,6 @@
     "Docker/<Docker container 資源限制.md",
     "Container/Docker/Dockerfile撰寫.md",
     "Container/Docker/Docker-compose.md",
-    "Container/Docker/Docker image push 遇到 deny.md",
     "Container/Docker/docker.canvas",
     "Docker",
     "Observability",
@@ -209,7 +209,6 @@
     "Java/JPA",
     "Python/Installation",
     "Java/Installation",
-    "Container/K8s",
     "image/access_level_modifiers.png",
     "image/envfile.png",
     "image/env.png",
