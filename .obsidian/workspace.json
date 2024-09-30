@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/S3 靜態網站 host + CDN.md",
+                "file": "AWS/CloudFront S3/CloudFront behavior 設定.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/S3 靜態網站 host + CDN.md",
+                "file": "AWS/CloudFront S3/CloudFront behavior 設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/S3 靜態網站 host + CDN.md",
+                "file": "AWS/CloudFront S3/CloudFront behavior 設定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/S3 靜態網站 host + CDN.md"
+                "file": "AWS/CloudFront S3/CloudFront behavior 設定.md"
               }
             }
           },
@@ -171,8 +171,11 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
-    "AWS/Route53 網域購買及 SSL 證書申請.md",
-    "AWS/S3 靜態網站 host + CDN.md",
+    "AWS/CloudFront S3/CloudFront 刷新資料.md",
+    "AWS/CloudFront S3/CloudFront behavior 設定.md",
+    "AWS/CloudFront S3/S3 靜態網站 host + CDN.md",
+    "AWS/CloudFront S3",
+    "AWS/CloudFront S3/Route53 網域購買及 SSL 證書申請.md",
     "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
     "AWS/Auto Load Balancer 設定.md",
     "Frontend/特殊效果/Particles.js.md",
@@ -196,11 +199,9 @@
     "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
     "Linux/rsync 跨系統檔案同步.md",
     "Linux/檢查各個目錄大小.md",
-    "Linux/列出當前正在使用的 TCP and UDP port.md",
     "Message Queue/Kafka",
     "Message Queue/Rabbit MQ",
     "Message Queue",
-    "Container/Docker/Docker container 資源限制.md",
     "Container/Docker/docker.canvas",
     "Docker",
     "Observability",
@@ -208,7 +209,6 @@
     "Network/Untitled",
     "Java/JPA",
     "Python/Installation",
-    "Java/Installation",
     "image/access_level_modifiers.png",
     "image/envfile.png",
     "image/env.png",
