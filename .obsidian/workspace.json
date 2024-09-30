@@ -171,8 +171,9 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
-    "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+    "AWS/Route53 網域購買及 SSL 證書申請.md",
     "AWS/S3 靜態網站 host + CDN.md",
+    "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
     "AWS/Auto Load Balancer 設定.md",
     "Frontend/特殊效果/Particles.js.md",
     "Message Queue/Todo.md",
@@ -200,7 +201,6 @@
     "Message Queue/Rabbit MQ",
     "Message Queue",
     "Container/Docker/Docker container 資源限制.md",
-    "Container/Todo Note.md",
     "Container/Docker/docker.canvas",
     "Docker",
     "Observability",
