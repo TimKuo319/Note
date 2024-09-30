@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/特殊效果/Particles.js.md",
+                "file": "AWS/S3 靜態網站 host + CDN.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/特殊效果/Particles.js.md",
+                "file": "AWS/S3 靜態網站 host + CDN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/特殊效果/Particles.js.md",
+                "file": "AWS/S3 靜態網站 host + CDN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/特殊效果/Particles.js.md"
+                "file": "AWS/S3 靜態網站 host + CDN.md"
               }
             }
           },
@@ -171,8 +171,11 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
-    "Message Queue/Todo.md",
+    "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+    "AWS/S3 靜態網站 host + CDN.md",
+    "AWS/Auto Load Balancer 設定.md",
     "Frontend/特殊效果/Particles.js.md",
+    "Message Queue/Todo.md",
     "Frontend/特殊效果",
     "Java/Todo Note.md",
     "Java/Installation/Installation on ubuntu.md",
@@ -198,9 +201,6 @@
     "Message Queue",
     "Container/Docker/Docker container 資源限制.md",
     "Container/Todo Note.md",
-    "Docker/<Docker container 資源限制.md",
-    "Container/Docker/Dockerfile撰寫.md",
-    "Container/Docker/Docker-compose.md",
     "Container/Docker/docker.canvas",
     "Docker",
     "Observability",
