@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
+                "file": "Nginx/WebSocket nginx 設定.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
+                "file": "Nginx/WebSocket nginx 設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
+                "file": "Nginx/WebSocket nginx 設定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/certbot 憑證申請(搭配自己買的 domain).md"
+                "file": "Nginx/WebSocket nginx 設定.md"
               }
             }
           },
@@ -172,16 +172,16 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
-    "Nginx/Serve static site with nginx.md",
-    "Nginx/Todo Note.md",
+    "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
     "Nginx/WebSocket nginx 設定.md",
-    "Nginx/ZeroSSL 憑證申請.md",
+    "Nginx/Serve static site with nginx.md",
     "Nginx/Port forwarding with nginx.md",
     "Nginx/Nginx CORS setting.md",
     "Nginx/Nginx 安裝.md",
     "Nginx/Nginx 在 SPA 上的設定.md",
     "Nginx/Nginx.md",
-    "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
+    "Nginx/Todo Note.md",
+    "Nginx/ZeroSSL 憑證申請.md",
     "Nginx/ZeroSSL憑證申請",
     "Network/Domain name.md",
     "AWS/CloudFront S3/CloudFront behavior 設定.md",

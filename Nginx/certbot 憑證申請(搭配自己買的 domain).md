@@ -22,3 +22,46 @@ sudo certbot --nginx -d your-domain.com -d www.your-domain.com
 ```sh
 sudo certbot certonly --nginx -d your-domain.com -d www.your-domain.com
 ```
+
+在 `site-available` 中進行檔案配置
+
+```nginx
+server {
+    listen 80;
+    server_name masternode.gitmazon.com;
+
+    location / {
+        proxy_pass http://localhost:8082;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+
+    return 301 https://$host$request_uri;
+}
+
+server {
+    listen 443 ssl;
+    server_name masternode.gitmazon.com;
+
+    ssl_certificate /etc/letsencrypt/live/masternode.gitmazon.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/masternode.gitmazon.com/privkey.pem;
+    include /etc/letsencrypt/options-ssl-nginx.conf;
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
+
+    location / {
+        proxy_pass http://localhost:8082;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+```
+
+- 透過 symbol link 在 `sites-enabled` 中建立連結
+
+```
+sudo ln -s /etc/nginx/sites-available/masternode.gitmazon.com /etc/nginx/sites-enabled/
+```
