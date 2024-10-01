@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Todo.md",
+                "file": "Database/MySQL/Install MySQL on Ubuntu.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Todo.md",
+                "file": "Database/MySQL/Install MySQL on Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Todo.md",
+                "file": "Database/MySQL/Install MySQL on Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Todo.md"
+                "file": "Database/MySQL/Install MySQL on Ubuntu.md"
               }
             }
           },
@@ -171,6 +172,21 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
+    "Database/MySQL/移除 mysql.md",
+    "Database/MySQL/Relational Database.md",
+    "Database/MySQL/MySQL Basic.md",
+    "Database/MySQL/Mysql  pool.md",
+    "Database/MySQL/Install MySQL on Ubuntu.md",
+    "Database/MySQL/Database design.md",
+    "Database/What is transaction and ACID.md",
+    "Database/Transaction.md",
+    "Database/spring boot jdbc遇到retrieval key not allowed.md",
+    "Database/Shard.md",
+    "Database/Database migration.md",
+    "Database/Database lock.md",
+    "Database/Concurrency problem.md",
+    "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
+    "Network/Todo.md",
     "Message Queue/Todo.md",
     "Nginx/Todo Note.md",
     "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
@@ -183,23 +199,8 @@
     "Nginx/Nginx 在 SPA 上的設定.md",
     "Nginx/ZeroSSL 憑證申請.md",
     "Nginx/ZeroSSL憑證申請",
-    "Network/Domain name.md",
-    "AWS/CloudFront S3/CloudFront behavior 設定.md",
-    "AWS/CloudFront S3/CloudFront 刷新資料.md",
-    "AWS/CloudFront S3/S3 靜態網站 host + CDN.md",
     "AWS/CloudFront S3",
-    "AWS/CloudFront S3/Route53 網域購買及 SSL 證書申請.md",
-    "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
-    "AWS/Auto Load Balancer 設定.md",
-    "Frontend/特殊效果/Particles.js.md",
     "Frontend/特殊效果",
-    "Java/Todo Note.md",
-    "Java/Installation/Installation on ubuntu.md",
-    "Message Queue/Kafka/基本指令.md",
-    "Container/Docker/docker ubuntu 指令安裝.md",
-    "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
-    "Message Queue/Kafka/What is Kafka.md",
-    "Message Queue/Kafka/Python producer 腳本建立.md",
     "Message Queue/Kafka",
     "Message Queue/Rabbit MQ",
     "Message Queue",
