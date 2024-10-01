@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Queue/Todo.md",
+                "file": "Network/Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Message Queue/Todo.md",
+                "file": "Network/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Message Queue/Todo.md",
+                "file": "Network/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Message Queue/Todo.md"
+                "file": "Network/Todo.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
+    "Message Queue/Todo.md",
     "Nginx/Todo Note.md",
     "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
     "Nginx/Nginx.md",
@@ -191,7 +192,6 @@
     "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
     "AWS/Auto Load Balancer 設定.md",
     "Frontend/特殊效果/Particles.js.md",
-    "Message Queue/Todo.md",
     "Frontend/特殊效果",
     "Java/Todo Note.md",
     "Java/Installation/Installation on ubuntu.md",
