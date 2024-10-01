@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx/WebSocket nginx 設定.md",
+                "file": "Nginx/Nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/WebSocket nginx 設定.md",
+                "file": "Nginx/Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx/WebSocket nginx 設定.md",
+                "file": "Nginx/Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/WebSocket nginx 設定.md"
+                "file": "Nginx/Nginx.md"
               }
             }
           },
@@ -172,8 +171,8 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
-    "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
     "Nginx/WebSocket nginx 設定.md",
+    "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
     "Nginx/Serve static site with nginx.md",
     "Nginx/Port forwarding with nginx.md",
     "Nginx/Nginx CORS setting.md",
