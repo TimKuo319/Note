@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MySQL/Install MySQL on Ubuntu.md",
+                "file": "Linux/Tmux 基本使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MySQL/Install MySQL on Ubuntu.md",
+                "file": "Linux/Tmux 基本使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MySQL/Install MySQL on Ubuntu.md",
+                "file": "Linux/Tmux 基本使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MySQL/Install MySQL on Ubuntu.md"
+                "file": "Linux/Tmux 基本使用.md"
               }
             }
           },
@@ -172,11 +171,11 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
+    "Database/MySQL/Install MySQL on Ubuntu.md",
     "Database/MySQL/移除 mysql.md",
     "Database/MySQL/Relational Database.md",
     "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Mysql  pool.md",
-    "Database/MySQL/Install MySQL on Ubuntu.md",
     "Database/MySQL/Database design.md",
     "Database/What is transaction and ACID.md",
     "Database/Transaction.md",
