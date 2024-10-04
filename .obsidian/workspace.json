@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Tmux 基本使用.md",
+                "file": "Message Queue/Kafka/What is Kafka.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Tmux 基本使用.md",
+                "file": "Message Queue/Kafka/What is Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Tmux 基本使用.md",
+                "file": "Message Queue/Kafka/What is Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Tmux 基本使用.md"
+                "file": "Message Queue/Kafka/What is Kafka.md"
               }
             }
           },
@@ -151,12 +152,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,6 +171,13 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
+    "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
+    "Message Queue/Kafka/透過 docker 啟動 kafka.md",
+    "Message Queue/Todo.md",
+    "Message Queue/Kafka/基本指令.md",
+    "Message Queue/Kafka/Python producer 腳本建立.md",
+    "Message Queue/Kafka/Mac 安裝.md",
+    "Linux/Tmux 基本使用.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
     "Database/MySQL/移除 mysql.md",
     "Database/MySQL/Relational Database.md",
@@ -186,17 +193,10 @@
     "Database/Concurrency problem.md",
     "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
     "Network/Todo.md",
-    "Message Queue/Todo.md",
     "Nginx/Todo Note.md",
     "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
     "Nginx/Nginx.md",
     "Nginx/WebSocket nginx 設定.md",
-    "Nginx/Serve static site with nginx.md",
-    "Nginx/Port forwarding with nginx.md",
-    "Nginx/Nginx CORS setting.md",
-    "Nginx/Nginx 安裝.md",
-    "Nginx/Nginx 在 SPA 上的設定.md",
-    "Nginx/ZeroSSL 憑證申請.md",
     "Nginx/ZeroSSL憑證申請",
     "AWS/CloudFront S3",
     "Frontend/特殊效果",
