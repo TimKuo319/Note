@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/檢查各個目錄大小.md",
+                "file": "Linux/SSH config設定.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/檢查各個目錄大小.md",
+                "file": "Linux/SSH config設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/檢查各個目錄大小.md",
+                "file": "Linux/SSH config設定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/檢查各個目錄大小.md"
+                "file": "Linux/SSH config設定.md"
               }
             }
           },
@@ -171,6 +171,17 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
+    "Linux/Todo.md",
+    "Network/Github login.md",
+    "Network/Basic HTTP Method and Parameter in URL.md",
+    "Network/cookie、localStorage、sessionStorage、indexedDB.md",
+    "Network/Authentication - JWT.md",
+    "Network/後端 redirect 到前端時，傳送資訊.md",
+    "Network/同源政策與CORS.md",
+    "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
+    "Linux/SSH config設定.md",
+    "Linux/Tmux 基本使用.md",
+    "Linux/檢查各個目錄大小.md",
     "Container/Todo Note.md",
     "Container/Docker/忽略特定檔案 .dockerignore.md",
     "Container/Docker/在本地檔案和容器間傳遞資料.md",
@@ -181,23 +192,12 @@
     "Container/Docker/清理未使用到的 image、cache、container.md",
     "Docker/<Docker container 資源限制.md",
     "Docker/<Docker.md",
-    "Linux/檢查各個目錄大小.md",
     "Linux/列出當前正在使用的 TCP and UDP port.md",
     "Container/Docker/container 資源監控.md",
     "Message Queue/Kafka/基本指令.md",
     "Message Queue/Kafka/Mac 安裝.md",
     "Message Queue/Kafka/透過 docker 啟動 kafka.md",
     "Message Queue/Todo.md",
-    "Message Queue/Kafka/What is Kafka.md",
-    "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
-    "Message Queue/Kafka/Python producer 腳本建立.md",
-    "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
-    "Linux/Tmux 基本使用.md",
-    "Database/MySQL/Install MySQL on Ubuntu.md",
-    "Database/MySQL/移除 mysql.md",
-    "Database/MySQL/Relational Database.md",
-    "Database/MySQL/MySQL Basic.md",
-    "Database/MySQL/Mysql  pool.md",
     "Nginx/ZeroSSL憑證申請",
     "AWS/CloudFront S3",
     "Frontend/特殊效果",
