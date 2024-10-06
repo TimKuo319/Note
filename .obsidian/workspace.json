@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Todo Note.md",
+                "file": "Frontend_Template/Resource.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Todo Note.md",
+                "file": "Frontend_Template/Resource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Todo Note.md",
+                "file": "Frontend_Template/Resource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Todo Note.md"
+                "file": "Frontend_Template/Resource.md"
               }
             }
           },
@@ -171,6 +171,9 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
+    "Git/Todo Note.md",
+    "Frontend_Template/Resource.md",
+    "Frontend_Template",
     "Java/Todo Note.md",
     "Java/JPA/Spring Data JPA with MySQL.md",
     "Java/JPA/JPA Quick Note.md",
@@ -196,8 +199,6 @@
     "Container/Docker/Docker-compose.md",
     "Container/Docker/Dockerfile撰寫.md",
     "Container/Docker/docker.canvas",
-    "Container/Docker/清理未使用到的 image、cache、container.md",
-    "Docker/<Docker container 資源限制.md",
     "Nginx/ZeroSSL憑證申請",
     "AWS/CloudFront S3",
     "Frontend/特殊效果",
@@ -208,7 +209,6 @@
     "Observability",
     "Git/git.canvas",
     "Network/Untitled",
-    "Java/JPA",
     "image/access_level_modifiers.png",
     "image/envfile.png",
     "image/env.png",
