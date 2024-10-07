@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend_Template/Resource.md",
+                "file": "Stress Test/K6/K6 核心名詞.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend_Template/Resource.md",
+                "file": "Stress Test/K6/K6 核心名詞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend_Template/Resource.md",
+                "file": "Stress Test/K6/K6 核心名詞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend_Template/Resource.md"
+                "file": "Stress Test/K6/K6 核心名詞.md"
               }
             }
           },
@@ -171,8 +171,12 @@
   },
   "active": "6e0f56c99e2a18a5",
   "lastOpenFiles": [
-    "Git/Todo Note.md",
     "Frontend_Template/Resource.md",
+    "Stress Test/K6/K6 核心名詞.md",
+    "Stress Test/K6",
+    "Stress Test",
+    "Untitled.md",
+    "Git/Todo Note.md",
     "Frontend_Template",
     "Java/Todo Note.md",
     "Java/JPA/Spring Data JPA with MySQL.md",
@@ -196,8 +200,6 @@
     "Container/Docker/忽略特定檔案 .dockerignore.md",
     "Container/Docker/在本地檔案和容器間傳遞資料.md",
     "Container/Docker/將 docker image push 到 docker hub.md",
-    "Container/Docker/Docker-compose.md",
-    "Container/Docker/Dockerfile撰寫.md",
     "Container/Docker/docker.canvas",
     "Nginx/ZeroSSL憑證申請",
     "AWS/CloudFront S3",
@@ -206,9 +208,7 @@
     "Message Queue/Rabbit MQ",
     "Message Queue",
     "Docker",
-    "Observability",
     "Git/git.canvas",
-    "Network/Untitled",
     "image/access_level_modifiers.png",
     "image/envfile.png",
     "image/env.png",
