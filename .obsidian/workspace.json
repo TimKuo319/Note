@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "38ec7b3591b05153",
+        "id": "51f09a2bd633d4a8",
         "type": "tabs",
         "children": [
           {
-            "id": "6e0f56c99e2a18a5",
+            "id": "256f546d0c581989",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stress Test/K6/K6 核心名詞.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stress Test/K6/K6 核心名詞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stress Test/K6/K6 核心名詞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Stress Test/K6/K6 核心名詞.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,11 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e0f56c99e2a18a5",
+  "active": "256f546d0c581989",
   "lastOpenFiles": [
+    "Testing/K6/K6 核心名詞.md",
+    "Testing/K6/Scenario Usage.md",
+    "Testing/壓力測試工具 - K6.md",
     "Frontend_Template/Resource.md",
-    "Stress Test/K6/K6 核心名詞.md",
-    "Stress Test/K6",
+    "Testing/K6",
     "Stress Test",
     "Untitled.md",
     "Git/Todo Note.md",
@@ -198,8 +193,6 @@
     "Linux/Tmux 基本使用.md",
     "Linux/檢查各個目錄大小.md",
     "Container/Docker/忽略特定檔案 .dockerignore.md",
-    "Container/Docker/在本地檔案和容器間傳遞資料.md",
-    "Container/Docker/將 docker image push 到 docker hub.md",
     "Container/Docker/docker.canvas",
     "Nginx/ZeroSSL憑證申請",
     "AWS/CloudFront S3",
