@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Github tag.md",
+                "file": "Java/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Github tag.md",
+                "file": "Java/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Github tag.md",
+                "file": "Java/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Github tag.md"
+                "file": "Java/Todo Note.md"
               }
             }
           },
@@ -171,6 +171,21 @@
   },
   "active": "256f546d0c581989",
   "lastOpenFiles": [
+    "Network/Todo.md",
+    "Java/Todo Note.md",
+    "Java/Java Basic/Java Stream.md",
+    "Java/application.properties 讀取環境變數 (intellij).md",
+    "Obsidian/列出當前 folder 下的所有 tasks.md",
+    "Network/Forward proxy and Reverse Proxy.md",
+    "Excalidraw/Forward Proxy.md",
+    "Untitled.md",
+    "Network/Untitled.md",
+    "Obsidian",
+    "Network/後端 redirect 到前端時，傳送資訊.md",
+    "Network/Domain name.md",
+    "Network/同源政策與CORS.md",
+    "Linux/htop 基礎使用.md",
+    "Git/Github tag.md",
     "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
     "Database/MySQL/Mysql  pool.md",
@@ -185,21 +200,7 @@
     "Frontend_Template/Resource.md",
     "Testing/K6",
     "Stress Test",
-    "Untitled.md",
-    "Git/Todo Note.md",
     "Frontend_Template",
-    "Java/Todo Note.md",
-    "Java/JPA/Spring Data JPA with MySQL.md",
-    "Java/JPA/JPA Quick Note.md",
-    "Java/JPA/雙向關聯與單向關聯.md",
-    "Java/application.properties 讀取環境變數 (intellij).md",
-    "Java/Multi-datasource in java.md",
-    "Java/ORM in JAVA.md",
-    "Linux/SSH config設定.md",
-    "Container/Todo Note.md",
-    "Linux/Todo.md",
-    "Network/Github login.md",
-    "Network/Basic HTTP Method and Parameter in URL.md",
     "Container/Docker/docker.canvas",
     "Nginx/ZeroSSL憑證申請",
     "AWS/CloudFront S3",
@@ -207,7 +208,6 @@
     "Message Queue/Kafka",
     "Message Queue/Rabbit MQ",
     "Message Queue",
-    "Docker",
     "Git/git.canvas",
     "image/access_level_modifiers.png",
     "image/envfile.png",
