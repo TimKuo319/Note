@@ -49,6 +49,7 @@ SHOW VARIABLES LIKE 'validate_password%';
 sudo apt install mysql-client
 ```
 
+
 ## Reference
 
 [How To Install MySQL on Ubuntu 20.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
