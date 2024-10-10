@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Github tag.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Github tag.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Github tag.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Github tag.md"
+                "file": "Database/MySQL/MySQL Basic.md"
               }
             }
           },
@@ -169,12 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "256f546d0c581989",
   "lastOpenFiles": [
+    "Database/MySQL/移除 mysql.md",
+    "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
+    "Git/Github tag.md",
     "Crypto concurrency",
     "Untitled.md",
     "Untitled 1.md",
-    "Git/Github tag.md",
     "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
     "Testing/K6/Scenario Usage.md",
     "Java/Todo Note.md",
@@ -190,13 +192,11 @@
     "Network/Domain name.md",
     "Network/同源政策與CORS.md",
     "Linux/htop 基礎使用.md",
-    "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
     "Database/MySQL/Mysql  pool.md",
     "Database/MySQL/MySQL Basic.md",
     "Database/MySQL/Relational Database.md",
     "Database/MySQL/Database design.md",
-    "Database/MySQL/移除 mysql.md",
     "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
     "Testing/K6",
     "Stress Test",
@@ -207,7 +207,6 @@
     "Frontend/特殊效果",
     "Message Queue/Kafka",
     "Message Queue/Rabbit MQ",
-    "Message Queue",
     "Git/git.canvas",
     "image/access_level_modifiers.png",
     "image/envfile.png",
