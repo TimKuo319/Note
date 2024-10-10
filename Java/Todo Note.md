@@ -58,3 +58,5 @@ path includes {{query.file.folder}}
 	1. 成員函數
 	2. 其他注入
 	- 參考 masternode jwt util	
+
+- [ ] spring boot static resource location
