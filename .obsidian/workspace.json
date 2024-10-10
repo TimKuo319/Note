@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -170,11 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "256f546d0c581989",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "Crypto concurrency",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Git/Github tag.md",
     "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
     "Testing/K6/Scenario Usage.md",
-    "Git/Github tag.md",
     "Java/Todo Note.md",
     "Network/Todo.md",
     "Java/Java Basic/Java Stream.md",
@@ -182,7 +184,6 @@
     "Obsidian/列出當前 folder 下的所有 tasks.md",
     "Network/Forward proxy and Reverse Proxy.md",
     "Excalidraw/Forward Proxy.md",
-    "Untitled.md",
     "Network/Untitled.md",
     "Obsidian",
     "Network/後端 redirect 到前端時，傳送資訊.md",
@@ -197,8 +198,6 @@
     "Database/MySQL/Database design.md",
     "Database/MySQL/移除 mysql.md",
     "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
-    "Testing/K6/K6 核心名詞.md",
-    "Testing/壓力測試工具 - K6.md",
     "Testing/K6",
     "Stress Test",
     "Frontend_Template",
