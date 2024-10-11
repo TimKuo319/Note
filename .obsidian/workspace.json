@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Git/Github tag.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Git/Github tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Git/Github tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Todo Note.md"
+                "file": "Git/Github tag.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "256f546d0c581989",
   "lastOpenFiles": [
+    "Java/Todo Note.md",
     "Java/application.properties 讀取環境變數 (intellij).md",
     "Java/Spring Boot/Thymeleaf in Spring Boot with Maven.md",
     "Java/Spring Boot/Spring Boot設定log檔案.md",
@@ -191,7 +192,6 @@
     "Untitled 1.md",
     "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
     "Testing/K6/Scenario Usage.md",
-    "Java/Todo Note.md",
     "Network/Todo.md",
     "Java/Java Basic/Java Stream.md",
     "Obsidian/列出當前 folder 下的所有 tasks.md",
