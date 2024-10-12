@@ -64,4 +64,7 @@ path includes {{query.file.folder}}
 
 
 - [ ] restTemplate 的 exchange
-	- 
+
+- [ ] `Transcatoinal` 的觸發條件
+	- function 有 throw 出未被處理的 exception
+	- 資料的寫入會被延遲到執行成功才寫入
