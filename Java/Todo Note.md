@@ -20,19 +20,23 @@ path includes {{query.file.folder}}
 
 - [ ] maven wrapper 的用途，以及在 dockerfile 中是否會使用它
 
-- [ ] transactional annotation 
-
 - [ ] synchornize
 
-- [ ] what is object mapper
+- [ ] what is object mapper ⏫ 
 
-- [ ] JPA 理解
+- [ ] JPA 理解 ⏫ 
 	- 基礎 CRUD 只針對 `primary key`
 	- `findAll()`
 	- `findById()`
 	- `deleteById()`
 	- JPQL
 	- entity graph
+
+- [ ] restemplate ⏫ 
+
+- [ ] `@Transactional` ⏫ 
+	- function 有 throw 出未被處理的 exception
+	- 資料的寫入會被延遲到執行成功才寫入
 
 - [ ] 網址解析
 	- UriComponents
@@ -62,9 +66,3 @@ path includes {{query.file.folder}}
 - [ ] spring boot static resource location
 	- [Spring Boot(六)：如何配置静态资源的地址与访问路径_spring.web.resources.static-locations-CSDN博客](https://blog.csdn.net/yiifaa/article/details/78299052)
 
-
-- [ ] restTemplate 的 exchange
-
-- [ ] `Transcatoinal` 的觸發條件
-	- function 有 throw 出未被處理的 exception
-	- 資料的寫入會被延遲到執行成功才寫入
