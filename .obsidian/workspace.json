@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Container/Docker/清理未使用到的 image、cache、container.md",
+                "file": "Java/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Container/Docker/清理未使用到的 image、cache、container.md",
+                "file": "Java/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Container/Docker/清理未使用到的 image、cache、container.md",
+                "file": "Java/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Container/Docker/清理未使用到的 image、cache、container.md"
+                "file": "Java/Todo Note.md"
               }
             }
           },
@@ -171,6 +172,10 @@
   },
   "active": "256f546d0c581989",
   "lastOpenFiles": [
+    "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
+    "Python/Installation/Python virtualenv setup (mac).md",
+    "Python/Installation/Python virtualenv setup (linux).md",
+    "Container/Docker/清理未使用到的 image、cache、container.md",
     "Git/Github tag.md",
     "Java/Todo Note.md",
     "Java/application.properties 讀取環境變數 (intellij).md",
@@ -181,7 +186,6 @@
     "Java/Spring Boot/Spring Boot AOP.md",
     "Java/Spring Boot/JDBC Basic.md",
     "Java/Spring Boot/Exception Handler.md",
-    "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Java/ORM in JAVA.md",
     "Java/Multi-datasource in java.md",
     "Database/MySQL/MySQL Basic.md",
@@ -195,9 +199,6 @@
     "Network/Todo.md",
     "Java/Java Basic/Java Stream.md",
     "Obsidian/列出當前 folder 下的所有 tasks.md",
-    "Network/Forward proxy and Reverse Proxy.md",
-    "Excalidraw/Forward Proxy.md",
-    "Network/Untitled.md",
     "Obsidian",
     "Testing/K6",
     "Stress Test",
