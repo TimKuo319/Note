@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Password Management/BitWarden.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Password Management/BitWarden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Password Management/BitWarden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Todo Note.md"
+                "file": "Password Management/BitWarden.md"
               }
             }
           },
@@ -172,12 +171,15 @@
   },
   "active": "256f546d0c581989",
   "lastOpenFiles": [
+    "Password Management/Todo.md",
+    "Java/Todo Note.md",
+    "Password Management/BitWarden.md",
+    "Password Management",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Python/Installation/Python virtualenv setup (mac).md",
     "Python/Installation/Python virtualenv setup (linux).md",
     "Container/Docker/清理未使用到的 image、cache、container.md",
     "Git/Github tag.md",
-    "Java/Todo Note.md",
     "Java/application.properties 讀取環境變數 (intellij).md",
     "Java/Spring Boot/Thymeleaf in Spring Boot with Maven.md",
     "Java/Spring Boot/Spring Boot設定log檔案.md",
@@ -197,8 +199,6 @@
     "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
     "Testing/K6/Scenario Usage.md",
     "Network/Todo.md",
-    "Java/Java Basic/Java Stream.md",
-    "Obsidian/列出當前 folder 下的所有 tasks.md",
     "Obsidian",
     "Testing/K6",
     "Stress Test",
@@ -208,7 +208,6 @@
     "AWS/CloudFront S3",
     "Frontend/特殊效果",
     "Message Queue/Kafka",
-    "Message Queue/Rabbit MQ",
     "Git/git.canvas",
     "image/access_level_modifiers.png",
     "image/envfile.png",
