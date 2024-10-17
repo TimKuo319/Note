@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Message Queue/Kafka/What is Kafka.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Message Queue/Kafka/What is Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Message Queue/Kafka/What is Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Todo Note.md"
+                "file": "Message Queue/Kafka/What is Kafka.md"
               }
             }
           },
@@ -171,9 +171,13 @@
   },
   "active": "256f546d0c581989",
   "lastOpenFiles": [
+    "Message Queue/Kafka/Python producer 腳本建立.md",
+    "Message Queue/Kafka/Mac 安裝.md",
+    "Message Queue/Kafka/透過 docker 啟動 kafka.md",
+    "Message Queue/Kafka/基本指令.md",
+    "Java/Todo Note.md",
     "Password Management/BitWarden.md",
     "Password Management/Todo.md",
-    "Java/Todo Note.md",
     "Password Management",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Python/Installation/Python virtualenv setup (mac).md",
@@ -195,10 +199,6 @@
     "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
     "Crypto concurrency",
     "Untitled.md",
-    "Untitled 1.md",
-    "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
-    "Testing/K6/Scenario Usage.md",
-    "Network/Todo.md",
     "Obsidian",
     "Testing/K6",
     "Stress Test",
