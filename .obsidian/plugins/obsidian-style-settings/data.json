@@ -19,5 +19,7 @@
   "blue-topaz-theme@@tab-title-bar-position": false,
   "blue-topaz-theme@@toggle-divider-lines": false,
   "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
-  "blue-topaz-theme@@background-notebook-liked-switch": false
+  "blue-topaz-theme@@background-notebook-liked-switch": false,
+  "minimal-advanced@@hide-markdown": false,
+  "minimal-advanced@@styled-scrollbars": false
 }

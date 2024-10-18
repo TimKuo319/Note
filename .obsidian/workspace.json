@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Queue/Kafka/What is Kafka.md",
+                "file": "Message Queue/Kafka/Mac 安裝.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Message Queue/Kafka/What is Kafka.md",
+                "file": "Message Queue/Kafka/Mac 安裝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Message Queue/Kafka/What is Kafka.md",
+                "file": "Message Queue/Kafka/Mac 安裝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Message Queue/Kafka/What is Kafka.md"
+                "file": "Message Queue/Kafka/Mac 安裝.md"
               }
             }
           },
@@ -166,15 +166,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "256f546d0c581989",
   "lastOpenFiles": [
-    "Message Queue/Kafka/Python producer 腳本建立.md",
-    "Message Queue/Kafka/Mac 安裝.md",
-    "Message Queue/Kafka/透過 docker 啟動 kafka.md",
+    "Linux/rsync 跨系統檔案同步.md",
+    "Linux/htop 基礎使用.md",
+    "Linux/檢查各個目錄大小.md",
+    "Linux/列出當前正在使用的 TCP and UDP port.md",
+    "Database/Mongo/MongoDB Conection and CRUD.md",
+    "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
+    "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
+    "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
+    "Linux/Symbolic link.md",
     "Message Queue/Kafka/基本指令.md",
+    "Message Queue/Kafka/Mac 安裝.md",
+    "Line-bot.md",
+    "minimal.md",
+    "Message Queue/Kafka/What is Kafka.md",
+    "Message Queue/Kafka/Python producer 腳本建立.md",
+    "Message Queue/Kafka/透過 docker 啟動 kafka.md",
     "Java/Todo Note.md",
     "Password Management/BitWarden.md",
     "Password Management/Todo.md",
@@ -186,19 +199,7 @@
     "Git/Github tag.md",
     "Java/application.properties 讀取環境變數 (intellij).md",
     "Java/Spring Boot/Thymeleaf in Spring Boot with Maven.md",
-    "Java/Spring Boot/Spring Boot設定log檔案.md",
-    "Java/Spring Boot/Spring Boot Dotenv環境設定.md",
-    "Java/Spring Boot/Spring Boot Basic.md",
-    "Java/Spring Boot/Spring Boot AOP.md",
-    "Java/Spring Boot/JDBC Basic.md",
-    "Java/Spring Boot/Exception Handler.md",
-    "Java/ORM in JAVA.md",
-    "Java/Multi-datasource in java.md",
-    "Database/MySQL/MySQL Basic.md",
-    "Database/MySQL/移除 mysql.md",
-    "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
     "Crypto concurrency",
-    "Untitled.md",
     "Obsidian",
     "Testing/K6",
     "Stress Test",
