@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux environment variable setting.md",
+                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux environment variable setting.md",
+                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux environment variable setting.md",
+                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux environment variable setting.md"
+                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "256f546d0c581989",
   "lastOpenFiles": [
-    "Java/Installation/Installation on ubuntu.md",
     "Linux/Linux environment variable setting.md",
+    "Java/Installation/Installation on ubuntu.md",
     "Linux/rsync 跨系統檔案同步.md",
     "Linux/htop 基礎使用.md",
     "Linux/檢查各個目錄大小.md",
