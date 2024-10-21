@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+                "file": "Git/Github tag.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+                "file": "Git/Github tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+                "file": "Git/Github tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md"
+                "file": "Git/Github tag.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "256f546d0c581989",
   "lastOpenFiles": [
+    "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
     "Linux/Linux environment variable setting.md",
     "Java/Installation/Installation on ubuntu.md",
     "Linux/rsync 跨系統檔案同步.md",
@@ -198,7 +199,6 @@
     "Python/Installation/Python virtualenv setup (mac).md",
     "Python/Installation/Python virtualenv setup (linux).md",
     "Container/Docker/清理未使用到的 image、cache、container.md",
-    "Git/Github tag.md",
     "Crypto concurrency",
     "Obsidian",
     "Testing/K6",
