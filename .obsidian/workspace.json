@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Github tag.md",
+                "file": "Git/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Github tag.md",
+                "file": "Git/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Github tag.md",
+                "file": "Git/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Github tag.md"
+                "file": "Git/Todo Note.md"
               }
             }
           },
@@ -170,8 +170,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "10dd90ec8a7b76cb",
+  "active": "256f546d0c581989",
   "lastOpenFiles": [
+    "Git/Github tag.md",
+    "Git/Github PR Default Previewer 設定.md",
+    "Git/git檔案還原.md",
+    "Git/git_lifecycle.md",
+    "Git/git stash檔案暫存.md",
+    "Git/git ssh金鑰設定.md",
+    "Git/git head.md",
+    "Git/git diff.md",
+    "Git/git cherry-pick.md",
+    "Git/git cheet_sheet.md",
+    "Git/git alias設定.md",
+    "Git/git.canvas",
+    "Git/clone所有分支.md",
+    "Git/新增與刪除遠端 repo.md",
+    "Git/指定追蹤遠端分支.md",
+    "Git/在遠端新增git分支.md",
+    "Git/gitignore_setup.md",
     "LeetCode",
     "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
     "Linux/Linux environment variable setting.md",
@@ -183,22 +200,7 @@
     "Message Queue/Kafka/Mac 安裝.md",
     "Database/Mongo/MongoDB Conection and CRUD.md",
     "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
-    "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
-    "Linux/SSH 時遇到 \"REMOTE HOST IDENTIFICATION HAS CHANGED!\".md",
-    "Linux/Symbolic link.md",
-    "Message Queue/Kafka/基本指令.md",
-    "Line-bot.md",
-    "minimal.md",
-    "Message Queue/Kafka/What is Kafka.md",
-    "Message Queue/Kafka/Python producer 腳本建立.md",
-    "Message Queue/Kafka/透過 docker 啟動 kafka.md",
-    "Java/Todo Note.md",
-    "Password Management/BitWarden.md",
-    "Password Management/Todo.md",
     "Password Management",
-    "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
-    "Python/Installation/Python virtualenv setup (mac).md",
-    "Python/Installation/Python virtualenv setup (linux).md",
     "Crypto concurrency",
     "Obsidian",
     "Testing/K6",
@@ -208,8 +210,6 @@
     "Nginx/ZeroSSL憑證申請",
     "AWS/CloudFront S3",
     "Frontend/特殊效果",
-    "Message Queue/Kafka",
-    "Git/git.canvas",
     "image/access_level_modifiers.png",
     "image/envfile.png",
     "image/env.png",
