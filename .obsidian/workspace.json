@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Todo Note.md",
+                "file": "Architecture Patterns/MVVM.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Todo Note.md",
+                "file": "Architecture Patterns/MVVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Todo Note.md",
+                "file": "Architecture Patterns/MVVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Todo Note.md"
+                "file": "Architecture Patterns/MVVM.md"
               }
             }
           },
@@ -172,6 +172,9 @@
   },
   "active": "256f546d0c581989",
   "lastOpenFiles": [
+    "Algorithm/Untitled.md",
+    "Architecture Patterns/MVVM.md",
+    "Git/Todo Note.md",
     "Git/Github tag.md",
     "Git/Github PR Default Previewer 設定.md",
     "Git/git檔案還原.md",
@@ -197,9 +200,6 @@
     "Linux/htop 基礎使用.md",
     "Linux/檢查各個目錄大小.md",
     "Linux/列出當前正在使用的 TCP and UDP port.md",
-    "Message Queue/Kafka/Mac 安裝.md",
-    "Database/Mongo/MongoDB Conection and CRUD.md",
-    "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
     "Password Management",
     "Crypto concurrency",
     "Obsidian",
