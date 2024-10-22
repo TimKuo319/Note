@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture Patterns/MVVM.md",
+                "file": "Java/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture Patterns/MVVM.md",
+                "file": "Java/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture Patterns/MVVM.md",
+                "file": "Java/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture Patterns/MVVM.md"
+                "file": "Java/Todo Note.md"
               }
             }
           },
@@ -172,10 +172,13 @@
   },
   "active": "256f546d0c581989",
   "lastOpenFiles": [
-    "Algorithm/Untitled.md",
-    "Architecture Patterns/MVVM.md",
-    "Git/Todo Note.md",
+    "Java/ORM in JAVA.md",
+    "Java/Todo Note.md",
+    "Java/Installation/Installation on ubuntu.md",
     "Git/Github tag.md",
+    "Architecture Patterns/MVVM.md",
+    "Algorithm/Untitled.md",
+    "Git/Todo Note.md",
     "Git/Github PR Default Previewer 設定.md",
     "Git/git檔案還原.md",
     "Git/git_lifecycle.md",
@@ -195,11 +198,8 @@
     "LeetCode",
     "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
     "Linux/Linux environment variable setting.md",
-    "Java/Installation/Installation on ubuntu.md",
     "Linux/rsync 跨系統檔案同步.md",
     "Linux/htop 基礎使用.md",
-    "Linux/檢查各個目錄大小.md",
-    "Linux/列出當前正在使用的 TCP and UDP port.md",
     "Password Management",
     "Crypto concurrency",
     "Obsidian",
