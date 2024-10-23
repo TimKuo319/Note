@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51f09a2bd633d4a8",
+        "id": "234afd912b8de33e",
         "type": "tabs",
         "children": [
           {
-            "id": "256f546d0c581989",
+            "id": "d527cccb5cb18984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Network/DNS 簡介.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Network/DNS 簡介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Todo Note.md",
+                "file": "Network/DNS 簡介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Todo Note.md"
+                "file": "Network/DNS 簡介.md"
               }
             }
           },
@@ -170,36 +171,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "256f546d0c581989",
+  "active": "d527cccb5cb18984",
   "lastOpenFiles": [
-    "Java/ORM in JAVA.md",
-    "Java/Todo Note.md",
-    "Java/Installation/Installation on ubuntu.md",
-    "Git/Github tag.md",
-    "Architecture Patterns/MVVM.md",
-    "Algorithm/Untitled.md",
-    "Git/Todo Note.md",
-    "Git/Github PR Default Previewer 設定.md",
-    "Git/git檔案還原.md",
-    "Git/git_lifecycle.md",
-    "Git/git stash檔案暫存.md",
-    "Git/git ssh金鑰設定.md",
+    "Network/同源政策與CORS.md",
+    "Network/DNS 簡介.md",
+    "Network/Forward proxy and Reverse Proxy.md",
+    "Network/Github login.md",
+    "Network/OAuth.md",
+    "Network/Todo.md",
+    "Network/Authentication - JWT.md",
+    "Network/後端 redirect 到前端時，傳送資訊.md",
+    "Python/Installation/Python ubuntu 安裝.md",
+    "Obsidian/列出當前 folder 下的所有 tasks.md",
+    "Observability/Metrics.md",
+    "NodeJS/ExpressJS/app.set()與app.use().md",
     "Git/git head.md",
-    "Git/git diff.md",
     "Git/git cherry-pick.md",
-    "Git/git cheet_sheet.md",
     "Git/git alias設定.md",
-    "Git/git.canvas",
     "Git/clone所有分支.md",
     "Git/新增與刪除遠端 repo.md",
     "Git/指定追蹤遠端分支.md",
     "Git/在遠端新增git分支.md",
-    "Git/gitignore_setup.md",
+    "Frontend/Todo Note.md",
+    "Frontend/SideEffect.md",
+    "Frontend/axios 相對路徑.md",
+    "Frontend/特殊效果/Particles.js.md",
+    "Frontend/如何在 component - based architecture 中拆分檔案.md",
+    "Format/ISO 8601.md",
+    "Java/Todo Note.md",
+    "Git/git.canvas",
     "LeetCode",
-    "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
-    "Linux/Linux environment variable setting.md",
-    "Linux/rsync 跨系統檔案同步.md",
-    "Linux/htop 基礎使用.md",
     "Password Management",
     "Crypto concurrency",
     "Obsidian",
