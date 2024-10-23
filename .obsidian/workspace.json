@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:UnitTest",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,8 +173,21 @@
   },
   "active": "d527cccb5cb18984",
   "lastOpenFiles": [
-    "Template/Learning (Concept).md",
+    "Java/frequently_used_package/Validation with spring validation.md",
+    "Java/frequently_used_package/Session management.md",
+    "Java/frequently_used_package/Lombok.md",
+    "Java/frequently_used_package/JUnit.md",
+    "Obsidian/列出當前 folder 下的所有 tasks.md",
     "Testing/Unit Test/Unit Test 簡介.md",
+    "Terminal/Mac 終端機美化.md",
+    "Terminal/iTherm2 remove shell marker.md",
+    "Terminal/iTerm2 change theme.md",
+    "Git/clone所有分支.md",
+    "Git/新增與刪除遠端 repo.md",
+    "Git/指定追蹤遠端分支.md",
+    "Git/在遠端新增git分支.md",
+    "Git/git cheet_sheet.md",
+    "Template/Learning (Concept).md",
     "Testing/Unit Test",
     "Template/Learning (Implementation).md",
     "Frontend/Resource.md",
@@ -188,19 +202,6 @@
     "Network/Todo.md",
     "Network/Authentication - JWT.md",
     "Network/後端 redirect 到前端時，傳送資訊.md",
-    "Python/Installation/Python ubuntu 安裝.md",
-    "Obsidian/列出當前 folder 下的所有 tasks.md",
-    "Observability/Metrics.md",
-    "NodeJS/ExpressJS/app.set()與app.use().md",
-    "Git/git head.md",
-    "Git/git cherry-pick.md",
-    "Git/git alias設定.md",
-    "Git/clone所有分支.md",
-    "Git/新增與刪除遠端 repo.md",
-    "Git/指定追蹤遠端分支.md",
-    "Git/在遠端新增git分支.md",
-    "Frontend/Todo Note.md",
-    "Frontend/SideEffect.md",
     "Git/git.canvas",
     "LeetCode",
     "Password Management",
