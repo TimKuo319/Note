@@ -7,6 +7,4 @@ tags:
 
 ## Terminology
 
-## Summary
-
 ## Reference

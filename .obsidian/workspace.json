@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Unit Test/Unit Test 簡介.md",
+                "file": "Message Queue/Kafka/What is Kafka.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Unit Test/Unit Test 簡介.md",
+                "file": "Message Queue/Kafka/What is Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Unit Test/Unit Test 簡介.md",
+                "file": "Message Queue/Kafka/What is Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Unit Test/Unit Test 簡介.md"
+                "file": "Message Queue/Kafka/What is Kafka.md"
               }
             }
           },
@@ -173,12 +173,18 @@
   },
   "active": "d527cccb5cb18984",
   "lastOpenFiles": [
+    "Template/Learning (Concept).md",
+    "Message Queue/Kafka/What is Kafka.md",
+    "Message Queue/Kafka/Python producer 腳本建立.md",
+    "Message Queue/Kafka/Mac 安裝.md",
+    "Message Queue/Kafka/透過 docker 啟動 kafka.md",
+    "Message Queue/Kafka/基本指令.md",
+    "Testing/Unit Test/Unit Test 簡介.md",
     "Java/frequently_used_package/Validation with spring validation.md",
     "Java/frequently_used_package/Session management.md",
     "Java/frequently_used_package/Lombok.md",
     "Java/frequently_used_package/JUnit.md",
     "Obsidian/列出當前 folder 下的所有 tasks.md",
-    "Testing/Unit Test/Unit Test 簡介.md",
     "Terminal/Mac 終端機美化.md",
     "Terminal/iTherm2 remove shell marker.md",
     "Terminal/iTerm2 change theme.md",
@@ -187,7 +193,6 @@
     "Git/指定追蹤遠端分支.md",
     "Git/在遠端新增git分支.md",
     "Git/git cheet_sheet.md",
-    "Template/Learning (Concept).md",
     "Testing/Unit Test",
     "Template/Learning (Implementation).md",
     "Frontend/Resource.md",
@@ -197,11 +202,6 @@
     "Network/OAuth.md",
     "Network/DNS",
     "Network/同源政策與CORS.md",
-    "Network/Forward proxy and Reverse Proxy.md",
-    "Network/Github login.md",
-    "Network/Todo.md",
-    "Network/Authentication - JWT.md",
-    "Network/後端 redirect 到前端時，傳送資訊.md",
     "Git/git.canvas",
     "LeetCode",
     "Password Management",
