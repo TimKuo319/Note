@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Queue/Kafka/What is Kafka.md",
+                "file": "Message Queue/Kafka/Python producer 腳本建立.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Message Queue/Kafka/What is Kafka.md",
+                "file": "Message Queue/Kafka/Python producer 腳本建立.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Message Queue/Kafka/What is Kafka.md",
+                "file": "Message Queue/Kafka/Python producer 腳本建立.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Message Queue/Kafka/What is Kafka.md"
+                "file": "Message Queue/Kafka/Python producer 腳本建立.md"
               }
             }
           },
@@ -173,8 +172,9 @@
   },
   "active": "d527cccb5cb18984",
   "lastOpenFiles": [
-    "Template/Learning (Concept).md",
+    "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
     "Message Queue/Kafka/What is Kafka.md",
+    "Template/Learning (Concept).md",
     "Message Queue/Kafka/Python producer 腳本建立.md",
     "Message Queue/Kafka/Mac 安裝.md",
     "Message Queue/Kafka/透過 docker 啟動 kafka.md",
@@ -201,7 +201,6 @@
     "Network/DNS/DNS 查詢.md",
     "Network/OAuth.md",
     "Network/DNS",
-    "Network/同源政策與CORS.md",
     "Git/git.canvas",
     "LeetCode",
     "Password Management",

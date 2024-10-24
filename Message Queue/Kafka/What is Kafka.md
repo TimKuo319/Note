@@ -15,7 +15,7 @@ Kafka 是一個分散式的串流平台，所謂的“串流“指的就是**即
 
 ### 2. **Partition** 
 
-一個 Topics 會被切分為多個 Partition。Partition 掌握著一個 Topic 的部分數據。
+一個 Topics 會被切分為多個 Partition。Partition 掌握著一個 Topic 的部分數據。透過將 Partition 分散在不同的 broker 中來達到高併發的效果。
 ### 3. **Producer and Consumer** 
 
 在系統中分別指的是訊息的產生者及接收者。
