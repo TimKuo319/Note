@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Database migration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8baaeef0d62aaa02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database Migration.md",
+                "file": "Database/What is transaction and ACID.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Migration.md",
+                "file": "Database/What is transaction and ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Migration.md",
+                "file": "Database/What is transaction and ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Migration.md"
+                "file": "Database/What is transaction and ACID.md"
               }
             }
           },
@@ -184,9 +171,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8baaeef0d62aaa02",
+  "active": "d527cccb5cb18984",
   "lastOpenFiles": [
     "Database/Database migration.md",
+    "Database/Race condition 與 隔離層級.md",
+    "Database/Database lock.md",
     "Database Migration.md",
     "Database/MySQL/MySQL Basic.md",
     "Database/Untitled.md",
@@ -198,10 +187,8 @@
     "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
     "Database/What is transaction and ACID.md",
     "Database/Transaction.md",
-    "Database/Race condition 與 隔離層級.md",
     "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
     "Database/Concurrency problem.md",
-    "Database/Database lock.md",
     "Database/Shard.md",
     "Database/spring boot jdbc遇到retrieval key not allowed.md",
     "Message Queue/Kafka/Python producer 腳本建立.md",
