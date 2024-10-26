@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Queue/Kafka/Python producer 腳本建立.md",
+                "file": "Database/What is transaction and ACID.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Message Queue/Kafka/Python producer 腳本建立.md",
+                "file": "Database/What is transaction and ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Message Queue/Kafka/Python producer 腳本建立.md",
+                "file": "Database/What is transaction and ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Message Queue/Kafka/Python producer 腳本建立.md"
+                "file": "Database/What is transaction and ACID.md"
               }
             }
           },
@@ -173,10 +172,19 @@
   },
   "active": "d527cccb5cb18984",
   "lastOpenFiles": [
+    "Database/Transaction.md",
+    "Database/What is transaction and ACID.md",
+    "Database/Race condition 與 隔離層級.md",
+    "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
+    "Database/Concurrency problem.md",
+    "Database/Database lock.md",
+    "Database/Database migration.md",
+    "Database/Shard.md",
+    "Database/spring boot jdbc遇到retrieval key not allowed.md",
+    "Message Queue/Kafka/Python producer 腳本建立.md",
     "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
     "Message Queue/Kafka/What is Kafka.md",
     "Template/Learning (Concept).md",
-    "Message Queue/Kafka/Python producer 腳本建立.md",
     "Message Queue/Kafka/Mac 安裝.md",
     "Message Queue/Kafka/透過 docker 啟動 kafka.md",
     "Message Queue/Kafka/基本指令.md",
@@ -190,17 +198,8 @@
     "Terminal/iTherm2 remove shell marker.md",
     "Terminal/iTerm2 change theme.md",
     "Git/clone所有分支.md",
-    "Git/新增與刪除遠端 repo.md",
-    "Git/指定追蹤遠端分支.md",
-    "Git/在遠端新增git分支.md",
-    "Git/git cheet_sheet.md",
     "Testing/Unit Test",
-    "Template/Learning (Implementation).md",
-    "Frontend/Resource.md",
     "Template",
-    "Network/DNS/DNS 簡介.md",
-    "Network/DNS/DNS 查詢.md",
-    "Network/OAuth.md",
     "Network/DNS",
     "Git/git.canvas",
     "LeetCode",
