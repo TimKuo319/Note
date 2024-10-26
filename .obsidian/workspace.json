@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/What is transaction and ACID.md",
+                "file": "Database/Lock/Lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/What is transaction and ACID.md",
+                "file": "Database/Lock/Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/What is transaction and ACID.md",
+                "file": "Database/Lock/Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/What is transaction and ACID.md"
+                "file": "Database/Lock/Lock.md"
               }
             }
           },
@@ -172,8 +173,14 @@
   },
   "active": "d527cccb5cb18984",
   "lastOpenFiles": [
-    "Database/Transaction.md",
+    "Database/MySQL/MySQL Basic.md",
+    "Database/Lock/Lock.md",
+    "Database/Lock",
+    "Database/MySQL/Mysql  pool.md",
+    "Database/MySQL/移除 mysql.md",
+    "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
     "Database/What is transaction and ACID.md",
+    "Database/Transaction.md",
     "Database/Race condition 與 隔離層級.md",
     "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
     "Database/Concurrency problem.md",
@@ -193,11 +200,6 @@
     "Java/frequently_used_package/Session management.md",
     "Java/frequently_used_package/Lombok.md",
     "Java/frequently_used_package/JUnit.md",
-    "Obsidian/列出當前 folder 下的所有 tasks.md",
-    "Terminal/Mac 終端機美化.md",
-    "Terminal/iTherm2 remove shell marker.md",
-    "Terminal/iTerm2 change theme.md",
-    "Git/clone所有分支.md",
     "Testing/Unit Test",
     "Template",
     "Network/DNS",
@@ -208,7 +210,6 @@
     "Obsidian",
     "Testing/K6",
     "Stress Test",
-    "Frontend/Frontend_Template",
     "Container/Docker/docker.canvas",
     "image/access_level_modifiers.png",
     "image/envfile.png",

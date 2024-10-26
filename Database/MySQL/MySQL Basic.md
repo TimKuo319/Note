@@ -172,7 +172,7 @@ DELETE FROM table_name WHERE column_name operator value;
 ```
 ### Limit Offset
 
-limit、offset通常會放在query的最後，limit表示的是要拿出幾筆資料，offset則表示要從第幾筆資料開始。
+limit、offset通常會放在query的最後，limit表示的是要拿出幾筆資料，offset則表示要從第幾筆資料開始(不包含）。 
 
 ```sql
 SELECT column_name(s)
@@ -314,6 +314,12 @@ WHERE DepartmentID IN (SELECT DepartmentID FROM Departments WHERE Location = 'Ne
 
 
 + subquery在搭配in做使用的時候只能撈出一個欄位
+
+## 建立 Index
+
+```SQL
+CREATE IDNEX idx_user_email ON users(email);
+```
 
 ## 創建和管理用戶授權
 
