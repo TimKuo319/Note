@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Lock/Lock.md",
+                "file": "Database/Lock/樂觀鎖與悲觀鎖簡介.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Lock/Lock.md",
+                "file": "Database/Lock/樂觀鎖與悲觀鎖簡介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Lock/Lock.md",
+                "file": "Database/Lock/樂觀鎖與悲觀鎖簡介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Lock/Lock.md"
+                "file": "Database/Lock/樂觀鎖與悲觀鎖簡介.md"
               }
             }
           },
@@ -174,7 +174,7 @@
   "active": "d527cccb5cb18984",
   "lastOpenFiles": [
     "Database/MySQL/MySQL Basic.md",
-    "Database/Lock/Lock.md",
+    "Database/Lock/樂觀鎖與悲觀鎖簡介.md",
     "Database/Lock",
     "Database/MySQL/Mysql  pool.md",
     "Database/MySQL/移除 mysql.md",
