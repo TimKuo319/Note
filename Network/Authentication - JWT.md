@@ -50,10 +50,80 @@ Payload通常就是我們要傳遞的訊息內容，內容主要是claim(聲明)
 HMACSHA256( base64UrlEncode(header) + "." + base64UrlEncode(payload), secret)
 ```
 
+## Step by Step
+
+### 假設數據
+
+1. Header
+```json
+{ 
+  "alg": "HS256",
+  "typ": "JWT" 
+}
+```
+
+經過 `base64`
+
+```
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
+```
+
+2. Payload
+
+```json
+{
+  "user_id": 123,
+  "role": "user"
+}
+
+```
+
+經過 `base64`
+
+```
+eyJ1c2VyX2lkIjoxMjMsInJvbGUiOiJ1c2VyIn0
+```
+
+3. Secret
+```json
+my_secret_key
+```
+
+
+### 產生 token
+
+header 經過 base64
+
+```
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
+```
+
+payload 經過 base64
+
+```
+eyJ1c2VyX2lkIjoxMjMsInJvbGUiOiJ1c2VyIn0
+```
+
+signature 產生
+
+```
+HMACSHA256(eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9 + "." + eyJ1c2VyX2lkIjoxMjMsInJvbGUiOiJ1c2VyIn0 + my_secret_key)
+
+// 假設生成結果
+abc123xyz
+```
+
+
+最終的 Jwt
+
+```
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxMjMsInJvbGUiOiJ1c2VyIn0.abc123xyz
+```
+
 ## How JWT work
 
 當用戶在請求受保護的資源的時，瀏覽器應該要在header中攜帶以下格式，來讓server從header去解析JWT，並決定是否允許用戶訪問這些位置
-```texrt
+```text
 Authorization: Bearer <token>
 ```
 
