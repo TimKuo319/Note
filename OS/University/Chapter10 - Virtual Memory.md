@@ -251,15 +251,15 @@ p35
 	+ page fault rate too high -> increase number of pages
 	+ page fault rate too low -> decrease number of pages
 
-![My image](../image/PFF.png)
+![My image](PFF.png)
 
 ### Memory Compression
 
 除了利用swap來解決page的問題之外，memory compression也是另外一種方式。
 
-![My image](../image/frame_list_before_compression.png)
+![My image](frame_list_before_compression.png)
 
-![My image](../image/frame_list_after_compression.png)
+![My image](frame_list_after_compression.png)
 
 + 將modified frame中的15、3、35壓縮成一個frame
 + 將這個frame存在`compressed frame list`中，並讓15、3、35回到free frame list

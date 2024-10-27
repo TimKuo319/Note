@@ -11,8 +11,12 @@
             "id": "246cc15fd8256616",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OS/University/Chapter1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache/Redis/Redis初探.md",
+                "file": "OS/University/Chapter1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache/Redis/Redis初探.md",
+                "file": "OS/University/Chapter1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/Redis/Redis初探.md"
+                "file": "OS/University/Chapter1.md"
               }
             }
           },
@@ -168,6 +172,12 @@
   },
   "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "OS/University/Chapter5.md",
+    "OS/University/Chapter3.md",
+    "OS/University",
+    "OS/University/Chapter2.md",
+    "OS/University/Chapter1.md",
+    "Cache/Redis/Redis初探.md",
     "Database/ORM/ORM介紹.md",
     "Database/What is transaction and ACID.md",
     "Database/Database migration.md",
@@ -191,11 +201,6 @@
     "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
     "Message Queue/Kafka/What is Kafka.md",
     "Template/Learning (Concept).md",
-    "Message Queue/Kafka/Mac 安裝.md",
-    "Message Queue/Kafka/透過 docker 啟動 kafka.md",
-    "Message Queue/Kafka/基本指令.md",
-    "Testing/Unit Test/Unit Test 簡介.md",
-    "Java/frequently_used_package/Validation with spring validation.md",
     "Testing/Unit Test",
     "Template",
     "Network/DNS",
@@ -204,7 +209,6 @@
     "Password Management",
     "Crypto concurrency",
     "Obsidian",
-    "Testing/K6",
     "Container/Docker/docker.canvas",
     "image/access_level_modifiers.png",
     "image/envfile.png",

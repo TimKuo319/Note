@@ -98,7 +98,7 @@ PPT 7
 	+ FAT(File Allocation Table)
 		+ 在一個table中儲存所有links
 		+ 藉由讀取FAT來找block位置
-	![Myimage](../image/Linked_allocation.png)
+	![Myimage](Linked_allocation.png)
 
 + Indexed allocation
 	+ 每一個檔案都有各自的index block
@@ -118,7 +118,7 @@ PPT 7
 				+ seond indirect -> 同上，但有兩層indirect
 				+ 可以有更多block被存取，相較於直接利用32-bit file pointer
 
-![Myimage](../image/index_allocation.png)
+![Myimage](index_allocation.png)
 
 ## Performance 
 

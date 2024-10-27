@@ -14,7 +14,7 @@ alias : []
 `Entry section: 用來確認是否可以進入critical section的地方`
 
 通常會是以下架構:
-![critical_section.png](../image/critical_section.png)
+![critical_section.png](critical_section.png)
 
 
 ## Requirement for Slution to Critical-Section Problem
