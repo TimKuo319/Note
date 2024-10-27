@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS Practitioner/3. Global infra and High Reliability.md",
+                "file": "Network/Authentication - JWT.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS Practitioner/3. Global infra and High Reliability.md",
+                "file": "Network/Authentication - JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS Practitioner/3. Global infra and High Reliability.md",
+                "file": "Network/Authentication - JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS Practitioner/3. Global infra and High Reliability.md"
+                "file": "Network/Authentication - JWT.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "246cc15fd8256616",
   "lastOpenFiles": [
+    "AWS/AWS Practitioner/3. Global infra and High Reliability.md",
     "AWS/AWS Practitioner/2. Cloud Computing.md",
     "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md",
     "OS/University/Chapter1.md",
@@ -200,7 +201,6 @@
     "Database/Shard.md",
     "Database/spring boot jdbc遇到retrieval key not allowed.md",
     "Message Queue/Kafka/Python producer 腳本建立.md",
-    "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
     "Testing/Unit Test",
     "Template",
     "Network/DNS",
