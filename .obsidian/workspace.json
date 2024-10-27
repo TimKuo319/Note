@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "234afd912b8de33e",
+        "id": "cf6c7c988e357f8d",
         "type": "tabs",
         "children": [
           {
-            "id": "d527cccb5cb18984",
+            "id": "246cc15fd8256616",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/ORM/ORM介紹.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/ORM/ORM介紹.md",
+                "file": "Cache/Redis/Redis初探.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/ORM/ORM介紹.md",
+                "file": "Cache/Redis/Redis初探.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/ORM/ORM介紹.md"
+                "file": "Cache/Redis/Redis初探.md"
               }
             }
           },
@@ -171,8 +166,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d527cccb5cb18984",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "Database/ORM/ORM介紹.md",
     "Database/What is transaction and ACID.md",
     "Database/Database migration.md",
     "Database/Race condition 與 隔離層級.md",
@@ -200,7 +196,6 @@
     "Message Queue/Kafka/基本指令.md",
     "Testing/Unit Test/Unit Test 簡介.md",
     "Java/frequently_used_package/Validation with spring validation.md",
-    "Java/frequently_used_package/Session management.md",
     "Testing/Unit Test",
     "Template",
     "Network/DNS",
