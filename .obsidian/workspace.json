@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/What is transaction and ACID.md",
+                "file": "Database/ORM/ORM介紹.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/What is transaction and ACID.md",
+                "file": "Database/ORM/ORM介紹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/What is transaction and ACID.md",
+                "file": "Database/ORM/ORM介紹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/What is transaction and ACID.md"
+                "file": "Database/ORM/ORM介紹.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "d527cccb5cb18984",
   "lastOpenFiles": [
+    "Database/What is transaction and ACID.md",
     "Database/Database migration.md",
     "Database/Race condition 與 隔離層級.md",
     "Database/Database lock.md",
@@ -185,7 +186,6 @@
     "Database/MySQL/Mysql  pool.md",
     "Database/MySQL/移除 mysql.md",
     "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
-    "Database/What is transaction and ACID.md",
     "Database/Transaction.md",
     "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
     "Database/Concurrency problem.md",

@@ -12,7 +12,7 @@ ORM就像是一個轉換器，透過程式語言以物件導向的方式去進�
 
 ### 1. 安全性
 
-```js
+```php
 $date = // 取得使用者傳來的日期資料  
 $sql = "SELECT * FROM notifications WHERE date = " + $date;  
 ... 執行 SQL 語句
@@ -20,7 +20,7 @@ $sql = "SELECT * FROM notifications WHERE date = " + $date;
 
 在以上的程式碼中，`date`是直接從使用者來的變數，若是駭客透過這個點進行SQL injection是有可能成功修改到資料庫內容的。而向下方的程式碼，是透過ORM來執行資料庫操作，在將`date`變數傳入ORM的function內時，ORM會去幫我們過濾一些奇怪的語法，來避免這點。
 
-```js
+```php
 $date = $_POST['date'] // 取得使用者傳來的日期資料  
 Notification::where('date', $date)  
 ... 轉換成合法 SQL 語句，再執行
@@ -31,7 +31,7 @@ Notification::where('date', $date)
 
 ### 3. 通用性
 
-因為是利用程式語言透過ORM去對資料庫進行操作，只要使用ORM有支援的資料庫，就算更換成另一個資料庫也能夠讓程式成功執行，還能夠避免不同資料庫間的語法差異。
+因為是利用程式語言透過 ORM 去對資料庫進行操作，只要使用 ORM 有支援的資料庫，就算更換成另一個資料庫也能夠讓程式成功執行，還能夠避免不同資料庫間的語法差異。
 
 ## Cons
 
