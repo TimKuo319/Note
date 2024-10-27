@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Authentication - JWT.md",
+                "file": "Java/Todo Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Authentication - JWT.md",
+                "file": "Java/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Authentication - JWT.md",
+                "file": "Java/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Authentication - JWT.md"
+                "file": "Java/Todo Note.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "246cc15fd8256616",
   "lastOpenFiles": [
+    "Network/Authentication - JWT.md",
     "AWS/AWS Practitioner/3. Global infra and High Reliability.md",
     "AWS/AWS Practitioner/2. Cloud Computing.md",
     "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md",
@@ -200,7 +201,6 @@
     "Database/Concurrency problem.md",
     "Database/Shard.md",
     "Database/spring boot jdbc遇到retrieval key not allowed.md",
-    "Message Queue/Kafka/Python producer 腳本建立.md",
     "Testing/Unit Test",
     "Template",
     "Network/DNS",
