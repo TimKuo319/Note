@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cf6c7c988e357f8d",
+        "id": "175110f83bd12fb1",
         "type": "tabs",
         "children": [
           {
-            "id": "246cc15fd8256616",
+            "id": "9d9ec513405e6316",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Todo Note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Todo Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Todo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Todo Note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,8 +163,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "246cc15fd8256616",
+  "active": "9d9ec513405e6316",
   "lastOpenFiles": [
+    "Message Queue/Kafka/What is Kafka.md",
+    "Java/Todo Note.md",
     "Network/Authentication - JWT.md",
     "AWS/AWS Practitioner/3. Global infra and High Reliability.md",
     "AWS/AWS Practitioner/2. Cloud Computing.md",
@@ -199,8 +194,6 @@
     "Database/Transaction.md",
     "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
     "Database/Concurrency problem.md",
-    "Database/Shard.md",
-    "Database/spring boot jdbc遇到retrieval key not allowed.md",
     "Testing/Unit Test",
     "Template",
     "Network/DNS",
