@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Database/MySQL/syntax/常用時間函數.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Database/MySQL/syntax/常用時間函數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md",
+                "file": "Database/MySQL/syntax/常用時間函數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MySQL/MySQL Basic.md"
+                "file": "Database/MySQL/syntax/常用時間函數.md"
               }
             }
           },
@@ -173,6 +172,9 @@
   },
   "active": "9d9ec513405e6316",
   "lastOpenFiles": [
+    "Database/MySQL/syntax/MySQL Basic.md",
+    "Database/MySQL/syntax/常用時間函數.md",
+    "Database/MySQL/syntax",
     "Java/Java Basic/Maven.md",
     "Database/Untitled.md",
     "Java/Java Basic/Logger.md",
@@ -198,8 +200,6 @@
     "Database/ORM/ORM介紹.md",
     "Database/What is transaction and ACID.md",
     "Database/Database migration.md",
-    "Database/Race condition 與 隔離層級.md",
-    "Database/Database lock.md",
     "Database/Untitled",
     "Database/Lock",
     "Testing/Unit Test",
@@ -209,7 +209,6 @@
     "LeetCode",
     "Password Management",
     "Crypto concurrency",
-    "Obsidian",
     "Container/Docker/docker.canvas",
     "image/access_level_modifiers.png",
     "image/envfile.png",
