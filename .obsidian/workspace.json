@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java Basic/Maven.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Basic/Maven.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Basic/Maven.md",
+                "file": "Database/MySQL/MySQL Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Basic/Maven.md"
+                "file": "Database/MySQL/MySQL Basic.md"
               }
             }
           },
@@ -172,6 +173,8 @@
   },
   "active": "9d9ec513405e6316",
   "lastOpenFiles": [
+    "Java/Java Basic/Maven.md",
+    "Database/Untitled.md",
     "Java/Java Basic/Logger.md",
     "Java/Java Basic/Java Stream.md",
     "Java/Java Basic/Java Optional.md",
@@ -197,8 +200,6 @@
     "Database/Database migration.md",
     "Database/Race condition 與 隔離層級.md",
     "Database/Database lock.md",
-    "Database Migration.md",
-    "Database/MySQL/MySQL Basic.md",
     "Database/Untitled",
     "Database/Lock",
     "Testing/Unit Test",
