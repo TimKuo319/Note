@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MySQL/syntax/常用時間函數.md",
+                "file": "Java/Spring Boot/JDBC Basic.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "JDBC Basic"
             }
           }
         ]
@@ -44,7 +46,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -52,7 +56,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -62,15 +68,17 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MySQL/syntax/常用時間函數.md",
+                "file": "Java/Spring Boot/JDBC Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for JDBC Basic"
             }
           },
           {
@@ -103,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MySQL/syntax/常用時間函數.md",
+                "file": "Java/Spring Boot/JDBC Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from JDBC Basic"
             }
           },
           {
@@ -117,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MySQL/syntax/常用時間函數.md"
-              }
+                "file": "Java/Spring Boot/JDBC Basic.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of JDBC Basic"
             }
           },
           {
@@ -139,7 +155,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -147,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -172,8 +192,18 @@
   },
   "active": "9d9ec513405e6316",
   "lastOpenFiles": [
-    "Database/MySQL/syntax/MySQL Basic.md",
+    "Java/ORM in JAVA.md",
+    "Java/Spring Boot/JDBC Basic.md",
+    "Java/Spring Boot/Spring Boot AOP.md",
+    "Java/Spring Boot/Exception Handler.md",
+    "Database/What is transaction and ACID.md",
+    "Database/Database migration.md",
+    "Database/Race condition 與 隔離層級.md",
+    "Database/Database lock.md",
+    "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
+    "Database/Concurrency problem.md",
     "Database/MySQL/syntax/常用時間函數.md",
+    "Database/MySQL/syntax/MySQL Basic.md",
     "Database/MySQL/syntax",
     "Java/Java Basic/Maven.md",
     "Database/Untitled.md",
@@ -189,17 +219,7 @@
     "Java/Todo Note.md",
     "Network/Authentication - JWT.md",
     "AWS/AWS Practitioner/3. Global infra and High Reliability.md",
-    "AWS/AWS Practitioner/2. Cloud Computing.md",
-    "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md",
-    "OS/University/Chapter1.md",
-    "OS/University/Chapter5.md",
-    "OS/University/Chapter3.md",
     "OS/University",
-    "OS/University/Chapter2.md",
-    "Cache/Redis/Redis初探.md",
-    "Database/ORM/ORM介紹.md",
-    "Database/What is transaction and ACID.md",
-    "Database/Database migration.md",
     "Database/Untitled",
     "Database/Lock",
     "Testing/Unit Test",

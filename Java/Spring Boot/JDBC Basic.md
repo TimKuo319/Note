@@ -12,7 +12,7 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
 
 + `url`
-	+ jdbc - 表示使用的是jdbc API
+	+ jdbc - 表示使用的是 jdbc API
 	+ mysql - 使用的資料庫名稱
 	+ localhost:3306 - 指定database的位置及port
 	+ assignment - database name
