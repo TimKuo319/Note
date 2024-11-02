@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring Boot/JDBC Basic.md",
+                "file": "Java/Multi-thread/Volatile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JDBC Basic"
+              "title": "Volatile"
             }
           }
         ]
@@ -73,7 +73,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring Boot/JDBC Basic.md",
+                "file": "Java/Multi-thread/Volatile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JDBC Basic"
+              "title": "Backlinks for Volatile"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring Boot/JDBC Basic.md",
+                "file": "Java/Multi-thread/Volatile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from JDBC Basic"
+              "title": "Outgoing links from Volatile"
             }
           },
           {
@@ -140,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring Boot/JDBC Basic.md"
+                "file": "Java/Multi-thread/Volatile.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of JDBC Basic"
+              "title": "Outline of Volatile"
             }
           },
           {
@@ -192,8 +193,11 @@
   },
   "active": "9d9ec513405e6316",
   "lastOpenFiles": [
-    "Java/ORM in JAVA.md",
     "Java/Spring Boot/JDBC Basic.md",
+    "Java/Multi-thread/Volatile.md",
+    "Java/Multi-thread",
+    "Java/Untitled.md",
+    "Java/ORM in JAVA.md",
     "Java/Spring Boot/Spring Boot AOP.md",
     "Java/Spring Boot/Exception Handler.md",
     "Database/What is transaction and ACID.md",
@@ -217,8 +221,6 @@
     "Message Queue/Kafka/Mac 安裝.md",
     "Message Queue/Rabbit MQ/RabbitMQ.md",
     "Java/Todo Note.md",
-    "Network/Authentication - JWT.md",
-    "AWS/AWS Practitioner/3. Global infra and High Reliability.md",
     "OS/University",
     "Database/Untitled",
     "Database/Lock",
@@ -228,7 +230,6 @@
     "Git/git.canvas",
     "LeetCode",
     "Password Management",
-    "Crypto concurrency",
     "Container/Docker/docker.canvas",
     "image/access_level_modifiers.png",
     "image/envfile.png",
