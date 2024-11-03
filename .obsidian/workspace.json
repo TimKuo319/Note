@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cache/Cache problem.md",
+                "file": "Java/Object mapper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cache problem"
+              "title": "Object mapper"
             }
           },
           {
@@ -207,19 +207,21 @@
   },
   "active": "9d9ec513405e6316",
   "lastOpenFiles": [
-    "Cache/Cache Strategy.md",
+    "Java/Spring Boot/Exception Handler.md",
+    "Java/Object mapper.md",
+    "Java/Spring Boot/JDBC Basic.md",
+    "Java/frequently_used_package/JUnit.md",
+    "Java/Untitled",
     "Cache/Cache problem.md",
+    "Cache/Cache Strategy.md",
     "Cache/Redis/Redis as MQ.md",
     "Cache/Redis/Install Redis using wsl.md",
     "Cache/Redis/關閉redis自動備份.md",
     "Network/OAuth.md",
     "Java/Multi-thread/Volatile.md",
-    "Java/Spring Boot/JDBC Basic.md",
     "Java/Multi-thread",
-    "Java/Untitled.md",
     "Java/ORM in JAVA.md",
     "Java/Spring Boot/Spring Boot AOP.md",
-    "Java/Spring Boot/Exception Handler.md",
     "Database/What is transaction and ACID.md",
     "Database/Database migration.md",
     "Database/Race condition 與 隔離層級.md",
@@ -234,7 +236,6 @@
     "Java/Java Basic/Logger.md",
     "Java/Java Basic/Java Stream.md",
     "Java/Java Basic/Java Optional.md",
-    "Java/Java Basic/Java Basic.md",
     "OS/University",
     "Database/Untitled",
     "Database/Lock",
@@ -243,7 +244,6 @@
     "Network/DNS",
     "Git/git.canvas",
     "LeetCode",
-    "Password Management",
     "Container/Docker/docker.canvas",
     "image/access_level_modifiers.png",
     "image/envfile.png",
