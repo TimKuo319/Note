@@ -1,13 +1,4 @@
 {
-  "workspace:new-tab": [],
-  "obsidian-tasks-plugin:edit-task": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
   "workspace:split-vertical": [
     {
       "modifiers": [
@@ -48,6 +39,22 @@
         "Shift"
       ],
       "key": "F"
+    }
+  ],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Y"
     }
   ]
 }
