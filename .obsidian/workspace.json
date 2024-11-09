@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Object mapper.md",
+                "file": "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Object mapper"
+              "title": "利用 Mysql client 連線到遠端資料庫"
             }
           },
           {
@@ -206,13 +206,14 @@
   },
   "active": "9d9ec513405e6316",
   "lastOpenFiles": [
-    "Java/Spring Boot/Exception Handler.md",
+    "Cache/Cache Strategy.md",
+    "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
     "Java/Object mapper.md",
+    "Java/Spring Boot/Exception Handler.md",
     "Java/Spring Boot/JDBC Basic.md",
     "Java/frequently_used_package/JUnit.md",
     "Java/Untitled",
     "Cache/Cache problem.md",
-    "Cache/Cache Strategy.md",
     "Cache/Redis/Redis as MQ.md",
     "Cache/Redis/Install Redis using wsl.md",
     "Cache/Redis/關閉redis自動備份.md",
@@ -234,7 +235,6 @@
     "Database/Untitled.md",
     "Java/Java Basic/Logger.md",
     "Java/Java Basic/Java Stream.md",
-    "Java/Java Basic/Java Optional.md",
     "OS/University",
     "Database/Untitled",
     "Database/Lock",
