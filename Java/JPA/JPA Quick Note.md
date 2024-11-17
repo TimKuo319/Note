@@ -14,7 +14,7 @@
 
 - `Transaction`
 
-	- `確保資料一致性`
+	- 確保資料一致性
 
 -  `JPQL (Java Persistence Query Language)`
 
@@ -26,7 +26,6 @@
 - `Relationships`
 
 - `Primary Key Generation Strategies`
-
 
 ## Reference
 

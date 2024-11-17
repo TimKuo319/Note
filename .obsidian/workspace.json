@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexo/hexo標籤，分類.md",
+                "file": "Java/JPA/雙向關聯與單向關聯.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hexo標籤，分類"
+              "title": "雙向關聯與單向關聯"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexo/hexo標籤，分類.md",
+                "file": "Java/JPA/雙向關聯與單向關聯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hexo標籤，分類"
+              "title": "Backlinks for 雙向關聯與單向關聯"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexo/hexo標籤，分類.md",
+                "file": "Java/JPA/雙向關聯與單向關聯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hexo標籤，分類"
+              "title": "Outgoing links from 雙向關聯與單向關聯"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexo/hexo標籤，分類.md"
+                "file": "Java/JPA/雙向關聯與單向關聯.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of hexo標籤，分類"
+              "title": "Outline of 雙向關聯與單向關聯"
             }
           },
           {
@@ -182,6 +182,9 @@
   },
   "active": "9d9ec513405e6316",
   "lastOpenFiles": [
+    "Java/JPA/Spring Data JPA with MySQL.md",
+    "Java/JPA/JPA Quick Note.md",
+    "Java/JPA/雙向關聯與單向關聯.md",
     "Hexo/hexo標籤，分類.md",
     "Hexo/Hexo + githubpage 架站.md",
     "Vim/intellij vimrc config.md",
@@ -207,9 +210,6 @@
     "Container/Docker/在本地檔案和容器間傳遞資料.md",
     "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
     "Java/Spring Boot/Exception Handler.md",
-    "Java/frequently_used_package/JUnit.md",
-    "Cache/Cache problem.md",
-    "Cache/Redis/Redis as MQ.md",
     "Java/Multi-thread",
     "Database/MySQL/syntax",
     "OS/University",
