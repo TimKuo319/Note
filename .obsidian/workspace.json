@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache/Cache problem.md",
+                "file": "Hexo/hexo標籤，分類.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cache problem"
+              "title": "Backlinks for hexo標籤，分類"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache/Cache problem.md",
+                "file": "Hexo/hexo標籤，分類.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cache problem"
+              "title": "Outgoing links from hexo標籤，分類"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/Cache problem.md"
+                "file": "Hexo/hexo標籤，分類.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Cache problem"
+              "title": "Outline of hexo標籤，分類"
             }
           },
           {
@@ -159,19 +159,9 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "e02a990033a06691",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -192,6 +182,7 @@
   },
   "active": "9d9ec513405e6316",
   "lastOpenFiles": [
+    "Hexo/hexo標籤，分類.md",
     "Hexo/Hexo + githubpage 架站.md",
     "Vim/intellij vimrc config.md",
     "Java/Todo Note.md",
@@ -219,7 +210,6 @@
     "Java/frequently_used_package/JUnit.md",
     "Cache/Cache problem.md",
     "Cache/Redis/Redis as MQ.md",
-    "Cache/Redis/Install Redis using wsl.md",
     "Java/Multi-thread",
     "Database/MySQL/syntax",
     "OS/University",
