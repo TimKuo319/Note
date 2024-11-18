@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA/JPA.md",
+                "file": "Java/JPA/How Spring Data JPA works internally (極簡版).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JPA"
+              "title": "How Spring Data JPA works internally (極簡版)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JPA/JPA.md",
+                "file": "Java/JPA/How Spring Data JPA works internally (極簡版).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JPA"
+              "title": "Backlinks for How Spring Data JPA works internally (極簡版)"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JPA/JPA.md",
+                "file": "Java/JPA/How Spring Data JPA works internally (極簡版).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from JPA"
+              "title": "Outgoing links from How Spring Data JPA works internally (極簡版)"
             }
           },
           {
@@ -140,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JPA/JPA.md"
+                "file": "Java/JPA/How Spring Data JPA works internally (極簡版).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of JPA"
+              "title": "Outline of How Spring Data JPA works internally (極簡版)"
             }
           },
           {
@@ -183,6 +184,7 @@
   "active": "9d9ec513405e6316",
   "lastOpenFiles": [
     "Java/JPA/JPA.md",
+    "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "Java/JPA/Hibernate.md",
     "Java/ORM in JAVA.md",
     "Java/JPA/雙向關聯與單向關聯.md",
@@ -209,7 +211,6 @@
     "Container/Docker/將 docker image push 到 docker hub.md",
     "Container/Docker/忽略特定檔案 .dockerignore.md",
     "Container/Docker/在本地檔案和容器間傳遞資料.md",
-    "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
     "Java/Multi-thread",
     "Database/MySQL/syntax",
     "OS/University",
