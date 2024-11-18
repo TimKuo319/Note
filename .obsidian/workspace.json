@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA/雙向關聯與單向關聯.md",
+                "file": "Java/JPA/JPA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "雙向關聯與單向關聯"
+              "title": "JPA"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JPA/雙向關聯與單向關聯.md",
+                "file": "Java/JPA/JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 雙向關聯與單向關聯"
+              "title": "Backlinks for JPA"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JPA/雙向關聯與單向關聯.md",
+                "file": "Java/JPA/JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 雙向關聯與單向關聯"
+              "title": "Outgoing links from JPA"
             }
           },
           {
@@ -140,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JPA/雙向關聯與單向關聯.md"
+                "file": "Java/JPA/JPA.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 雙向關聯與單向關聯"
+              "title": "Outline of JPA"
             }
           },
           {
@@ -182,14 +183,15 @@
   },
   "active": "9d9ec513405e6316",
   "lastOpenFiles": [
-    "Java/JPA/Spring Data JPA with MySQL.md",
-    "Java/JPA/JPA Quick Note.md",
+    "Java/JPA/Hibernate.md",
+    "Java/JPA/JPA.md",
+    "Java/ORM in JAVA.md",
     "Java/JPA/雙向關聯與單向關聯.md",
+    "Java/JPA/Spring Data JPA with MySQL.md",
     "Hexo/hexo標籤，分類.md",
     "Hexo/Hexo + githubpage 架站.md",
     "Vim/intellij vimrc config.md",
     "Java/Todo Note.md",
-    "Java/ORM in JAVA.md",
     "Java/JdbcTemplate/JDBC Basic.md",
     "Cache/Cache Strategy.md",
     "Java/Object mapper.md",
@@ -209,7 +211,6 @@
     "Container/Docker/忽略特定檔案 .dockerignore.md",
     "Container/Docker/在本地檔案和容器間傳遞資料.md",
     "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
-    "Java/Spring Boot/Exception Handler.md",
     "Java/Multi-thread",
     "Database/MySQL/syntax",
     "OS/University",
