@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -183,8 +182,8 @@
   },
   "active": "9d9ec513405e6316",
   "lastOpenFiles": [
-    "Java/JPA/Hibernate.md",
     "Java/JPA/JPA.md",
+    "Java/JPA/Hibernate.md",
     "Java/ORM in JAVA.md",
     "Java/JPA/雙向關聯與單向關聯.md",
     "Java/JPA/Spring Data JPA with MySQL.md",
