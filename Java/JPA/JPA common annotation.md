@@ -1,0 +1,4 @@
+
+- `GeneratedValue`
+
+- `JoinColumn` 

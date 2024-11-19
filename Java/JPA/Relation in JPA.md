@@ -55,5 +55,7 @@ public class Profile {
 
 ```
 
+>[!info] 
+>mappedby 填入的對象是在 owner 的屬性名稱
 
 
