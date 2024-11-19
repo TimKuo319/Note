@@ -20,9 +20,28 @@ tags:
 
 4. 透過上面作法生成的 `SimpleJpaRepository` ，也就是 repository 的具體實作類別，當有請求在呼叫我們定義的 interface 中的 method 時，就會透過 proxy class 攔截對 repository interface 的呼叫，透過去判斷 method 決定是否要直接使用 `SimpleRepository` 的預設方法，或是透過 `QueryLookupStrategy` 進行方法的解析，生成對應的 SQL query 後再交由代理的 `SimpleRepository` 中的 `EntityManager` 去執行語法
 
-## Feed
+## Summary
 
-從參考的文章、JPA 的 source code 以及和 GPT 的對話，有大致上了解到 JPA 是如何透過定義介面讓我們能夠更方便的使用 hibernate，也是第一次比較認真的去看 source code，雖然還有滿多語法還不太懂，且對於怎麼找檔案之間的關聯還沒有一個頭緒，但至少應該算是個還不錯的開始！
+1. 啟動時，掃描並註冊 Repository 介面：`UserRepository extends JpaRepository<User, Long>`
+
+2. 使用 `JpaRepositoryFactory`：
+   生成 `SimpleJpaRepository` 作為具體執行目標。
+   
+3. 使用 `ProxyFactory`：
+   生成代理類，將 `SimpleJpaRepository` 注入其中。
+   
+4. 當請求呼叫 `UserRepository` 時：
+   - `Proxy Class` 攔截方法調用。
+   - 如果是預定義方法（如 save）：委派給 `SimpleJpaRepository`。
+   - 如果是自定義方法（如 findByName）：解析方法名稱生成查詢，然後執行。
+
+
+## Feedback
+
+從參考的文章、JPA 的 source code 以及和 GPT 的對話，有大致上了解到 JPA 是如何透過定義介面讓我們能夠更方便的使用 hibernate，也是第一次比較認真的去看 source code，雖然還有滿多語法還不太懂，且對於怎麼找檔案之間的關聯還沒有一個頭緒，但至少應該算是個還不錯的開始！ 
+
+從實際看 source code 感覺也看到滿多不同的用法的，從 Factory、Strategy 等結尾可以猜測到大概都是遵循著這些 Design Pattern 去實作的，也是自己要再加強的部分！
+
 ## Reference
 
 - [spring data jpa（概述、快速入门、内部原理剖析、查询使用方式）一、概述 1.1   Spring Data - 掘金](https://juejin.cn/post/6999782550910533645) 
