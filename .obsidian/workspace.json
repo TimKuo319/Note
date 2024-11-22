@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA/Relation in JPA.md",
+                "file": "Algorithm & DS/Two Pointer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relation in JPA"
+              "title": "Two Pointer"
+            }
+          },
+          {
+            "id": "6fe4e25f6bd6f553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm & DS/Dynamic Programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Programming"
+            }
+          },
+          {
+            "id": "1c8fa99906c5102c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CICD/What is CICD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is CICD"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -192,12 +220,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d9ec513405e6316",
+  "active": "6fe4e25f6bd6f553",
   "lastOpenFiles": [
+    "Algorithm & DS/Sorting.md",
+    "Algorithm & DS/Sorting",
+    "Algorithm & DS/Dynamic Programming.md",
+    "Algorithm & DS/Two Pointer.md",
+    "Container/Docker/docker.canvas",
+    "Untitled.canvas",
+    "CICD/What is CICD.md",
+    "Architecture Patterns/MVVM.md",
+    "Java/JPA/Relation in JPA.md",
+    "Algorithm & DS",
     "Java/JPA/JPA common annotation.md",
     "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "Java/JPA/JPA.md",
-    "Java/JPA/Relation in JPA.md",
     "Message Queue/Kafka/Python producer 腳本建立.md",
     "Message Queue/Kafka/基本指令.md",
     "Java/JPA/Hibernate.md",
@@ -215,13 +252,6 @@
     "Java/Spring Boot/Spring Boot AOP.md",
     "Java/Multi-thread/Volatile.md",
     "Container/Todo Note.md",
-    "Container/Docker/Docker-compose.md",
-    "Container/Docker/Dockerfile撰寫.md",
-    "Container/Docker/Docker image push 遇到 deny.md",
-    "Container/Docker/Docker container 資源限制.md",
-    "Container/Docker/docker.canvas",
-    "Container/Docker/container 資源監控.md",
-    "Container/Docker/清理未使用到的 image、cache、container.md",
     "Java/Multi-thread",
     "Database/MySQL/syntax",
     "OS/University",
@@ -229,9 +259,7 @@
     "Database/Lock",
     "Testing/Unit Test",
     "Template",
-    "Network/DNS",
     "Git/git.canvas",
-    "LeetCode",
     "image/access_level_modifiers.png",
     "image/envfile.png",
     "image/env.png",
@@ -240,7 +268,6 @@
     "image/v-directive.png",
     "image/MVVM.png",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "NodeJS/NestJS/NestJS.canvas",
     "Frontend/CSS/CSS.canvas",
     "image/create_IAM_user.png",
