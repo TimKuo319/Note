@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm & DS/Tree/Basic concept.md",
+                "file": "Algorithm & DS/Tree/樹的種類.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic concept"
+              "title": "樹的種類"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -194,7 +195,7 @@
   "active": "9d9ec513405e6316",
   "lastOpenFiles": [
     "Algorithm & DS/Sorting/Quick Sort.md",
-    "Algorithm & DS/Tree/Basic concept.md",
+    "Algorithm & DS/Tree/樹的種類.md",
     "Algorithm & DS/Tree",
     "Algorithm & DS/Untitled.md",
     "Algorithm & DS/Sorting/Selection Sort.md",
