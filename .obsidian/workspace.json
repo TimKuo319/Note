@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -192,10 +191,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d9ec513405e6316",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
-    "Algorithm & DS/Stack and Queue.md",
+    "Untitled",
+    "Algorithm & DS/Tree/Untitled.md",
     "Algorithm & DS/Tree/樹的走訪.md",
+    "Algorithm & DS/Stack and Queue.md",
     "Algorithm & DS/Tree/樹的種類.md",
     "Algorithm & DS/Sorting/Quick Sort.md",
     "Algorithm & DS/Tree",
@@ -220,8 +221,6 @@
     "Java/Generic Type.md",
     "Frontend/JavaScript/JavaScript.md",
     "Frontend/CSS/CSS Basic.md",
-    "Design Pattern/Design Pattern.md",
-    "Design Pattern/SOLID Principle.md",
     "Algorithm & DS/Sorting",
     "Container/Docker/docker.canvas",
     "Untitled.canvas",
