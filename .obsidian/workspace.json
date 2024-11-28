@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/RedisTemplate/RedisTemplate.md",
+                "file": "Network/Path Parameters vs Query Parameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RedisTemplate"
+              "title": "Path Parameters vs Query Parameters"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -194,8 +193,12 @@
   },
   "active": "072d275b0d0bf328",
   "lastOpenFiles": [
-    "Container/Docker/Run Container/替 redis container 進行密碼設定.md",
+    "Network/同源政策與CORS.md",
+    "Network/Path Parameters vs Query Parameters.md",
+    "Network/DNS/DNS 簡介.md",
+    "Network/Todo.md",
     "Java/RedisTemplate/RedisTemplate.md",
+    "Container/Docker/Run Container/替 redis container 進行密碼設定.md",
     "Container/Docker/Image example/Java Spring boot.md",
     "Container/Docker/Run Container",
     "Container/Docker/Untitled.md",
@@ -220,10 +223,6 @@
     "AWS/AWS 操作/task3-1.md",
     "AWS/AWS 操作/task2-4.md",
     "AWS/AWS 操作/task2-3.md",
-    "AWS/AWS 操作/Others.md",
-    "AWS/AWS 操作/task3-3.md",
-    "AWS/AWS 操作/task3-2 Application load balancer.md",
-    "AWS/AWS 操作/task1.md",
     "AWS/AWS 操作",
     "Algorithm & DS/Sorting",
     "Container/Docker/docker.canvas",
