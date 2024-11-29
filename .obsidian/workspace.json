@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/RedisTemplate/RedisTemplate.md",
+                "file": "Java/Data Structure in Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RedisTemplate"
+              "title": "Data Structure in Java"
             }
           }
         ]
@@ -193,11 +193,13 @@
   },
   "active": "072d275b0d0bf328",
   "lastOpenFiles": [
+    "Java/application.properties 讀取環境變數 (intellij).md",
+    "Java/Generic Type.md",
+    "Java/RedisTemplate/RedisTemplate.md",
     "Network/Path Parameters vs Query Parameters.md",
     "Network/同源政策與CORS.md",
     "Network/DNS/DNS 簡介.md",
     "Network/Todo.md",
-    "Java/RedisTemplate/RedisTemplate.md",
     "Container/Docker/Run Container/替 redis container 進行密碼設定.md",
     "Container/Docker/Image example/Java Spring boot.md",
     "Container/Docker/Run Container",
@@ -205,9 +207,7 @@
     "Container/Docker/docker ubuntu 指令安裝.md",
     "Java/Java Naming Convention.md",
     "Java/RedisTemplate",
-    "Java/Generic Type.md",
     "Java/Data Structure in Java.md",
-    "Java/application.properties 讀取環境變數 (intellij).md",
     "Algorithm & DS/Tree/樹的走訪.md",
     "Untitled",
     "Algorithm & DS/Tree/Untitled.md",
