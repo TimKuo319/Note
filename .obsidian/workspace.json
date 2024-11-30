@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Data Structure in Java.md",
+                "file": "Java/Comparator and Comparable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Structure in Java"
+              "title": "Comparator and Comparable"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -193,6 +194,8 @@
   },
   "active": "072d275b0d0bf328",
   "lastOpenFiles": [
+    "Java/Data Structure in Java.md",
+    "Java/Comparator and Comparable.md",
     "Java/application.properties 讀取環境變數 (intellij).md",
     "Java/Generic Type.md",
     "Java/RedisTemplate/RedisTemplate.md",
@@ -207,7 +210,6 @@
     "Container/Docker/docker ubuntu 指令安裝.md",
     "Java/Java Naming Convention.md",
     "Java/RedisTemplate",
-    "Java/Data Structure in Java.md",
     "Algorithm & DS/Tree/樹的走訪.md",
     "Untitled",
     "Algorithm & DS/Tree/Untitled.md",
@@ -222,7 +224,6 @@
     "AWS/AWS 操作/IAM使用者管理.md",
     "AWS/AWS 操作/task3-1.md",
     "AWS/AWS 操作/task2-4.md",
-    "AWS/AWS 操作/task2-3.md",
     "AWS/AWS 操作",
     "Algorithm & DS/Sorting",
     "Container/Docker/docker.canvas",
