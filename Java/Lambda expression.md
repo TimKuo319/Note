@@ -10,8 +10,7 @@ Lambda 的語法很單純，主要就是透過前面的`()`作為參數，後面
 (parameters) -> { body }
 ```
 
-Lambda 需要搭配 `@FunctionalInterface` 一起使用，`@FunctionInterface` 指的是只有一個抽象
-
+Lambda 需要搭配 `FunctionalInterface` 一起使用，`FunctionInterface` 指的是只有一個抽象方法的介面。常見的使用場景像是 [[Comparator and Comparable]] 的 `Comparator` 等。或是在 stream 中的 `filter`、`forEach` 等等。
 
 ## Terminology
 
