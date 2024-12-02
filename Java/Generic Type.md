@@ -17,6 +17,7 @@ public class Box<T> {
 
 ```
 
+
 上面的方法中，透過在class後面加上`<T>`來宣告這是一個泛型類別
 
 ```java
