@@ -193,6 +193,8 @@
   },
   "active": "072d275b0d0bf328",
   "lastOpenFiles": [
+    "Algorithm & DS/Sliding window.md",
+    "Algorithm & DS/Dynamic Programming.md",
     "Message Queue/Kafka/透過 docker 啟動 kafka.md",
     "SWE/軟體工程課/Chapter1.md",
     "Message Queue/Kafka/Python producer 腳本建立.md",
@@ -218,9 +220,7 @@
     "Container/Docker/Run Container",
     "Container/Docker/Untitled.md",
     "Container/Docker/docker ubuntu 指令安裝.md",
-    "Java/Java Naming Convention.md",
     "Java/RedisTemplate",
-    "Algorithm & DS/Tree/樹的走訪.md",
     "Untitled",
     "Algorithm & DS/Tree",
     "AWS/AWS 操作",
