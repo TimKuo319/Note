@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm & DS/Sliding window.md",
+                "file": "Java/Comparator and Comparable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sliding window"
+              "title": "Comparator and Comparable"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "072d275b0d0bf328",
   "lastOpenFiles": [
-    "Algorithm & DS/Dynamic Programming.md",
     "Algorithm & DS/Sliding window.md",
+    "Algorithm & DS/Dynamic Programming.md",
     "Message Queue/Kafka/透過 docker 啟動 kafka.md",
     "SWE/軟體工程課/Chapter1.md",
     "Message Queue/Kafka/Python producer 腳本建立.md",
