@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm & DS/Dummy Pointer.md",
+                "file": "Algorithm & DS/Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dummy Pointer"
+              "title": "Dynamic Programming"
             }
           }
         ]
@@ -193,11 +193,14 @@
   },
   "active": "072d275b0d0bf328",
   "lastOpenFiles": [
-    "Java/Comparator and Comparable.md",
-    "Algorithm & DS/Dummy Pointer.md",
-    "Algorithm & DS/Linked List 邊界條件.md",
-    "Algorithm & DS/Sliding window.md",
+    "Algorithm & DS/Stack and Queue.md",
     "Algorithm & DS/Dynamic Programming.md",
+    "Algorithm & DS/Untitled.md",
+    "Algorithm & DS/Sliding window.md",
+    "Algorithm & DS/Two Pointer.md",
+    "Algorithm & DS/Dummy Pointer.md",
+    "Java/Comparator and Comparable.md",
+    "Algorithm & DS/Linked List 邊界條件.md",
     "Message Queue/Kafka/透過 docker 啟動 kafka.md",
     "SWE/軟體工程課/Chapter1.md",
     "Message Queue/Kafka/Python producer 腳本建立.md",
@@ -216,9 +219,6 @@
     "Network/Path Parameters vs Query Parameters.md",
     "Network/同源政策與CORS.md",
     "Network/DNS/DNS 簡介.md",
-    "Network/Todo.md",
-    "Container/Docker/Run Container/替 redis container 進行密碼設定.md",
-    "Container/Docker/Image example/Java Spring boot.md",
     "Container/Docker/Run Container",
     "Java/RedisTemplate",
     "Untitled",
