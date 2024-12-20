@@ -22,3 +22,5 @@ Servelet 就像前面提到的是一種規範，但現在文章裡面看到的 S
 - [1.Servlet到底是什么 - 随遇而安== - 博客园](https://www.cnblogs.com/55zjc/p/16536646.html)
 
 - [Servlet和Servlet容器区别_ervlet容器和servlet有什么区别-CSDN博客](https://blog.csdn.net/weixin_56587974/article/details/133711491)
+
+- [Servlet 和 Servlet容器 - rickiyang - 博客园](https://www.cnblogs.com/rickiyang/p/12764615.html)
