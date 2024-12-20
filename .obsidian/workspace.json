@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm & DS/Dynamic Programming.md",
+                "file": "Java/What is Servelet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Programming"
+              "title": "What is Servelet"
             }
           }
         ]
@@ -193,8 +193,10 @@
   },
   "active": "072d275b0d0bf328",
   "lastOpenFiles": [
-    "Algorithm & DS/Stack and Queue.md",
+    "Java/Spring Boot/Spring Boot Basic.md",
+    "Java/What is Servelet.md",
     "Algorithm & DS/Dynamic Programming.md",
+    "Algorithm & DS/Stack and Queue.md",
     "Algorithm & DS/Untitled.md",
     "Algorithm & DS/Sliding window.md",
     "Algorithm & DS/Two Pointer.md",
@@ -217,8 +219,6 @@
     "Java/Data Structure in Java.md",
     "Java/RedisTemplate/RedisTemplate.md",
     "Network/Path Parameters vs Query Parameters.md",
-    "Network/同源政策與CORS.md",
-    "Network/DNS/DNS 簡介.md",
     "Container/Docker/Run Container",
     "Java/RedisTemplate",
     "Untitled",
