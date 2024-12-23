@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Webhook 簡介.md",
+                "file": "Python/Installation/Python ubuntu 安裝.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Webhook 簡介"
+              "title": "Python ubuntu 安裝"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "072d275b0d0bf328",
   "lastOpenFiles": [
-    "Line-bot.md",
     "Network/Webhook 簡介.md",
+    "Line-bot.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Java/frequently_used_package/Session management.md",
     "Java/What is Servelet.md",
