@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Installation/Python ubuntu 安裝.md",
+                "file": "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python ubuntu 安裝"
+              "title": "certbot 憑證申請(搭配自己買的 domain)"
             }
           }
         ]
@@ -193,6 +193,19 @@
   },
   "active": "072d275b0d0bf328",
   "lastOpenFiles": [
+    "Nginx/Nginx.md",
+    "Network/Path Parameters vs Query Parameters.md",
+    "Network/Forward proxy and Reverse Proxy.md",
+    "Network/Basic HTTP Method and Parameter in URL.md",
+    "Network/Authentication - JWT.md",
+    "Network/同源政策與CORS.md",
+    "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
+    "Nginx/ZeroSSL 憑證申請.md",
+    "Nginx/Port forwarding with nginx.md",
+    "Nginx/Nginx CORS setting.md",
+    "Nginx/Nginx 安裝.md",
+    "Nginx/Nginx 在 SPA 上的設定.md",
+    "Python/Installation/Python ubuntu 安裝.md",
     "Network/Webhook 簡介.md",
     "Line-bot.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
@@ -206,19 +219,6 @@
     "Algorithm & DS/Two Pointer.md",
     "Algorithm & DS/Dummy Pointer.md",
     "Java/Comparator and Comparable.md",
-    "Algorithm & DS/Linked List 邊界條件.md",
-    "Message Queue/Kafka/透過 docker 啟動 kafka.md",
-    "SWE/軟體工程課/Chapter1.md",
-    "Message Queue/Kafka/Python producer 腳本建立.md",
-    "Message Queue/Kafka/基本指令.md",
-    "Java/Object mapper.md",
-    "Java/Generic Type.md",
-    "Java/JPA/JPA common annotation.md",
-    "Java/JPA/JPA.md",
-    "Java/JPA/How Spring Data JPA works internally (極簡版).md",
-    "Algorithm & DS/Sorting/Heap Sort.md",
-    "Algorithm & DS/Sorting/Selection Sort.md",
-    "Java/Lambda expression.md",
     "Container/Docker/Run Container",
     "Java/RedisTemplate",
     "Untitled",

@@ -14,7 +14,7 @@ sudo apt install certbot python3-certbot-nginx
 sudo certbot --nginx -d your-domain.com -d www.your-domain.com
 ```
 
-- `-d` : 指定 domain name
+- `-d` : 指定 domain name，而上面的指令有兩個 -d 參數就代表這個憑證會保護`your-domain.com` 以及 `www.your-domain.com`
 
 
 ### 使用 Certbot 為 Domain 申請憑證(僅進行憑證申請)
