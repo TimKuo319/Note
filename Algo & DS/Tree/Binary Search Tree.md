@@ -122,3 +122,5 @@ void remove(int num) {
 ## Reference
 
 - [7.4   二元搜尋樹 - Hello 演算法](https://www.hello-algo.com/zh-hant/chapter_tree/binary_search_tree/)
+
+- [iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/m/articles/10322678)
