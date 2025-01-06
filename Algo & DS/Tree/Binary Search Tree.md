@@ -114,6 +114,11 @@ void remove(int num) {
 
 因為 BST 的結構關係，當我們以 In-Order 的方式去走訪樹的時候就會得到一個排序好的結果。
 
+## Usage
+
+1. DB Index
+2. 資料流的有序儲存
+
 ## Reference
 
 - [7.4   二元搜尋樹 - Hello 演算法](https://www.hello-algo.com/zh-hant/chapter_tree/binary_search_tree/)
