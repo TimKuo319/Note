@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo & DS/Tree/樹的種類.md",
+                "file": "OS/What is Signal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "樹的種類"
+              "title": "What is Signal"
             }
           }
         ]
@@ -193,11 +193,13 @@
   },
   "active": "072d275b0d0bf328",
   "lastOpenFiles": [
+    "OS/University/Chapter1.md",
+    "OS/What is Signal.md",
+    "Algo & DS/Tree/樹的種類.md",
     "Algo & DS/Tree/樹的走訪.md",
     "Algo & DS/Tree/BST Map and Set.md",
     "Algo & DS/Tree/Binary Search Tree.md",
     "Algo & DS/Tree/DFS、BFS.md",
-    "Algo & DS/Tree/樹的種類.md",
     "Algo & DS/Dummy Pointer.md",
     "Java/What is Servelet.md",
     "Algo & DS/LinkedHashMap.md",
@@ -217,8 +219,6 @@
     "Nginx/Nginx CORS setting.md",
     "Nginx/Nginx 安裝.md",
     "Nginx/Nginx 在 SPA 上的設定.md",
-    "Python/Installation/Python ubuntu 安裝.md",
-    "Network/Webhook 簡介.md",
     "Container/Docker/Run Container",
     "Java/RedisTemplate",
     "Untitled",
