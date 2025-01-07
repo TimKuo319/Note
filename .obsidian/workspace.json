@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo & DS/Tree/BST Map and Set.md",
+                "file": "Algo & DS/Tree/樹的種類.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BST Map and Set"
+              "title": "樹的種類"
             }
           }
         ]
@@ -193,8 +193,9 @@
   },
   "active": "072d275b0d0bf328",
   "lastOpenFiles": [
-    "Algo & DS/Tree/Binary Search Tree.md",
+    "Algo & DS/Tree/樹的走訪.md",
     "Algo & DS/Tree/BST Map and Set.md",
+    "Algo & DS/Tree/Binary Search Tree.md",
     "Algo & DS/Tree/DFS、BFS.md",
     "Algo & DS/Tree/樹的種類.md",
     "Algo & DS/Dummy Pointer.md",
@@ -218,7 +219,6 @@
     "Nginx/Nginx 在 SPA 上的設定.md",
     "Python/Installation/Python ubuntu 安裝.md",
     "Network/Webhook 簡介.md",
-    "Line-bot.md",
     "Container/Docker/Run Container",
     "Java/RedisTemplate",
     "Untitled",
