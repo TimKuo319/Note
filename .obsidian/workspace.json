@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/What is Signal.md",
+                "file": "Java/Intellij CE with Spring boot starter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Signal"
+              "title": "Intellij CE with Spring boot starter"
             }
           }
         ]
@@ -193,8 +193,9 @@
   },
   "active": "072d275b0d0bf328",
   "lastOpenFiles": [
-    "OS/University/Chapter1.md",
     "OS/What is Signal.md",
+    "Java/Intellij CE with Spring boot starter.md",
+    "OS/University/Chapter1.md",
     "Algo & DS/Tree/樹的種類.md",
     "Algo & DS/Tree/樹的走訪.md",
     "Algo & DS/Tree/BST Map and Set.md",
@@ -218,7 +219,6 @@
     "Nginx/Port forwarding with nginx.md",
     "Nginx/Nginx CORS setting.md",
     "Nginx/Nginx 安裝.md",
-    "Nginx/Nginx 在 SPA 上的設定.md",
     "Container/Docker/Run Container",
     "Java/RedisTemplate",
     "Untitled",
