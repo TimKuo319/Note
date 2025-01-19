@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Intellij CE with Spring boot starter.md",
+                "file": "Design Pattern/Design Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intellij CE with Spring boot starter"
+              "title": "Design Pattern"
             }
           }
         ]
@@ -191,8 +191,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "072d275b0d0bf328",
+  "active": "10dd90ec8a7b76cb",
   "lastOpenFiles": [
+    "Observability/Metrics.md",
+    "Obsidian/列出當前 folder 下的所有 tasks.md",
     "OS/What is Signal.md",
     "Java/Intellij CE with Spring boot starter.md",
     "OS/University/Chapter1.md",
@@ -217,8 +219,6 @@
     "Network/同源政策與CORS.md",
     "Nginx/ZeroSSL 憑證申請.md",
     "Nginx/Port forwarding with nginx.md",
-    "Nginx/Nginx CORS setting.md",
-    "Nginx/Nginx 安裝.md",
     "Container/Docker/Run Container",
     "Java/RedisTemplate",
     "Untitled",
