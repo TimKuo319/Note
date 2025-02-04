@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/GCP/GCP防火牆設定.md",
+                "file": "Java/JPA/JPA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GCP防火牆設定"
+              "title": "JPA"
             }
           }
         ]
@@ -194,10 +194,15 @@
   },
   "active": "072d275b0d0bf328",
   "lastOpenFiles": [
+    "Java/JPA/Relation in JPA.md",
+    "Java/JPA/JPA.md",
+    "Java/JPA/How Spring Data JPA works internally (極簡版).md",
+    "Java/JPA/JPA common annotation.md",
+    "Java/JdbcTemplate/JDBC Basic.md",
+    "Cloud/GCP/GCP防火牆設定.md",
     "Cloud/GCP/GCP MariaDB架設.md",
     "Cloud/AWS/Cloud Watch.md",
     "Cloud/GCP/GCP設定SSH.md",
-    "Cloud/GCP/GCP防火牆設定.md",
     "Database/Database lock.md",
     "Database/Concurrency problem.md",
     "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
@@ -215,11 +220,6 @@
     "Network/Path Parameters vs Query Parameters.md",
     "Design Pattern/Design Pattern.md",
     "Observability/Metrics.md",
-    "Obsidian/列出當前 folder 下的所有 tasks.md",
-    "OS/What is Signal.md",
-    "Java/Intellij CE with Spring boot starter.md",
-    "OS/University/Chapter1.md",
-    "Algo & DS/Tree/樹的種類.md",
     "Container/Docker/Run Container",
     "Java/RedisTemplate",
     "Untitled",
