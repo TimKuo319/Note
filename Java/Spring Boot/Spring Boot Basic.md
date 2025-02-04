@@ -28,7 +28,7 @@
 ### @RequestBody
 
 + 用來接收RequestBody中的資料，但通常是接受`appliction/json`的Content-Type
-	+ 如果使用前端表單預設的method進行傳輸的話，預設的Content-Type是`application/x-www-form-urlencoded`，所以要透過`@RequestBody`進行拿取時，
+	+ 如果使用前端表單預設的method進行傳輸的話，預設的Content-Type是`application/x-www-form-urlencoded`，所以要透過`@RequestBody`進行拿取時，需要更改前端的 Content-Type。
 
 ### @ResponseBody
 
