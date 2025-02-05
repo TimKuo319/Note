@@ -90,5 +90,4 @@ public class UserService {
 
 ## Reference
 
-
-
+- [@Transactional注解管理事务和手动提交事务 - spiderMan1-1 - 博客园](https://www.cnblogs.com/cgy1995/p/18514116)
