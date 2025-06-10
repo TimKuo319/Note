@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java Basic/Java Basic.md",
+                "file": "OS/What is Signal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Basic"
-            }
-          },
-          {
-            "id": "5516187763f42d90",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "What is Signal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,8 +192,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5516187763f42d90",
+  "active": "ba09644282d89d83",
   "lastOpenFiles": [
+    "Java/Java Basic/Java Optional.md",
+    "Java/Java Basic/Java Basic.md",
+    "Template/Learning (Concept).md",
+    "Untitled.md",
     "Java/手動進行 transaction.md",
     "Java/What is Servelet.md",
     "Java/Todo Note.md",
@@ -220,10 +211,8 @@
     "Misc/Java/Intellij 無法正常使用 lombok.md",
     "Misc/Java",
     "Misc/Untitled.md",
-    "Untitled.md",
     "Misc",
     "Untitled.canvas",
-    "Java/Java Basic/Java Basic.md",
     "Java/JPA/JPA.md",
     "Java/JPA/Relation in JPA.md",
     "Java/JPA/How Spring Data JPA works internally (極簡版).md",
@@ -234,8 +223,6 @@
     "Cloud/AWS/Cloud Watch.md",
     "Cloud/GCP/GCP設定SSH.md",
     "Database/Database lock.md",
-    "Database/Concurrency problem.md",
-    "Database/資料庫分散式架構 - master replica(讀寫分離）.md",
     "Container/Docker/Run Container",
     "Java/RedisTemplate",
     "Algo & DS/Tree",
