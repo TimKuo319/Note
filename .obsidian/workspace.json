@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/What is Signal.md",
+                "file": "Java/Java Basic/Java Basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Signal"
+              "title": "Java Basic"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -194,6 +195,7 @@
   },
   "active": "ba09644282d89d83",
   "lastOpenFiles": [
+    "OS/What is Signal.md",
     "Java/Java Basic/Java Optional.md",
     "Java/Java Basic/Java Basic.md",
     "Template/Learning (Concept).md",
@@ -222,7 +224,6 @@
     "Cloud/GCP/GCP MariaDB架設.md",
     "Cloud/AWS/Cloud Watch.md",
     "Cloud/GCP/GCP設定SSH.md",
-    "Database/Database lock.md",
     "Container/Docker/Run Container",
     "Java/RedisTemplate",
     "Algo & DS/Tree",

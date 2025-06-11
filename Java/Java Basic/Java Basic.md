@@ -54,6 +54,7 @@ jshell> exit
 	+ constructor - 同上
 
 https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
+[Access Modifiers in Java - GeeksforGeeks](https://www.geeksforgeeks.org/access-modifiers-java/)
 
 
 ## Final
@@ -95,7 +96,7 @@ https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
 
 ### Interface
 
-+ 可以將`interface`想成更嚴格的class
++ 可以將`interface`想成更嚴格的模板
 	+ 不具備constuctor
 	+ 其中的變數預設為`public static final`，==即使不加上關鍵字也是如此==
 	+ method預設為`public abstract`, 無法降低到其他更低的使用權限。
