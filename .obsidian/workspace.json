@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -195,9 +194,12 @@
   },
   "active": "ba09644282d89d83",
   "lastOpenFiles": [
-    "OS/What is Signal.md",
+    "Java/Generic Type.md",
     "Java/Java Basic/Java Optional.md",
     "Java/Java Basic/Java Basic.md",
+    "Java/Java Basic/Maven.md",
+    "Java/Java Basic/Logger.md",
+    "OS/What is Signal.md",
     "Template/Learning (Concept).md",
     "Untitled.md",
     "Java/手動進行 transaction.md",
@@ -221,9 +223,6 @@
     "Java/JPA/JPA common annotation.md",
     "Java/JdbcTemplate/JDBC Basic.md",
     "Cloud/GCP/GCP防火牆設定.md",
-    "Cloud/GCP/GCP MariaDB架設.md",
-    "Cloud/AWS/Cloud Watch.md",
-    "Cloud/GCP/GCP設定SSH.md",
     "Container/Docker/Run Container",
     "Java/RedisTemplate",
     "Algo & DS/Tree",
