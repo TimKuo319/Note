@@ -185,7 +185,48 @@ public class RedisConfig {
     }  
 }
 ```
-		
+
+
+### @Component vs @Configuration + @Bean
+
+| 比較項目          | `@Component`（含 `@Service` 等）     | `@Bean` + `@Configuration`    |
+| ------------- | -------------------------------- | ----------------------------- |
+| 用法            | 標註在 class 上                      | 寫在 `@Configuration` 類別的方法中    |
+| 掃描註冊方式        | 被 Spring 掃描（透過 `@ComponentScan`） | 透過 Java 程式碼手動建立               |
+| 適合的場合         | 自己寫的類別，邏輯清晰、有實體類別                | 第三方 lib（你不能標註它們）或需自定建構流程      |
+| 控制靈活性         | 相對簡單                             | 更靈活，可控制建構邏輯、參數傳入、條件等          |
+| 是否為 Singleton | 預設為 Singleton（除非設成 prototype）    | 預設為 Singleton（除非手動改）          |
+| 常見場景          | 服務、DAO、Controller 等              | 需要細節初始化的外部類別、factory、client 等 |
+
+```
+Spring Application 啟動
+        │
+        ▼
+───────────────
+| Component Scan | ← 掃描 @Component, @Service, @Repository, @Controller
+───────────────
+        │
+        ▼
+   建立 Bean
+ (由 Spring 自動 new)
+        │
+        ▼
+IoC 容器註冊 Bean (id = 類名小寫)
+
+───────────────
+| Configuration | ← 找到所有 @Configuration 標註的類
+───────────────
+        │
+        ▼
+執行內部所有 @Bean 標註的方法
+        │
+        ▼
+方法 return 出來的物件被註冊為 Bean
+        │
+        ▼
+IoC 容器註冊 Bean (id = 方法名)
+```
+
 ### DI with Inteface
 
 有時我們會透過implement interface，來確保功能沒有被漏掉(`因為interface的method需要全都被實作`)。舉例來說`UserService`及`UserServiceImpl`，在進行DI的時候==注入interface比較好==，因為這樣其他地方的程式碼只會依賴於interface。
