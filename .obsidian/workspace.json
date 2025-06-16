@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring Boot/Spring Boot Basic.md",
+                "file": "Container/Docker/Dockerfile撰寫.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Boot Basic"
+              "title": "Dockerfile撰寫"
             }
           },
           {
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -209,6 +208,15 @@
   },
   "active": "ba09644282d89d83",
   "lastOpenFiles": [
+    "Container/Docker/docker.canvas",
+    "Container/Docker/Dockerfile撰寫.md",
+    "Container/Docker/將 docker image push 到 docker hub.md",
+    "Container/Docker/忽略特定檔案 .dockerignore.md",
+    "Container/Docker/在本地檔案和容器間傳遞資料.md",
+    "Container/Docker/Docker-compose.md",
+    "Observability/Metrics.md",
+    "Vim/intellij vimrc config.md",
+    "Java/What is Servelet.md",
     "Java/Java Basic/Java Basic.md",
     "Java/Spring Boot/Spring Boot Basic.md",
     "Java/Generic Type.md",
@@ -219,7 +227,6 @@
     "Template/Learning (Concept).md",
     "Untitled.md",
     "Java/手動進行 transaction.md",
-    "Java/What is Servelet.md",
     "Java/Todo Note.md",
     "Database/Lock/樂觀鎖與悲觀鎖簡介.md",
     "Database/spring boot jdbc遇到retrieval key not allowed.md",
@@ -227,23 +234,14 @@
     "Java/Lambda expression.md",
     "Java/Java Naming Convention.md",
     "Java/Intellij CE with Spring boot starter.md",
-    "Misc/Java/Intellij 無法正常使用 lombok.md",
     "Misc/Java",
-    "Misc/Untitled.md",
     "Misc",
     "Untitled.canvas",
-    "Java/JPA/JPA.md",
-    "Java/JPA/Relation in JPA.md",
-    "Java/JPA/How Spring Data JPA works internally (極簡版).md",
-    "Java/JPA/JPA common annotation.md",
-    "Java/JdbcTemplate/JDBC Basic.md",
-    "Cloud/GCP/GCP防火牆設定.md",
     "Container/Docker/Run Container",
     "Java/RedisTemplate",
     "Algo & DS/Tree",
     "AWS/AWS 操作",
     "Algo & DS/Sorting",
-    "Container/Docker/docker.canvas",
     "Algo & DS",
     "Java/JdbcTemplate",
     "Java/Multi-thread",
