@@ -35,8 +35,7 @@
               "title": "Java Basic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,10 +207,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49730c79ba7e17d2",
+  "active": "ba09644282d89d83",
   "lastOpenFiles": [
-    "Java/Spring Boot/Spring Boot Basic.md",
     "Java/Java Basic/Java Basic.md",
+    "Java/Spring Boot/Spring Boot Basic.md",
     "Java/Generic Type.md",
     "Java/Java Basic/Java Optional.md",
     "Java/Java Basic/Maven.md",
