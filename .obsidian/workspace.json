@@ -11,17 +11,14 @@
             "id": "ba09644282d89d83",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Git/git.canvas",
-                "viewState": {
-                  "x": -115,
-                  "y": -40,
-                  "zoom": -0.1264483352409392
-                }
+                "file": "Database/MySQL/syntax/MySQL Basic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "git"
+              "icon": "lucide-file",
+              "title": "MySQL Basic"
             }
           },
           {
@@ -211,6 +208,8 @@
   },
   "active": "ba09644282d89d83",
   "lastOpenFiles": [
+    "Database/MySQL/syntax/常用時間函數.md",
+    "Git/git.canvas",
     "Container/Docker/Dockerfile撰寫.md",
     "Container/Docker/docker.canvas",
     "Container/Docker/將 docker image push 到 docker hub.md",
@@ -248,7 +247,6 @@
     "Algo & DS",
     "Java/JdbcTemplate",
     "Java/Multi-thread",
-    "Git/git.canvas",
     "image/access_level_modifiers.png",
     "image/envfile.png",
     "image/env.png",
