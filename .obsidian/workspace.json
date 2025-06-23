@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cache/Redis/Redis初探.md",
+                "file": "Cache/Cache problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis初探"
+              "title": "Cache problem"
             }
           },
           {
@@ -209,6 +209,7 @@
   "active": "ba09644282d89d83",
   "lastOpenFiles": [
     "Cache/Cache Strategy.md",
+    "Cache/Redis/Redis初探.md",
     "Cache/Cache problem.md",
     "Cache/Redis/Redis as MQ.md",
     "Cache/Redis/Install Redis using wsl.md",
@@ -235,7 +236,6 @@
     "OS/What is Signal.md",
     "Template/Learning (Concept).md",
     "Untitled.md",
-    "Java/手動進行 transaction.md",
     "Misc/Java",
     "Misc",
     "Untitled.canvas",
