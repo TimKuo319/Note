@@ -35,6 +35,14 @@ SELECT <columns> FROM <your_table> WHERE <column> LIKE "Harry Botter%"
 ```
 
 
+### Round
+
+```sql
+SELECT ROUND(column_name, decimals) FROM table_name;
+```
+
+- `decimals` 代表要四捨五入到小數點第幾位
+
 ### CREATE TABLE
 
 ```SQL
