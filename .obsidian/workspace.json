@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cache/Redis/How Redis handle concurrency with single thread(簡易版本).md",
+                "file": "Cache/Redis/Redis初探.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How Redis handle concurrency with single thread(簡易版本)"
+              "title": "Redis初探"
             }
           },
           {
@@ -208,8 +208,8 @@
   },
   "active": "ba09644282d89d83",
   "lastOpenFiles": [
-    "Cache/Redis/Redis as MQ.md",
     "Cache/Redis/How Redis handle concurrency with single thread(簡易版本).md",
+    "Cache/Redis/Redis as MQ.md",
     "Cache/Redis/Redis初探.md",
     "Cache/Redis/RedisTemplate with spring boot framework.md",
     "Cache/Cache problem.md",

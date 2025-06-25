@@ -53,5 +53,9 @@ redis提供了許多類型的資料結構可以供我們儲存資料，以下列
 
 + Redis預設有16個資料庫編號為0~15，預設會使用0號資料庫，可以透過`client list`中db的編號來辨識自己當前使用的是幾號資料庫
 
+- 在實務設計上，通常會在 key 加上 prefix 來作為資料類型的分類
+	- `user:123`
+	- `post:456`
 ## Reference
-[Redis](https://redis.io/)
+- [Redis](https://redis.io/)
+- [Unveiling the Art of Redis Key Naming Best Practices | by Yaman Nasser | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/unveiling-the-art-of-redis-key-naming-best-practices-6e20f3839e4a)
