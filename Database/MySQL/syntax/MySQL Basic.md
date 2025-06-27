@@ -323,6 +323,28 @@ WHERE DepartmentID IN (SELECT DepartmentID FROM Departments WHERE Location = 'Ne
 
 + subquery在搭配in做使用的時候只能撈出一個欄位
 
+#### Correlated Subquery
+
+- 子查詢中參考了主查詢的欄位，導致子查詢會隨著主查詢每筆資料重複一次
+
+```sql
+SELECT e.name, e.salary, d.name AS department
+FROM employees e
+JOIN departments d ON e.department_id = d.id
+WHERE e.salary > (
+    SELECT AVG(e2.salary)
+    FROM employees e2
+    WHERE e2.department_id = e.department_id
+);
+```
+
+
+以上面的 query 來說，主要是要取得高於部門薪水平均員工的資料。從 subquery 可以看到，即使沒有 `group by` 也能夠取得部門平均薪水的原因是，在每一次主查詢查詢到一個 row 時，就會將該 row 的 `department_id` 帶入到 subquery 的 `department_id` 中。
+
+比方說今天有一個叫 Alice 的員工，他在的部門 id 為 1，當要檢查 Alice 是否超過部門平均時，subquery 後方的 `e.department_id` 就會變為 1，使得 subquery 可以不用透過 group by 就取得部門的平均。
+
+**但這樣的缺點也顯而易見，這類型的 subquery 會在主查詢每一次查找的時候都進行一次 subquery，如果主查詢的數量很大會使得效能很差**
+
 ## 建立 Index
 
 ```SQL
