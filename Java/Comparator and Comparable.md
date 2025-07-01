@@ -120,6 +120,7 @@ public class ComparatorExample {
 >- **正數**：表示 `o1` 應該排在 `o2` 之後。
 
 
+
 ## Summary
 
 總結來說，可以將兩者的比較歸類為以下的表格
