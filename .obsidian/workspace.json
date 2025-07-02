@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Comparator and Comparable.md",
+                "file": "Java/Java Basic/Java Basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comparator and Comparable"
+              "title": "Java Basic"
             }
           }
         ]
@@ -194,6 +194,9 @@
   },
   "active": "49730c79ba7e17d2",
   "lastOpenFiles": [
+    "SWE/SOLID principle.md",
+    "Java/Java Basic/Java Basic.md",
+    "Java/Comparator and Comparable.md",
     "Java/JVM/JVM Runtime Data Area.md",
     "image/JVM_runtime_data_area.png",
     "image/JVM_rumtime_data_area.png",
@@ -222,8 +225,6 @@
     "Container/Docker/Dockerfile撰寫.md",
     "Container/Docker/docker.canvas",
     "Container/Docker/將 docker image push 到 docker hub.md",
-    "Container/Docker/忽略特定檔案 .dockerignore.md",
-    "Container/Docker/在本地檔案和容器間傳遞資料.md",
     "Misc/Java",
     "Misc",
     "Untitled.canvas",
