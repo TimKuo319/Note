@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java Basic/Java Basic.md",
+                "file": "AI/What is Model Context Protocol (MCP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Basic"
+              "title": "What is Model Context Protocol (MCP)"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -194,8 +195,10 @@
   },
   "active": "49730c79ba7e17d2",
   "lastOpenFiles": [
-    "SWE/SOLID principle.md",
     "Java/Java Basic/Java Basic.md",
+    "AI/What is Model Context Protocol (MCP).md",
+    "AI",
+    "SWE/SOLID principle.md",
     "Java/Comparator and Comparable.md",
     "Java/JVM/JVM Runtime Data Area.md",
     "image/JVM_runtime_data_area.png",
@@ -224,7 +227,6 @@
     "Git/git.canvas",
     "Container/Docker/Dockerfile撰寫.md",
     "Container/Docker/docker.canvas",
-    "Container/Docker/將 docker image push 到 docker hub.md",
     "Misc/Java",
     "Misc",
     "Untitled.canvas",
@@ -234,7 +236,6 @@
     "AWS/AWS 操作",
     "Algo & DS/Sorting",
     "Algo & DS",
-    "Java/JdbcTemplate",
     "image/access_level_modifiers.png",
     "image/envfile.png",
     "image/env.png",
