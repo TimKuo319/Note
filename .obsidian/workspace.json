@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA/JPA common annotation.md",
+                "file": "Java/JPA/Relation in JPA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JPA common annotation"
+              "title": "Relation in JPA"
             }
           }
         ]
@@ -194,6 +194,7 @@
   },
   "active": "49730c79ba7e17d2",
   "lastOpenFiles": [
+    "Java/JPA/JPA common annotation.md",
     "Java/JPA/JPA.md",
     "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "Database/Shard.md",
@@ -224,7 +225,6 @@
     "Cache/Redis/Redis as MQ.md",
     "Cache/Redis/RedisTemplate with spring boot framework.md",
     "Cache/Cache problem.md",
-    "Cache/Cache Strategy.md",
     "Git/git.canvas",
     "Container/Docker/docker.canvas",
     "Misc/Java",
