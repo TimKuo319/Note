@@ -10,7 +10,7 @@ tags:
 
 ## How Spring Data JPA works internally 
 
-就像 [[JPA]] 中提到的，`Spring Data JPA` 是更高層次的封裝。但其實本質上他還是透過純 JPA 去進行操作，才可以達到與資料庫互動的效果，`Spring Data JPA` 其實是默默替我們建立了 proxy class，才讓我們有那些 method 可以呼叫。以下是具體的步驟
+就像 [[JPA Introduction]] 中提到的，`Spring Data JPA` 是更高層次的封裝。但其實本質上他還是透過純 JPA 去進行操作，才可以達到與資料庫互動的效果，`Spring Data JPA` 其實是默默替我們建立了 proxy class，才讓我們有那些 method 可以呼叫。以下是具體的步驟
 
 1. 在 spring boot 啟動的時候，會先去掃描有 `Repository` 或 `EnableJpaRepository` annotation 標記的 package，這些目標會被視為創建 repository 的目標
 

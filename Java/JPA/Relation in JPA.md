@@ -60,3 +60,17 @@ public class Profile {
 >mappedby 填入的對象是在 owner 的屬性名稱
 
 
+## Owing Side(控制端) vs Inverse Side(被控端)
+
+在 JPA 的關聯關係中，存在著 Owing Side 與 Inverse Side。
+
+owing Side 是持有外鍵屬性，負責更新 join table、 join column 的一端。而 inverse Side 則是作為關聯查詢用途，並不會參與 join table 的更動，通常會以 `@mappedBy` 來指向 owing side。(上面程式碼中的 Profile 就是 inverse side)
+
+而為何需要理解 owing side 與 inverse side 呢？
+
+就如同前面所提到的，只有 owing side 本身會參與 join table 或 join column 的一端，所以在程式語言上如果在更新資料時是更新 inverse side 的話，實際改變的只是記憶體中的物件狀態，並不會去影響到 DB 中彼此 join column 的欄位，進而導致資料出錯。是使用上需要注意的部分。
+
+## Reference
+
+[Demystifying JPA Many-to-Many Relationships: Focus on Owning and Inverse Sides | by Rashid Mammadli | Medium](https://medium.com/@devrashid/demystifying-jpa-many-to-many-relationships-focus-on-owning-and-inverse-sides-54ba0a21af0b)
+
