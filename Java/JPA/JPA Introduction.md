@@ -56,7 +56,16 @@ public interface UserRepository extends JpaRepository<User, Long> { }
 	- **定義**：JPQL 是 JPA 的查詢語言，類似於 SQL，但它是針對 Java 物件進行操作，而不是資料庫表格。
 	- **關鍵點**：你可以使用 JPQL 在 `Entity` 上進行複雜的查詢，這比直接使用 SQL 更有彈性。
 
-- `Cascade 和 Fetch Type`
+- `Cascade Type 和 Fetch Type`
+	- `Cascade Type`: 主要就是在處理 owing side 遇到什麼狀況的時候是否需要一並關聯
+		- `PERSIST`
+		- `MERGE`
+		- `REMOVE`
+		- `REFRESH`
+		- `DETACH`
+	- `Fetch Type`: 決定的是在查詢 owing side table 時，是否需要一併把 inverse side 查出來。
+		 - `LAZY` - 延遲載入
+		- `EAGER` - 立即載入，在查 owing side 時一併把關聯的 inverse side 查出來。
 
 - `Relationships`
 
