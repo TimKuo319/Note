@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Queue/Kafka/Mac 安裝.md",
+                "file": "Message Queue/Kafka/What is Kafka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mac 安裝"
+              "title": "What is Kafka"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -194,8 +195,9 @@
   },
   "active": "49730c79ba7e17d2",
   "lastOpenFiles": [
-    "Message Queue/Kafka/透過 docker 啟動 kafka.md",
     "Message Queue/Kafka/基本指令.md",
+    "Message Queue/Kafka/Mac 安裝.md",
+    "Message Queue/Kafka/透過 docker 啟動 kafka.md",
     "Java/JPA/JPA Introduction.md",
     "Untitled.canvas",
     "Java/JPA/Relation in JPA.md",
@@ -225,7 +227,6 @@
     "OS/Semaphore.md",
     "OS/What is Signal.md",
     "Cache/Redis/Redis初探.md",
-    "Cache/Redis/How Redis handle concurrency with single thread(簡易版本).md",
     "Git/git.canvas",
     "Container/Docker/docker.canvas",
     "Misc/Java",
