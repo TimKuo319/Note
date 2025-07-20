@@ -5,7 +5,7 @@ tags:
 ---
 ## What is `Kafka`, why we need it
 
-Kafka 是一個分散式的串流平台。常被當作 `message queue` 或 `stream processing`。所謂的“串流“指的就是**即時的資料流處理**允許 `producer` 將訊息發送到 `topic` 中，再由 `consumer` 去拿出訊息。常見的使用場境是拿來收集各種 `Metrics`、`Log`等。
+Kafka 是一個分散式的串流處理平台。常被當作 `message queue` 或 `stream processing`。所謂的“串流“指的就是**即時的資料流**。Kafka 允許 `producer` 將訊息發送到 `topic` 中，再由 `consumer` 去拿出訊息。常見的使用場境是拿來收集各種 `Metrics`、`Log`等。
 
 Kafka 透過 Pub / Sub 機制來做到 decoupling，讓 producer 跟 consumer 彼此不用直接互相依賴，producer 只要負責持續發送資料，而 consumer 則負責接收資料。透過這樣的方式來增加系統的彈性。
 
