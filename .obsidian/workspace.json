@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Message Queue/Kafka/How Kafka and ZooKeeper Work together.md",
+                "file": "Java/JVM/JVM Runtime Data Area.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How Kafka and ZooKeeper Work together"
+              "title": "JVM Runtime Data Area"
             }
           }
         ]
@@ -194,8 +194,8 @@
   },
   "active": "49730c79ba7e17d2",
   "lastOpenFiles": [
-    "Message Queue/Kafka/What is Kafka.md",
     "Message Queue/Kafka/How Kafka and ZooKeeper Work together.md",
+    "Message Queue/Kafka/What is Kafka.md",
     "Message Queue/Todo.md",
     "Message Queue/Kafka/What is ZooKeeper.md",
     "Message Queue/Kafka/Mac 安裝.md",
