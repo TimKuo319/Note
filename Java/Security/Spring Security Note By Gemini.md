@@ -36,6 +36,8 @@ tags:
     * 它會從請求中擷取用戶提交的用戶名和密碼。
     * 這些資訊會被封裝成一個未認證的 **`Authentication`** 物件，例如 `UsernamePasswordAuthenticationToken`。
 
+- 也能夠透過自定義的 filter 自行設定 `Authentication`。
+
 ### 3. 委派認證 (`AuthenticationManager`)
 
 * `UsernamePasswordAuthenticationFilter` 會將這個 `Authentication` 物件提交給配置的 **`AuthenticationManager`** 進行處理。
