@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Container/K8s/K8s Intro.md",
+                "file": "Container/K8s/K8s Basic Component.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8s Intro"
+              "title": "K8s Basic Component"
             }
           },
           {
@@ -208,8 +208,15 @@
   },
   "active": "2de5f709c895db30",
   "lastOpenFiles": [
-    "Java/Security/Spring Security with RBAC.md",
     "Container/K8s/K8s Intro.md",
+    "Container/K8s/K8s Basic Component.md",
+    "Container/Todo Note.md",
+    "Container/Docker/Dockerfile撰寫.md",
+    "Container/Docker/Docker-compose.md",
+    "Container/Docker/docker ubuntu 指令安裝.md",
+    "Container/Docker/Docker image push 遇到 deny.md",
+    "Container/Docker/Docker container 資源限制.md",
+    "Java/Security/Spring Security with RBAC.md",
     "Java/Security/Spring Security Note By Gemini.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Java/Untitled.md",
@@ -227,14 +234,7 @@
     "Message Queue/Kafka/Mac 安裝.md",
     "Message Queue/Kafka/透過 docker 啟動 kafka.md",
     "Message Queue/Kafka/基本指令.md",
-    "Message Queue/Kafka/Python producer 腳本建立.md",
-    "Message Queue/Kafka/zookeeper 修改 admin_server port.md",
-    "Java/JPA/JPA Introduction.md",
     "Untitled.canvas",
-    "Java/JPA/Relation in JPA.md",
-    "Java/JPA/JPA common annotation.md",
-    "Java/JPA/How Spring Data JPA works internally (極簡版).md",
-    "Database/Shard.md",
     "Pasted image 20250715152313.png",
     "AI",
     "image/JVM_runtime_data_area.png",
