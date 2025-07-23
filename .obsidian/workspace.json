@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Container/K8s/K8s Basic Component.md",
+                "file": "AWS/AWS Practitioner/4. Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8s Basic Component"
+              "title": "4. Networking"
             }
           },
           {
@@ -208,8 +208,17 @@
   },
   "active": "2de5f709c895db30",
   "lastOpenFiles": [
-    "Container/K8s/K8s Intro.md",
+    "AWS/AWS Practitioner/6. Security.md",
+    "AWS/AWS Practitioner/7. Monitoring and Analysis.md",
+    "AWS/AWS Practitioner/5. Storage and Database.md",
+    "AWS/AWS Practitioner/3. Global infra and High Reliability.md",
+    "AWS/AWS Practitioner/4. Networking.md",
+    "AWS/AWS Practitioner/8. Pricing and Support.md",
+    "AWS/AWS Practitioner/2. Cloud Computing.md",
+    "AWS/AWS Practitioner/1. Amazon Web Service Introduction.md",
+    "AWS/AWS 操作/IAM使用者管理.md",
     "Container/K8s/K8s Basic Component.md",
+    "Container/K8s/K8s Intro.md",
     "Container/Todo Note.md",
     "Container/Docker/Dockerfile撰寫.md",
     "Container/Docker/Docker-compose.md",
@@ -225,15 +234,6 @@
     "Java/Spring Boot/Exception Handler.md",
     "Java/frequently_used_package/Lombok.md",
     "Java/Java Basic/Java Basic.md",
-    "Java/Spring Boot/Spring Boot Dotenv環境設定.md",
-    "Java/JVM/JVM Runtime Data Area.md",
-    "Message Queue/Kafka/How Kafka and ZooKeeper Work together.md",
-    "Message Queue/Kafka/What is Kafka.md",
-    "Message Queue/Todo.md",
-    "Message Queue/Kafka/What is ZooKeeper.md",
-    "Message Queue/Kafka/Mac 安裝.md",
-    "Message Queue/Kafka/透過 docker 啟動 kafka.md",
-    "Message Queue/Kafka/基本指令.md",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
     "AI",
