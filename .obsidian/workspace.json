@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Security/Spring Security with RBAC.md",
+                "file": "Container/K8s/K8s Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Security with RBAC"
+              "title": "K8s Intro"
             }
           },
           {
@@ -208,8 +208,9 @@
   },
   "active": "2de5f709c895db30",
   "lastOpenFiles": [
-    "Java/Security/Spring Security Note By Gemini.md",
     "Java/Security/Spring Security with RBAC.md",
+    "Container/K8s/K8s Intro.md",
+    "Java/Security/Spring Security Note By Gemini.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Java/Untitled.md",
     "Java/Spring Boot/Spring Boot Basic.md",
@@ -234,7 +235,6 @@
     "Java/JPA/JPA common annotation.md",
     "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "Database/Shard.md",
-    "Database/spring boot jdbc遇到retrieval key not allowed.md",
     "Pasted image 20250715152313.png",
     "AI",
     "image/JVM_runtime_data_area.png",
