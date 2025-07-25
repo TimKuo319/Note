@@ -31,7 +31,7 @@ OAuth（Open Authorization) 是一種開放標準協議
 2. 用戶被導向到第三方平台(`google` or `facebook` etc) 的授權頁面，並在頁面中授予應用程式訪問權
 
 3. 取得授權碼
-	+ 當用戶同意授權後，第三方平台會將用戶`redirect`回應用程式，並`在 URL 中附上授權碼(Authorizatoin code)`
+	+ 當用戶同意授權後，第三方平台的 Authorization Server 會將用戶`redirect`回應用程式，並`在 URL 中附上授權碼(Authorizatoin code)`
 
 4. 交換 `access token` 
 	+ 當應用程式在第三步驟收到 `Authorization code` 之後，就需要再將`Authorization code`傳回給第三方平台，交換`access token`
