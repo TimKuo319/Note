@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/DNS/DNS 簡介.md",
+                "file": "Network/OAuth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS 簡介"
+              "title": "OAuth"
             }
           },
           {
@@ -208,6 +208,7 @@
   },
   "active": "2de5f709c895db30",
   "lastOpenFiles": [
+    "Network/DNS/DNS 簡介.md",
     "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
     "Database/MySQL/移除 mysql.md",
     "Database/MySQL/Install MySQL on Ubuntu.md",
@@ -233,7 +234,6 @@
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Java/Untitled.md",
     "Java/Spring Boot/Spring Boot Basic.md",
-    "Java/Spring Boot/Spring Boot AOP.md",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
     "AI",
