@@ -208,8 +208,9 @@
   },
   "active": "2de5f709c895db30",
   "lastOpenFiles": [
-    "Python/Installation/Python virtualenv setup (linux).md",
+    "Java/Security/Spring Security Note By Gemini.md",
     "Python/Installation/Python ubuntu 安裝.md",
+    "Python/Installation/Python virtualenv setup (linux).md",
     "Python/Installation/Python virtualenv setup (mac).md",
     "Network/OAuth.md",
     "Java/Installation/Installation on ubuntu.md",
@@ -223,7 +224,6 @@
     "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
     "Nginx/WebSocket nginx 設定.md",
     "Nginx/ZeroSSL 憑證申請.md",
-    "Java/Security/Spring Security Note By Gemini.md",
     "Network/DNS/DNS 簡介.md",
     "Database/MySQL/利用 Mysql client 連線到遠端資料庫.md",
     "Database/MySQL/移除 mysql.md",
