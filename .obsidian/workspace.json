@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Installation/Python ubuntu 安裝.md",
+                "file": "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python ubuntu 安裝"
+              "title": "Security 與 WebConfigurer 的 CORS 設定"
             }
           },
           {
@@ -208,8 +208,8 @@
   },
   "active": "2de5f709c895db30",
   "lastOpenFiles": [
-    "Java/Security/Spring Security Note By Gemini.md",
     "Python/Installation/Python ubuntu 安裝.md",
+    "Java/Security/Spring Security Note By Gemini.md",
     "Python/Installation/Python virtualenv setup (linux).md",
     "Python/Installation/Python virtualenv setup (mac).md",
     "Network/OAuth.md",
