@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Installation/Installation on ubuntu.md",
+                "file": "Message Queue/Kafka/Python producer 腳本建立.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Installation on ubuntu"
+              "title": "Python producer 腳本建立"
             }
           }
         ]
@@ -194,6 +194,9 @@
   },
   "active": "a7b073fb449a2f9e",
   "lastOpenFiles": [
+    "Message Queue/Kafka/Mac 安裝.md",
+    "Message Queue/Kafka/How Kafka and ZooKeeper Work together.md",
+    "Java/Installation/Installation on ubuntu.md",
     "Java/Security/Spring Security Note By Gemini.md",
     "Container/Docker/docker.canvas",
     "Testing/K6/Scenario Usage.md",
@@ -209,7 +212,6 @@
     "Python/Installation/Python virtualenv setup (linux).md",
     "Python/Installation/Python virtualenv setup (mac).md",
     "Network/OAuth.md",
-    "Java/Installation/Installation on ubuntu.md",
     "Nginx/Todo.md",
     "Nginx/Serve static site with nginx.md",
     "Nginx/Port forwarding with nginx.md",
@@ -219,7 +221,6 @@
     "Nginx/Nginx.md",
     "Nginx/certbot 憑證申請(搭配自己買的 domain).md",
     "Nginx/WebSocket nginx 設定.md",
-    "Nginx/ZeroSSL 憑證申請.md",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
     "AI",
