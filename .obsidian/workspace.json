@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Symbolic link.md",
+                "file": "Linux/Linux 的輸出與重導向.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Symbolic link"
+              "title": "Linux 的輸出與重導向"
             }
           }
         ]
@@ -194,7 +194,7 @@
   },
   "active": "a7b073fb449a2f9e",
   "lastOpenFiles": [
-    "Linux/Untitled.md",
+    "Linux/Linux 的輸出與重導向.md",
     "Linux/Symbolic link.md",
     "Linux/Systemd.md",
     "Linux/Tmux 基本使用.md",
