@@ -311,7 +311,7 @@ SELECT column1, column2, ... FROM table1 EXCEPT SELECT column1, column2, ... FRO
 ```
 + 移除右邊`select` query出的結果
 
-### SubQuery
+## SubQuery
 
 + 常用於過濾數據，以下面的例子來說，因為只想要撈出特定的departmentID，所以用subquery的方式先過濾數據。
 ```sql
@@ -323,7 +323,7 @@ WHERE DepartmentID IN (SELECT DepartmentID FROM Departments WHERE Location = 'Ne
 
 + subquery在搭配in做使用的時候只能撈出一個欄位
 
-#### Correlated Subquery
+### Correlated Subquery
 
 - 子查詢中參考了主查詢的欄位，導致子查詢會隨著主查詢每筆資料重複一次
 
@@ -344,6 +344,36 @@ WHERE e.salary > (
 比方說今天有一個叫 Alice 的員工，他在的部門 id 為 1，當要檢查 Alice 是否超過部門平均時，subquery 後方的 `e.department_id` 就會變為 1，使得 subquery 可以不用透過 group by 就取得部門的平均。
 
 **但這樣的缺點也顯而易見，這類型的 subquery 會在主查詢每一次查找的時候都進行一次 subquery，如果主查詢的數量很大會使得效能很差**
+
+## Case Expression
+
+Case Expression 主要是用來透過在 SQL 中針對不同條件邏輯使用，類似程式語言中的 `if-then-else`
+
+基本的使用語法如下
+
+```mysql
+CASE
+    WHEN condition1 THEN result1
+    WHEN condition2 THEN result2
+    ...
+    [ELSE else_result]
+END
+```
+
+
+實際使用案例
+
+```mysql 
+    SELECT
+        ProductName,
+        Price,
+        CASE
+            WHEN Price < 50 THEN 'Low Price'
+            WHEN Price >= 50 AND Price < 200 THEN 'Medium Price'
+            ELSE 'High Price'
+        END AS PriceCategory
+    FROM Products;
+```
 
 ## 建立 Index
 

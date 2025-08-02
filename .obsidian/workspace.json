@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux 的輸出與重導向.md",
+                "file": "Database/MySQL/syntax/MySQL Basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux 的輸出與重導向"
+              "title": "MySQL Basic"
             }
           }
         ]
@@ -194,6 +194,9 @@
   },
   "active": "a7b073fb449a2f9e",
   "lastOpenFiles": [
+    "Database/MySQL/syntax/Untitled.md",
+    "Database/MySQL/syntax/MySQL Basic.md",
+    "Database/MySQL/syntax/常用時間函數.md",
     "Linux/Linux 的輸出與重導向.md",
     "Linux/Symbolic link.md",
     "Linux/Systemd.md",
@@ -218,9 +221,6 @@
     "AWS/IAM User and IAM Role.md",
     "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
-    "Python/Installation/Python ubuntu 安裝.md",
-    "Python/Installation/Python virtualenv setup (linux).md",
-    "Python/Installation/Python virtualenv setup (mac).md",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
     "AI",
