@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Database migration.md",
+                "file": "Git/git檔案還原.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database migration"
+              "title": "git檔案還原"
             }
           }
         ]
@@ -194,6 +194,7 @@
   },
   "active": "a7b073fb449a2f9e",
   "lastOpenFiles": [
+    "Database/Database migration.md",
     "Network/Authentication - JWT.md",
     "Database/MySQL/syntax/MySQL Basic.md",
     "Database/MySQL/syntax/Untitled.md",
@@ -220,7 +221,6 @@
     "Container/Docker/docker ubuntu 指令安裝.md",
     "AWS/How to create IAM role and use.md",
     "AWS/IAM User and IAM Role.md",
-    "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
     "AI",
