@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring Boot/Spring Boot Basic.md",
+                "file": "Java/Java Local 系列時間用法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Boot Basic"
+              "title": "Java Local 系列時間用法"
             }
           }
         ]
@@ -194,6 +194,9 @@
   },
   "active": "a7b073fb449a2f9e",
   "lastOpenFiles": [
+    "Java/Lambda expression.md",
+    "Java/Untitled 1.md",
+    "Java/Spring Boot/Spring Boot Basic.md",
     "Network/Path Parameters vs Query Parameters.md",
     "Java/application.properties 讀取環境變數 (intellij).md",
     "Git/git檔案還原.md",
@@ -218,9 +221,6 @@
     "Java/Security/Spring Security Note By Gemini.md",
     "Container/Docker/docker.canvas",
     "Testing/K6/Scenario Usage.md",
-    "Java/JPA/Relation in JPA.md",
-    "Java/JPA/JPA Introduction.md",
-    "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
     "AI",
