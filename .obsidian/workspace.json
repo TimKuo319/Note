@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git檔案還原.md",
+                "file": "Java/application.properties 讀取環境變數 (intellij).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git檔案還原"
+              "title": "application.properties 讀取環境變數 (intellij)"
             }
           }
         ]
@@ -194,6 +194,7 @@
   },
   "active": "a7b073fb449a2f9e",
   "lastOpenFiles": [
+    "Git/git檔案還原.md",
     "Database/Database migration.md",
     "Network/Authentication - JWT.md",
     "Database/MySQL/syntax/MySQL Basic.md",
@@ -220,7 +221,6 @@
     "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "Container/Docker/docker ubuntu 指令安裝.md",
     "AWS/How to create IAM role and use.md",
-    "AWS/IAM User and IAM Role.md",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
     "AI",
