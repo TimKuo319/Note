@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java Local 系列時間用法.md",
+                "file": "Java/手動進行 transaction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Local 系列時間用法"
+              "title": "手動進行 transaction"
             }
           }
         ]
@@ -194,6 +194,7 @@
   },
   "active": "a7b073fb449a2f9e",
   "lastOpenFiles": [
+    "Java/Java Local 系列時間用法.md",
     "Java/Lambda expression.md",
     "Java/Untitled 1.md",
     "Java/Spring Boot/Spring Boot Basic.md",
@@ -220,7 +221,6 @@
     "Java/Installation/Installation on ubuntu.md",
     "Java/Security/Spring Security Note By Gemini.md",
     "Container/Docker/docker.canvas",
-    "Testing/K6/Scenario Usage.md",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
     "AI",
