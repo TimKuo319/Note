@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "661caa2fb100ab6a",
+        "id": "6d24c309b75aeb28",
         "type": "tabs",
         "children": [
           {
-            "id": "a7b073fb449a2f9e",
+            "id": "e1169908a5024cd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Authentication - JWT.md",
+                "file": "Java/Spring Batch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authentication - JWT"
+              "title": "Spring Batch"
             }
           }
         ]
@@ -192,8 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7b073fb449a2f9e",
+  "active": "e1169908a5024cd9",
   "lastOpenFiles": [
+    "Java/Spring Batch.md",
+    "Network/Authentication - JWT.md",
     "Network/Webhook 簡介.md",
     "Network/Todo.md",
     "Network/Forward proxy and Reverse Proxy.md",
@@ -214,13 +216,11 @@
     "Java/application.properties 讀取環境變數 (intellij).md",
     "Git/git檔案還原.md",
     "Database/Database migration.md",
-    "Network/Authentication - JWT.md",
     "Database/MySQL/syntax/MySQL Basic.md",
     "Database/MySQL/syntax/Untitled.md",
     "Database/MySQL/syntax/常用時間函數.md",
     "Linux/Linux 的輸出與重導向.md",
     "Linux/Symbolic link.md",
-    "Linux/Systemd.md",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
     "AI",
