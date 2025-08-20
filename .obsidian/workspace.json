@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Todo note.md",
+                "file": "Database/Lock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo note"
+              "title": "Lock"
             }
           }
         ]
@@ -194,8 +194,10 @@
   },
   "active": "e1169908a5024cd9",
   "lastOpenFiles": [
-    "Database/Lock.md",
+    "Database/MVCC.md",
+    "Database/Race condition 與 隔離層級.md",
     "Database/Todo note.md",
+    "Database/Lock.md",
     "Database/MySQL/Mysql  pool.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Java/Security/Spring Security Note By Gemini.md",
@@ -219,8 +221,6 @@
     "Container/Docker/忽略特定檔案 .dockerignore.md",
     "Container/Docker/將 docker image push 到 docker hub.md",
     "Container/Docker/在本地檔案和容器間傳遞資料.md",
-    "Java/手動進行 transaction.md",
-    "Java/Java Local 系列時間用法.md",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
     "AI",
