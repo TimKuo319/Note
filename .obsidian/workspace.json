@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Lock.md",
+                "file": "Network/Forward proxy and Reverse Proxy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lock"
+              "title": "Forward proxy and Reverse Proxy"
             }
           }
         ]
@@ -194,10 +194,10 @@
   },
   "active": "e1169908a5024cd9",
   "lastOpenFiles": [
+    "Database/Lock.md",
     "Database/MVCC.md",
     "Database/Race condition 與 隔離層級.md",
     "Database/Todo note.md",
-    "Database/Lock.md",
     "Database/MySQL/Mysql  pool.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Java/Security/Spring Security Note By Gemini.md",

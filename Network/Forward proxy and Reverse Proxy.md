@@ -2,7 +2,7 @@
 
 ## Forward Proxy
 
-`Forward Proxy`，中文名稱叫做正向代理，代表許多 client 會透過一個 proxy，被導流到 server 中，對於 server 來說，他只會知道是 forward proxy 將訊息傳遞給他的，並不會知道實際的位置在哪裡。
+`Forward Proxy`，中文名稱叫做正向代理，代表許多 client 會透過一個 proxy，被導流到 server 中，對於 server 來說，他只會知道是 forward proxy 將訊息傳遞給他的，並不會知道 client 實際的位置在哪裡。
 
 常見用途：
 - 匿名使用者
@@ -11,6 +11,10 @@
 	- 企業針對內部 client 在使用網路時，可以去過濾 client request 或 response，來達到控管流量及保護內部網路的效果。
 - Caching
 	- 透過 proxy 做 cache，這樣當公司或學校等組織人員訪問相同的靜態資源時，就能得到更快地回應。-> 現在通常由 CDN 取代。
+
+- 翻牆
+
+- log request
 ## Reverse Proxy
 
 `Reverse Proxy` 就是一個相對於 `Forward Proxy` 的概念。前面提到，forward proxy 會讓 server 不知道實際的 client 來自哪裡。而 reverse proxy 就是 ==讓 client 不知道實際的 server 在那裡。== 對於 client 來說，他們都是打向 proxy server，但並不知道他們被實際導向的 server 位置。
@@ -20,6 +24,13 @@
 	- proxy 後方有多台 server，透過 proxy 來進行流量分發
 - 隱藏 server 真實位置
 
+## Key Difference
+
+- Forward proxy 需要 client 自己設定 proxy server 的位置，讓請求流向 proxy server 替自己轉發流量，否則就會直接流到目標 server
+
+- Reverse proxy 則不需要使用者去設定 proxy server 位置，當使用者打向一個 domain 時，他不會知道這個 domain 代表的實際上是 nginx，會依照請求轉到對應的 backend server
+
+- log request
 ## Summary
 
 Forward Proxy 跟 Reverse Proxy 的區別主要在於用途，本質上都是由一台 proxy server 來作為中間層，使 client 或 server 達到想要的目的。
