@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Security/Spring Security Note By Gemini.md",
+                "file": "Testing/Unit Test/Test Double.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Security Note By Gemini"
+              "title": "Test Double"
             }
           }
         ]
@@ -195,6 +195,9 @@
   },
   "active": "e1169908a5024cd9",
   "lastOpenFiles": [
+    "Testing/Unit Test/Unit Test 簡介.md",
+    "Testing/Unit Test/Test Double.md",
+    "Java/Security/Spring Security Note By Gemini.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "AWS/AWS Practitioner/2. Cloud Computing.md",
     "Network/Forward proxy and Reverse Proxy.md",
@@ -203,7 +206,6 @@
     "Database/Race condition 與 隔離層級.md",
     "Database/Todo note.md",
     "Database/MySQL/Mysql  pool.md",
-    "Java/Security/Spring Security Note By Gemini.md",
     "Java/Security/Spring Security with RBAC.md",
     "Java/Todo Note.md",
     "Network/cookie、localStorage、sessionStorage、indexedDB.md",
@@ -220,8 +222,6 @@
     "Obsidian/列出當前 folder 下的所有 tasks.md",
     "Container/Docker/Docker-compose.md",
     "Container/Docker/docker.canvas",
-    "Container/Docker/忽略特定檔案 .dockerignore.md",
-    "Container/Docker/將 docker image push 到 docker hub.md",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
     "AI",
