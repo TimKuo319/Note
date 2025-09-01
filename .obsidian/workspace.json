@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/What is Servelet.md",
+                "file": "Java/JVM/JVM Runtime Data Area.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Servelet"
+              "title": "JVM Runtime Data Area"
             }
           }
         ]
@@ -195,6 +195,7 @@
   },
   "active": "e1169908a5024cd9",
   "lastOpenFiles": [
+    "Java/What is Servelet.md",
     "Java/Intellij CE with Spring boot starter.md",
     "Testing/Unit Test/Unit Test 簡介.md",
     "Testing/Unit Test/Test Double.md",
@@ -220,7 +221,6 @@
     "Network/Github login.md",
     "Network/OAuth.md",
     "Network/Path Parameters vs Query Parameters.md",
-    "Obsidian/列出當前 folder 下的所有 tasks.md",
     "Container/Docker/docker.canvas",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
