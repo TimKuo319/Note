@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java Basic/Java Stream.md",
+                "file": "Algo & DS/Sorting/Merge Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Stream"
+              "title": "Merge Sort"
             }
           }
         ]
@@ -195,6 +195,11 @@
   },
   "active": "e1169908a5024cd9",
   "lastOpenFiles": [
+    "Algo & DS/Sorting/Selection Sort.md",
+    "Algo & DS/Sorting/Bubble Sort.md",
+    "Algo & DS/Sorting/Insertion Sort.md",
+    "Algo & DS/Sorting/Heap Sort.md",
+    "Java/Java Basic/Java Stream.md",
     "Network/cookie、localStorage、sessionStorage、indexedDB.md",
     "Network/Authentication - JWT.md",
     "Java/Intellij CE with Spring boot starter.md",
@@ -216,11 +221,6 @@
     "Database/Todo note.md",
     "Database/MySQL/Mysql  pool.md",
     "Java/Security/Spring Security with RBAC.md",
-    "Java/Todo Note.md",
-    "Java/BigDecimal.md",
-    "Format/ISO 8601.md",
-    "Database/MySQL/MySQL MATCH...AGAINST 用法.md",
-    "Java/Spring Batch.md",
     "Container/Docker/docker.canvas",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
