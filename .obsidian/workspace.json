@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6d24c309b75aeb28",
+        "id": "ff077d023398669f",
         "type": "tabs",
         "children": [
           {
-            "id": "e1169908a5024cd9",
+            "id": "52317361a1a293e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo & DS/Sorting/Merge Sort.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Merge Sort"
+              "title": "New tab"
             }
           }
         ]
@@ -193,12 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1169908a5024cd9",
+  "active": "52317361a1a293e5",
   "lastOpenFiles": [
-    "Algo & DS/Sorting/Selection Sort.md",
-    "Algo & DS/Sorting/Bubble Sort.md",
     "Algo & DS/Sorting/Insertion Sort.md",
     "Algo & DS/Sorting/Heap Sort.md",
+    "Algo & DS/Sorting/Bubble Sort.md",
+    "Algo & DS/Sorting/Merge Sort.md",
+    "Algo & DS/Sorting/Selection Sort.md",
     "Java/Java Basic/Java Stream.md",
     "Network/cookie、localStorage、sessionStorage、indexedDB.md",
     "Network/Authentication - JWT.md",
@@ -220,7 +217,6 @@
     "Database/Race condition 與 隔離層級.md",
     "Database/Todo note.md",
     "Database/MySQL/Mysql  pool.md",
-    "Java/Security/Spring Security with RBAC.md",
     "Container/Docker/docker.canvas",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
