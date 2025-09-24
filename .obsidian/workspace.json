@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo & DS/Sorting/Selection Sort.md",
+                "file": "Terminal/Mac 終端機美化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Selection Sort"
+              "title": "Mac 終端機美化"
             }
           }
         ]
@@ -195,13 +195,18 @@
   },
   "active": "52317361a1a293e5",
   "lastOpenFiles": [
+    "Terminal/iTherm2 remove shell marker.md",
+    "Terminal/iTerm2 change theme.md",
+    "Terminal/Mac 終端機美化.md",
+    "Terminal/zsh 鍵位設定.md",
+    "Terminal/Oh my zsh 設定.md",
+    "Algo & DS/Sorting/Selection Sort.md",
     "Algo & DS/Sorting/Quick Sort.md",
     "Algo & DS/Sorting/Merge Sort.md",
     "Algo & DS/Sorting/Insertion Sort.md",
     "Algo & DS/Sorting/Heap Sort.md",
     "Algo & DS/Sorting/Bubble Sort.md",
     "Algo & DS/Tree/樹的種類.md",
-    "Algo & DS/Sorting/Selection Sort.md",
     "Java/Java Basic/Java Stream.md",
     "Network/cookie、localStorage、sessionStorage、indexedDB.md",
     "Network/Authentication - JWT.md",
@@ -216,11 +221,6 @@
     "Testing/Unit Test/Test Double.md",
     "Java/Security/Spring Security Note By Gemini.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
-    "AWS/AWS Practitioner/2. Cloud Computing.md",
-    "Network/Forward proxy and Reverse Proxy.md",
-    "Database/Lock.md",
-    "Database/MVCC.md",
-    "Database/Race condition 與 隔離層級.md",
     "Container/Docker/docker.canvas",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
