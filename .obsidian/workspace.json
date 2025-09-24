@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal/Mac 終端機美化.md",
+                "file": "AWS/Auto Scaling in AWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mac 終端機美化"
+              "title": "Auto Scaling in AWS"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -195,9 +196,22 @@
   },
   "active": "52317361a1a293e5",
   "lastOpenFiles": [
+    "AWS/CloudFront S3/CloudFront behavior 設定.md",
+    "AWS/Auto Scaling in AWS.md",
+    "AWS/CloudFront S3/S3 靜態網站 host + CDN.md",
+    "AWS/CloudFront S3/Route53 網域購買及 SSL 證書申請.md",
+    "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
+    "AWS/CloudFront S3/CloudFront 刷新資料.md",
+    "AWS/Todo note.md",
+    "AWS/IAM User and IAM Role.md",
+    "AWS/How to create IAM role and use.md",
+    "AWS/CloudWatch自動重啟.md",
+    "Line-bot.md",
+    "AWS/Auto Load Balancer 設定.md",
+    "WSL/Install WSL on Windows.md",
+    "Terminal/Mac 終端機美化.md",
     "Terminal/iTherm2 remove shell marker.md",
     "Terminal/iTerm2 change theme.md",
-    "Terminal/Mac 終端機美化.md",
     "Terminal/zsh 鍵位設定.md",
     "Terminal/Oh my zsh 設定.md",
     "Algo & DS/Sorting/Selection Sort.md",
@@ -208,19 +222,6 @@
     "Algo & DS/Sorting/Bubble Sort.md",
     "Algo & DS/Tree/樹的種類.md",
     "Java/Java Basic/Java Stream.md",
-    "Network/cookie、localStorage、sessionStorage、indexedDB.md",
-    "Network/Authentication - JWT.md",
-    "Java/Intellij CE with Spring boot starter.md",
-    "Java/Java Local 系列時間用法.md",
-    "Java/Java Naming Convention.md",
-    "Java/Lambda expression.md",
-    "Java/Multi-datasource in java.md",
-    "Java/JVM/JVM Runtime Data Area.md",
-    "Java/What is Servelet.md",
-    "Testing/Unit Test/Unit Test 簡介.md",
-    "Testing/Unit Test/Test Double.md",
-    "Java/Security/Spring Security Note By Gemini.md",
-    "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Container/Docker/docker.canvas",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
