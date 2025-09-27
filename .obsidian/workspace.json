@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Auto Scaling in AWS.md",
+                "file": "Git/git檔案還原.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auto Scaling in AWS"
+              "title": "git檔案還原"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -196,8 +195,16 @@
   },
   "active": "52317361a1a293e5",
   "lastOpenFiles": [
-    "AWS/CloudFront S3/CloudFront behavior 設定.md",
+    "Git/Todo Note.md",
+    "Git/Github PR Default Previewer 設定.md",
+    "Git/git stash檔案暫存.md",
+    "Git/git reset vs git revert.md",
+    "Git/git alias設定.md",
+    "Git/git head.md",
+    "Git/git diff.md",
+    "Git/git cherry-pick.md",
     "AWS/Auto Scaling in AWS.md",
+    "AWS/CloudFront S3/CloudFront behavior 設定.md",
     "AWS/CloudFront S3/S3 靜態網站 host + CDN.md",
     "AWS/CloudFront S3/Route53 網域購買及 SSL 證書申請.md",
     "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
@@ -214,14 +221,6 @@
     "Terminal/iTerm2 change theme.md",
     "Terminal/zsh 鍵位設定.md",
     "Terminal/Oh my zsh 設定.md",
-    "Algo & DS/Sorting/Selection Sort.md",
-    "Algo & DS/Sorting/Quick Sort.md",
-    "Algo & DS/Sorting/Merge Sort.md",
-    "Algo & DS/Sorting/Insertion Sort.md",
-    "Algo & DS/Sorting/Heap Sort.md",
-    "Algo & DS/Sorting/Bubble Sort.md",
-    "Algo & DS/Tree/樹的種類.md",
-    "Java/Java Basic/Java Stream.md",
     "Container/Docker/docker.canvas",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
