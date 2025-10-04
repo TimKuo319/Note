@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE/Event Storming.md",
+                "file": "AWS/Auto Scaling in AWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Event Storming"
+              "title": "Auto Scaling in AWS"
             }
           }
         ]
@@ -195,8 +195,10 @@
   },
   "active": "52317361a1a293e5",
   "lastOpenFiles": [
-    "Git/git檔案還原.md",
+    "Database/Untitled.md",
+    "AWS/Auto Scaling in AWS.md",
     "SWE/Event Storming.md",
+    "Git/git檔案還原.md",
     "Git/Todo Note.md",
     "Git/Github PR Default Previewer 設定.md",
     "Git/git stash檔案暫存.md",
@@ -205,7 +207,6 @@
     "Git/git head.md",
     "Git/git diff.md",
     "Git/git cherry-pick.md",
-    "AWS/Auto Scaling in AWS.md",
     "AWS/CloudFront S3/CloudFront behavior 設定.md",
     "AWS/CloudFront S3/S3 靜態網站 host + CDN.md",
     "AWS/CloudFront S3/Route53 網域購買及 SSL 證書申請.md",
@@ -220,7 +221,6 @@
     "WSL/Install WSL on Windows.md",
     "Terminal/Mac 終端機美化.md",
     "Terminal/iTherm2 remove shell marker.md",
-    "Terminal/iTerm2 change theme.md",
     "Container/Docker/docker.canvas",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
