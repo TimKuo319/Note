@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Auto Scaling in AWS"
             }
-          },
-          {
-            "id": "afc251fd9d373d37",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afc251fd9d373d37",
+  "active": "52317361a1a293e5",
   "lastOpenFiles": [
     "Untitled",
     "Database/Untitled.md",
