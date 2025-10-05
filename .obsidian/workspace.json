@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Auto Scaling in AWS"
             }
+          },
+          {
+            "id": "afc251fd9d373d37",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,8 +206,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52317361a1a293e5",
+  "active": "afc251fd9d373d37",
   "lastOpenFiles": [
+    "Untitled",
     "Database/Untitled.md",
     "AWS/Auto Scaling in AWS.md",
     "SWE/Event Storming.md",
@@ -220,7 +234,6 @@
     "AWS/Auto Load Balancer 設定.md",
     "WSL/Install WSL on Windows.md",
     "Terminal/Mac 終端機美化.md",
-    "Terminal/iTherm2 remove shell marker.md",
     "Container/Docker/docker.canvas",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
