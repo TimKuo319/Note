@@ -59,6 +59,14 @@ fetchData()
     });
 
 ```
+
+| 情況             | 結果                                       |
+| -------------- | ---------------------------------------- |
+| Promise reject | 跳到最近的 catch                              |
+| then 內拋出錯誤     | 跳到最近的 catch                              |
+| catch 回傳值      | 鏈繼續執行下一個 then                            |
+| catch 拋出錯誤     | 需要下一個 catch 捕捉                           |
+| 沒有 catch       | 錯誤變成 Unhandled Promise Rejection（瀏覽器會警告） |
 ## async and await
 
 + async及await是用來簡化對promise處理的。當我們接收到一個promise的時候，會使用`then`以及`catch`來進行處理，當處理的狀況越多時，就會使的`then`、`catch`的使用變得相當冗長。async及await keyword出現，能讓這樣的處理變得更像同步的程式碼

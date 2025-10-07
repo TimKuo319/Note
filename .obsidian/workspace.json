@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Auto Scaling in AWS.md",
+                "file": "NodeJS/TypeScript/任意值, 型別推論, 聯合型別.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auto Scaling in AWS"
+              "title": "任意值, 型別推論, 聯合型別"
             }
           }
         ]
@@ -195,9 +195,14 @@
   },
   "active": "52317361a1a293e5",
   "lastOpenFiles": [
+    "NodeJS/Event loop.md",
+    "NodeJS/TypeScript/任意值, 型別推論, 聯合型別.md",
+    "Frontend/JavaScript/Sync vs Async.md",
+    "NodeJS/TypeScript/Primitive Data Type.md",
+    "AWS/Auto Scaling in AWS.md",
+    "NodeJS/TypeScript",
     "Untitled",
     "Database/Untitled.md",
-    "AWS/Auto Scaling in AWS.md",
     "SWE/Event Storming.md",
     "Git/git檔案還原.md",
     "Git/Todo Note.md",
@@ -218,9 +223,6 @@
     "AWS/How to create IAM role and use.md",
     "AWS/CloudWatch自動重啟.md",
     "Line-bot.md",
-    "AWS/Auto Load Balancer 設定.md",
-    "WSL/Install WSL on Windows.md",
-    "Terminal/Mac 終端機美化.md",
     "Container/Docker/docker.canvas",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
@@ -235,8 +237,6 @@
     "Java/RedisTemplate",
     "Algo & DS/Tree",
     "AWS/AWS 操作",
-    "Algo & DS/Sorting",
-    "Algo & DS",
     "image/access_level_modifiers.png",
     "image/envfile.png",
     "image/env.png",
