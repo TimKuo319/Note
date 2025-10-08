@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/TypeScript/任意值, 型別推論, 聯合型別.md",
+                "file": "NodeJS/TypeScript/介面.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "任意值, 型別推論, 聯合型別"
+              "title": "介面"
             }
           }
         ]
@@ -195,9 +195,10 @@
   },
   "active": "52317361a1a293e5",
   "lastOpenFiles": [
+    "Frontend/JavaScript/Sync vs Async.md",
+    "NodeJS/TypeScript/介面.md",
     "NodeJS/Event loop.md",
     "NodeJS/TypeScript/任意值, 型別推論, 聯合型別.md",
-    "Frontend/JavaScript/Sync vs Async.md",
     "NodeJS/TypeScript/Primitive Data Type.md",
     "AWS/Auto Scaling in AWS.md",
     "NodeJS/TypeScript",
@@ -222,7 +223,6 @@
     "AWS/IAM User and IAM Role.md",
     "AWS/How to create IAM role and use.md",
     "AWS/CloudWatch自動重啟.md",
-    "Line-bot.md",
     "Container/Docker/docker.canvas",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
