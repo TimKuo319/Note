@@ -296,10 +296,13 @@ Actor → Command → Aggregate → Event → Policy → Command → ...
 		- 「付款已完成」
 		- 「商品已出貨」
 - command - 藍色
-	- 可想像成是系統中的操作
+	- 可理解成是系統中的操作
 - aggregate - 黃色
-	- 可以想像成軟體中的 model
+	- 可以理解成軟體中的 model
 
+- policy - 紫色
+	- 有點像是狀態檢查的部分
+	- 表示系統對於特定 event 怎麼回應 
 ## Reference
 
 [Event Storming Part 3 - 軟體設計 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10220315)
