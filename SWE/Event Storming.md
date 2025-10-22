@@ -297,8 +297,11 @@ Actor → Command → Aggregate → Event → Policy → Command → ...
 		- 「商品已出貨」
 - command - 藍色
 	- 可理解成是系統中的操作
+	
 - aggregate - 黃色
 	- 可以理解成軟體中的 model
+	- ex: 假設系統 command 是輸入結清方式
+	- 可能會在旁邊加上 aggregate 有**現金結清、帳號結清、會計帳號**等選項。
 
 - policy - 紫色
 	- 有點像是狀態檢查的部分
