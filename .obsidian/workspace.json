@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCP/Cloud Function.md",
+                "file": "NodeJS/Event loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Function"
+              "title": "Event loop"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -196,8 +195,8 @@
   },
   "active": "52317361a1a293e5",
   "lastOpenFiles": [
-    "AWS/AWS/連線EC2 instance.md",
     "GCP/Cloud Function.md",
+    "AWS/AWS/連線EC2 instance.md",
     "AWS/How to create IAM role and use.md",
     "AWS/AWS CLI 基礎使用 (搭配 AWS STS).md",
     "AWS/AWS/AWS IAM建立.md",
