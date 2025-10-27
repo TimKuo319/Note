@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/Event loop.md",
+                "file": "NodeJS/package.json vs package-lock.json.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Event loop"
+              "title": "package.json vs package-lock.json"
             }
           }
         ]
@@ -195,6 +195,9 @@
   },
   "active": "52317361a1a293e5",
   "lastOpenFiles": [
+    "NodeJS/TypeScript/環境設置.md",
+    "NodeJS/package.json vs package-lock.json.md",
+    "NodeJS/Event loop.md",
     "GCP/Cloud Function.md",
     "AWS/AWS/連線EC2 instance.md",
     "AWS/How to create IAM role and use.md",
@@ -203,7 +206,6 @@
     "SWE/Event Storming.md",
     "NodeJS/TypeScript/介面.md",
     "Frontend/JavaScript/Sync vs Async.md",
-    "NodeJS/Event loop.md",
     "NodeJS/TypeScript/任意值, 型別推論, 聯合型別.md",
     "NodeJS/TypeScript/Primitive Data Type.md",
     "AWS/Auto Scaling in AWS.md",
@@ -221,8 +223,6 @@
     "Git/git cherry-pick.md",
     "AWS/CloudFront S3/CloudFront behavior 設定.md",
     "AWS/CloudFront S3/S3 靜態網站 host + CDN.md",
-    "AWS/CloudFront S3/Route53 網域購買及 SSL 證書申請.md",
-    "AWS/CloudFront S3/CloudFront 刷新資料.md",
     "Container/Docker/docker.canvas",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
