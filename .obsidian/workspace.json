@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA/JPA common annotation.md",
+                "file": "Java/JPA/JPA Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JPA common annotation"
+              "title": "JPA Introduction"
             }
           }
         ]
@@ -195,12 +195,12 @@
   },
   "active": "52317361a1a293e5",
   "lastOpenFiles": [
+    "Java/JPA/JPA common annotation.md",
+    "Java/JPA/Relation in JPA.md",
+    "Java/JPA/JPA Introduction.md",
+    "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "Java/Intellij CE with Spring boot initializr.md",
     "Java/Spring Boot/Spring Boot Basic.md",
-    "Java/JPA/JPA Introduction.md",
-    "Java/JPA/Relation in JPA.md",
-    "Java/JPA/JPA common annotation.md",
-    "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "Database/ORM/ORM介紹.md",
     "NodeJS/使用 PowerShell 時僅能透過 npm.cmd 而非 npm 的解決方案.md",
     "NodeJS/TypeScript/Difference with  Java,CSharp.md",
