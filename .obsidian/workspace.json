@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/使用 PowerShell 時僅能透過 npm.cmd 而非 npm 的解決方案.md",
+                "file": "Java/JPA/JPA common annotation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "使用 PowerShell 時僅能透過 npm.cmd 而非 npm 的解決方案"
+              "title": "JPA common annotation"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -196,8 +195,15 @@
   },
   "active": "52317361a1a293e5",
   "lastOpenFiles": [
-    "NodeJS/TypeScript/Difference with  Java,CSharp.md",
+    "Java/Intellij CE with Spring boot initializr.md",
+    "Java/Spring Boot/Spring Boot Basic.md",
+    "Java/JPA/JPA Introduction.md",
+    "Java/JPA/Relation in JPA.md",
+    "Java/JPA/JPA common annotation.md",
+    "Java/JPA/How Spring Data JPA works internally (極簡版).md",
+    "Database/ORM/ORM介紹.md",
     "NodeJS/使用 PowerShell 時僅能透過 npm.cmd 而非 npm 的解決方案.md",
+    "NodeJS/TypeScript/Difference with  Java,CSharp.md",
     "NodeJS/package.json vs package-lock.json.md",
     "NodeJS/TypeScript/環境設置.md",
     "NodeJS/Event loop.md",
@@ -217,13 +223,6 @@
     "Database/Untitled.md",
     "Git/git檔案還原.md",
     "Git/Todo Note.md",
-    "Git/Github PR Default Previewer 設定.md",
-    "Git/git stash檔案暫存.md",
-    "Git/git reset vs git revert.md",
-    "Git/git alias設定.md",
-    "Git/git head.md",
-    "Git/git diff.md",
-    "Git/git cherry-pick.md",
     "Container/Docker/docker.canvas",
     "Untitled.canvas",
     "Pasted image 20250715152313.png",
