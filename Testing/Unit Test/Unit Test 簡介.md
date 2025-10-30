@@ -28,6 +28,11 @@ tags:
 
 斷言是用來檢查測試結果是否符合預期的一種語句。常見的斷言包括 `assertEquals()`（檢查兩個值是否相等）、`assertTrue()`（檢查條件是否為真）等。
 
+## 測試原則
+
+- 大多主要透過 MockMvc 測試各個 API 功能是否正常，也就是測 Controller 層
+- 重要的 service 可以加一些專屬的單元測試
+- Dao 層較少測
 
 ## Reference
 
