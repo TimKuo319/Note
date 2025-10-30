@@ -4,13 +4,22 @@
 + `@BeforeAll`
 	+ 需為 **static method**
 	+ 在執行所有 Testcase 前會執行一次
+	
 + `@BeforeEach`
 	+ 在跑每一個 Testcase 前都會執行一次
+	
 + `@AfterEach`
 	+ 在每一個 Testcase 執行完後執行一次
+	
 + `@AfterAll`
 	+ 需為 **static method**
 	+ 在所有 Testcase 執行完後執行一次
+
+- `@Transactional`
+	- 如果在 testcase 上方加上 `@Transactional` 註解，則在 testcase 過程中所經歷的 db 更動會在最後被 rollback 回去
+	- 相對於在寫 code 的時候使用時 `@Transactional` 則只有在遇到錯誤 (有 exception 時)，才會進行 rollback
+
+- [ ] `@SpringBootTest`
 
 ## Shortcut
 
