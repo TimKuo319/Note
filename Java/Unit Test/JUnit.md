@@ -1,16 +1,16 @@
 
-## JUnit5
+## JUnit5 常見 annotation
 
 + `@BeforeAll`
-	+ 需為static method
-	+ 在執行所有Testcase前會執行一次
+	+ 需為 **static method**
+	+ 在執行所有 Testcase 前會執行一次
 + `@BeforeEach`
-	+ 在跑每一個Testcase前都會執行一次
+	+ 在跑每一個 Testcase 前都會執行一次
 + `@AfterEach`
-	+ 在每一個Testcase執行完後執行一次
+	+ 在每一個 Testcase 執行完後執行一次
 + `@AfterAll`
-	+ 需為static method
-	+ 在所有Testcase執行完後執行一次
+	+ 需為 **static method**
+	+ 在所有 Testcase 執行完後執行一次
 
 ## Shortcut
 
