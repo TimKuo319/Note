@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Unit Test/Mockito.md",
+                "file": "NodeJS/TypeScript/學習資源.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mockito"
+              "title": "學習資源"
             }
           },
           {
@@ -209,10 +209,11 @@
   },
   "active": "369e14f542fb7411",
   "lastOpenFiles": [
+    "Java/Unit Test/Mockito.md",
+    "NodeJS/TypeScript/學習資源.md",
     "Java/Unit Test/MVC 三層的 Unit Test.md",
     "Testing/Unit Test/Unit Test 簡介.md",
     "Java/Unit Test/JUnit.md",
-    "Java/Unit Test/Mockito.md",
     "Java/Todo Note.md",
     "Database/Todo note.md",
     "Database/PostgreSQL/PostgreSQL 與 MySQL 語法上差異較大的部分.md",
@@ -236,7 +237,6 @@
     "Database/PostgreSQL",
     "Java/JPA/JPA Introduction.md",
     "Java/JPA/JPA common annotation.md",
-    "Java/JPA/Relation in JPA.md",
     "NodeJS/TypeScript",
     "Untitled",
     "Container/Docker/docker.canvas",
