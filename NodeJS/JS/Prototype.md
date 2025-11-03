@@ -1,8 +1,8 @@
 ---
 date: 2024-03-07 22:41 Thu
 ---
----
 
+- [ ] 說明補充
 ## Prototype
 
 + 所有function都會有一個prototype屬性指向一個特殊物件==prototype==
