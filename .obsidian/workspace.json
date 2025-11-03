@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Todo note.md",
+                "file": "Database/MySQL/syntax/MySQL Basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo note"
+              "title": "MySQL Basic"
             }
           },
           {
@@ -209,6 +209,10 @@
   },
   "active": "369e14f542fb7411",
   "lastOpenFiles": [
+    "Database/PostgreSQL/PostgreSQL 與 MySQL 語法上差異較大的部分.md",
+    "Database/PostgreSQL/pgadmin 介面卡頓問題.md",
+    "Database/PostgreSQL/PostgreSQL schema 組成.md",
+    "Database/Todo note.md",
     "Java/JPA/JPA common annotation.md",
     "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "Java/JPA/JPA Introduction.md",
@@ -231,10 +235,6 @@
     "NodeJS/TypeScript/tsconfig.json 常見參數.md",
     "NodeJS/TypeScript/任意值, 型別推論, 聯合型別.md",
     "NodeJS/TypeScript/介面.md",
-    "NodeJS/package.json vs package-lock.json.md",
-    "NodeJS/使用 PowerShell 時僅能透過 npm.cmd 而非 npm 的解決方案.md",
-    "Java/Security/Spring Security with RBAC.md",
-    "Java/Security/Spring Security Note By Gemini.md",
     "Java/Unit Test",
     "Database/PostgreSQL",
     "NodeJS/TypeScript",
