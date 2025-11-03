@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA/JPA common annotation.md",
+                "file": "Database/Todo note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JPA common annotation"
+              "title": "Todo note"
             }
           },
           {
@@ -209,6 +209,7 @@
   },
   "active": "369e14f542fb7411",
   "lastOpenFiles": [
+    "Java/JPA/JPA common annotation.md",
     "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "Java/JPA/JPA Introduction.md",
     "NodeJS/JS/Prototype.md",
@@ -234,7 +235,6 @@
     "NodeJS/使用 PowerShell 時僅能透過 npm.cmd 而非 npm 的解決方案.md",
     "Java/Security/Spring Security with RBAC.md",
     "Java/Security/Spring Security Note By Gemini.md",
-    "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Java/Unit Test",
     "Database/PostgreSQL",
     "NodeJS/TypeScript",
