@@ -10,10 +10,13 @@ path includes {{query.file.folder}}
 
 - [ ] 代理鍵 vs 自然鍵
 
-- [ ] char vs character vs character varying
+- [ ] `char` vs `character` vs `character varying` vs `varchar`
 
 - [ ] decimal vs float
 
 - [ ] character 欄位的自動生成方式
 
 - [ ] enum 用法
+
+- [ ] `sequence`、`function`、`trigger` 及其使用方式
+
