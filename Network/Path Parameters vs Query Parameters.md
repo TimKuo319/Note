@@ -26,6 +26,13 @@ tags:
 
 `query parameter` 的話主要是應用在過濾、排序、篩選等場景上。
 
+
+以 API 設計來說，資源的表示通常會使用 `kebab-case` 用於針對資源本身，而 `query paramerter` 則會使用 camelCase 作為命名。
+
+會將 `query parameter` 用 camelCase 的原因是，`query parameter` 本身會是給程式閱讀的，ex : `json`、程式中的變數等等。使用 camelCase 更易於直接在程式中使用。
+
+*註：kebab-case 指的是中間加上分隔線的表示法，如 transaction-logs*
+
 ## Reference
 
 - [Path vs. Query Parameters: Choosing the Right Approach for API Requests - DEV Community](https://dev.to/farhatsharifh/path-vs-query-parameters-choosing-the-right-approach-for-api-requests-2lah)

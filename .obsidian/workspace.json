@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/What is Model Context Protocol (MCP).md",
+                "file": "Network/Path Parameters vs Query Parameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Model Context Protocol (MCP)"
+              "title": "Path Parameters vs Query Parameters"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -195,8 +196,9 @@
   },
   "active": "0c01163fe230b7f4",
   "lastOpenFiles": [
-    "Clippings/那些高成就的人都是掌握了哪些訣竅？｜《開創心態》｜文森說書.md",
+    "SWE/API.canvas",
     "AI/What is Model Context Protocol (MCP).md",
+    "Clippings/那些高成就的人都是掌握了哪些訣竅？｜《開創心態》｜文森說書.md",
     "Clippings",
     "Clippings/【浪D衝韓服】TES369也是厲害了，竟然排到了浪d，你藍寶水平也不行啊還得練（vs藍寶）.md",
     "Pasted image 20250715152313.png",
@@ -222,7 +224,6 @@
     "NodeJS/TypeScript/學習資源.md",
     "NodeJS/Nodejs底層原理.md",
     "NodeJS/NodeJS版本管理.md",
-    "NodeJS/Nodejs中的Event loop.md",
     "Java/Unit Test",
     "Database/PostgreSQL",
     "NodeJS/TypeScript",
@@ -248,7 +249,6 @@
     "NodeJS/NestJS/NestJS.canvas",
     "Frontend/CSS/CSS.canvas",
     "Frontend/ReactJS/React.canvas",
-    "SWE/API.canvas",
     "Cache/redis.canvas",
     "IoT/Untitled.canvas"
   ]
