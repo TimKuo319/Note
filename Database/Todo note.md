@@ -23,3 +23,4 @@ path includes {{query.file.folder}}
 
 - [ ]  DB 中使用 enum 的話，spring boot 要怎麼配合
 
+- [ ] 複合鍵 join 語法
