@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA/設定常見參數.md",
+                "file": "Database/Todo note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "設定常見參數"
+              "title": "Todo note"
             }
           }
         ]
@@ -195,12 +195,12 @@
   },
   "active": "0c01163fe230b7f4",
   "lastOpenFiles": [
-    "Java/JPA/JPA common annotation.md",
+    "Java/Todo Note.md",
+    "Java/JPA/Relation in JPA.md",
     "Java/JPA/設定常見參數.md",
+    "Java/JPA/JPA common annotation.md",
     "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "Java/JPA/JPA Introduction.md",
-    "Java/JPA/Relation in JPA.md",
-    "Java/Todo Note.md",
     "Database/Todo note.md",
     "Java/Intellij CE with Spring boot initializr.md",
     "Database/Database lock.md",

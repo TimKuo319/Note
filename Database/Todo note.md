@@ -14,8 +14,6 @@ path includes {{query.file.folder}}
 
 - [ ] decimal vs float
 
-- [ ] character 欄位的自動生成方式
-
 - [ ] enum 用法
 
 - [ ] `sequence`、`function`、`trigger` 及其使用方式
@@ -27,3 +25,5 @@ path includes {{query.file.folder}}
 - [ ] 複合鍵 join 語法
 
 - [ ] timestamp vs date
+
+- [ ] db 欄位有最大最小限制嗎
