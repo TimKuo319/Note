@@ -27,3 +27,7 @@ path includes {{query.file.folder}}
 - [ ] timestamp vs date
 
 - [ ] db 欄位有最大最小限制嗎
+
+- [ ] on update cascade 時資料變更的行為
+
+- [ ] 在 JPA 中，many to one 與 one to many 如果只打一邊會怎麼樣
