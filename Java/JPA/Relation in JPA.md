@@ -16,7 +16,7 @@ tags:
 `@JoinColumn` 的話則是會在 User entity 中加上名為 `profile_id` 的欄位，參考的是 `Profile` table 中的 `id` 欄位。
 
 >[!info] 
->1. mappedBy 要填寫的是在 entity 中的屬性名稱
+>1. mappedBy 要填寫的是在 owing entity 中的屬性名稱
 >2. @JoinColumn 會使得 entity 在資料庫中加上該外鍵欄位，通常是加在被控端上管理
 
 
@@ -57,7 +57,9 @@ public class Profile {
 ```
 
 >[!info] 
->mappedby 填入的對象是在 owner 的屬性名稱
+>mappedby 填入的對象是在 owner 的屬性名稱。
+>
+>以上面的狀況來說，Profile entity 裡面要填寫的是在 User 中的屬性名稱 “profile"。如果 User entity 裡的名字被改成 "profiles" ，則在 Profile Entity 中 user 上方的 mappedBy 屬性也要填寫 "profiles"
 
 
 ## Owing Side(控制端) vs Inverse Side(被控端)

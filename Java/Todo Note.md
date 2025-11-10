@@ -22,13 +22,7 @@ path includes {{query.file.folder}}
 
 - [ ] what is object mapper ⏫ 
 
-- [ ] JPA 理解 ⏫ 
-	- 基礎 CRUD 只針對 `primary key`
-	- `findAll()`
-	- `findById()`
-	- `deleteById()`
-	- JPQL
-	- entity graph
+
 
 - [ ] restemplate ⏫ 
 
