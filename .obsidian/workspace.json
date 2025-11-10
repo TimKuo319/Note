@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA/JPA 搭配 enum type 做使用.md",
+                "file": "Database/Todo note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JPA 搭配 enum type 做使用"
+              "title": "Todo note"
             }
           }
         ]
@@ -195,8 +195,12 @@
   },
   "active": "0c01163fe230b7f4",
   "lastOpenFiles": [
-    "Java/JPA/Todo.md",
+    "Database/PostgreSQL/PostgreSQL 與 MySQL 語法上差異較大的部分.md",
+    "Database/PostgreSQL/PostgreSQL schema 組成.md",
+    "Database/MySQL/移除 mysql.md",
+    "Database/MySQL/Database design.md",
     "Java/JPA/JPA 搭配 enum type 做使用.md",
+    "Java/JPA/Todo.md",
     "Java/JPA/Table name 或 Column name 與 SQL identifier 重複時解決方案.md",
     "Java/JPA/JPA common annotation.md",
     "Java/JPA/JPA Introduction.md",
@@ -221,10 +225,6 @@
     "Clippings/【浪D衝韓服】TES369也是厲害了，竟然排到了浪d，你藍寶水平也不行啊還得練（vs藍寶）.md",
     "Pasted image 20250715152313.png",
     "Clippings/Obs170｜Obsidian的官方網頁擷取工具：Obsidian Web Clipper；設定與使用 – 簡睿隨筆.md",
-    "Obsidian/列出當前 folder 下的所有 tasks.md",
-    "Database/PostgreSQL/PostgreSQL 與 MySQL 語法上差異較大的部分.md",
-    "Database/PostgreSQL/pgadmin 介面卡頓問題.md",
-    "Database/PostgreSQL/PostgreSQL schema 組成.md",
     "Java/Unit Test",
     "Database/PostgreSQL",
     "NodeJS/TypeScript",

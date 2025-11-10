@@ -10,6 +10,8 @@ path includes {{query.file.folder}}
 
 - [ ] 代理鍵 vs 自然鍵
 
+
+
 - [ ] `char` vs `character` vs `character varying` vs `varchar`
 
 - [ ] decimal vs float
