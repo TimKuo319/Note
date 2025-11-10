@@ -16,7 +16,6 @@ path includes {{query.file.folder}}
 
 - [ ] decimal vs float
 
-- [ ] enum 用法
 
 - [ ] `sequence`、`function`、`trigger` 及其使用方式
 	- 嘗試是否能夠透過以上組合實現讓 character varying 型別自動生成序號
