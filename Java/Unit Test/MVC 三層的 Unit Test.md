@@ -1,9 +1,9 @@
 
 ## Dao
 
-- [ ] 什麼是 h2，有兼容 postgres 嗎？
+- [ ] 什麼是 h2
 - [ ] spring boot UT 的參數設定(在 `/resource` 下有哪些可調整使用設定)
-- [ ] 為何 postgres 在 java 中不需要設定 dirver?
+- [ ] 為何 postgres 在 java 中不需要設定 driver?
 
 - 可透過 h2 資料庫協助模擬進行 dao 層測試
 	- 在 `pom.xml` 中加入 h2 dependency

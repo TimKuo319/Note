@@ -1,7 +1,9 @@
 
-`JpaReopsitory<T, ID>`
+`JpaReopsitry<T, ID>`
 
 - `.flush()` 用途
+
+- [ ]  JPA Repository 基本使用方式 
 
 ## Reference
 
