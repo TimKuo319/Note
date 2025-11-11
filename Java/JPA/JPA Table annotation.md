@@ -4,6 +4,7 @@ tags:
   - ORM
 ---
 
+- `@Id`
 - `GeneratedValue` - primary key 的生成策略
 	- `IDENTITY` - 相當於 auto increment 
 	- `SEQUENCE`
@@ -11,7 +12,9 @@ tags:
 
 - `JoinColumn`  -  會在他修飾的 entity 中取一個屬性作為現在 entity 的 column
 
-以下面的程式碼來說，`@JoinColumn` 修飾的是 user entity，在沒有指定要以 user 中的哪個屬性作為 column 的狀況下，預設會以目標的 primary key 作為 column，name 代表的則是為這個 column 取名。以下面的例子來說就是 `user_id`
+	- 以下面的程式碼來說，`@JoinColumn` 修飾的是 user entity，在沒有指定要以 user 中的哪個屬性作為 column 的狀況下，預設會以目標的 primary key 作為 column，name 代表的則是為這個 column 取名。以下面的例子來說就是 `user_id`
+
+	- 如果參考的對象是 unique key 而非 primary key 的話則需要加上 `referencedColumnNmae = "columnName"`
 
 ```java
 package com.example.demo.model;  
@@ -73,14 +76,6 @@ private List<Product> products = new ArrayList<>();
 
 
 
-
-- [ ] one to one 
-- [ ] many to many
-- [ ] many to one
-- [ ] @CreateDate 
-- [ ] @LastModifiedDate 
-- [ ] @CreateTimeStamp
-- [ ] @LastModifiedTimeStamp
 
 - [ ] mapper 與 rowmapper 差異
 
