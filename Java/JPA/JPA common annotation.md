@@ -82,3 +82,5 @@ private List<Product> products = new ArrayList<>();
 - [ ] @CreateTimeStamp
 - [ ] @LastModifiedTimeStamp
 
+- [ ] mapper 與 rowmapper 差異
+
