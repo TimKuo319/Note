@@ -73,3 +73,12 @@ private List<Product> products = new ArrayList<>();
 
 
 
+
+- [ ] one to one 
+- [ ] many to many
+- [ ] many to one
+- [ ] @CreateDate 
+- [ ] @LastModifiedDate 
+- [ ] @CreateTimeStamp
+- [ ] @LastModifiedTimeStamp
+
