@@ -35,7 +35,8 @@
               "title": "JPA Repository 使用"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,10 +208,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d8f6da440bd090e",
+  "active": "2ccbf2f49d419970",
   "lastOpenFiles": [
-    "Java/JPA/JPA Introduction.md",
     "Java/JPA/JPA 分頁與排序.md",
+    "Java/JPA/JPA Introduction.md",
     "Java/JPA/JPA Repository 使用.md",
     "Java/JPA/Todo.md",
     "Java/JPA/JPA Auditing annotation.md",
