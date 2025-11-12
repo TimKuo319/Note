@@ -42,6 +42,8 @@ public class LoginHandler {
 + `針對不可預期行為拋出例外，交給Exceptoin Handler處理`
 	+ 預設應用程式執行時資料庫連線本身就應該正常，連線失敗 -> 拋出例外
 
+
+- [ ] exception handler 筆記重寫
 ## Reference
 
 [Day 17 - Spring Boot 例外處理 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10275702)
