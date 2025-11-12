@@ -60,8 +60,11 @@
 
 >[!warning]
 >在進行 mapstruct 安裝的時候與 lombok 一樣，只在 `dependencies` 中新增 mapstruct 是不夠的，還需要在下方 configuration 加上 mapstruct 的 annotation processor。讓 spring boot 能夠搭配 proceesor 去處理。
+> 
+>否則可能會遇到 mapper 無法注入到 spring boot IoC 中的問題。
 
->
+
+- [ ] 基礎用法筆記
 
 
 
