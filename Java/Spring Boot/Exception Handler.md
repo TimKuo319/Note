@@ -44,6 +44,9 @@ public class LoginHandler {
 
 
 - [ ] exception handler 筆記重寫
+	- exception handler 的順序有關係嗎
+
+
 ## Reference
 
 [Day 17 - Spring Boot 例外處理 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10275702)

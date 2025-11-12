@@ -1,10 +1,3 @@
-
-`JpaReopsitry<T, ID>`
-
-- `.flush()` 用途
-
-- [ ]  JPA Repository 基本使用方式 
-
 ## What is JPA Repository 
 
 JPA Repository 是 Spring Data JPA 提供的一個**資料存取層（DAO）介面**，它讓你可以用**極少的程式碼**來操作資料庫，不需要自己寫 SQL 或 JPQL。
