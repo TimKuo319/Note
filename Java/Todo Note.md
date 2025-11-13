@@ -58,3 +58,4 @@ path includes {{query.file.folder}}
 - [ ] spring boot static resource location
 	- [Spring Boot(六)：如何配置静态资源的地址与访问路径_spring.web.resources.static-locations-CSDN博客](https://blog.csdn.net/yiifaa/article/details/78299052)
 
+
