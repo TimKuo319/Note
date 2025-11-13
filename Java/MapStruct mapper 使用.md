@@ -66,7 +66,7 @@
 
 - [ ] 基礎用法筆記
 
-- [ ] 遇上有關聯的實體時如何做 mapping
+- [ ] 遇上有關聯的 entity 時如何做 mapping
 
 - [ ] mapper vs rowmapper 
 
