@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Observability/Logs.md",
+                "file": "Java/frequently_used_package/Validation with spring validation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logs"
+              "title": "Validation with spring validation"
             }
           },
           {
@@ -209,8 +209,8 @@
   },
   "active": "4d8f6da440bd090e",
   "lastOpenFiles": [
-    "Observability/Trace.md",
     "Observability/Logs.md",
+    "Observability/Trace.md",
     "Observability/Metrics.md",
     "Database/Todo note.md",
     "Java/frequently_used_package/Validation with spring validation.md",
