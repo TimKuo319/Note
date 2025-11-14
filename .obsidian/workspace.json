@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA/JPA 分頁與排序.md",
+                "file": "Database/Todo note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JPA 分頁與排序"
+              "title": "Todo note"
             }
           },
           {
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -210,11 +209,13 @@
   },
   "active": "4d8f6da440bd090e",
   "lastOpenFiles": [
-    "Java/JPA/JPA Repository 使用.md",
+    "Java/frequently_used_package/Validation with spring validation.md",
+    "Java/frequently_used_package/常用 json 相關註解.md",
+    "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "Java/JPA/JPA 分頁與排序.md",
+    "Java/JPA/JPA Repository 使用.md",
     "Java/Todo Note.md",
     "Java/JPA/Todo.md",
-    "Java/frequently_used_package/常用 json 相關註解.md",
     "Java/JPA/設定常見參數.md",
     "Java/JPA/JPA 搭配 enum type 做使用.md",
     "Java/MapStruct mapper 使用.md",
@@ -227,7 +228,6 @@
     "Java/JPA/Table name 或 Column name 與 SQL identifier 重複時解決方案.md",
     "Java/JPA/Relation in JPA.md",
     "Java/JPA/JPA Table annotation.md",
-    "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "Java/JPA/JPA Introduction.md",
     "Java/frequently_used_package/Lombok.md",
     "Frontend/VueJS/Vue Option API vs Composition API.md",
@@ -235,7 +235,6 @@
     "Java/Spring Boot/Exception Handler.md",
     "Java/Spring Batch.md",
     "Java/手動進行 transaction.md",
-    "Java/frequently_used_package/Validation with spring validation.md",
     "Git/git.canvas",
     "Java/JPA/Untitled",
     "SWE/API.canvas",

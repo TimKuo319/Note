@@ -232,6 +232,8 @@ PageRequest.of(int page, int size, Sort.Direction direction, String... propertie
 | `nextPageable()` | `Pageable` | 取得下一頁的 Pageable |
 | `previousPageable()` | `Pageable` | 取得上一頁的 Pageable |
 
+通常會先透過 `PageRequest` 建立 `Pageable`，這個 `Pageable` 物件就是 pagination 的條件，像是第幾頁，page 的大小等等，將這個條件丟到 JPA Repository 的參數後，JPA 就會回傳對應的 `Page<T>` 資料。
+
 ### 3.3 分頁實際範例
 
 #### 範例 1：基本分頁

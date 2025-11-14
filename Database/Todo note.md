@@ -13,8 +13,12 @@ path includes {{query.file.folder}}
 
 
 - [ ] `char` vs `character` vs `character varying` vs `varchar`
+	- varchar 是 character varying 的別名
+	- char 是 character 的別名
 
 - [ ] decimal vs float
+	- decimal 可以指定到精確的精準度，超過的則會忽略
+	- float 是大略的精確度 
 
 
 - [ ] `sequence`、`function`、`trigger` 及其使用方式
