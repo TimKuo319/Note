@@ -68,6 +68,11 @@
 
 - [ ] 遇上有關聯的 entity 時如何做 mapping
 
+```java
+@Mapping(target = "cusId", source = "customer.cusId)
+AccountResponseDto toDto(Account account);
+```
+
 - [ ] mapper vs rowmapper 
 
 
