@@ -77,20 +77,20 @@ tags:
 
 ## 流程圖解
 
-```
+```mermaid
 graph TD
-    A[HTTP Request] --> B[Security Filter Chain (FilterChainProxy)]
+    A[HTTP Request] --> B["Security Filter Chain (FilterChainProxy)"]
     B --> C{UsernamePasswordAuthenticationFilter};
     C -- 擷取用戶名/密碼 --> D[未認證的 Authentication 物件];
     D -- 提交給 --> E[AuthenticationManager];
-    E -- 委派給 --> F[AuthenticationProvider (e.g., DaoAuthenticationProvider)];
+    E -- 委派給 --> F["AuthenticationProvider (e.g., DaoAuthenticationProvider)"];
     F -- 調用 --> G[UserDetailsService];
-    G -- 加載用戶詳情 --> H[UserDetails 物件 (含加密密碼)];
+    G -- 加載用戶詳情 --> H["UserDetails 物件 (含加密密碼)"];
     F -- 密碼比對 (PasswordEncoder) --> I{認證結果?};
     I -- 成功 --> J[已認證的 Authentication 物件];
     J --> K[SecurityContext];
-    K -- 儲存到 --> L[SecurityContextHolder (ThreadLocal)];
-    L --> M[請求繼續處理 (Controller/Resource)];
+    K -- 儲存到 --> L["SecurityContextHolder (ThreadLocal)"];
+    L --> M["請求繼續處理 (Controller/Resource)"];
     I -- 失敗 (AuthenticationException) --> N[ExceptionTranslationFilter];
     N -- 重定向/錯誤頁面 --> P[回應給用戶];
 ```
