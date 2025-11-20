@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Security/Spring Security Note By Gemini.md",
+                "file": "Java/JPA/關聯實體查詢.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Security Note By Gemini"
+              "title": "關聯實體查詢"
             }
           },
           {
@@ -209,8 +209,8 @@
   },
   "active": "4d8f6da440bd090e",
   "lastOpenFiles": [
-    "Java/Security/Spring Security with RBAC.md",
     "Java/Security/Spring Security Note By Gemini.md",
+    "Java/Security/Spring Security with RBAC.md",
     "Java/Security/Spring Security 執行流程圖.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Java/JPA/JPA Repository 使用.md",
