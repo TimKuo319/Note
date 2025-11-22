@@ -12,7 +12,11 @@ tags:
 
 這時就會需要去實作 `UserDetailsService`，從 [[Spring Security Note By Gemini]] 中可以知道 `UserDetailsService` 負責的是取得使用者資料的部分，這個 interface 也只包含一個 function `loadUserByName`，只要在這個 function 中取得權限並轉換成 Security 可以讀取的形式 `GrantedAuthority` 就可以讓 security 判斷該使用者是否有對應的權限。
 
+
+
 ## Code example
+
+### 配置 SecurityFilterChain
 
 ```java
 //SecurityConfig.java
@@ -40,6 +44,7 @@ import java.util.Set;
 import java.util.HashSet;  
   
 @Configuration  
+@EnableWebSecurity
 public class SecurityConfig {  
     @Autowired  
     private UserDetailsService userDetailsService;  
@@ -63,6 +68,8 @@ public class SecurityConfig {
   
 }
 ```
+
+### 實作 UserDetailService 介面
 
 
 ```java
@@ -106,3 +113,28 @@ public class CustomUserDetailsService implements UserDetailsService {
 ```
 
 
+這裡的部分是將取得 Authority 的部分包含在 `loadByUsername` 中一起寫，也可以額外寫另一個 function 來增加可讀性
+
+```java
+private Collection<? extends GrantedAuthority> getAuthorities(User user) {  
+    String role = "ROLE_" + user.getUserType().name();  
+    return Collections.singletonList(new SimpleGrantedAuthority(role));  
+}
+```
+
+###  配置 PasswordEncoder
+
+```java
+@Configuration
+public class PasswordEncoderConfig {
+    
+    @Bean
+    public PasswordEncoder passwordEncoder() {
+        // BCrypt 是目前最推薦的加密方式
+        return new BCryptPasswordEncoder();
+        
+        // 如果需要更高的安全強度
+        // return new BCryptPasswordEncoder(12);  // strength: 4-31，預設10
+    }
+}
+```

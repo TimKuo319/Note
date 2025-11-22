@@ -2,7 +2,7 @@
 ```mermaid
 graph TB
     subgraph Developer[開發者需要撰寫的 Bean]
-        SC[SecurityConfig<br/>@Configuration]
+        SC[SecurityConfig<br/>@Configuration @EnableWebSecurity]
         UDS[CustomUserDetailsService<br/>@Service<br/>implements UserDetailsService]
         PE[PasswordEncoder<br/>@Bean]
         
