@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/frequently_used_package/常用 json 相關註解.md",
+                "file": "NodeJS/TypeScript/class、interface、type 作為型別的選擇.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用 json 相關註解"
+              "title": "class、interface、type 作為型別的選擇"
             }
           }
         ],
@@ -210,6 +210,18 @@
   },
   "active": "2ccbf2f49d419970",
   "lastOpenFiles": [
+    "NodeJS/TypeScript/學習資源.md",
+    "NodeJS/TypeScript/環境設置.md",
+    "NodeJS/TypeScript/介面.md",
+    "NodeJS/TypeScript/任意值, 型別推論, 聯合型別.md",
+    "Angular/核心概念.md",
+    "Frontend/VueJS/Vue SFC.md",
+    "Angular",
+    "Frontend/VueJS/Vue 專案建立.md",
+    "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
+    "Frontend/VueJS/Vue Composition API async.md",
+    "Frontend/VueJS/Vue nextTick.md",
+    "Java/frequently_used_package/常用 json 相關註解.md",
     "Java/JPA/JPA Repository 使用.md",
     "Java/Security/Spring Security Note By Gemini.md",
     "Java/Security/Spring Security with RBAC.md",
@@ -225,18 +237,7 @@
     "Java/JPA/JPA Table annotation.md",
     "Java/JPA/How Spring Data JPA works internally (極簡版).md",
     "SWE/Restful API Naming Convention.md",
-    "Learning/Learning New Programing Language or Framework.md",
     "Learning",
-    "Observability/Logs.md",
-    "Observability/Trace.md",
-    "Observability/Metrics.md",
-    "Database/Todo note.md",
-    "Java/frequently_used_package/常用 json 相關註解.md",
-    "Java/Todo Note.md",
-    "Java/JPA/設定常見參數.md",
-    "Java/JPA/JPA 搭配 enum type 做使用.md",
-    "Java/application.properties 讀取環境變數 (intellij).md",
-    "Java/frequently_used_package/Session management.md",
     "Git/git.canvas",
     "Java/JPA/Untitled",
     "SWE/API.canvas",
@@ -252,7 +253,6 @@
     "image/JVM_rumtime_data_area.png",
     "Java/JVM",
     "Misc/Java",
-    "Misc",
     "image/access_level_modifiers.png",
     "image/envfile.png",
     "image/env.png",
