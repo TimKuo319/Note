@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Directive.md",
+                "file": "Angular/核心概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Directive"
+              "title": "核心概念"
             }
           }
         ],
@@ -210,9 +210,9 @@
   },
   "active": "2ccbf2f49d419970",
   "lastOpenFiles": [
-    "Angular/核心概念.md",
-    "Angular/Directive.md",
     "Angular/App 建立.md",
+    "Angular/Directive.md",
+    "Angular/核心概念.md",
     "Angular/Pipe.md",
     "NodeJS/TypeScript/class、interface、type 作為型別的選擇.md",
     "NodeJS/TypeScript/學習資源.md",
