@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/核心概念.md",
+                "file": "Angular/Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "核心概念"
+              "title": "Todo"
             }
           }
         ],
@@ -210,10 +210,14 @@
   },
   "active": "2ccbf2f49d419970",
   "lastOpenFiles": [
-    "Angular/Directive.md",
+    "Java/Todo Note.md",
+    "Angular/Todo.md",
+    "Angular/Angular 基本配置檔案.md",
     "Angular/Pipe.md",
+    "Angular/Directive.md",
     "Angular/App 建立.md",
     "Angular/核心概念.md",
+    "Frontend/CSS/專案初始化.md",
     "NodeJS/TypeScript/class、interface、type 作為型別的選擇.md",
     "NodeJS/TypeScript/學習資源.md",
     "NodeJS/TypeScript/環境設置.md",
@@ -233,10 +237,6 @@
     "Java/Security/Spring Security 流程撰寫順序.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Java/JPA/關聯實體查詢.md",
-    "Java/JPA/Todo.md",
-    "Java/frequently_used_package/Validation with spring validation.md",
-    "Java/MapStruct mapper 使用.md",
-    "Java/Object mapper.md",
     "Learning",
     "Git/git.canvas",
     "Java/JPA/Untitled",
