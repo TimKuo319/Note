@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Todo.md",
+                "file": "Angular/Angular CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Angular CLI"
             }
           }
         ]
@@ -195,13 +195,15 @@
   },
   "active": "4d8f6da440bd090e",
   "lastOpenFiles": [
-    "Angular/Hook.md",
-    "Angular/Todo.md",
-    "Angular/Pipe.md",
-    "Angular/Directive.md",
+    "Angular/核心概念.md",
+    "Angular/Angular CLI.md",
     "Angular/App 建立.md",
     "Angular/Angular 基本配置檔案.md",
-    "Angular/核心概念.md",
+    "Angular/RxJS.md",
+    "Angular/Todo.md",
+    "Angular/Hook.md",
+    "Angular/Pipe.md",
+    "Angular/Directive.md",
     "Java/Security/Spring Security 執行流程圖.md",
     "Frontend/CSS/CSS Basic.md",
     "Frontend/CSS/Flex vs Grid.md",
@@ -220,8 +222,6 @@
     "Frontend/VueJS/Vue nextTick.md",
     "Java/frequently_used_package/常用 json 相關註解.md",
     "Java/JPA/JPA Repository 使用.md",
-    "Java/Security/Spring Security Note By Gemini.md",
-    "Java/Security/Spring Security with RBAC.md",
     "Learning",
     "Git/git.canvas",
     "Java/JPA/Untitled",
