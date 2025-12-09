@@ -9,8 +9,27 @@
 		- 使用 `takeUntilDestoryed`
 	- 因為 angular 在訂閱關係存在時是不會做 gc 的
 
-
-
 - `complete` vs `unsubscribe`
 	- `complete` 是由 observable 主動發出，當 complete 時，就會自行取消所有訂閱
 	- `unsubscribe` 是由訂閱者發出，發出時解除訂閱關係，但 observable 還可以繼續發送值 
+
+
+### API Call 基本結構
+
+```ts
+this.http.method(url, data).pipe(
+  // Operators（可選）
+  finalize(() => { /* 一定會執行 */ }),
+  takeUntilDestroyed()
+).subscribe({
+  next: (response) => {
+    // 處理成功回應
+  },
+  error: (error: HttpErrorResponse) => {
+    // 處理錯誤
+  },
+  complete: () => {
+    // HTTP 成功時會執行（可選）
+  }
+});
+```
