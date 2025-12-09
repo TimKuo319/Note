@@ -33,3 +33,7 @@ this.http.method(url, data).pipe(
   }
 });
 ```
+
+## Reference
+
+- [from | Learn RxJS](https://www.learnrxjs.io/learn-rxjs/operators/creation/from)
