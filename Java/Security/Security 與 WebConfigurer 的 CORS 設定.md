@@ -46,3 +46,7 @@ public class WebConfig implements WebMvcConfigurer {
 }
 ```
 
+
+## Reference
+
+ - [Spring 里那么多种 CORS 的配置方式，到底有什么区别-CSDN博客](https://blog.csdn.net/cangxuyi2957/article/details/100962341)
