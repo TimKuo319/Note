@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5073e8b301217dfb",
+        "id": "98201dddaf59931a",
         "type": "tabs",
         "children": [
           {
-            "id": "4d8f6da440bd090e",
+            "id": "2f66360829fd78b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,8 +193,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d8f6da440bd090e",
+  "active": "2f66360829fd78b0",
   "lastOpenFiles": [
+    "Java/Spring Boot/Spring Boot Basic.md",
+    "Java/JPA/JPA 分頁與排序.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Angular/RxJS.md",
     "SWE/Swagger 使用.md",
@@ -220,8 +222,6 @@
     "Frontend/VueJS/Vue SFC.md",
     "Angular",
     "Frontend/VueJS/Vue 專案建立.md",
-    "Frontend/VueJS/Vue axios 封裝與 interceptor.md",
-    "Frontend/VueJS/Vue Composition API async.md",
     "Learning",
     "Git/git.canvas",
     "Java/JPA/Untitled",
