@@ -104,6 +104,16 @@ main();
 
 ```
 
+
+## Summary
+
+- 同步操作
+	- 當前事情會 block 住往後的事情，同時最多只能執行一件事情
+- 非同步操作
+	- 同時可以做很多事情，前一件事情不需要等到前一件事情做完才做下一件事情
+	- HTTP 請求就是經典的非同步場景，因為請求不一定能馬上得到回應，所以在請求發出去之後，可以先去做其他事情，等到收到回應後再處理 response．
+		- 雖然
+
 ## Reference
 
 [[JavaScript] 一次搞懂同步與非同步的一切：一次做幾件事情 — 同步(Sync)與非同步(Async) - itsems_frontend - Medium](https://medium.com/itsems-frontend/javascript-sync-async-22e75e1ca1dc)
