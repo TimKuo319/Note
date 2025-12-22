@@ -214,3 +214,4 @@ public class PaymentService {
 - [JPA Specification - EnumType](https://jakarta.ee/specifications/persistence/3.1/jakarta-persistence-spec-3.1.html) 
 - [Hibernate ORM User Guide - Basic Types](https://docs.jboss.org/hibernate/orm/6.0/userguide/html_single/Hibernate_User_Guide.html#basic) 
 - [Spring Data JPA Documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
+- [JPA AttributeConverter：了解怎麼讓 Enum 與資料庫欄位的轉換全自動化 | by MwA | Medium](https://medium.com/@ymwkac/jpa-attributeconverter-%E4%BA%86%E8%A7%A3%E6%80%8E%E9%BA%BC%E8%AE%93-enum-%E8%88%87%E8%B3%87%E6%96%99%E5%BA%AB%E6%AC%84%E4%BD%8D%E7%9A%84%E8%BD%89%E6%8F%9B%E5%85%A8%E8%87%AA%E5%8B%95%E5%8C%96-1d8f6db1a651)

@@ -23,7 +23,6 @@ path includes {{query.file.folder}}
 - [ ] what is object mapper ⏫ 
 
 
-
 - [ ] restemplate ⏫ 
 
 - [ ] `@Transactional` ⏫ 
