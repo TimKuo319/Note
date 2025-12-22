@@ -142,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Message Queue/Kafka/Python producer 腳本建立.md"
+                "file": "SWE/Swagger 使用.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Python producer 腳本建立"
+              "title": "Outline of Swagger 使用"
             }
           },
           {
@@ -173,12 +176,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {

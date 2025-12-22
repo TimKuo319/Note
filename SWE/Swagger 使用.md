@@ -61,8 +61,48 @@ public class OpenApiConfig {
 } 
 ```
 
-## Usage
+## 常見 annotation
 
+- `@Tag`
+	- 用於 controller 層級，替這個 controller 進行一個類似大綱的說明
+
+```java
+@Tag(name = "User Management", description = "使用者管理相關 API")  
+public class UserController {
+	//.....
+}
+```
+- `@Operation`
+	- 針對單一 API 進行的說明，可透過 `summary`、`description` 進行基本的說明
+- `@ApiResponses`
+	- 可以用來說明 API 會回傳的 HTTP Status．
+
+```java
+@Operation(summary = "建立使用者", description = "建立新的使用者帳號")  
+@ApiResponses(value = {  
+        @ApiResponse(  
+                responseCode = "200",  
+                description = "成功建立使用者"  
+        ),  
+        @ApiResponse(  
+                responseCode = "400",  
+                description = "請求參數驗證失敗",  
+                content = @Content(schema = @Schema(implementation = ErrorResponseDto.class))  
+        ),  
+        @ApiResponse(  
+                responseCode = "409",  
+                description = "使用者已存在或資料衝突",  
+                content = @Content(schema = @Schema(implementation = ErrorResponseDto.class))  
+        ),  
+        @ApiResponse(  
+                responseCode = "500",  
+                description = "伺服器內部錯誤",  
+                content = @Content(schema = @Schema(implementation = ErrorResponse.class))  
+        )  
+})
+```
+
+## Advanced Usage
 
 ### 統一錯誤處理
 
@@ -317,3 +357,4 @@ public ResponseEntity<List<UserDto>> getAllUsers() {
 
 - [iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/m/articles/10362925)
 - [【Spring Boot】第13課－使用 Swagger UI 製作 API 文件與呼叫介面 | 吉古拉的程式拾光](https://chikuwacode.github.io/articles/spring-boot-swagger-ui-openapi-documentation/)
+- [Swagger 2.X Annotations · swagger-api/swagger-core Wiki](https://github.com/swagger-api/swagger-core/wiki/Swagger-2.X---Annotations#quick-annotation-overview)
