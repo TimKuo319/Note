@@ -316,4 +316,4 @@ public ResponseEntity<List<UserDto>> getAllUsers() {
 ## Reference
 
 - [iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/m/articles/10362925)
-
+- [【Spring Boot】第13課－使用 Swagger UI 製作 API 文件與呼叫介面 | 吉古拉的程式拾光](https://chikuwacode.github.io/articles/spring-boot-swagger-ui-openapi-documentation/)
