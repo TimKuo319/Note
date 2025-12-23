@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA/JPA 搭配 enum type 及 AttributeConverter 的使用.md",
+                "file": "Angular/Angular Basic/What is RxJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JPA 搭配 enum type 及 AttributeConverter 的使用"
+              "title": "What is RxJS"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JPA/JPA 搭配 enum type 及 AttributeConverter 的使用.md",
+                "file": "Angular/Angular Basic/What is RxJS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JPA 搭配 enum type 及 AttributeConverter 的使用"
+              "title": "Outline of What is RxJS"
             }
           },
           {
@@ -212,6 +212,14 @@
   },
   "active": "3202dbd6463b6270",
   "lastOpenFiles": [
+    "Angular/Angular 基本配置檔案.md",
+    "Angular/Angular CLI.md",
+    "Angular/App 建立.md",
+    "Angular/Angular Basic/發送 HTTP 請求及處理 Response.md",
+    "Angular/Angular Basic/Change on detection.md",
+    "Angular/Angular Basic/What is RxJS.md",
+    "Angular/核心概念.md",
+    "Java/JPA/JPA 搭配 enum type 及 AttributeConverter 的使用.md",
     "Java/手動進行 transaction.md",
     "JPA AttributeConverter 使用.md",
     "Java/application.properties 讀取環境變數 (intellij).md",
@@ -226,18 +234,10 @@
     "Java/MapStruct mapper 使用.md",
     "Java/Multi-datasource in java.md",
     "Java/Object mapper.md",
-    "Java/JPA/JPA 搭配 enum type 及 AttributeConverter 的使用.md",
     "Java/Spring Batch.md",
     "Java/Todo Note.md",
     "Java/What is Servelet.md",
     "SWE/Swagger 使用.md",
-    "Frontend/JavaScript/Sync vs Async.md",
-    "Angular/核心概念.md",
-    "Angular/Angular CLI.md",
-    "Angular/App 建立.md",
-    "Angular/RxJS 用法.md",
-    "Angular/Todo.md",
-    "Frontend/SideEffect.md",
     "Angular/Angular Basic",
     "Angular",
     "Learning",
