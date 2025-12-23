@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "98201dddaf59931a",
+        "id": "5c42e8480d3977c8",
         "type": "tabs",
         "children": [
           {
-            "id": "2f66360829fd78b0",
+            "id": "74cb42097e0e6f41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/MapStruct mapper 使用.md",
+                "file": "Java/Spring Boot/Spring event.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MapStruct mapper 使用"
-            }
-          },
-          {
-            "id": "3202dbd6463b6270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/MapStruct mapper 使用.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MapStruct mapper 使用"
+              "title": "Spring event"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -157,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/MapStruct mapper 使用.md",
+                "file": "Java/Spring Boot/Spring event.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MapStruct mapper 使用"
+              "title": "Outline of Spring event"
             }
           },
           {
@@ -212,8 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3202dbd6463b6270",
+  "active": "74cb42097e0e6f41",
   "lastOpenFiles": [
+    "Java/Spring Boot/Spring event.md",
+    "Java/Todo Note.md",
+    "Java/MapStruct mapper 使用.md",
     "Java/JPA/JPA 搭配 enum type 及 AttributeConverter 的使用.md",
     "Angular/Angular Basic/What is RxJS.md",
     "Angular/Angular 基本配置檔案.md",
@@ -233,13 +220,10 @@
     "Java/Java Local 系列時間用法.md",
     "Java/Java Naming Convention.md",
     "Java/Lambda expression.md",
-    "Java/MapStruct mapper 使用.md",
     "Java/Multi-datasource in java.md",
     "Java/Object mapper.md",
     "Java/Spring Batch.md",
-    "Java/Todo Note.md",
     "Java/What is Servelet.md",
-    "SWE/Swagger 使用.md",
     "Angular/Angular Basic",
     "Angular",
     "Learning",
