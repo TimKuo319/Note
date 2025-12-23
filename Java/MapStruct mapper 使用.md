@@ -91,16 +91,59 @@ public interface UserMapper {
 ```
 
 在進行轉換時，如果有遇到不需要進行轉換的欄位，可以透過 `@Mapping` 搭配上 `ignore`，去忽略。在不寫的狀況下沒有 mapping 到的欄位預設不會填入，但如果有加上 annotation 就可以讓 mapping 時哪些欄位被忽略掉更清楚。
+
+>[!info]
+> 在 `@Mapper` 中加入 componentModel = "spring" 的用意是讓生成出來的實作能夠自動被加上 `@Component`，讓 mapper 在使用時可以被依賴注入。如果沒有加上這個參數，去生成出來的實作中查看就會發現上方並沒有掛上 `@Component` 
+
 ### Advanced
 
-遇上有關聯的 entity 時可能會遇到以下的狀況。
+遇上有關聯的 entity 時可能會遇到以下的狀況。`user` entity 在 `transaction` entity 中被參考的欄位是 `id`，但如果要 mapping 到 DTO 欄位中的 `id` 時，就會出現錯誤。
+
 
 ```java
-@Mapping(target = "cusId", source = "customer.cusId)
+@Entity  
+@Table(name = "\"transaction\"")  
+@Data  
+public class Transaction {  
+    @Id  
+    @GeneratedValue(strategy = GenerationType.IDENTITY)  
+    private Long id;  
+  
+    @Column(name = "txnt_seqno", nullable = false, unique = true)  
+    private String txntSeqno;  
+  
+    @Column(name = "txnt_ccy", length = 3, nullable = false)  
+    private String txntCcy;  
+  
+    @Column(length = 8, nullable = false)  
+    private String event;  
+  
+    @Column(name = "status", nullable = false)  
+    private TransactionStatus status;  
+  
+    @ManyToOne  
+    @JoinColumn(name = "user_id", referencedColumnName = "id")  
+    private User user;  
+  
+}
+```
+
+
+因為 `user` 實際上被記錄在 `transaction` 中的是 `user` 的型態，要將他轉換成 Dto 中的寫法就會像以下的方式。
+
+透過 `source` 去指定來源，而來源是*對應 user 的 id* ，藉此來達到關聯實體的 mapping。
+
+```java
+@Mapping(target = "userId", source = "user.id)
 AccountResponseDto toDto(Account account);
 ```
 
+
 - [ ] mapper vs rowmapper 
+
+## Summary
+
+透過 mapper 可以讓我們減少手動撰寫轉換的程式碼，除了降低手動撰寫造成的失誤外，也能夠讓程式碼看起來更加簡潔。mapper 背後使用的是 `annotation processor` 的技巧，可以再深入研究。
 
 ## Reference
 
