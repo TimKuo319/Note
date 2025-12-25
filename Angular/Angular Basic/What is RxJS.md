@@ -67,3 +67,5 @@
 ## Reference
 
 - [Observable and Subjects in Angular | by Jaydeep Patil | Medium](https://medium.com/@jaydeepvpatil225/observables-and-subjects-in-angular-a4d73dfa5bb)
+
+- [Course: Angular - The Complete Guide (2025 Edition) | Udemy](https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/44126630#overview)
