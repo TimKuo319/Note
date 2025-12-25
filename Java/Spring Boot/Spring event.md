@@ -1,6 +1,13 @@
 
+## 核心元件
 
-- [ ] spring event 基礎使用
+- `ApplicationEventPublisher`
+	- 用來發布事件
+- `ApplicationListener`
+	- 用來接收事件，在接受到事件後進行處理
+- `ApplicationEvent`
+	- 事件
+
 
 
 ## Reference
