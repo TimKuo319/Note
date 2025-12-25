@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -198,12 +199,12 @@
   },
   "active": "74cb42097e0e6f41",
   "lastOpenFiles": [
+    "Angular/Angular Basic/RxJS 基礎用法.md",
     "Angular/Angular Basic/What is RxJS.md",
     "Angular/核心概念.md",
     "Angular/Angular 基本配置檔案.md",
     "Angular/Angular CLI.md",
     "Angular/App 建立.md",
-    "Angular/Angular Basic/RxJS 基礎用法.md",
     "Angular/Todo.md",
     "Java/Spring Boot/Spring Event.md",
     "Java/MapStruct mapper 使用.md",
