@@ -20,4 +20,9 @@
 	- https://angular.dev/guide/templates/event-listeners#accessing-the-event-argument
 
 
+
+
 - [ ] http client 的 query parameter、path parameter 使用方式
+
+
+- [ ] service 層除了處理 httpClient 之外，還會做哪些事
