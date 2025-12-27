@@ -6,10 +6,18 @@
 		- [ ] 補充單一元件做法
 
 
-- http client 預設
+- http client 預設回傳 response body 的內容
 - http client 的 method 還具備第二個參數，`observe` 能夠用來觀察不同的情況
 	- `observe`
 		- `response`
 			- 從 next 中會得到的 response 物件，包含 header、status code、body 等
 		- `event`
 			- 在 request - response lifecycle 中接收到任何 event 時就會觸發．
+
+- 可使用 `catchError()` operator 來進行轉換邏輯，提升在  `error()` 中的可讀性
+
+- `$event`
+	- https://angular.dev/guide/templates/event-listeners#accessing-the-event-argument
+
+
+- [ ] http client 的 query parameter、path parameter 使用方式
