@@ -4,7 +4,7 @@
 
 - [ ]  read lock vs write lock
 	- 會 block 住哪些操作
-	- 在不同 isolation level 會有什麼影響
+	- [ ] 在不同 isolation level 會有什麼影響
 	- read lock
 		- read commited 
 			- 直接讀取最新值，造成 non-repeatable read
