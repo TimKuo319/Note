@@ -20,6 +20,9 @@
 	- https://angular.dev/guide/templates/event-listeners#accessing-the-event-argument
 
 
+- optimistic update 
+	- 在前端收到使用者資料時就先針對畫面進行更新，來讓使用者能夠立即得到回饋
+	- 這樣的做法預設是與 backend 的請求會成功，但在錯誤時會導致前端與後端不一致，所以要針對請求的錯誤狀況進行 rollback 處理
 
 
 - [ ] http client 的 query parameter、path parameter 使用方式
