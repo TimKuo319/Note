@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Angular Basic/Change on detection.md",
+                "file": "Angular/Angular Basic/發送 HTTP 請求及處理 Response.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Change on detection"
+              "title": "發送 HTTP 請求及處理 Response"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Angular Basic/Change on detection.md",
+                "file": "Angular/Angular Basic/發送 HTTP 請求及處理 Response.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Change on detection"
+              "title": "Outline of 發送 HTTP 請求及處理 Response"
             }
           },
           {
@@ -198,6 +199,9 @@
   },
   "active": "086bff447d69f6ee",
   "lastOpenFiles": [
+    "Angular/Angular Basic/What is RxJS.md",
+    "Angular/Angular Basic/RxJS 基礎用法.md",
+    "Angular/Angular Basic/Change on detection.md",
     "Angular/Angular Basic/發送 HTTP 請求及處理 Response.md",
     "Angular/核心概念.md",
     "Database/Race condition 與 隔離層級.md",
@@ -206,8 +210,6 @@
     "Database/Concurrency problem.md",
     "Java/JPA/JPA 使用 lock.md",
     "Java/JPA/JPA 搭配 enum type 及 AttributeConverter 的使用.md",
-    "Angular/Angular Basic/RxJS 基礎用法.md",
-    "Angular/Angular Basic/What is RxJS.md",
     "Angular/Angular 基本配置檔案.md",
     "Angular/Angular CLI.md",
     "Angular/App 建立.md",
@@ -216,7 +218,6 @@
     "Java/MapStruct mapper 使用.md",
     "Java/Spring Boot/Spring Boot AOP.md",
     "Java/Todo Note.md",
-    "Angular/Angular Basic/Change on detection.md",
     "Java/手動進行 transaction.md",
     "JPA AttributeConverter 使用.md",
     "Java/application.properties 讀取環境變數 (intellij).md",
