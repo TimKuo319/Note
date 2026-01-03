@@ -396,6 +396,10 @@ CREATE TABLE enrollment (
     UNIQUE (student_id, course_id)  -- 防止重複註冊
 );
 ```
+
+
+>[!info]
+> 在上面的做法中，在有關聯的 entity 兩端都加上 annotation 的做法是雙向關聯，如果只有某一方會需要經常做兩個表之間的查詢，其實只要在一個 entity 加上關聯即可，同樣可以達到增加 foreign key 的效果
 ## Reference
 
 [Demystifying JPA Many-to-Many Relationships: Focus on Owning and Inverse Sides | by Rashid Mammadli | Medium](https://medium.com/@devrashid/demystifying-jpa-many-to-many-relationships-focus-on-owning-and-inverse-sides-54ba0a21af0b)
