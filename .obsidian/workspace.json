@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Angular Basic/Component、Template、Service.md",
+                "file": "Angular/Angular Basic/Change on detection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Component、Template、Service"
+              "title": "Change on detection"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Angular Basic/Component、Template、Service.md",
+                "file": "Angular/Angular Basic/Change on detection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Component、Template、Service"
+              "title": "Outline of Change on detection"
             }
           },
           {
@@ -198,9 +198,9 @@
   },
   "active": "086bff447d69f6ee",
   "lastOpenFiles": [
+    "Angular/Angular Basic/Component、Template、Service.md",
     "Angular/Angular Basic/RxJS 基礎用法.md",
     "Angular/Angular Basic/Signal.md",
-    "Angular/Angular Basic/Component、Template、Service.md",
     "Angular/Angular Basic/Change on detection.md",
     "Angular/Angular Basic/What is RxJS.md",
     "Angular/Angular 基本配置檔案.md",
