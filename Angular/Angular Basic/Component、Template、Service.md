@@ -65,6 +65,13 @@ export class PlacesComponent {
 
 - https://angular.dev/guide/templates/event-listeners#accessing-the-event-argument
 
+## Getter
+
+- [ ] getter
+
+
+
+
 
 ### Attribute vs Propetry
 
