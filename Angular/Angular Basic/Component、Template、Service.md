@@ -70,6 +70,32 @@ export class PlacesComponent {
 - [ ] getter
 
 
+## !?
+
+
+- ! - 宣告時代表該變數必定不為空值或是 null
+- ? - 代表是可選的變數
+
+```ts
+
+//宣告一必定不為空的變數
+
+name!:string;
+
+//在 function 中作為可選變數
+
+function func(name?:string) {
+	//....
+}
+
+```
+
+
+## @Input vs input() 
+
+
+## @Output vs output()
+
 
 
 
