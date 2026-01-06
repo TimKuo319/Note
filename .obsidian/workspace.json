@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Angular Basic/Change on detection.md",
+                "file": "Obsidian/設定 full-width.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Change on detection"
+              "title": "設定 full-width"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Angular Basic/Change on detection.md",
+                "file": "Obsidian/設定 full-width.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Change on detection"
+              "title": "Outline of 設定 full-width"
             }
           },
           {
@@ -198,10 +198,11 @@
   },
   "active": "086bff447d69f6ee",
   "lastOpenFiles": [
+    "Angular/Angular Basic/Change on detection.md",
+    "Obsidian/設定 full-width.md",
     "Angular/Angular Basic/Component、Template、Service.md",
     "Angular/Angular Basic/RxJS 基礎用法.md",
     "Angular/Angular Basic/Signal.md",
-    "Angular/Angular Basic/Change on detection.md",
     "Angular/Angular Basic/What is RxJS.md",
     "Angular/Angular 基本配置檔案.md",
     "SWE/Swagger 使用.md",
@@ -223,7 +224,6 @@
     "Database/Race condition 與 隔離層級.md",
     "Database/Lock/樂觀鎖與悲觀鎖簡介.md",
     "Database/Lock.md",
-    "Database/Concurrency problem.md",
     "Angular/Angular Basic",
     "Angular",
     "Learning",
