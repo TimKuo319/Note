@@ -75,7 +75,7 @@ public class UserController {
 - `@Operation`
 	- 針對單一 API 進行的說明，可透過 `summary`、`description` 進行基本的說明
 - `@ApiResponses`
-	- 可以用來說明 API 會回傳的 HTTP Status．
+	- 可以用來說明 API 會回傳的 HTTP Status。預設只會使用成功的 response，如需要顯示錯誤的 response 則需像下方一樣透過 `@ApiResponse` 去新增及指定錯誤回應．
 
 ```java
 @Operation(summary = "建立使用者", description = "建立新的使用者帳號")  
@@ -134,7 +134,8 @@ import java.lang.annotation.Target;
  * @StandardGetResponses  
  * @GetMapping("/{id}")  
  * public ResponseEntity<UserDto> getUserById(@PathVariable Long id) {  
- *     // ... * } */public class SwaggerResponseConfig {  
+ *     // ... * } */
+   public class SwaggerResponseConfig {  
   
     /**  
      * CRUD 查詢操作的標準回應（包含 200, 401, 404, 500）  
