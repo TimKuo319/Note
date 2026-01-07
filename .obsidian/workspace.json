@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/設定 full-width.md",
+                "file": "Java/JPA/JPA 分頁與排序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "設定 full-width"
+              "title": "JPA 分頁與排序"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/設定 full-width.md",
+                "file": "Java/JPA/JPA 分頁與排序.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 設定 full-width"
+              "title": "Outline of JPA 分頁與排序"
             }
           },
           {
@@ -198,8 +198,8 @@
   },
   "active": "086bff447d69f6ee",
   "lastOpenFiles": [
-    "Angular/Angular Basic/Change on detection.md",
     "Obsidian/設定 full-width.md",
+    "Angular/Angular Basic/Change on detection.md",
     "Angular/Angular Basic/Component、Template、Service.md",
     "Angular/Angular Basic/RxJS 基礎用法.md",
     "Angular/Angular Basic/Signal.md",
