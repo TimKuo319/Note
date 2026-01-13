@@ -53,11 +53,19 @@ public class OrderService {
 
 #### 1. propagation
 
-定義 transaction method 之間如何互相影響
+>交易傳播行為定義了當一個**已經有交易的方法**，去呼叫**另一個也有交易的方法**時，交易應該如何運作。
 
-以預設的傳播機制來說，若是當前存在 transaction，則加入該 transaction，否則創建新的 transaction。
-
-
+- `REQUIRED`
+	-  **場景**：`Service A` 的 `methodA()` 呼叫 `Service B` 的 `methodB()`，兩者都有 `@Transactional(propagation = Propagation.REQUIRED)`。
+	- **結果**：`methodB()` 會加入 `methodA()` 建立的交易中。它們是**生命共同體**，只要任何一方失敗，整個交易（包含 A 和 B 的操作）都會一起回滾 (Rollback)。
+- `REQUIRES_NEW`
+	- **場景**：`Service A` 的 `methodA()` 呼叫 `Service B` 的 `methodB()`，`methodB()` 設定了 `@Transactional(propagation = Propagation.REQUIRES_NEW)`。
+	- **結果**：當執行到 `methodB()` 時，`methodA()` 的交易會被暫停。Spring 會為 `methodB()` 開啟一個全新的交易。
+	    - 如果 `methodB()` 成功，它的交易會獨立提交。
+	    - 如果 `methodB()` 失敗，只有 `methodB()` 的交易會回滾 (Rollback)。`methodA()` 的交易不受影響（除非 `methodA()` 沒有處理 `methodB()` 拋出的例外，導致自己也失敗）。
+	    - `methodB()` 結束後，`methodA()` 被掛起的交易會恢復執行。
+- `REQUIRES_NESTED`
+	- 作為巢狀的的 transaction，當自身拋出 exception 時會進行 rollback，但不會影響到外部的 transaction。
 
 ```java
 @Service
@@ -124,6 +132,40 @@ public class ReportService {
 ```
 
 
+## 注意事項
+
+### 1. 自調用 (Self-invocation) 陷阱
+
+Spring 的事務是透過 **AOP Proxy** 實現的。如果你在同一個類別中，方法 A 調用方法 B，B 的 `@Transactional` 會**直接失效**。
+
+```java
+@Service
+public class MyService {
+    public void methodA() {
+        methodB(); // 這裡調用不會觸發事務，因為沒經過代理對象
+    }
+
+    @Transactional(propagation = Propagation.REQUIRES_NEW)
+    public void methodB() { ... }
+}
+```
+
+**解法：** 將 `methodB` 移到另一個 Service，或透過 `ApplicationContext` 取得代理對象再調用。
+
+### 2. Checked Exception 不會回滾
+
+預設情況下，Spring 只會針對 `RuntimeException` 和 `Error` 進行回滾。如果你拋出的是 `Exception` (Checked Exception)，你需要透過 `rollback` 顯式指定針對特定 exception 進行 rollback：
+
+
+```java
+@Transactional(rollbackFor = Exception.class)
+```
+
+## 進階議題
+
+- [ ] 多個 microservice 之間的一致性
+
 ## Reference
 
 - [Spring Boot 中的 @Transactional：輕鬆駕馭資料庫交易 | Cash Wu Geek](https://blog.cashwu.com/blog/2024/spring-boot-transactional-usage-and-best-practices)
+- [iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/m/articles/10378934)
