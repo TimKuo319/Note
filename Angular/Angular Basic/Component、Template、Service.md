@@ -76,7 +76,7 @@ export class TasksComponent {
 
 ```ts
 <main>
-  jj//....
+  //....
   <app-tasks [name]="selectedUserName"></app-tasks>
 </main>
 
