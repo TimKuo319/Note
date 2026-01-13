@@ -27,7 +27,6 @@
 
 - [ ] getter
 
-
 ## !?
 
 
@@ -176,9 +175,55 @@ export class PlacesComponent {
 - https://angular.dev/guide/templates/event-listeners#accessing-the-event-argument
 
 
-## Type Aliase && Interface
+## Type Alias && Interface
 
 
 ### Attribute vs Propetry
 
 [HTML attributes vs DOM properties - JakeArchibald.com](https://jakearchibald.com/2024/attributes-vs-properties/)
+
+
+## 檔案分類
+
+通常會將自定義的 object 以 `xxx.model.ts` 的方式放到額外的檔案中進行分類
+
+```ts
+//task.model.ts
+export interface task {
+  id: string;
+  userId: string;
+  title: string;
+  summary: string;
+  dueDate: string;
+}
+```
+
+
+並在要使用的 component 中引入。
+而這時如果很明確引入的會是一個型別，可以在前方加上 `type` 增加可讀性
+```ts
+import { type task } from './task.model'
+```
+
+## CSS 動態綁定
+
+當想要針對特定的元素進行動態時，可以透過 style binding 的方式
+
+以下面方式來說，有一個 `.active` 的 css 檔案，如果希望能夠在特定條件下使用它時，就可以透過 `[class.yourclassname]` 的方式動態綁定 css，後面會接上一個 boolean 變數，當他會 `true` 時就會套用該樣式，反之則不會套用。
+
+```css
+.active {
+  background-color: #9965dd;
+  color: #150722;
+}
+```
+
+```ts
+<!-- app.component.html -->
+<div [class.active]="isActive">
+  This div's class depends on the 'isActive' property.
+</div>
+
+```
+
+[Angular - Class and style binding](https://v17.angular.io/guide/class-binding#binding-to-a-single-css-class)
