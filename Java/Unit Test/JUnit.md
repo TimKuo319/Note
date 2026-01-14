@@ -11,7 +11,7 @@
 + `@AfterEach`
 	+ 在每一個 Testcase 執行完後執行一次
 	
-+ `@AfterAll`
+-  `@AfterAll`
 	+ 需為 **static method**
 	+ 在所有 Testcase 執行完後執行一次
 
