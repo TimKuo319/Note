@@ -82,9 +82,9 @@ String value = nullableOptional.orElseThrow(() -> new IllegalArgumentExcepti
 ```
 
 
-- [ ] JPA 回傳值為什麼能夠使用 optional？所有的套件都能夠這樣使用嗎
+## Summary
 
-- [ ] optional 物件的宣告或使用時機？
+>**核心原則**：Optional 是為了**方法返回值**設計的，用來明確表達「這個方法可能返回空值」。把它當作避免 NPE 的工具，而不是 null 的完全替代品。
 
 ## Reference
 
