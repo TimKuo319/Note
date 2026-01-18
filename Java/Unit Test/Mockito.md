@@ -8,10 +8,11 @@
 	- SpyBean 產生出的是半真半假的 bean，只有被替換過的 method 會是自定義的其他都與原先的 bean 相同。
 
 
+### @Mock vs @MockBean
 
-	- `@Mock` 模擬出一個完全獨立的假物件
-	- `@MockBean` 模擬出一個假的物件用於抽換 IoC container 中的內容
-		- 實際場景 -> 當進行整合測試時，如果 service 實際上依賴了其他物件，這時如果透過 `@Autowired` 注入 service，其中被依賴的物件也會被丟到 IoC container 中，如果想要抽換這些 bean，就可以透過 `@MockBean` 來抽換
+- `@Mock` 模擬出一個完全獨立的假物件
+- `@MockBean` 模擬出一個假的物件用於抽換 IoC container 中的內容
+	- 實際場景 -> 當進行整合測試時，如果 service 實際上依賴了其他物件，這時如果透過 `@Autowired` 注入 service，其中被依賴的物件也會被丟到 IoC container 中，如果想要抽換這些 bean，就可以透過 `@MockBean` 來抽換
 
 ```java
 
