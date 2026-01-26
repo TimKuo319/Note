@@ -98,3 +98,6 @@ graph TD
 ## Reference
 
 - [Understanding Spring Security Authentication Flow | by Ayush Singh | Medium](https://medium.com/@aprayush20/understanding-spring-security-authentication-flow-f9bb545bd77)
+
+
+- [Servlet Authentication Architecture :: Spring Security](https://docs.spring.io/spring-security/reference/servlet/authentication/architecture.html)

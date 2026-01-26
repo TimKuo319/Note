@@ -1,4 +1,14 @@
 
+
+- 最精簡的使用是自行定義 `filterChain`、`userDetailService`、`PasswordEncoder`後，剩下的像是 `AuthenticationProviderManager`、`AuthenticationProvider` 等都會交由 spring security 進行自動配置。
+
+	- 可以參考 Spring Security Source code `InitializeUserDetailsBeanManagerConfigurer`
+
+
+- 但對於需要自己指定 Provider 或定義 Provider 處理的方式就還是會需要自行定義 Provider Bean
+
+
+
 ```mermaid
 graph TB
     subgraph Developer[開發者需要撰寫的 Bean]
