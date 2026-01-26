@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Claude/Claude Code 基本檔案結構.md",
+                "file": "Java/Security/Spring Security Note By Gemini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Code 基本檔案結構"
+              "title": "Spring Security Note By Gemini"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -199,9 +198,13 @@
   },
   "active": "cb2b3e4c7325ae85",
   "lastOpenFiles": [
+    "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
+    "Java/Security/Spring Security 流程撰寫順序.md",
+    "Java/Security/Spring Security Note By Gemini.md",
+    "Java/Security/Spring Security 執行流程圖.md",
+    "AI/Claude/Claude Code 基本檔案結構.md",
     "Java/JPA/@Prepersist 與 @PreUpdate.md",
     "AI/Github Copilot/Copilot 基本檔案結構.md",
-    "AI/Claude/Claude Code 基本檔案結構.md",
     "AI/What is Model Context Protocol (MCP).md",
     "AI/Github Copilot",
     "AI/Claude",
@@ -225,10 +228,6 @@
     "Testing/Unit Test/Test Double.md",
     "Testing/Unit Test/Untitled.md",
     "Testing/Unit Test/Unit Test 簡介.md",
-    "Java/Unit Test/JUnit.md",
-    "Java/Java Exception.md",
-    "Java/手動進行 transaction.md",
-    "Java/Multi-datasource in java.md",
     "Container/Docker/docker.canvas",
     "Angular/Angular Basic",
     "Angular",
