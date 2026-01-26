@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -198,8 +199,14 @@
   },
   "active": "cb2b3e4c7325ae85",
   "lastOpenFiles": [
-    "Java/JPA/@Transactional 註解.md",
+    "AI/Github Copilot/Copilot 基本檔案結構.md",
+    "AI/Claude/Claude Code 基本檔案結構.md",
+    "AI/What is Model Context Protocol (MCP).md",
+    "AI/Github Copilot",
+    "AI/Claude",
+    "Untitled",
     "Java/JPA/@Prepersist 與 @PreUpdate.md",
+    "Java/JPA/@Transactional 註解.md",
     "SWE/Modular Monolith.md",
     "Learning/Learning New Programing Language or Framework.md",
     "SWE/Event Storming.md",
@@ -222,9 +229,6 @@
     "Java/Java Exception.md",
     "Java/手動進行 transaction.md",
     "Java/Multi-datasource in java.md",
-    "Java/MapStruct mapper 使用.md",
-    "Java/Lambda expression.md",
-    "Java/Java Naming Convention.md",
     "Container/Docker/docker.canvas",
     "Angular/Angular Basic",
     "Angular",
@@ -235,12 +239,9 @@
     "Pasted image 20250715152313.png",
     "Java/Unit Test",
     "Database/PostgreSQL",
-    "NodeJS/TypeScript",
     "Untitled.canvas",
-    "AI",
     "image/JVM_runtime_data_area.png",
     "image/JVM_rumtime_data_area.png",
-    "Java/JVM",
     "image/access_level_modifiers.png",
     "image/envfile.png",
     "image/env.png",
