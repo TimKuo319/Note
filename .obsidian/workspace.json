@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA/@Modifying.md",
+                "file": "Reading/單體式系統到微服務 - 閱讀摘要.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Modifying"
+              "title": "單體式系統到微服務 - 閱讀摘要"
             }
           }
         ]
@@ -198,8 +198,10 @@
   },
   "active": "cb2b3e4c7325ae85",
   "lastOpenFiles": [
-    "Java/JPA/@Prepersist 與 @PreUpdate.md",
     "Java/JPA/@Modifying.md",
+    "Reading/單體式系統到微服務 - 閱讀摘要.md",
+    "Reading",
+    "Java/JPA/@Prepersist 與 @PreUpdate.md",
     "Java/Security/Spring Security 流程撰寫順序.md",
     "Java/Security/Spring Security 執行流程圖.md",
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
@@ -210,7 +212,6 @@
     "AI/What is Model Context Protocol (MCP).md",
     "AI/Github Copilot",
     "AI/Claude",
-    "Untitled",
     "Java/JPA/@Transactional 註解.md",
     "SWE/Modular Monolith.md",
     "Learning/Learning New Programing Language or Framework.md",
@@ -227,7 +228,6 @@
     "Git/新增與刪除遠端 repo.md",
     "Git/指定追蹤遠端分支.md",
     "Git/在遠端新增git分支.md",
-    "Testing/Unit Test/Test Double.md",
     "Container/Docker/docker.canvas",
     "Angular/Angular Basic",
     "Angular",
