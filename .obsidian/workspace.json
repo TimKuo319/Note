@@ -11,14 +11,17 @@
             "id": "cb2b3e4c7325ae85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "AI/Claude/Claude Code 基本檔案結構.md",
-                "mode": "source",
-                "source": false
+                "file": "Container/Docker/docker.canvas",
+                "viewState": {
+                  "x": -1289.446033752079,
+                  "y": -663.1075060160531,
+                  "zoom": -0.7235405144301943
+                }
               },
-              "icon": "lucide-file",
-              "title": "Claude Code 基本檔案結構"
+              "icon": "lucide-layout-dashboard",
+              "title": "docker"
             }
           }
         ]
@@ -79,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -198,6 +202,7 @@
   },
   "active": "cb2b3e4c7325ae85",
   "lastOpenFiles": [
+    "AI/Claude/Claude Code 基本檔案結構.md",
     "Testing/Unit Test/Test Double.md",
     "Java/Unit Test/Interface 對於 Unit Test 的好處.md",
     "Java/Unit Test/MVC 三層的 Unit Test.md",
@@ -213,7 +218,6 @@
     "Java/Security/Security 與 WebConfigurer 的 CORS 設定.md",
     "Java/Security/Spring Security Note By Gemini.md",
     "Java/Security/Spring Security with RBAC.md",
-    "AI/Claude/Claude Code 基本檔案結構.md",
     "AI/Github Copilot/Copilot 基本檔案結構.md",
     "AI/What is Model Context Protocol (MCP).md",
     "AI/Github Copilot",
