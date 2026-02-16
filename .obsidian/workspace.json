@@ -23,8 +23,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "docker"
             }
+          },
+          {
+            "id": "ba42d32965e67829",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +213,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb2b3e4c7325ae85",
+  "active": "ba42d32965e67829",
   "lastOpenFiles": [
     "AI/Claude/Claude Code 基本檔案結構.md",
     "Testing/Unit Test/Test Double.md",
