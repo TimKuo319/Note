@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2aaa11f20099b22b",
+        "id": "98577938b1911361",
         "type": "tabs",
         "children": [
           {
-            "id": "cb2b3e4c7325ae85",
+            "id": "a186cce1a4a719d6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Container/Docker/docker.canvas",
-                "viewState": {
-                  "x": -1289.446033752079,
-                  "y": -663.1075060160531,
-                  "zoom": -0.7235405144301943
-                }
+                "file": "Reading/單體式系統到微服務 - 閱讀摘要.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "docker"
-            }
-          },
-          {
-            "id": "ba42d32965e67829",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "單體式系統到微服務 - 閱讀摘要"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273,
-    "collapsed": true
+    "width": 244.50390243530273
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -213,8 +196,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba42d32965e67829",
+  "active": "a186cce1a4a719d6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-02-16 11.56.49.excalidraw.md",
+    "Reading/單體式系統到微服務 - 閱讀摘要.md",
+    "Observability/Trace.md",
+    "Observability/Metrics.md",
+    "Observability/Logs.md",
+    "Container/Docker/docker.canvas",
     "AI/Claude/Claude Code 基本檔案結構.md",
     "Testing/Unit Test/Test Double.md",
     "Java/Unit Test/Interface 對於 Unit Test 的好處.md",
@@ -222,7 +211,6 @@
     "Java/Unit Test/Mockito.md",
     "Java/Unit Test/JUnit.md",
     "Java/BigDecimal.md",
-    "Reading/單體式系統到微服務 - 閱讀摘要.md",
     "Java/JPA/@Modifying.md",
     "Reading",
     "Java/JPA/@Prepersist 與 @PreUpdate.md",
@@ -241,11 +229,6 @@
     "SWE/Event Storming.md",
     "SWE/API.canvas",
     "AWS/AWS Practitioner/2. Cloud Computing.md",
-    "Java/Java Basic/Java Basic.md",
-    "Java/Java Basic/Java Optional.md",
-    "Java/Java Basic/Java Supplier.md",
-    "Git/clone所有分支.md",
-    "Container/Docker/docker.canvas",
     "Angular/Angular Basic",
     "Angular",
     "Learning",
