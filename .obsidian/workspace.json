@@ -11,14 +11,12 @@
             "id": "a186cce1a4a719d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Reading/單體式系統到微服務 - 閱讀摘要.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-02-16 11.56.49.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "單體式系統到微服務 - 閱讀摘要"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-16 11.56.49.excalidraw"
             }
           }
         ]
@@ -198,8 +196,8 @@
   },
   "active": "a186cce1a4a719d6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-02-16 11.56.49.excalidraw.md",
     "Reading/單體式系統到微服務 - 閱讀摘要.md",
+    "Excalidraw/Drawing 2026-02-16 11.56.49.excalidraw.md",
     "Observability/Trace.md",
     "Observability/Metrics.md",
     "Observability/Logs.md",
