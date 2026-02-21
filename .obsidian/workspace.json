@@ -6,6 +6,7 @@
       {
         "id": "98577938b1911361",
         "type": "tabs",
+        "dimension": 58.85167464114832,
         "children": [
           {
             "id": "a186cce1a4a719d6",
@@ -17,6 +18,27 @@
               },
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-02-16 11.56.49.excalidraw"
+            }
+          }
+        ]
+      },
+      {
+        "id": "33f55c1f0beb84b6",
+        "type": "tabs",
+        "dimension": 41.14832535885167,
+        "children": [
+          {
+            "id": "56038143cbb42292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading/單體式系統到微服務 - 閱讀摘要.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "單體式系統到微服務 - 閱讀摘要"
             }
           }
         ]
@@ -77,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50390243530273
+    "width": 244.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "499b88f4d782a22f",
@@ -194,10 +217,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb69f150d6846a76",
+  "active": "a186cce1a4a719d6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-02-16 11.56.49.excalidraw.md",
     "Reading/單體式系統到微服務 - 閱讀摘要.md",
+    "Excalidraw/Drawing 2026-02-16 11.56.49.excalidraw.md",
     "Observability/Trace.md",
     "Observability/Metrics.md",
     "Observability/Logs.md",
